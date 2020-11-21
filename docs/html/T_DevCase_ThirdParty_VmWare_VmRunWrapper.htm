@@ -1,0 +1,247 @@
+﻿<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" />
+    <script type="text/javascript" src="../scripts/branding.js"> </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>VmRunWrapper Class</title>
+    <meta name="Language" content="en-us" />
+    <meta name="System.Keywords" content="VmRunWrapper class" />
+    <meta name="System.Keywords" content="DevCase.ThirdParty.VmWare.VmRunWrapper class" />
+    <meta name="Microsoft.Help.F1" content="DevCase.ThirdParty.VmWare.VmRunWrapper" />
+    <meta name="Microsoft.Help.Id" content="T:DevCase.ThirdParty.VmWare.VmRunWrapper" />
+    <meta name="Description" content="A wrapper of VmWare's vmrun.exe application." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="BrandingAware" content="true" />
+    
+    <meta name="container" content="DevCase.ThirdParty.VmWare" />
+    <meta name="file" content="T_DevCase_ThirdParty_VmWare_VmRunWrapper" />
+    <meta name="guid" content="T_DevCase_ThirdParty_VmWare_VmRunWrapper" />
+    
+    <link type="text/css" rel="stylesheet" href="../styles/highlight.css" />
+    <script type="text/javascript" src="../scripts/highlight.js"> </script>
+    <link rel="stylesheet" type="text/css" href="../styles/branding-Website.css" />
+    <script type="text/javascript" src="../scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="../scripts/branding-Website.js"></script>
+    <script type="text/javascript" src="../scripts/clipboard.min.js"></script>
+  </head>
+  <body onload="OnLoad('cs')">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <div class="pageHeader" id="PageHeader">DevCase Class Library v3.3<form id="SearchForm" method="get" action="#" onsubmit="javascript:TransferToSearchPage(); return false;"><input id="SearchTextBox" type="text" maxlength="200" /><button id="SearchButton" type="submit"></button></form></div>
+    <div class="pageBody">
+      <div class="leftNav" id="leftNav"><div id="tocNav"><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="DevCase Class Library v3.3" tocid="roottoc">DevCase Class Library v3.3</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="Namespaces" tocid="R_Project_DevCase_Class_Library_v3_3">Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_ThirdParty.htm" title="DevCase.ThirdParty Namespaces" tocid="G_DevCase_ThirdParty">DevCase.ThirdParty Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_ThirdParty_VmWare.htm" title="DevCase.ThirdParty.VmWare Namespaces" tocid="G_DevCase_ThirdParty_VmWare">DevCase.ThirdParty.VmWare Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/N_DevCase_ThirdParty_VmWare.htm" title="DevCase.ThirdParty.VmWare" tocid="N_DevCase_ThirdParty_VmWare">DevCase.ThirdParty.VmWare</a></div><div class="toclevel1 current" data-toclevel="1" data-childrenloaded="true"><a class="tocExpanded" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/T_DevCase_ThirdParty_VmWare_VmRunWrapper.htm" title="VmRunWrapper Class" tocid="T_DevCase_ThirdParty_VmWare_VmRunWrapper">VmRunWrapper Class</a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_ThirdParty_VmWare_VmRunWrapper__ctor.htm" title="VmRunWrapper Constructor " tocid="M_DevCase_ThirdParty_VmWare_VmRunWrapper__ctor">VmRunWrapper Constructor </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Properties_T_DevCase_ThirdParty_VmWare_VmRunWrapper.htm" title="VmRunWrapper Properties" tocid="Properties_T_DevCase_ThirdParty_VmWare_VmRunWrapper">VmRunWrapper Properties</a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Methods_T_DevCase_ThirdParty_VmWare_VmRunWrapper.htm" title="VmRunWrapper Methods" tocid="Methods_T_DevCase_ThirdParty_VmWare_VmRunWrapper">VmRunWrapper Methods</a></div></div><div id="tocResizableEW" onmousedown="OnMouseDown(event);"></div><div id="TocResize" class="tocResize"><img id="ResizeImageIncrease" src="../icons/TocOpen.gif" onclick="OnIncreaseToc()" alt="Click or drag to resize" title="Click or drag to resize" /><img id="ResizeImageReset" src="../icons/TocClose.gif" style="display:none" onclick="OnResetToc()" alt="Click or drag to resize" title="Click or drag to resize" /></div></div><div class="topicContent" id="TopicContent">
+        <table class="titleTable">
+          <tr>
+            <td class="titleColumn">
+              <h1>VmRunWrapper Class</h1>
+            </td>
+          </tr>
+        </table>
+        <span class="introStyle"></span> <div class="summary">
+ A wrapper of VmWare's vmrun.exe application.
+ </div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID0RB')" onkeypress="SectionExpandCollapse_CheckKey('ID0RB', event)" tabindex="0"><img id="ID0RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Inheritance Hierarchy</span></div><div id="ID0RBSection" class="collapsibleSection"><span class="nolink">System<span id="LSTE6D05585_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_0?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Object</span><br />  <a href="T_DevCase_Core_Design_AestheticObject.htm">DevCase.Core.Design<span id="LSTE6D05585_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_1?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>AestheticObject</a><br />    <span class="selflink">DevCase.ThirdParty.VmWare<span id="LSTE6D05585_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_2?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>VmRunWrapper</span><br /></div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_DevCase_ThirdParty_VmWare.htm">DevCase.ThirdParty.VmWare</a><br />
+    <strong>Assembly:</strong>
+   DevCase.ThirdParty (in DevCase.ThirdParty.dll) Version: 3.3.0.0 (3.3)<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Syntax</span></div><div id="ID2RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EECA_tab1" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','cs','1','4');return false;">C#</a></div><div id="ID1EECA_tab2" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','vb','2','4');return false;">VB</a></div><div id="ID1EECA_tab3" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','cpp','3','4');return false;">C++</a></div><div id="ID1EECA_tab4" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','fs','4','4');return false;">F#</a></div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EECA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EECA');return false;" title="Copy">Copy</a></div></div><div id="ID1EECA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">public</span> <span class="keyword">sealed</span> <span class="keyword">class</span> <span class="identifier">VmRunWrapper</span> : <span class="identifier">AestheticObject</span>, 
+	<span class="identifier">IDisposable</span></pre></div><div id="ID1EECA_code_Div2" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">Public</span> <span class="keyword">NotInheritable</span> <span class="keyword">Class</span> <span class="identifier">VmRunWrapper</span>
+	<span class="keyword">Inherits</span> <span class="identifier">AestheticObject</span>
+	<span class="keyword">Implements</span> <span class="identifier">IDisposable</span>
+
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">VmRunWrapper</span></pre></div><div id="ID1EECA_code_Div3" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">VmRunWrapper</span> <span class="keyword">sealed</span> : <span class="keyword">public</span> <span class="identifier">AestheticObject</span>, 
+	<span class="identifier">IDisposable</span></pre></div><div id="ID1EECA_code_Div4" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">[&lt;<span class="identifier">SealedAttribute</span>&gt;]
+<span class="keyword">type</span> <span class="identifier">VmRunWrapper</span> =  
+    <span class="keyword">class</span>
+        <span class="keyword">inherit</span> <span class="identifier">AestheticObject</span>
+        <span class="keyword">interface</span> <span class="identifier">IDisposable</span>
+    <span class="keyword">end</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EECA");</script></div><p>The <span class="selflink">VmRunWrapper</span> type exposes the following members.</p><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Constructors</span></div><div id="ID3RBSection" class="collapsibleSection"><table class="members" id="constructorList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper__ctor.htm">VmRunWrapper</a></td><td><div class="summary">
+ Initializes a new instance of the <span class="selflink">VmRunWrapper</span> class.
+ </div></td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID4RB')" onkeypress="SectionExpandCollapse_CheckKey('ID4RB', event)" tabindex="0"><img id="ID4RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Properties</span></div><div id="ID4RBSection" class="collapsibleSection"><table class="members" id="propertyList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubproperty.gif" alt="Public property" title="Public property" /></td><td><a href="P_DevCase_ThirdParty_VmWare_VmRunWrapper_Exists.htm">Exists</a></td><td><div class="summary">
+ Gets a value indicating whether the <span class="code">VmRun.exe</span> file Exists.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubproperty.gif" alt="Public property" title="Public property" /></td><td><a href="P_DevCase_ThirdParty_VmWare_VmRunWrapper_FilePath.htm">FilePath</a></td><td><div class="summary">
+ Gets the <span class="code">VmRun.exe</span> file path.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubproperty.gif" alt="Public property" title="Public property" /></td><td><a href="P_DevCase_ThirdParty_VmWare_VmRunWrapper_Process.htm">Process</a></td><td><div class="summary">
+ Gets the <span class="code">VmRun.exe</span><span class="nolink">Process</span> instance.
+ </div></td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID5RB')" onkeypress="SectionExpandCollapse_CheckKey('ID5RB', event)" tabindex="0"><img id="ID5RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Methods</span></div><div id="ID5RBSection" class="collapsibleSection"><table class="members" id="methodList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_CaptureScreen.htm">CaptureScreen</a></td><td><div class="summary">
+ Capture the screen of the guest operating system of the specified virtual machine 
+ and save it to a image file (in .PNG format) in the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_DirectoryCreate.htm">DirectoryCreate</a></td><td><div class="summary">
+ Create a directory in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_DirectoryDelete.htm">DirectoryDelete</a></td><td><div class="summary">
+ Delete a directory from the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_DirectoryExists.htm">DirectoryExists</a></td><td><div class="summary">
+ Determine whether a directory exists in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_DirectoryExistsAsync.htm">DirectoryExistsAsync</a></td><td><div class="summary">
+ Asynchronously determine whether a directory exists in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_Dispose.htm">Dispose</a></td><td><div class="summary">
+ Releases all the resources used by this instance.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileCopyFromGuestToHost.htm">FileCopyFromGuestToHost</a></td><td><div class="summary">
+ Copies a file from the guest operating system of the specified virtual machine to the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileCopyFromHostToGuest.htm">FileCopyFromHostToGuest</a></td><td><div class="summary">
+ Copies a file from the host operating system to the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileDelete.htm">FileDelete</a></td><td><div class="summary">
+ Delete a file from the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileExists.htm">FileExists</a></td><td><div class="summary">
+ Determine whether a file exists in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileExistsAsync.htm">FileExistsAsync</a></td><td><div class="summary">
+ Asynchronously determine whether a file exists in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_FileRename.htm">FileRename</a></td><td><div class="summary">
+ Rename a file in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetIpAddress.htm">GetIpAddress</a></td><td><div class="summary">
+ Gets the IP address of the guest operating system on the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetIpAddressAsync.htm">GetIpAddressAsync</a></td><td><div class="summary">
+ Asynchronously gets the IP address of the guest operating system on the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetRunningVmCount.htm">GetRunningVmCount</a></td><td><div class="summary">
+ Gets the amount of virtual machines that are running on the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetRunningVmCountAsync.htm">GetRunningVmCountAsync</a></td><td><div class="summary">
+ Asynchronously gets the amount of virtual machines that are running on the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetRunningVms.htm">GetRunningVms</a></td><td><div class="summary">
+ Gets the file paths of the virtual machines that are running on the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetRunningVmsAsync.htm">GetRunningVmsAsync</a></td><td><div class="summary">
+ Asynchronously gets the file paths of the virtual machines that are running on the host operating system.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotCount.htm">GetSnapshotCount</a></td><td><div class="summary">
+ Gets the amount of snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotCountAsync.htm">GetSnapshotCountAsync</a></td><td><div class="summary">
+ Asynchronously gets the amount of snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotNames.htm">GetSnapshotNames</a></td><td><div class="summary">
+ Gets the names of the snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotNamesAsync.htm">GetSnapshotNamesAsync</a></td><td><div class="summary">
+ Asynchronously gets the names of the snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotsTreeview.htm">GetSnapshotsTreeview</a></td><td><div class="summary">
+ Gets a tree-view of the snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_GetSnapshotsTreeviewAsync.htm">GetSnapshotsTreeviewAsync</a></td><td><div class="summary">
+ Asynchronously gets a tree-view of the snapshots created in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_InstallVmWareTools.htm">InstallVmWareTools</a></td><td><div class="summary">
+ Installs VmWare Tools on the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_IsVmWareToolsInstalled.htm">IsVmWareToolsInstalled</a></td><td><div class="summary">
+ Gets a value that determine whether VmWare Tools is installed in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_IsVmWareToolsInstalledAsync.htm">IsVmWareToolsInstalledAsync</a></td><td><div class="summary">
+ Asynchronously gets a value that determine whether VmWare Tools is installed in the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_ProcessKill.htm">ProcessKill</a></td><td><div class="summary">
+ Kills a running process from the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_ProcessRun.htm">ProcessRun</a></td><td><div class="summary">
+ Runs a new process in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_ProcessRunScript.htm">ProcessRunScript</a></td><td><div class="summary">
+ Runs a script in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_ProcessRunScriptAsync.htm">ProcessRunScriptAsync</a></td><td><div class="summary">
+ Asynchronously runs a script in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SendKeystrokes.htm">SendKeystrokes</a></td><td><div class="summary">
+ Send keystrokes to the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderAdd.htm">SharedFolderAdd(VMWareVirtualMachine, VmSharedFolderInfo)</a></td><td><div class="summary">
+ Adds a new shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderAdd_1.htm">SharedFolderAdd(VMWareVirtualMachine, String, String)</a></td><td><div class="summary">
+ Adds a new shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderRemove.htm">SharedFolderRemove(VMWareVirtualMachine, VmSharedFolderInfo)</a></td><td><div class="summary">
+ Adds a new shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderRemove_1.htm">SharedFolderRemove(VMWareVirtualMachine, String)</a></td><td><div class="summary">
+ Adds a new shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFoldersDisable.htm">SharedFoldersDisable</a></td><td><div class="summary">
+ Enable shared folders features in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFoldersEnable.htm">SharedFoldersEnable</a></td><td><div class="summary">
+ Enable shared folders features in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderSetAccess.htm">SharedFolderSetAccess(VMWareVirtualMachine, VmSharedFolderInfo, Boolean)</a></td><td><div class="summary">
+ Sets the writable/readonly access of a shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SharedFolderSetAccess_1.htm">SharedFolderSetAccess(VMWareVirtualMachine, String, String, Boolean)</a></td><td><div class="summary">
+ Sets the writable/readonly access of a shared folder in the guest operating system of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SnapshotCreate.htm">SnapshotCreate</a></td><td><div class="summary">
+ Create a snapshot of the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SnapshotDelete.htm">SnapshotDelete</a></td><td><div class="summary">
+ Delete a snapshot from the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_SnapshotRestore.htm">SnapshotRestore</a></td><td><div class="summary">
+ Revert the state of the specified virtual machine to the state of the specified snapshot.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmDelete.htm">VmDelete</a></td><td><div class="summary">
+ Deletes the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmPause.htm">VmPause</a></td><td><div class="summary">
+ Pause the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmReset.htm">VmReset</a></td><td><div class="summary">
+ Reset the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmResume.htm">VmResume</a></td><td><div class="summary">
+ Resume (unpause) the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmStart.htm">VmStart</a></td><td><div class="summary">
+ Start the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmStop.htm">VmStop</a></td><td><div class="summary">
+ Stop the specified virtual machine.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_ThirdParty_VmWare_VmRunWrapper_VmSuspend.htm">VmSuspend</a></td><td><div class="summary">
+ Suspend the specified virtual machine.
+ </div></td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID6RB')" onkeypress="SectionExpandCollapse_CheckKey('ID6RB', event)" tabindex="0"><img id="ID6RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Extension Methods</span></div><div id="ID6RBSection" class="collapsibleSection"><table class="members" id="extensionMethodList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo.htm">CanConvertTo(Type)</a></td><td>Overloaded.  <div class="summary">
+ Determines whether the source object can be converted to the specified target type.
+ </div> (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo__1.htm">CanConvertTo<span id="LSTE6D05585_3"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_3?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTE6D05585_4"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_4?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script><span id="LSTE6D05585_5"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_5?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a></td><td>Overloaded.  <div class="summary">
+ Determines whether the source object can be converted to the specified target type.
+ </div> (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1.htm">ConvertTo<span id="LSTE6D05585_6"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_6?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTE6D05585_7"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_7?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script><span id="LSTE6D05585_8"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_8?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a></td><td>Overloaded.  <div class="summary">
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, an exception is thrown.
+ </div> (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1_1.htm">ConvertTo<span id="LSTE6D05585_9"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_9?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTE6D05585_10"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTE6D05585_10?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>(T)</a></td><td>Overloaded.  <div class="summary">
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, returns the specified default value.
+ </div> (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_IsDisposable.htm">IsDisposable</a></td><td><div class="summary">
+ Determines whether the specified object is disposable.
+ </div> (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID7RB')" onkeypress="SectionExpandCollapse_CheckKey('ID7RB', event)" tabindex="0"><img id="ID7RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Examples</span></div><div id="ID7RBSection" class="collapsibleSection"> This is a code example that demonstrates how to get the running virtual machines, then run a program on each guest operating system.
+ <div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EAAABA_tab1" class="codeSnippetContainerTabSingle">VB</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAAABA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAAABA');return false;" title="Copy">Copy</a></div></div><div id="ID1EAAABA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> vmRun <span class="highlight-keyword">As</span> VmRunWrapper
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Async</span> <span class="highlight-keyword">Sub</span> Test()
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.vmRun = <span class="highlight-keyword">New</span> VmRunWrapper(<span class="highlight-literal">"C:\Program Files (x86)\VMWare\VMware VIX\vmrun.exe"</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Dim</span> vmCount <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span> = <span class="highlight-keyword">Await</span> <span class="highlight-keyword">Me</span>.vmRun.GetRunningVmCountAsync()
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">If</span> (vmCount &gt; <span class="highlight-number">0</span>) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Dim</span> vms <span class="highlight-keyword">As</span> ReadOnlyCollection(<span class="highlight-keyword">Of</span> VMWareVirtualMachine) = <span class="highlight-keyword">Await</span> <span class="highlight-keyword">Me</span>.vmRun.GetRunningVmsAsync()
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">For</span> <span class="highlight-keyword">Each</span> vm <span class="highlight-keyword">As</span> VMWareVirtualMachine <span class="highlight-keyword">In</span> vms
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-comment">' A valid guest username and password (if any) is required in order to use some of the functionalities of vmrun.exe program.</span>
+<span class="highlight-spacerShort"></span>            vm.GuestOsCredential.Username = <span class="highlight-literal">"guest username"</span>
+<span class="highlight-spacerShort"></span>            vm.GuestOsCredential.Password = <span class="highlight-literal">"guest password"</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-comment">' Check whether VMWare-Tools are installed in the VM. </span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-comment">' The VmWare-Tools are required by some of the functionalities of vmrun.exe program.</span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Dim</span> isVMWareToolsInstalled <span class="highlight-keyword">As</span> <span class="highlight-keyword">Boolean</span> = <span class="highlight-keyword">Await</span> <span class="highlight-keyword">Me</span>.vmRun.IsVmWareToolsInstalledAsync(vm)
+<span class="highlight-spacerShort"></span>            Console.WriteLine(<span class="highlight-comment">"VM Name: {0}; IsVMWareToolsInstalled: {1}'"</span>, vm.DisplayName, isVMWareToolsInstalled)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">If</span> <span class="highlight-keyword">Not</span> isVMWareToolsInstalled <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Me</span>.vmRun.InstallVmWareTools(vm)
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Continue</span> <span class="highlight-keyword">For</span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Try</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-comment">' Run a program on the guest operating system.</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Me</span>.vmRun.ProcessRun(vm, <span class="highlight-literal">"C:\program.exe"</span>, VmRunProgramFlags.NoWait <span class="highlight-keyword">Or</span> VmRunProgramFlags.ActiveWindow <span class="highlight-keyword">Or</span> VmRunProgramFlags.Interactive, <span class="highlight-literal">""</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Catch</span> ex <span class="highlight-keyword">As</span> VmRunException
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Throw</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Catch</span> ex <span class="highlight-keyword">As</span> Exception
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Throw</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">End</span> <span class="highlight-keyword">Try</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Next</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAAABA");</script></div><div class="collapsibleAreaRegion" id="seeAlsoSection"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID8RB')" onkeypress="SectionExpandCollapse_CheckKey('ID8RB', event)" tabindex="0"><img id="ID8RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />See Also</span></div><div id="ID8RBSection" class="collapsibleSection"><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="N_DevCase_ThirdParty_VmWare.htm">DevCase.ThirdParty.VmWare Namespace</a></div></div></div>
+    </div>
+    <div id="pageFooter" class="pageFooter">
+      <p>ElektroStudios 2020</p>
+      <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:ElektroStudios%40ElHacker.net?Subject=DevCase%20Class%20Library%20v3.3">ElektroStudios@ElHacker.net</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script> </div>
+  </body>
+</html>
