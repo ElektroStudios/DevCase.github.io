@@ -1,0 +1,22 @@
+# NativeMethods.EndPaint Method 
+ 
+
+
+## Overload List
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_EndPaint">EndPaint(IntPtr, PaintStruct)</a></td><td>
+Marks the end of painting in the specified window. 
+
+ This function is required for each call to the <a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_BeginPaint">BeginPaint(IntPtr, PaintStruct)</a> function, but only after painting is complete.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_EndPaint_1">EndPaint(HandleRef, PaintStruct)</a></td><td>
+Marks the end of painting in the specified window. 
+
+ This function is required for each call to the <a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_BeginPaint">BeginPaint(IntPtr, PaintStruct)</a> function, but only after painting is complete.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_EndPaint_2">EndPaint(SafeHandle, PaintStruct)</a></td><td>
+Marks the end of painting in the specified window. 
+
+ This function is required for each call to the <a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_BeginPaint">BeginPaint(IntPtr, PaintStruct)</a> function, but only after painting is complete.</td></tr></table>&nbsp;
+<a href="#nativemethods.endpaint-method">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_DevCase_Interop_Unmanaged_Win32_NativeMethods">NativeMethods Class</a><br /><a href="N_DevCase_Interop_Unmanaged_Win32">DevCase.Interop.Unmanaged.Win32 Namespace</a><br />
