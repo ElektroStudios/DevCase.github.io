@@ -1,9 +1,0 @@
-# DevCase.ThirdParty.AndroidLib Namespace
- 
-
-
-
-
-## Classes
-&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_DevCase_ThirdParty_AndroidLib_AndroidLibUtil">AndroidLibUtil</a></td><td>
-Contains AndroidLib related utilities.</td></tr></table>&nbsp;
