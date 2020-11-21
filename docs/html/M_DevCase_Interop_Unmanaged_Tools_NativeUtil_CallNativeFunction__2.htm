@@ -1,0 +1,146 @@
+﻿<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" />
+    <script type="text/javascript" src="../scripts/branding.js"> </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>NativeUtil.CallNativeFunction(TResult, TDelegate) Method </title>
+    <meta name="Language" content="en-us" />
+    <meta name="System.Keywords" content="CallNativeFunction%3CTResult%2C TDelegate%3E method" />
+    <meta name="System.Keywords" content="CallNativeFunction(Of TResult%2C TDelegate) method" />
+    <meta name="System.Keywords" content="NativeUtil.CallNativeFunction%3CTResult%2C TDelegate%3E method" />
+    <meta name="System.Keywords" content="NativeUtil.CallNativeFunction(Of TResult%2C TDelegate) method" />
+    <meta name="Microsoft.Help.F1" content="DevCase.Interop.Unmanaged.Tools.NativeUtil.CallNativeFunction``2" />
+    <meta name="Microsoft.Help.Id" content="M:DevCase.Interop.Unmanaged.Tools.NativeUtil.CallNativeFunction``2(System.String,System.String,``1,System.Object[])" />
+    <meta name="Description" content="Executes a function exported in a native dll and returns the result value." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="BrandingAware" content="true" />
+    
+    <meta name="container" content="DevCase.Interop.Unmanaged.Tools" />
+    <meta name="file" content="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_CallNativeFunction__2" />
+    <meta name="guid" content="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_CallNativeFunction__2" />
+    
+    <link type="text/css" rel="stylesheet" href="../styles/highlight.css" />
+    <script type="text/javascript" src="../scripts/highlight.js"> </script>
+    <link rel="stylesheet" type="text/css" href="../styles/branding-Website.css" />
+    <script type="text/javascript" src="../scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="../scripts/branding-Website.js"></script>
+    <script type="text/javascript" src="../scripts/clipboard.min.js"></script>
+  </head>
+  <body onload="OnLoad('cs')">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <div class="pageHeader" id="PageHeader">DevCase Class Library v3.3<form id="SearchForm" method="get" action="#" onsubmit="javascript:TransferToSearchPage(); return false;"><input id="SearchTextBox" type="text" maxlength="200" /><button id="SearchButton" type="submit"></button></form></div>
+    <div class="pageBody">
+      <div class="leftNav" id="leftNav"><div id="tocNav"><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="DevCase Class Library v3.3" tocid="roottoc">DevCase Class Library v3.3</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="Namespaces" tocid="R_Project_DevCase_Class_Library_v3_3">Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Interop.htm" title="DevCase.Interop Namespaces" tocid="G_DevCase_Interop">DevCase.Interop Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Interop_Unmanaged.htm" title="DevCase.Interop.Unmanaged Namespaces" tocid="G_DevCase_Interop_Unmanaged">DevCase.Interop.Unmanaged Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/N_DevCase_Interop_Unmanaged_Tools.htm" title="DevCase.Interop.Unmanaged.Tools" tocid="N_DevCase_Interop_Unmanaged_Tools">DevCase.Interop.Unmanaged.Tools</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/T_DevCase_Interop_Unmanaged_Tools_NativeUtil.htm" title="NativeUtil Class" tocid="T_DevCase_Interop_Unmanaged_Tools_NativeUtil">NativeUtil Class</a></div><div class="toclevel1" data-toclevel="1" data-childrenloaded="true"><a class="tocExpanded" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Methods_T_DevCase_Interop_Unmanaged_Tools_NativeUtil.htm" title="NativeUtil Methods" tocid="Methods_T_DevCase_Interop_Unmanaged_Tools_NativeUtil">NativeUtil Methods</a></div><div class="toclevel2 current" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_CallNativeFunction__2.htm" title="CallNativeFunction(TResult, TDelegate) Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_CallNativeFunction__2">CallNativeFunction(TResult, TDelegate) Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailFastIfFalse.htm" title="FailFastIfFalse Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailFastIfFalse">FailFastIfFalse Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailFastIfZero.htm" title="FailFastIfZero Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailFastIfZero">FailFastIfZero Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailIfFalse.htm" title="FailIfFalse Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailIfFalse">FailIfFalse Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailIfZero.htm" title="FailIfZero Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_FailIfZero">FailIfZero Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiByte.htm" title="GetHiByte Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiByte">GetHiByte Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiDWord.htm" title="GetHiDWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiDWord">GetHiDWord Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiWord.htm" title="GetHiWord Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetHiWord">GetHiWord Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoByte.htm" title="GetLoByte Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoByte">GetLoByte Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoDWord.htm" title="GetLoDWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoDWord">GetLoDWord Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoWord.htm" title="GetLoWord Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetLoWord">GetLoWord Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetNativeFunction__1.htm" title="GetNativeFunction(TDelegate) Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_GetNativeFunction__1">GetNativeFunction(TDelegate) Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeDWord.htm" title="MakeDWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeDWord">MakeDWord Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeDWordLong.htm" title="MakeDWordLong Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeDWordLong">MakeDWordLong Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeLParam.htm" title="MakeLParam Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeLParam">MakeLParam Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeWord.htm" title="MakeWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeWord">MakeWord Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeWParam.htm" title="MakeWParam Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_MakeWParam">MakeWParam Method </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_SafePInvoke.htm" title="SafePInvoke Method " tocid="Overload_DevCase_Interop_Unmanaged_Tools_NativeUtil_SafePInvoke">SafePInvoke Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiByte.htm" title="SetHiByte Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiByte">SetHiByte Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiDword.htm" title="SetHiDword Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiDword">SetHiDword Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiWord.htm" title="SetHiWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetHiWord">SetHiWord Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoByte.htm" title="SetLoByte Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoByte">SetLoByte Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoDword.htm" title="SetLoDword Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoDword">SetLoDword Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoWord.htm" title="SetLoWord Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_SetLoWord">SetLoWord Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_UnmanagedTypeToManagedType.htm" title="UnmanagedTypeToManagedType Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_UnmanagedTypeToManagedType">UnmanagedTypeToManagedType Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Interop_Unmanaged_Tools_NativeUtil_WindowsGuidToManagedGuid.htm" title="WindowsGuidToManagedGuid Method " tocid="M_DevCase_Interop_Unmanaged_Tools_NativeUtil_WindowsGuidToManagedGuid">WindowsGuidToManagedGuid Method </a></div></div><div id="tocResizableEW" onmousedown="OnMouseDown(event);"></div><div id="TocResize" class="tocResize"><img id="ResizeImageIncrease" src="../icons/TocOpen.gif" onclick="OnIncreaseToc()" alt="Click or drag to resize" title="Click or drag to resize" /><img id="ResizeImageReset" src="../icons/TocClose.gif" style="display:none" onclick="OnResetToc()" alt="Click or drag to resize" title="Click or drag to resize" /></div></div><div class="topicContent" id="TopicContent">
+        <table class="titleTable">
+          <tr>
+            <td class="titleColumn">
+              <h1>NativeUtil<span id="LSTEF97D21C_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_0?cpp=::|nu=.");</script>CallNativeFunction<span id="LSTEF97D21C_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_1?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script><span class="typeparameter">TResult</span>, <span class="typeparameter">TDelegate</span><span id="LSTEF97D21C_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_2?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script> Method </h1>
+            </td>
+          </tr>
+        </table>
+        <span class="introStyle"></span> <div class="summary">
+ Executes a function exported in a native dll and returns the result value.
+ </div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_DevCase_Interop_Unmanaged_Tools.htm">DevCase.Interop.Unmanaged.Tools</a><br />
+    <strong>Assembly:</strong>
+   DevCase.Interop (in DevCase.Interop.dll) Version: 3.3.0.0 (3.3)<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID1RB')" onkeypress="SectionExpandCollapse_CheckKey('ID1RB', event)" tabindex="0"><img id="ID1RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Syntax</span></div><div id="ID1RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID0EECA_tab1" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cs','1','4');return false;">C#</a></div><div id="ID0EECA_tab2" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','vb','2','4');return false;">VB</a></div><div id="ID0EECA_tab3" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cpp','3','4');return false;">C++</a></div><div id="ID0EECA_tab4" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','fs','4','4');return false;">F#</a></div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID0EECA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EECA');return false;" title="Copy">Copy</a></div></div><div id="ID0EECA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">public</span> <span class="keyword">static</span> TResult <span class="identifier">CallNativeFunction</span>&lt;TResult, TDelegate&gt;(
+	<span class="identifier">string</span> <span class="parameter">filepath</span>,
+	<span class="identifier">string</span> <span class="parameter">functionName</span>,
+	TDelegate <span class="parameter">functionSignature</span>,
+	<span class="keyword">params</span> <span class="identifier">Object</span>[] <span class="parameter">parameters</span>
+)
+</pre></div><div id="ID0EECA_code_Div2" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">CallNativeFunction</span>(<span class="keyword">Of</span> TResult, TDelegate) ( 
+	<span class="parameter">filepath</span> <span class="keyword">As</span> <span class="identifier">String</span>,
+	<span class="parameter">functionName</span> <span class="keyword">As</span> <span class="identifier">String</span>,
+	<span class="parameter">functionSignature</span> <span class="keyword">As</span> TDelegate,
+	<span class="keyword">ParamArray</span> <span class="parameter">parameters</span> <span class="keyword">As</span> <span class="identifier">Object</span>()
+) <span class="keyword">As</span> TResult
+
+<span class="keyword">Dim</span> <span class="parameter">filepath</span> <span class="keyword">As</span> <span class="identifier">String</span>
+<span class="keyword">Dim</span> <span class="parameter">functionName</span> <span class="keyword">As</span> <span class="identifier">String</span>
+<span class="keyword">Dim</span> <span class="parameter">functionSignature</span> <span class="keyword">As</span> TDelegate
+<span class="keyword">Dim</span> <span class="parameter">parameters</span> <span class="keyword">As</span> <span class="identifier">Object</span>()
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> TResult
+
+<span class="parameter">returnValue</span> = <span class="identifier">NativeUtil</span>.<span class="identifier">CallNativeFunction</span>(<span class="parameter">filepath</span>, 
+	<span class="parameter">functionName</span>, <span class="parameter">functionSignature</span>, 
+	<span class="parameter">parameters</span>)</pre></div><div id="ID0EECA_code_Div3" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">public</span>:
+<span class="keyword">generic</span>&lt;<span class="keyword">typename</span> TResult, <span class="keyword">typename</span> TDelegate&gt;
+<span class="keyword">static</span> TResult <span class="identifier">CallNativeFunction</span>(
+	<span class="identifier">String</span>^ <span class="parameter">filepath</span>, 
+	<span class="identifier">String</span>^ <span class="parameter">functionName</span>, 
+	TDelegate <span class="parameter">functionSignature</span>, 
+	... <span class="keyword">array</span>&lt;<span class="identifier">Object</span>^&gt;^ <span class="parameter">parameters</span>
+)</pre></div><div id="ID0EECA_code_Div4" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">CallNativeFunction</span> : 
+        <span class="parameter">filepath</span> : <span class="identifier">string</span> * 
+        <span class="parameter">functionName</span> : <span class="identifier">string</span> * 
+        <span class="parameter">functionSignature</span> : 'TDelegate * 
+        <span class="parameter">parameters</span> : <span class="identifier">Object</span>[] <span class="keyword">-&gt;</span> 'TResult 
+</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EECA");</script><h4 class="subHeading">Parameters</h4><dl><dt><span class="parameter">filepath</span></dt><dd>Type: <span class="nolink">System<span id="LSTEF97D21C_3"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_3?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>String</span><br />
+ The file path of the native dll.
+ </dd><dt><span class="parameter">functionName</span></dt><dd>Type: <span class="nolink">System<span id="LSTEF97D21C_4"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_4?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>String</span><br />
+ The name of the function to be executed.
+ </dd><dt><span class="parameter">functionSignature</span></dt><dd>Type: <span class="selflink"><span class="typeparameter">TDelegate</span></span><br />
+ A <span class="nolink">Delegate</span> that will represent the signature of the native function.
+ </dd><dt><span class="parameter">parameters</span></dt><dd>Type: <span id="LSTEF97D21C_5"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_5?cpp=array&lt;");</script><span class="nolink">System<span id="LSTEF97D21C_6"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_6?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Object</span><span id="LSTEF97D21C_7"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_7?cpp=&gt;|vb=()|nu=[]");</script><br />
+ An argument list for the invoked function. 
+ This is an array of objects with the same number, order, and type as the parameters of the function to be invoked.
+ <p />
+ If there are no parameters, parameters should be null.If the method
+ Any object in this array that is not explicitly initialized with a value will contain the default value for
+ that object type. 
+ <p />
+ For reference-type elements, this value is <span class="keyword"><span id="LSTEF97D21C_8"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTEF97D21C_8?vb=Nothing|cpp=nullptr|nu=null");</script></span>. 
+ For value-type elements, this value is 0, 0.0, or false, depending on the specific element type.
+ </dd></dl><h4 class="subHeading">Type Parameters</h4><dl><dt><span class="parameter">TResult</span></dt><dd>
+ The <span class="nolink">Type</span> of the value returned by the native function.
+ </dd><dt><span class="parameter">TDelegate</span></dt><dd>
+ The <span class="nolink">Type</span> of the source <span class="nolink">Delegate</span> 
+ that will represent the signature of the native function.
+ </dd></dl><h4 class="subHeading">Return Value</h4>Type: <span class="selflink"><span class="typeparameter">TResult</span></span><br />
+ The result of calling the native function.
+ </div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Examples</span></div><div id="ID2RBSection" class="collapsibleSection"> This is a code example.
+ <div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID0EAAHBA_tab1" class="codeSnippetContainerTabSingle">VB</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID0EAAHBA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EAAHBA');return false;" title="Copy">Copy</a></div></div><div id="ID0EAAHBA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-spacerShort"></span><span class="highlight-keyword">Public</span> <span class="highlight-keyword">Module</span> Module1
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' &lt;summary&gt;</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' A delegate to call DllRegisterServer or DllUnregisterServer functions in a native dll.</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' &lt;/summary&gt;</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' &lt;returns&gt;</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' The result of calling DllRegisterServer or DllUnregisterServer functions in a native dll.</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' &lt;/returns&gt;</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>    &lt;UnmanagedFunctionPointer(CallingConvention.StdCall)&gt;
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Friend</span> <span class="highlight-keyword">Delegate</span> <span class="highlight-keyword">Function</span> PointerToRegistrationMethodInvoker() <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Public</span> <span class="highlight-keyword">Sub</span> Main()
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Dim</span> result <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span> = 
+<span class="highlight-spacerShort"></span>            CallNativeFunction(<span class="highlight-keyword">Of</span> <span class="highlight-keyword">Integer</span>, PointerToRegistrationMethodInvoker)(filepath, <span class="highlight-literal">"DllRegisterServer"</span>, <span class="highlight-keyword">Nothing</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Dim</span> result <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span> = methodInvoker.Invoke()
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">If</span> (result &lt;&gt; <span class="highlight-number">0</span>) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-comment">' To-Do?: Handle specific errors...</span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Module</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EAAHBA");</script></div><div class="collapsibleAreaRegion" id="seeAlsoSection"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />See Also</span></div><div id="ID3RBSection" class="collapsibleSection"><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="T_DevCase_Interop_Unmanaged_Tools_NativeUtil.htm">NativeUtil Class</a></div><div class="seeAlsoStyle"><a href="N_DevCase_Interop_Unmanaged_Tools.htm">DevCase.Interop.Unmanaged.Tools Namespace</a></div></div></div>
+    </div>
+    <div id="pageFooter" class="pageFooter">
+      <p>ElektroStudios 2020</p>
+      <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:ElektroStudios%40ElHacker.net?Subject=DevCase%20Class%20Library%20v3.3">ElektroStudios@ElHacker.net</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script> </div>
+  </body>
+</html>

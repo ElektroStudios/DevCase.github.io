@@ -1,0 +1,95 @@
+﻿<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" />
+    <script type="text/javascript" src="../scripts/branding.js"> </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>ProcessUtil.GetProcessPerformanceCounter Method (Process, String)</title>
+    <meta name="Language" content="en-us" />
+    <meta name="Microsoft.Help.Id" content="M:DevCase.Core.IPC.Tools.ProcessUtil.GetProcessPerformanceCounter(System.Diagnostics.Process,System.String)" />
+    <meta name="Description" content="Gets a of the categry name &quot;Process&quot; with the specified counter name for the specified process." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="BrandingAware" content="true" />
+    
+    <meta name="container" content="DevCase.Core.IPC.Tools" />
+    <meta name="file" content="M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter" />
+    <meta name="guid" content="M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter" />
+    
+    <link type="text/css" rel="stylesheet" href="../styles/highlight.css" />
+    <script type="text/javascript" src="../scripts/highlight.js"> </script>
+    <link rel="stylesheet" type="text/css" href="../styles/branding-Website.css" />
+    <script type="text/javascript" src="../scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="../scripts/branding-Website.js"></script>
+    <script type="text/javascript" src="../scripts/clipboard.min.js"></script>
+  </head>
+  <body onload="OnLoad('cs')">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <div class="pageHeader" id="PageHeader">DevCase Class Library v3.3<form id="SearchForm" method="get" action="#" onsubmit="javascript:TransferToSearchPage(); return false;"><input id="SearchTextBox" type="text" maxlength="200" /><button id="SearchButton" type="submit"></button></form></div>
+    <div class="pageBody">
+      <div class="leftNav" id="leftNav"><div id="tocNav"><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="DevCase Class Library v3.3" tocid="roottoc">DevCase Class Library v3.3</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v3_3.htm" title="Namespaces" tocid="R_Project_DevCase_Class_Library_v3_3">Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Core.htm" title="DevCase.Core Namespaces" tocid="G_DevCase_Core">DevCase.Core Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Core_IPC.htm" title="DevCase.Core.IPC Namespaces" tocid="G_DevCase_Core_IPC">DevCase.Core.IPC Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/N_DevCase_Core_IPC_Tools.htm" title="DevCase.Core.IPC.Tools" tocid="N_DevCase_Core_IPC_Tools">DevCase.Core.IPC.Tools</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/T_DevCase_Core_IPC_Tools_ProcessUtil.htm" title="ProcessUtil Class" tocid="T_DevCase_Core_IPC_Tools_ProcessUtil">ProcessUtil Class</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Methods_T_DevCase_Core_IPC_Tools_ProcessUtil.htm" title="ProcessUtil Methods" tocid="Methods_T_DevCase_Core_IPC_Tools_ProcessUtil">ProcessUtil Methods</a></div><div class="toclevel1" data-toclevel="1" data-childrenloaded="true"><a class="tocExpanded" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter.htm" title="GetProcessPerformanceCounter Method " tocid="Overload_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter">GetProcessPerformanceCounter Method </a></div><div class="toclevel2 current" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter.htm" title="GetProcessPerformanceCounter Method (Process, String)" tocid="M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter">GetProcessPerformanceCounter Method (Process, String)</a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter_1.htm" title="GetProcessPerformanceCounter Method (Int32, String)" tocid="M_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter_1">GetProcessPerformanceCounter Method (Int32, String)</a></div></div><div id="tocResizableEW" onmousedown="OnMouseDown(event);"></div><div id="TocResize" class="tocResize"><img id="ResizeImageIncrease" src="../icons/TocOpen.gif" onclick="OnIncreaseToc()" alt="Click or drag to resize" title="Click or drag to resize" /><img id="ResizeImageReset" src="../icons/TocClose.gif" style="display:none" onclick="OnResetToc()" alt="Click or drag to resize" title="Click or drag to resize" /></div></div><div class="topicContent" id="TopicContent">
+        <table class="titleTable">
+          <tr>
+            <td class="titleColumn">
+              <h1>ProcessUtil<span id="LST28A4AA8B_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST28A4AA8B_0?cpp=::|nu=.");</script>GetProcessPerformanceCounter Method (Process, String)</h1>
+            </td>
+          </tr>
+        </table>
+        <span class="introStyle"></span> <div class="summary">
+ Gets a <span class="nolink">PerformanceCounter</span> of the categry name "Process" with the specified counter name 
+ for the specified process.
+ </div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_DevCase_Core_IPC_Tools.htm">DevCase.Core.IPC.Tools</a><br />
+    <strong>Assembly:</strong>
+   DevCase.Core (in DevCase.Core.dll) Version: 3.3.0.0 (3.3)<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID1RB')" onkeypress="SectionExpandCollapse_CheckKey('ID1RB', event)" tabindex="0"><img id="ID1RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Syntax</span></div><div id="ID1RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID0EECA_tab1" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cs','1','4');return false;">C#</a></div><div id="ID0EECA_tab2" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','vb','2','4');return false;">VB</a></div><div id="ID0EECA_tab3" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cpp','3','4');return false;">C++</a></div><div id="ID0EECA_tab4" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','fs','4','4');return false;">F#</a></div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID0EECA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EECA');return false;" title="Copy">Copy</a></div></div><div id="ID0EECA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">PerformanceCounter</span> <span class="identifier">GetProcessPerformanceCounter</span>(
+	<span class="identifier">Process</span> <span class="parameter">pr</span>,
+	<span class="identifier">string</span> <span class="parameter">counterName</span>
+)</pre></div><div id="ID0EECA_code_Div2" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">GetProcessPerformanceCounter</span> ( 
+	<span class="parameter">pr</span> <span class="keyword">As</span> <span class="identifier">Process</span>,
+	<span class="parameter">counterName</span> <span class="keyword">As</span> <span class="identifier">String</span>
+) <span class="keyword">As</span> <span class="identifier">PerformanceCounter</span>
+
+<span class="keyword">Dim</span> <span class="parameter">pr</span> <span class="keyword">As</span> <span class="identifier">Process</span>
+<span class="keyword">Dim</span> <span class="parameter">counterName</span> <span class="keyword">As</span> <span class="identifier">String</span>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="identifier">PerformanceCounter</span>
+
+<span class="parameter">returnValue</span> = <span class="identifier">ProcessUtil</span>.<span class="identifier">GetProcessPerformanceCounter</span>(<span class="parameter">pr</span>, 
+	<span class="parameter">counterName</span>)</pre></div><div id="ID0EECA_code_Div3" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">public</span>:
+<span class="keyword">static</span> <span class="identifier">PerformanceCounter</span>^ <span class="identifier">GetProcessPerformanceCounter</span>(
+	<span class="identifier">Process</span>^ <span class="parameter">pr</span>, 
+	<span class="identifier">String</span>^ <span class="parameter">counterName</span>
+)</pre></div><div id="ID0EECA_code_Div4" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">GetProcessPerformanceCounter</span> : 
+        <span class="parameter">pr</span> : <span class="identifier">Process</span> * 
+        <span class="parameter">counterName</span> : <span class="identifier">string</span> <span class="keyword">-&gt;</span> <span class="identifier">PerformanceCounter</span> 
+</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EECA");</script><h4 class="subHeading">Parameters</h4><dl><dt><span class="parameter">pr</span></dt><dd>Type: <span class="nolink">System.Diagnostics<span id="LST28A4AA8B_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST28A4AA8B_1?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Process</span><br />
+ The process.
+ </dd><dt><span class="parameter">counterName</span></dt><dd>Type: <span class="nolink">System<span id="LST28A4AA8B_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST28A4AA8B_2?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>String</span><br />
+ The name of the counter to get (eg. "% Processor Time").
+ </dd></dl><h4 class="subHeading">Return Value</h4>Type: <span class="nolink">PerformanceCounter</span><br />
+ The resulting <span class="nolink">PerformanceCounter</span>.
+ </div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Examples</span></div><div id="ID2RBSection" class="collapsibleSection"> This is a code example.
+ <div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID0EAADBA_tab1" class="codeSnippetContainerTabSingle">VB</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID0EAADBA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EAADBA');return false;" title="Copy">Copy</a></div></div><div id="ID0EAADBA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> pr <span class="highlight-keyword">As</span> Process = Process.GetCurrentProcess()
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> perfCounter <span class="highlight-keyword">As</span> PerformanceCounter = GetProcessPerformanceCounter(pr, <span class="highlight-literal">"% Processor Time"</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> sample1 <span class="highlight-keyword">As</span> CounterSample = perfCounter.NextSample()
+<span class="highlight-spacerShort"></span>Thread.Sleep(<span class="highlight-number">1000</span>)
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> sample2 <span class="highlight-keyword">As</span> CounterSample = perfCounter.NextSample()
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> calc <span class="highlight-keyword">As</span> <span class="highlight-keyword">Single</span> = CounterSample.Calculate(sample1, sample2)
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Dim</span> cpuAverage <span class="highlight-keyword">As</span> <span class="highlight-keyword">Single</span> = (calc / Environment.ProcessorCount)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>Console.WriteLine(<span class="highlight-literal">"Average CPU usage percentage for current process: {0:F2}%"</span>, cpuAverage)</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EAADBA");</script></div><div class="collapsibleAreaRegion" id="seeAlsoSection"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />See Also</span></div><div id="ID3RBSection" class="collapsibleSection"><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="T_DevCase_Core_IPC_Tools_ProcessUtil.htm">ProcessUtil Class</a></div><div class="seeAlsoStyle"><a href="Overload_DevCase_Core_IPC_Tools_ProcessUtil_GetProcessPerformanceCounter.htm">GetProcessPerformanceCounter Overload</a></div><div class="seeAlsoStyle"><a href="N_DevCase_Core_IPC_Tools.htm">DevCase.Core.IPC.Tools Namespace</a></div></div></div>
+    </div>
+    <div id="pageFooter" class="pageFooter">
+      <p>ElektroStudios 2020</p>
+      <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:ElektroStudios%40ElHacker.net?Subject=DevCase%20Class%20Library%20v3.3">ElektroStudios@ElHacker.net</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script> </div>
+  </body>
+</html>
