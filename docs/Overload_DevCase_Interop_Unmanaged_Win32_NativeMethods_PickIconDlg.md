@@ -1,0 +1,15 @@
+# NativeMethods.PickIconDlg Method 
+ 
+
+
+## Overload List
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_PickIconDlg">PickIconDlg(IntPtr, String, Int32, Int32)</a></td><td>
+Displays a dialog box that allows the user to choose an icon from the selection available embedded in a resource such as an executable or DLL file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_DevCase_Interop_Unmanaged_Win32_NativeMethods_PickIconDlg_1">PickIconDlg(IntPtr, StringBuilder, Int32, Int32)</a></td><td>
+Displays a dialog box that allows the user to choose an icon from the selection available embedded in a resource such as an executable or DLL file.</td></tr></table>&nbsp;
+<a href="#nativemethods.pickicondlg-method">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_DevCase_Interop_Unmanaged_Win32_NativeMethods">NativeMethods Class</a><br /><a href="N_DevCase_Interop_Unmanaged_Win32">DevCase.Interop.Unmanaged.Win32 Namespace</a><br />

@@ -1,0 +1,68 @@
+# IAudioSessionEvents.OnIconPathChanged Method 
+ 
+
+Notifies the client that the display icon for the session has changed.
+
+**Namespace:**&nbsp;<a href="N_DevCase_Interop_Unmanaged_Win32_Interfaces">DevCase.Interop.Unmanaged.Win32.Interfaces</a><br />**Assembly:**&nbsp;DevCase.Interop (in DevCase.Interop.dll) Version: 3.3.0.0 (3.3)
+
+## Syntax
+
+**C#**<br />
+``` C#
+[PreserveSigAttribute]
+HResult OnIconPathChanged(
+	string iconPath,
+	in Guid refEventContext
+)
+```
+
+**VB**<br />
+``` VB
+<PreserveSigAttribute>
+Function OnIconPathChanged ( 
+	iconPath As String,
+	ByRef refEventContext As Guid
+) As HResult
+```
+
+**VB Usage**<br />
+``` VB Usage
+Dim instance As IAudioSessionEvents
+Dim iconPath As String
+Dim refEventContext As Guid
+Dim returnValue As HResult
+
+returnValue = instance.OnIconPathChanged(iconPath, 
+	refEventContext)
+```
+
+**C++**<br />
+``` C++
+[PreserveSigAttribute]
+HResult OnIconPathChanged(
+	[InAttribute] String^ iconPath, 
+	[InAttribute] Guid% refEventContext
+)
+```
+
+**F#**<br />
+``` F#
+[<PreserveSigAttribute>]
+abstract OnIconPathChanged : 
+        iconPath : string * 
+        refEventContext : Guid byref -> HResult 
+
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>iconPath</dt><dd>Type: System.String<br />The path for the new display icon for the session.</dd><dt>refEventContext</dt><dd>Type: System.Guid<br />A user context value that is passed to the notification callback.</dd></dl>
+
+#### Return Value
+Type: <a href="T_DevCase_Interop_Unmanaged_Win32_Enums_HResult">HResult</a><br />If the method succeeds, it returns <a href="T_DevCase_Interop_Unmanaged_Win32_Enums_HResult">S_OK</a>. If it fails, it returns an <a href="T_DevCase_Interop_Unmanaged_Win32_Enums_HResult">HResult</a> value.
+
+## See Also
+
+
+#### Reference
+<a href="T_DevCase_Interop_Unmanaged_Win32_Interfaces_IAudioSessionEvents">IAudioSessionEvents Interface</a><br /><a href="N_DevCase_Interop_Unmanaged_Win32_Interfaces">DevCase.Interop.Unmanaged.Win32.Interfaces Namespace</a><br />
