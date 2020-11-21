@@ -1,0 +1,36 @@
+# NumericSequenceFormatter Methods
+ 
+
+The <a href="T_DevCase_Core_Application_NumericSequenceFormatter">NumericSequenceFormatter</a> type exposes the following members.
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_Core_Application_NumericSequenceFormatter_DoFormat__1">DoFormat(T)</a></td><td>
+Does the format.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_Core_Application_NumericSequenceFormatter_Format">Format</a></td><td>
+Converts the value of a specified object to an equivalent string representation using specified format and culture-specific formatting information.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_Core_Application_NumericSequenceFormatter_GetFormat">GetFormat</a></td><td>
+Returns an object that provides formatting services for the specified type.</td></tr></table>&nbsp;
+<a href="#numericsequenceformatter-methods">Back to Top</a>
+
+## Extension Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo">CanConvertTo(Type)</a></td><td>Overloaded.  
+Determines whether the source object can be converted to the specified target type.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo__1">CanConvertTo(T)()</a></td><td>Overloaded.  
+Determines whether the source object can be converted to the specified target type.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1">ConvertTo(T)()</a></td><td>Overloaded.  
+Converts an object to the specified target type. 
+
+ If the conversion fails, an exception is thrown.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1_1">ConvertTo(T)(T)</a></td><td>Overloaded.  
+Converts an object to the specified target type. 
+
+ If the conversion fails, returns the specified default value.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_IsDisposable">IsDisposable</a></td><td>
+Determines whether the specified object is disposable.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr></table>&nbsp;
+<a href="#numericsequenceformatter-methods">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_DevCase_Core_Application_NumericSequenceFormatter">NumericSequenceFormatter Class</a><br /><a href="N_DevCase_Core_Application">DevCase.Core.Application Namespace</a><br />

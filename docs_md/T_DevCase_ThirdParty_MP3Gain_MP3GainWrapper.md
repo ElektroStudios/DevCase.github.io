@@ -1,0 +1,208 @@
+# MP3GainWrapper Class
+ 
+
+A wrapper of `MP3Gain.exe` application.
+
+
+## Inheritance Hierarchy
+System.Object<br />&nbsp;&nbsp;<a href="T_DevCase_Core_Design_AestheticObject">DevCase.Core.Design.AestheticObject</a><br />&nbsp;&nbsp;&nbsp;&nbsp;DevCase.ThirdParty.MP3Gain.MP3GainWrapper<br />
+**Namespace:**&nbsp;<a href="N_DevCase_ThirdParty_MP3Gain">DevCase.ThirdParty.MP3Gain</a><br />**Assembly:**&nbsp;DevCase.ThirdParty (in DevCase.ThirdParty.dll) Version: 3.3.0.0 (3.3)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public sealed class MP3GainWrapper : AestheticObject, 
+	IDisposable
+```
+
+**VB**<br />
+``` VB
+Public NotInheritable Class MP3GainWrapper
+	Inherits AestheticObject
+	Implements IDisposable
+```
+
+**VB Usage**<br />
+``` VB Usage
+Dim instance As MP3GainWrapper
+```
+
+**C++**<br />
+``` C++
+public ref class MP3GainWrapper sealed : public AestheticObject, 
+	IDisposable
+```
+
+**F#**<br />
+``` F#
+[<SealedAttribute>]
+type MP3GainWrapper =  
+    class
+        inherit AestheticObject
+        interface IDisposable
+    end
+```
+
+The MP3GainWrapper type exposes the following members.
+
+
+## Constructors
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper__ctor">MP3GainWrapper</a></td><td>
+Initializes a new instance of the MP3GainWrapper class.</td></tr></table>&nbsp;
+<a href="#mp3gainwrapper-class">Back to Top</a>
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_Exists">Exists</a></td><td>
+Gets a value indicating whether the `MP3Val.exe` file Exists.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_FilePath">FilePath</a></td><td>
+Gets the `MP3Val.exe` filepath.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_Process">Process</a></td><td>
+Gets the `MP3Gain.exe`Process instance.</td></tr></table>&nbsp;
+<a href="#mp3gainwrapper-class">Back to Top</a>
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_ApplyChannelGain">ApplyChannelGain(FileInfo, MP3GainChannel, Int32, Boolean)</a></td><td>
+Applies a volume gain change on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_ApplyChannelGain_1">ApplyChannelGain(String, MP3GainChannel, Int32, Boolean)</a></td><td>
+Applies a volume gain change on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_ApplyGain">ApplyGain(FileInfo, Int32, Boolean)</a></td><td>
+Applies a volume gain change on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_ApplyGain_1">ApplyGain(String, Int32, Boolean)</a></td><td>
+Applies a volume gain change on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_Dispose">Dispose</a></td><td>
+Releases all the resources used by this instance.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_FileHasTagInfo">FileHasTagInfo(FileInfo)</a></td><td>
+Determines whether the specified file contains an `APEv2` tag containing `MP3Gain` information.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_FileHasTagInfo_1">FileHasTagInfo(String)</a></td><td>
+Determines whether the specified file contains an `APEv2` tag containing `MP3Gain` information.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_SetGain">SetGain(FileInfo, Int32, Boolean)</a></td><td>
+Sets the global volume gain on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_SetGain_1">SetGain(String, Int32, Boolean)</a></td><td>
+Sets the global volume gain on the specified audio file.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_UndoGain">UndoGain(FileInfo, Boolean)</a></td><td>
+Undoes the gain changes made on the specified audio file. 
+
+ The audio file must contain a valid `APEv2` tag generated by `MP3Gain`.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_UndoGain_1">UndoGain(String, Boolean)</a></td><td>
+Undoes the gain changes made on the specified audio file. 
+
+ The file must contain a valid `APEv2` tag containing `MP3Gain` information.</td></tr></table>&nbsp;
+<a href="#mp3gainwrapper-class">Back to Top</a>
+
+## Events
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="E_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_Exited">Exited</a></td><td>
+Event raised when the `MP3Gain.exe` process has exited.</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="E_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_ProgressChanged">ProgressChanged</a></td><td>
+Event raised when `MP3Gain.exe` progress changes.</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="E_DevCase_ThirdParty_MP3Gain_MP3GainWrapper_Started">Started</a></td><td>
+Event raised when the `MP3Gain.exe` process has been started.</td></tr></table>&nbsp;
+<a href="#mp3gainwrapper-class">Back to Top</a>
+
+## Extension Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo">CanConvertTo(Type)</a></td><td>Overloaded.  
+Determines whether the source object can be converted to the specified target type.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_CanConvertTo__1">CanConvertTo(T)()</a></td><td>Overloaded.  
+Determines whether the source object can be converted to the specified target type.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1">ConvertTo(T)()</a></td><td>Overloaded.  
+Converts an object to the specified target type. 
+
+ If the conversion fails, an exception is thrown.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_ConvertTo__1_1">ConvertTo(T)(T)</a></td><td>Overloaded.  
+Converts an object to the specified target type. 
+
+ If the conversion fails, returns the specified default value.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")![Code example](media/CodeExample.png "Code example")</td><td><a href="M_DevCase_Core_Extensions_Object_ObjectExtensions_IsDisposable">IsDisposable</a></td><td>
+Determines whether the specified object is disposable.
+ (Defined by <a href="T_DevCase_Core_Extensions_Object_ObjectExtensions">ObjectExtensions</a>.)</td></tr></table>&nbsp;
+<a href="#mp3gainwrapper-class">Back to Top</a>
+
+## Examples
+This is a code example. 
+**VB**<br />
+``` VB
+Public Class Form1 : Inherits Form
+
+    Friend WithEvents MP3Gain As New MP3GainWrapper(".\MP3Gain.exe")
+
+    Private Sub Test() Handles MyBase.Shown
+
+        ' Checks if file contains APEv2 mp3gain tag
+        MsgBox(MP3Gain.FileHasTagInfo("C:\File.mp3"))
+
+        ' Set the global volume Gain of file to "89" db (In a scale of "0-100"),
+        ' and preserve the datetime of file.
+        MP3Gain.SetGain("C:\File.mp3", gainLevel:=89, preserveDatestamp:=True)
+
+        ' Apply a volume change of +5 db,
+        ' in the curent global volume gain of file.
+        MP3Gain.ApplyGain("C:\File.mp3", +5)
+
+        ' Apply a volume change of -5 db,
+        ' in the curent global volume gain of file.
+        MP3Gain.ApplyGain("C:\File.mp3", -5)
+
+        ' Apply a volume change of +10 db,
+        ' in the curent volume gain of the Left channel of an Stereo file.
+        MP3Gain.ApplyChannelGain("C:\File.mp3", MP3GainChannel.Left, +10)
+
+        ' Apply a volume change of -10 db,
+        ' in the curent volume gain of the Right channel of an Stereo file.
+        MP3Gain.ApplyChannelGain("C:\File.mp3", MP3GainChannel.Right, -10)
+
+        ' Undo all volume gain changes made in file.
+        MP3Gain.UndoGain("C:\File.mp3")
+
+    End Sub
+
+    Private Sub MP3Gain_Started(ByVal sender As Object, ByVal e As MP3GainStartedEventArgs) _
+    Handles MP3Gain.Started
+
+        ProgressBar1.Value = ProgressBar1.Minimum
+
+        Dim sb As New System.Text.StringBuilder
+        With sb
+            .AppendLine(String.Format("Started a ""{0}"" task", e.Task.ToString()))
+            .AppendLine(String.Format("Input file is: ""{0}""", e.File))
+            .AppendLine(String.Format("mp3gain process PID is: ""{0}""", DirectCast(sender, MP3GainWrapper).Process.Id))
+        End With
+
+        Debug.WriteLine(String.Format("Start Time: {0}", Date.Now.ToLongTimeString))
+        Debug.WriteLine(sb.ToString())
+
+    End Sub
+
+    Private Sub MP3Gain_Exited(ByVal sender As Object, ByVal e As MP3GainExitedEventArgs) _
+    Handles MP3Gain.Exited
+
+        If (e.Task <> MP3GainOperation.CheckTagInfo) Then
+
+            Dim sb As New Global.System.Text.StringBuilder
+
+            sb.AppendLine(String.Format("Finished a ""{0}"" task", e.Task.ToString()))
+            sb.AppendLine(String.Format("Input file is: ""{0}""", e.File))
+            sb.AppendLine(String.Format("mp3gain process PID is: {0}", DirectCast(sender, MP3GainWrapper).Process.Id))
+
+            If Not String.IsNullOrEmpty(e.InfoMessage) Then
+                sb.AppendLine(String.Format("Operation Information: {0}", e.InfoMessage))
+            End If
+
+            If Not String.IsNullOrEmpty(e.ErrorMessage) Then
+                sb.AppendLine(String.Format("Error Information: {0}", e.ErrorMessage))
+            End If
+
+            If e.GainLevel <> 0 Then
+                sb.AppendLine(String.Format("Volume gain change: {0}", CStr(e.GainLevel)))
+            End If
+
+            Debug.WriteLine(sb.ToString())
+            Debug.WriteLine(String.Format("End Time: {0}", Date.Now.ToLongTimeString))
+
+        End If
+
+    End Sub
+
+    Sub MP3Gain_ProgressUpdated(ByVal sender As Object, ByVal e As MP3GainProgressChangedEventArgs) _
+    Handles MP3Gain.ProgressChanged
+
+        Label1.Text = CStr(e.Percent)
+        ProgressBar1.Value = e.Percent
+        Application.DoEvents()
+
+    End Sub
+
+End Class
+```
+
+
+## See Also
+
+
+#### Reference
+<a href="N_DevCase_ThirdParty_MP3Gain">DevCase.ThirdParty.MP3Gain Namespace</a><br />
