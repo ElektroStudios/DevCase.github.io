@@ -1,0 +1,182 @@
+﻿<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" />
+    <script type="text/javascript" src="../scripts/branding.js"> </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>NativeMethods.NtMapViewOfSection Method (IntPtr, IntPtr, IntPtr, IntPtr, IntPtr, Int64, UIntPtr, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</title>
+    <meta name="Language" content="en-us" />
+    <meta name="Microsoft.Help.Id" content="M:DevCase.Win32.NativeMethods.NtMapViewOfSection(System.IntPtr,System.IntPtr,System.IntPtr@,System.IntPtr,System.IntPtr,System.Int64@,System.UIntPtr@,DevCase.Win32.Enums.SectionInherit,DevCase.Win32.Enums.MemoryAllocationType,DevCase.Win32.Enums.MemoryProtectionOptions)" />
+    <meta name="Description" content="Maps a view of a section into the virtual address space of a subject process." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="BrandingAware" content="true" />
+    
+    <meta name="container" content="DevCase.Win32" />
+    <meta name="file" content="M_DevCase_Win32_NativeMethods_NtMapViewOfSection_1" />
+    <meta name="guid" content="M_DevCase_Win32_NativeMethods_NtMapViewOfSection_1" />
+    
+    <link rel="stylesheet" type="text/css" href="../styles/branding-Website.css" />
+    <script type="text/javascript" src="../scripts/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="../scripts/branding-Website.js"></script>
+    <script type="text/javascript" src="../scripts/clipboard.min.js"></script>
+  </head>
+  <body onload="OnLoad('cs')">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <div class="pageHeader" id="PageHeader">DevCase Class Library v4.0<form id="SearchForm" method="get" action="#" onsubmit="javascript:TransferToSearchPage(); return false;"><input id="SearchTextBox" type="text" maxlength="200" /><button id="SearchButton" type="submit"></button></form></div>
+    <div class="pageBody">
+      <div class="leftNav" id="leftNav"><div id="tocNav"><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v4_0.htm" title="DevCase Class Library v4.0" tocid="roottoc">DevCase Class Library v4.0</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v4_0.htm" title="Namespaces" tocid="R_Project_DevCase_Class_Library_v4_0">Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Win32.htm" title="DevCase.Win32 Namespaces" tocid="G_DevCase_Win32">DevCase.Win32 Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/N_DevCase_Win32.htm" title="DevCase.Win32" tocid="N_DevCase_Win32">DevCase.Win32</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/T_DevCase_Win32_NativeMethods.htm" title="NativeMethods Class" tocid="T_DevCase_Win32_NativeMethods">NativeMethods Class</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Methods_T_DevCase_Win32_NativeMethods.htm" title="NativeMethods Methods" tocid="Methods_T_DevCase_Win32_NativeMethods">NativeMethods Methods</a></div><div class="toclevel1" data-toclevel="1" data-childrenloaded="true"><a class="tocExpanded" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Overload_DevCase_Win32_NativeMethods_NtMapViewOfSection.htm" title="NtMapViewOfSection Method " tocid="Overload_DevCase_Win32_NativeMethods_NtMapViewOfSection">NtMapViewOfSection Method </a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Win32_NativeMethods_NtMapViewOfSection.htm" title="NtMapViewOfSection Method (IntPtr, SafeProcessHandle, IntPtr, IntPtr, IntPtr, Int64, UIntPtr, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)" tocid="M_DevCase_Win32_NativeMethods_NtMapViewOfSection">NtMapViewOfSection Method (IntPtr, SafeProcessHandle, IntPtr, IntPtr, IntPtr, Int64, UIntPtr, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a></div><div class="toclevel2 current" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Win32_NativeMethods_NtMapViewOfSection_1.htm" title="NtMapViewOfSection Method (IntPtr, IntPtr, IntPtr, IntPtr, IntPtr, Int64, UIntPtr, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)" tocid="M_DevCase_Win32_NativeMethods_NtMapViewOfSection_1">NtMapViewOfSection Method (IntPtr, IntPtr, IntPtr, IntPtr, IntPtr, Int64, UIntPtr, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a></div></div><div id="tocResizableEW" onmousedown="OnMouseDown(event);"></div><div id="TocResize" class="tocResize"><img id="ResizeImageIncrease" src="../icons/TocOpen.gif" onclick="OnIncreaseToc()" alt="Click or drag to resize" title="Click or drag to resize" /><img id="ResizeImageReset" src="../icons/TocClose.gif" style="display:none" onclick="OnResetToc()" alt="Click or drag to resize" title="Click or drag to resize" /></div></div><div class="topicContent" id="TopicContent">
+        <table class="titleTable">
+          <tr>
+            <td class="titleColumn">
+              <h1>NativeMethods<span id="LST8263499F_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_0?cpp=::|nu=.");</script>NtMapViewOfSection Method (IntPtr, IntPtr, IntPtr<span id="LST8263499F_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_1?cpp=%");</script>, IntPtr, IntPtr, Int64<span id="LST8263499F_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_2?cpp=%");</script>, UIntPtr<span id="LST8263499F_3"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_3?cpp=%");</script>, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</h1>
+            </td>
+          </tr>
+        </table>
+        <span class="introStyle"></span> <div class="summary">
+ Maps a view of a section into the virtual address space of a subject process.
+ </div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_DevCase_Win32.htm">DevCase.Win32</a><br />
+    <strong>Assembly:</strong>
+   DevCase (in DevCase.dll) Version: 4.0.0.0 (4.0)<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID1RB')" onkeypress="SectionExpandCollapse_CheckKey('ID1RB', event)" tabindex="0"><img id="ID1RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Syntax</span></div><div id="ID1RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID0EECA_tab1" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cs','1','4');return false;">C#</a></div><div id="ID0EECA_tab2" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','vb','2','4');return false;">VB</a></div><div id="ID0EECA_tab3" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','cpp','3','4');return false;">C++</a></div><div id="ID0EECA_tab4" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID0EECA','fs','4','4');return false;">F#</a></div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID0EECA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID0EECA');return false;" title="Copy">Copy</a></div></div><div id="ID0EECA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">[<span class="identifier">DllImportAttribute</span>("NtDll.dll", CallingConvention = CallingConvention.StdCall)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="identifier">NTStatus</span> <span class="identifier">NtMapViewOfSection</span>(
+	<span class="identifier">IntPtr</span> <span class="parameter">hSection</span>,
+	<span class="identifier">IntPtr</span> <span class="parameter">hProcess</span>,
+	<span class="keyword">ref</span> <span class="identifier">IntPtr</span> <span class="parameter">refBaseAddress</span>,
+	<span class="identifier">IntPtr</span> <span class="parameter">zeroBits</span>,
+	<span class="identifier">IntPtr</span> <span class="parameter">commitSize</span>,
+	[<span class="identifier">OptionalAttribute</span>] <span class="keyword">ref</span> <span class="identifier">long</span> <span class="parameter">refSectionOffset</span>,
+	<span class="keyword">ref</span> <span class="identifier">UIntPtr</span> <span class="parameter">refViewSize</span>,
+	<span class="identifier">SectionInherit</span> <span class="parameter">sectionInherit</span>,
+	<span class="identifier">MemoryAllocationType</span> <span class="parameter">allocationType</span>,
+	<span class="identifier">MemoryProtectionOptions</span> <span class="parameter">protection</span>
+)</pre></div><div id="ID0EECA_code_Div2" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">&lt;<span class="identifier">DllImportAttribute</span>("NtDll.dll", CallingConvention := CallingConvention.StdCall&gt;]
+<span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">NtMapViewOfSection</span> ( 
+	<span class="parameter">hSection</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>,
+	<span class="parameter">hProcess</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>,
+	<span class="keyword">ByRef</span> <span class="parameter">refBaseAddress</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>,
+	<span class="parameter">zeroBits</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>,
+	<span class="parameter">commitSize</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>,
+	&lt;<span class="identifier">OptionalAttribute</span>&gt; <span class="keyword">ByRef</span> <span class="parameter">refSectionOffset</span> <span class="keyword">As</span> <span class="identifier">Long</span>,
+	<span class="keyword">ByRef</span> <span class="parameter">refViewSize</span> <span class="keyword">As</span> <span class="identifier">UIntPtr</span>,
+	<span class="parameter">sectionInherit</span> <span class="keyword">As</span> <span class="identifier">SectionInherit</span>,
+	<span class="parameter">allocationType</span> <span class="keyword">As</span> <span class="identifier">MemoryAllocationType</span>,
+	<span class="parameter">protection</span> <span class="keyword">As</span> <span class="identifier">MemoryProtectionOptions</span>
+) <span class="keyword">As</span> <span class="identifier">NTStatus</span>
+
+<span class="keyword">Dim</span> <span class="parameter">hSection</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">hProcess</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">refBaseAddress</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">zeroBits</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">commitSize</span> <span class="keyword">As</span> <span class="identifier">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">refSectionOffset</span> <span class="keyword">As</span> <span class="identifier">Long</span>
+<span class="keyword">Dim</span> <span class="parameter">refViewSize</span> <span class="keyword">As</span> <span class="identifier">UIntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">sectionInherit</span> <span class="keyword">As</span> <span class="identifier">SectionInherit</span>
+<span class="keyword">Dim</span> <span class="parameter">allocationType</span> <span class="keyword">As</span> <span class="identifier">MemoryAllocationType</span>
+<span class="keyword">Dim</span> <span class="parameter">protection</span> <span class="keyword">As</span> <span class="identifier">MemoryProtectionOptions</span>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="identifier">NTStatus</span>
+
+<span class="parameter">returnValue</span> = <span class="identifier">NativeMethods</span>.<span class="identifier">NtMapViewOfSection</span>(<span class="parameter">hSection</span>, 
+	<span class="parameter">hProcess</span>, <span class="parameter">refBaseAddress</span>, <span class="parameter">zeroBits</span>, 
+	<span class="parameter">commitSize</span>, <span class="parameter">refSectionOffset</span>, <span class="parameter">refViewSize</span>, 
+	<span class="parameter">sectionInherit</span>, <span class="parameter">allocationType</span>, 
+	<span class="parameter">protection</span>)</pre></div><div id="ID0EECA_code_Div3" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve"><span class="keyword">public</span>:
+[<span class="identifier">DllImportAttribute</span>(L"NtDll.dll", CallingConvention = CallingConvention::StdCall)]
+<span class="keyword">static</span> <span class="identifier">NTStatus</span> <span class="identifier">NtMapViewOfSection</span>(
+	[<span class="identifier">InAttribute</span>] <span class="identifier">IntPtr</span> <span class="parameter">hSection</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">IntPtr</span> <span class="parameter">hProcess</span>, 
+	<span class="identifier">IntPtr</span>% <span class="parameter">refBaseAddress</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">IntPtr</span> <span class="parameter">zeroBits</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">IntPtr</span> <span class="parameter">commitSize</span>, 
+	[<span class="identifier">OptionalAttribute</span>] <span class="identifier">long long</span>% <span class="parameter">refSectionOffset</span>, 
+	<span class="identifier">UIntPtr</span>% <span class="parameter">refViewSize</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">SectionInherit</span> <span class="parameter">sectionInherit</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">MemoryAllocationType</span> <span class="parameter">allocationType</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">MemoryProtectionOptions</span> <span class="parameter">protection</span>
+)</pre></div><div id="ID0EECA_code_Div4" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">[&lt;<span class="identifier">DllImportAttribute</span>("NtDll.dll", CallingConvention = CallingConvention.StdCall)&gt;]
+<span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">NtMapViewOfSection</span> : 
+        <span class="parameter">hSection</span> : <span class="identifier">IntPtr</span> * 
+        <span class="parameter">hProcess</span> : <span class="identifier">IntPtr</span> * 
+        <span class="parameter">refBaseAddress</span> : <span class="identifier">IntPtr</span> <span class="keyword">byref</span> * 
+        <span class="parameter">zeroBits</span> : <span class="identifier">IntPtr</span> * 
+        <span class="parameter">commitSize</span> : <span class="identifier">IntPtr</span> * 
+        [&lt;<span class="identifier">OptionalAttribute</span>&gt;] <span class="parameter">refSectionOffset</span> : <span class="identifier">int64</span> <span class="keyword">byref</span> * 
+        <span class="parameter">refViewSize</span> : <span class="identifier">UIntPtr</span> <span class="keyword">byref</span> * 
+        <span class="parameter">sectionInherit</span> : <span class="identifier">SectionInherit</span> * 
+        <span class="parameter">allocationType</span> : <span class="identifier">MemoryAllocationType</span> * 
+        <span class="parameter">protection</span> : <span class="identifier">MemoryProtectionOptions</span> <span class="keyword">-&gt;</span> <span class="identifier">NTStatus</span> 
+</pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID0EECA");</script><h4 class="subHeading">Parameters</h4><dl><dt><span class="parameter">hSection</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_4"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_4?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>IntPtr</a><br />
+ Handle to a section object. 
+ <p />
+ This handle is created by a successful call to <a href="M_DevCase_Win32_NativeMethods_NtCreateSection.htm">NtCreateSection(IntPtr<span id="LST8263499F_5"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_5?cpp=%");</script>, GenericAccessRights, ObjectAttributes, UInt64<span id="LST8263499F_6"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_6?cpp=%");</script>, MemoryProtectionOptions, SectionAttributes, SafeFileHandle)</a> 
+ or <a href="M_DevCase_Win32_NativeMethods_NtOpenSection.htm">NtOpenSection(IntPtr<span id="LST8263499F_7"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_7?cpp=%");</script>, GenericAccessRights, IntPtr<span id="LST8263499F_8"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_8?cpp=%");</script>)</a>.
+ </dd><dt><span class="parameter">hProcess</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_9"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_9?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>IntPtr</a><br />
+ Handle to the object that represents the process that the view should be mapped into. 
+ <p />
+ The handle must have been opened with <a href="T_DevCase_Win32_Enums_ProcessAccessRights.htm">VirtualMemoryOperation</a> access.
+ </dd><dt><span class="parameter">refBaseAddress</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_10"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_10?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>IntPtr</a><span id="LST8263499F_11"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_11?cpp=%");</script><br />
+ Pointer to a variable that receives the base address of the view. 
+ <p />
+ If the value of this parameter is not <a href="https://docs.microsoft.com/dotnet/api/system.intptr.zero" target="_blank" rel="noopener noreferrer">Zero</a>, 
+ the view is allocated starting at the specified virtual address rounded down to the next 64-kilobyte address boundary.
+ </dd><dt><span class="parameter">zeroBits</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_12"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_12?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>IntPtr</a><br />
+ Specifies the number of high-order address bits that must be zero in the base address of the section view. 
+ <p />
+ The value of this parameter must be less than 21 and is used only if 
+ <span class="parameter">refBaseAddress</span> is NULL—in other words, 
+ when the caller allows the system to determine where to allocate the view.
+ </dd><dt><span class="parameter">commitSize</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.intptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_13"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_13?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>IntPtr</a><br />
+ Specifies the size, in bytes, of the initially committed region of the view. 
+ <p /><span class="parameter">commitSize</span> is meaningful only for page-file backed sections 
+ and is rounded up to the nearest multiple of PAGE_SIZE. 
+ <p />
+ (for sections that map files, both the data and the image are committed at section-creation time).
+ </dd><dt><span class="parameter">refSectionOffset</span> (Optional)</dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.int64" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_14"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_14?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Int64</a><span id="LST8263499F_15"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_15?cpp=%");</script><br />
+ A pointer to a variable that receives the offset, in bytes, from the beginning of the section to the view. 
+ <p />
+ If this pointer is not <a href="https://docs.microsoft.com/dotnet/api/system.intptr.zero" target="_blank" rel="noopener noreferrer">Zero</a>, 
+ the offset is rounded down to the next allocation-granularity size boundary.
+ </dd><dt><span class="parameter">refViewSize</span></dt><dd>Type: <a href="https://docs.microsoft.com/dotnet/api/system.uintptr" target="_blank" rel="noopener noreferrer">System<span id="LST8263499F_16"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_16?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>UIntPtr</a><span id="LST8263499F_17"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_17?cpp=%");</script><br />
+ A pointer to a SIZE_T variable. 
+ <p />
+ If the initial value of this variable is zero, 
+ <a href="M_DevCase_Win32_NativeMethods_NtMapViewOfSection.htm">NtMapViewOfSection(IntPtr, SafeProcessHandle, IntPtr<span id="LST8263499F_18"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_18?cpp=%");</script>, IntPtr, IntPtr, Int64<span id="LST8263499F_19"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_19?cpp=%");</script>, UIntPtr<span id="LST8263499F_20"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_20?cpp=%");</script>, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a> maps a view of the section that starts at 
+ <span class="parameter">refSectionOffset</span> and continues to the end of the section. 
+ Otherwise, the initial value specifies the view's size, in bytes. 
+ <p /><a href="M_DevCase_Win32_NativeMethods_NtMapViewOfSection.htm">NtMapViewOfSection(IntPtr, SafeProcessHandle, IntPtr<span id="LST8263499F_21"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_21?cpp=%");</script>, IntPtr, IntPtr, Int64<span id="LST8263499F_22"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_22?cpp=%");</script>, UIntPtr<span id="LST8263499F_23"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_23?cpp=%");</script>, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a> always rounds this value up to the 
+ nearest multiple of PAGE_SIZE before mapping the view.
+ <p />
+ On return, the value receives the actual size, in bytes, of the view.
+ </dd><dt><span class="parameter">sectionInherit</span></dt><dd>Type: <a href="T_DevCase_Win32_Enums_SectionInherit.htm">DevCase.Win32.Enums<span id="LST8263499F_24"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_24?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>SectionInherit</a><br />
+ Specifies how the view is to be shared with child processes.
+ </dd><dt><span class="parameter">allocationType</span></dt><dd>Type: <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">DevCase.Win32.Enums<span id="LST8263499F_25"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_25?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>MemoryAllocationType</a><br />
+ Specifies a set of flags that describes the type of allocation to be performed for the specified region of pages. 
+ <p />
+ The valid flags are <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">LargePages</a>, 
+ <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">Reserve</a>, 
+ and <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">TopDown</a>. 
+ <p />
+ Although <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">Commit</a> is not allowed, 
+ it is implied unless <a href="T_DevCase_Win32_Enums_MemoryAllocationType.htm">Reserve</a> is specified. 
+ </dd><dt><span class="parameter">protection</span></dt><dd>Type: <a href="T_DevCase_Win32_Enums_MemoryProtectionOptions.htm">DevCase.Win32.Enums<span id="LST8263499F_26"></span><script type="text/javascript">AddLanguageSpecificTextSet("LST8263499F_26?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>MemoryProtectionOptions</a><br />
+ Specifies the type of protection for the region of initially committed pages.
+ <p />
+ Device and intermediate drivers should set this value to <a href="T_DevCase_Win32_Enums_MemoryProtectionOptions.htm">ReadWrite</a>.
+ </dd></dl><h4 class="subHeading">Return Value</h4>Type: <a href="T_DevCase_Win32_Enums_NTStatus.htm">NTStatus</a><br />
+ Returns <a href="T_DevCase_Win32_Enums_NTStatus.htm">SUCCESS</a> on success, or the appropriate <a href="T_DevCase_Win32_Enums_NTStatus.htm">NTStatus</a> error code on failure.
+ </div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Remarks</span></div><div id="ID2RBSection" class="collapsibleSection"><a href="https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/wdm/nf-wdm-Zwmapviewofsection" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/content/wdm/nf-wdm-Zwmapviewofsection</a><p /><a href="https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/section-objects-and-views" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/section-objects-and-views</a></div><div class="collapsibleAreaRegion" id="seeAlsoSection"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />See Also</span></div><div id="ID3RBSection" class="collapsibleSection"><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="T_DevCase_Win32_NativeMethods.htm">NativeMethods Class</a></div><div class="seeAlsoStyle"><a href="Overload_DevCase_Win32_NativeMethods_NtMapViewOfSection.htm">NtMapViewOfSection Overload</a></div><div class="seeAlsoStyle"><a href="N_DevCase_Win32.htm">DevCase.Win32 Namespace</a></div></div></div>
+    </div>
+    <div id="pageFooter" class="pageFooter">
+      <p>ElektroStudios 2022</p>
+      <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%20v4.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script> </div>
+  </body>
+</html>

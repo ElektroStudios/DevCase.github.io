@@ -1,0 +1,276 @@
+﻿<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" />
+    <script type="text/javascript" src="../scripts/branding.js"> </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>DevBackgroundWorker Class</title>
+    <meta name="Language" content="en-us" />
+    <meta name="System.Keywords" content="DevBackgroundWorker class" />
+    <meta name="System.Keywords" content="DevCase.Core.Threading.Components.DevBackgroundWorker class" />
+    <meta name="Microsoft.Help.F1" content="DevCase.Core.Threading.Components.DevBackgroundWorker" />
+    <meta name="Microsoft.Help.Id" content="T:DevCase.Core.Threading.Components.DevBackgroundWorker" />
+    <meta name="Description" content="A extended component with synchronous (blocking) run/cancellation support, and asynchronous pause/resume features." />
+    <meta name="Microsoft.Help.ContentType" content="Reference" />
+    <meta name="BrandingAware" content="true" />
+    
+    <meta name="container" content="DevCase.Core.Threading.Components" />
+    <meta name="file" content="T_DevCase_Core_Threading_Components_DevBackgroundWorker" />
+    <meta name="guid" content="T_DevCase_Core_Threading_Components_DevBackgroundWorker" />
+    
+    <link type="text/css" rel="stylesheet" href="../styles/highlight.css" />
+    <script type="text/javascript" src="../scripts/highlight.js"> </script>
+    <link rel="stylesheet" type="text/css" href="../styles/branding-Website.css" />
+    <script type="text/javascript" src="../scripts/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="../scripts/branding-Website.js"></script>
+    <script type="text/javascript" src="../scripts/clipboard.min.js"></script>
+  </head>
+  <body onload="OnLoad('cs')">
+    <input type="hidden" id="userDataCache" class="userDataStyle" />
+    <div class="pageHeader" id="PageHeader">DevCase Class Library v4.0<form id="SearchForm" method="get" action="#" onsubmit="javascript:TransferToSearchPage(); return false;"><input id="SearchTextBox" type="text" maxlength="200" /><button id="SearchButton" type="submit"></button></form></div>
+    <div class="pageBody">
+      <div class="leftNav" id="leftNav"><div id="tocNav"><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v4_0.htm" title="DevCase Class Library v4.0" tocid="roottoc">DevCase Class Library v4.0</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/R_Project_DevCase_Class_Library_v4_0.htm" title="Namespaces" tocid="R_Project_DevCase_Class_Library_v4_0">Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/G_DevCase_Core_Threading.htm" title="DevCase.Core.Threading Namespaces" tocid="G_DevCase_Core_Threading">DevCase.Core.Threading Namespaces</a></div><div class="toclevel0" data-toclevel="0"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/N_DevCase_Core_Threading_Components.htm" title="DevCase.Core.Threading.Components" tocid="N_DevCase_Core_Threading_Components">DevCase.Core.Threading.Components</a></div><div class="toclevel1 current" data-toclevel="1" data-childrenloaded="true"><a class="tocExpanded" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/T_DevCase_Core_Threading_Components_DevBackgroundWorker.htm" title="DevBackgroundWorker Class" tocid="T_DevCase_Core_Threading_Components_DevBackgroundWorker">DevBackgroundWorker Class</a></div><div class="toclevel2" data-toclevel="2"><a data-tochassubtree="false" href="../html/M_DevCase_Core_Threading_Components_DevBackgroundWorker__ctor.htm" title="DevBackgroundWorker Constructor " tocid="M_DevCase_Core_Threading_Components_DevBackgroundWorker__ctor">DevBackgroundWorker Constructor </a></div><div class="toclevel2" data-toclevel="2"><a class="tocCollapsed" onclick="javascript: Toggle(this);" href="#!" /><a data-tochassubtree="true" href="../html/Methods_T_DevCase_Core_Threading_Components_DevBackgroundWorker.htm" title="DevBackgroundWorker Methods" tocid="Methods_T_DevCase_Core_Threading_Components_DevBackgroundWorker">DevBackgroundWorker Methods</a></div></div><div id="tocResizableEW" onmousedown="OnMouseDown(event);"></div><div id="TocResize" class="tocResize"><img id="ResizeImageIncrease" src="../icons/TocOpen.gif" onclick="OnIncreaseToc()" alt="Click or drag to resize" title="Click or drag to resize" /><img id="ResizeImageReset" src="../icons/TocClose.gif" style="display:none" onclick="OnResetToc()" alt="Click or drag to resize" title="Click or drag to resize" /></div></div><div class="topicContent" id="TopicContent">
+        <table class="titleTable">
+          <tr>
+            <td class="titleColumn">
+              <h1>DevBackgroundWorker Class</h1>
+            </td>
+          </tr>
+        </table>
+        <span class="introStyle"></span> <div class="summary">
+ A extended <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.backgroundworker" target="_blank" rel="noopener noreferrer">BackgroundWorker</a> component 
+ with synchronous (blocking) run/cancellation support, 
+ and asynchronous pause/resume features.
+ </div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID0RB')" onkeypress="SectionExpandCollapse_CheckKey('ID0RB', event)" tabindex="0"><img id="ID0RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Inheritance Hierarchy</span></div><div id="ID0RBSection" class="collapsibleSection"><a href="https://docs.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">System<span id="LSTD2F7B1CE_0"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_0?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Object</a><br />  <a href="https://docs.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_blank" rel="noopener noreferrer">System<span id="LSTD2F7B1CE_1"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_1?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>MarshalByRefObject</a><br />    <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">System.ComponentModel<span id="LSTD2F7B1CE_2"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_2?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>Component</a><br />      <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.backgroundworker" target="_blank" rel="noopener noreferrer">System.ComponentModel<span id="LSTD2F7B1CE_3"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_3?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>BackgroundWorker</a><br />        <span class="selflink">DevCase.Core.Threading.Components<span id="LSTD2F7B1CE_4"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_4?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DevBackgroundWorker</span><br /></div><p> </p>
+    <strong>Namespace:</strong> 
+   <a href="N_DevCase_Core_Threading_Components.htm">DevCase.Core.Threading.Components</a><br />
+    <strong>Assembly:</strong>
+   DevCase (in DevCase.dll) Version: 4.0.0.0 (4.0)<div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID2RB')" onkeypress="SectionExpandCollapse_CheckKey('ID2RB', event)" tabindex="0"><img id="ID2RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Syntax</span></div><div id="ID2RBSection" class="collapsibleSection"><div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EECA_tab1" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','cs','1','4');return false;">C#</a></div><div id="ID1EECA_tab2" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','vb','2','4');return false;">VB</a></div><div id="ID1EECA_tab3" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','cpp','3','4');return false;">C++</a></div><div id="ID1EECA_tab4" class="codeSnippetContainerTab"><a href="#" onclick="javascript:ChangeTab('ID1EECA','fs','4','4');return false;">F#</a></div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EECA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EECA');return false;" title="Copy">Copy</a></div></div><div id="ID1EECA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve">[<span class="identifier">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="identifier">Component</span>), "Component.bmp")]
+[<span class="identifier">DefaultEventAttribute</span>("DoWork")]
+<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">DevBackgroundWorker</span> : <span class="identifier">BackgroundWorker</span></pre></div><div id="ID1EECA_code_Div2" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">&lt;<span class="identifier">ToolboxBitmapAttribute</span>(<span class="keyword">GetType</span>(<span class="identifier">Component</span>), "Component.bmp")&gt;
+&lt;<span class="identifier">DefaultEventAttribute</span>("DoWork")&gt;
+<span class="keyword">Public</span> <span class="keyword">Class</span> <span class="identifier">DevBackgroundWorker</span>
+	<span class="keyword">Inherits</span> <span class="identifier">BackgroundWorker</span>
+
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">DevBackgroundWorker</span></pre></div><div id="ID1EECA_code_Div3" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">[<span class="identifier">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="identifier">Component</span>), L"Component.bmp")]
+[<span class="identifier">DefaultEventAttribute</span>(L"DoWork")]
+<span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">DevBackgroundWorker</span> : <span class="keyword">public</span> <span class="identifier">BackgroundWorker</span></pre></div><div id="ID1EECA_code_Div4" class="codeSnippetContainerCode" style="display: none"><pre xml:space="preserve">[&lt;<span class="identifier">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="identifier">Component</span>), "Component.bmp")&gt;]
+[&lt;<span class="identifier">DefaultEventAttribute</span>("DoWork")&gt;]
+<span class="keyword">type</span> <span class="identifier">DevBackgroundWorker</span> =  
+    <span class="keyword">class</span>
+        <span class="keyword">inherit</span> <span class="identifier">BackgroundWorker</span>
+    <span class="keyword">end</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EECA");</script></div><p>The <span class="selflink">DevBackgroundWorker</span> type exposes the following members.</p><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID3RB')" onkeypress="SectionExpandCollapse_CheckKey('ID3RB', event)" tabindex="0"><img id="ID3RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Constructors</span></div><div id="ID3RBSection" class="collapsibleSection"><table class="members" id="constructorList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker__ctor.htm">DevBackgroundWorker</a></td><td><div class="summary">
+ Initializes a new instance of the <span class="selflink">DevBackgroundWorker</span> class.
+ </div></td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID4RB')" onkeypress="SectionExpandCollapse_CheckKey('ID4RB', event)" tabindex="0"><img id="ID4RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Methods</span></div><div id="ID4RBSection" class="collapsibleSection"><table class="members" id="methodList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Cancel.htm">Cancel</a></td><td><div class="summary">
+ Requests cancellation of a pending background operation.
+ <p />
+ It blocks the caller thread until the remaining background work is canceled.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_CancelAsync.htm">CancelAsync</a></td><td><div class="summary">
+ Asynchronously requests cancellation of a pending background operation.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Pause.htm">Pause</a></td><td><div class="summary">
+ Pause a pending background operation.
+ <p />
+ It blocks the caller thread until the background work is resumed. 
+ To resume the background work, call the <a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Resume.htm">Resume<span id="LSTD2F7B1CE_5"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_5?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a> method.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_RequestPause.htm">RequestPause</a></td><td><div class="summary">
+ Asynchronously requests to pause a pending background operation.
+ <p />
+ To pause the background work after requesting a pause, 
+ call the <a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Pause.htm">Pause<span id="LSTD2F7B1CE_6"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_6?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a> method.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Resume.htm">Resume</a></td><td><div class="summary">
+ Resume a pending paused background operation.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_Run.htm">Run</a></td><td><div class="summary">
+ Starts execution of a background operation.
+ <p />
+ It blocks the caller thread until the background work is done.
+ </div></td></tr><tr data="public;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /></td><td><a href="M_DevCase_Core_Threading_Components_DevBackgroundWorker_RunAsync.htm">RunAsync</a></td><td><div class="summary">
+ Asynchronously starts execution of a background operation.
+ </div></td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID5RB')" onkeypress="SectionExpandCollapse_CheckKey('ID5RB', event)" tabindex="0"><img id="ID5RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Extension Methods</span></div><div id="ID5RBSection" class="collapsibleSection"><table class="members" id="extensionMethodList"><tr><th class="iconColumn">
+								 
+							</th><th>Name</th><th>Description</th></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ObjectExtensions_ObjectExtensions_CanConvertTo.htm">CanConvertTo(Type)</a></td><td>Overloaded.  <div class="summary">
+ Determines whether the source object can be converted to the specified target type.
+ </div> (Defined by <a href="T_DevCase_Extensions_ObjectExtensions_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ObjectExtensions_ObjectExtensions_CanConvertTo__1.htm">CanConvertTo<span id="LSTD2F7B1CE_7"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_7?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTD2F7B1CE_8"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_8?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script><span id="LSTD2F7B1CE_9"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_9?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a></td><td>Overloaded.  <div class="summary">
+ Determines whether the source object can be converted to the specified target type.
+ </div> (Defined by <a href="T_DevCase_Extensions_ObjectExtensions_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ObjectExtensions_ObjectExtensions_ConvertTo__1.htm">ConvertTo<span id="LSTD2F7B1CE_10"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_10?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTD2F7B1CE_11"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_11?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script><span id="LSTD2F7B1CE_12"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_12?cs=()|vb=|cpp=()|nu=()|fs=()");</script></a></td><td>Overloaded.  <div class="summary">
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, an exception is thrown.
+ </div> (Defined by <a href="T_DevCase_Extensions_ObjectExtensions_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ObjectExtensions_ObjectExtensions_ConvertTo__1_1.htm">ConvertTo<span id="LSTD2F7B1CE_13"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_13?cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=(");</script>T<span id="LSTD2F7B1CE_14"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_14?cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)");</script>(T)</a></td><td>Overloaded.  <div class="summary">
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, returns the specified default value.
+ </div> (Defined by <a href="T_DevCase_Extensions_ObjectExtensions_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ComponentExtensions_ComponentExtensions_GetEvent.htm">GetEvent</a></td><td><div class="summary">
+ Gets a <a href="https://docs.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_blank" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
+ declared in the source <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">Component</a>.
+ </div> (Defined by <a href="T_DevCase_Extensions_ComponentExtensions_ComponentExtensions.htm">ComponentExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ComponentExtensions_ComponentExtensions_GetEventHandlers.htm">GetEventHandlers</a></td><td><div class="summary">
+ Gets all the delegates associated to the specified event raised by the source <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">Component</a>.
+ </div> (Defined by <a href="T_DevCase_Extensions_ComponentExtensions_ComponentExtensions.htm">ComponentExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ComponentExtensions_ComponentExtensions_GetEvents.htm">GetEvents</a></td><td><div class="summary">
+ Gets all the events declared in the source <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">Component</a>.
+ </div> (Defined by <a href="T_DevCase_Extensions_ComponentExtensions_ComponentExtensions.htm">ComponentExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ComponentExtensions_ComponentExtensions_GetSubscribedEvents.htm">GetSubscribedEvents</a></td><td><div class="summary">
+ Gets a list of events declared in the source <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">Component</a>  
+ that are subscribed to a event-handler.
+ </div> (Defined by <a href="T_DevCase_Extensions_ComponentExtensions_ComponentExtensions.htm">ComponentExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ObjectExtensions_ObjectExtensions_IsDisposable.htm">IsDisposable</a></td><td><div class="summary">
+ Determines whether the specified object is disposable.
+ </div> (Defined by <a href="T_DevCase_Extensions_ObjectExtensions_ObjectExtensions.htm">ObjectExtensions</a>.)</td></tr><tr data="public;inherited;notNetfw;"><td><img src="../icons/pubextension.gif" alt="Public Extension Method" title="Public Extension Method" /><img src="../icons/CodeExample.png" alt="Code example" title="Code example" /></td><td><a href="M_DevCase_Extensions_ComponentExtensions_ComponentExtensions_TryGetEvent.htm">TryGetEvent</a></td><td><div class="summary">
+ Tries to get a <a href="https://docs.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_blank" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
+ declared in the source <a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.component" target="_blank" rel="noopener noreferrer">Component</a>.
+ </div> (Defined by <a href="T_DevCase_Extensions_ComponentExtensions_ComponentExtensions.htm">ComponentExtensions</a>.)</td></tr></table><a href="#PageHeader">Top</a></div><div class="collapsibleAreaRegion"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID6RB')" onkeypress="SectionExpandCollapse_CheckKey('ID6RB', event)" tabindex="0"><img id="ID6RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />Examples</span></div><div id="ID6RBSection" class="collapsibleSection"> This is a code example.
+ <div class="codeSnippetContainer"><div class="codeSnippetContainerTabs"><div id="ID1EAABBA_tab1" class="codeSnippetContainerTabSingle">VB</div></div><div class="codeSnippetContainerCodeContainer"><div class="codeSnippetToolBar"><div class="codeSnippetToolBarText"><a id="ID1EAABBA_copyCode" href="#" class="copyCodeSnippet" onclick="javascript:CopyToClipboard('ID1EAABBA');return false;" title="Copy">Copy</a></div></div><div id="ID1EAABBA_code_Div1" class="codeSnippetContainerCode" style="display: block"><pre xml:space="preserve"><span class="highlight-spacerShort"></span><span class="highlight-keyword">Friend</span> <span class="highlight-keyword">WithEvents</span> Worker <span class="highlight-keyword">As</span> DevBackgroundWorker
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Button_Run_Click() <span class="highlight-keyword">Handles</span> Button_Run.Click
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">If</span> (<span class="highlight-keyword">Me</span>.Worker <span class="highlight-keyword">IsNot</span> <span class="highlight-keyword">Nothing</span>) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Select</span> <span class="highlight-keyword">Case</span> <span class="highlight-keyword">Me</span>.Worker.State
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Case</span> DevBackgroundWorkerState.Running, DevBackgroundWorkerState.Paused
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Me</span>.Worker.Cancel()
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Case</span> <span class="highlight-keyword">Else</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-comment">' Do Nothing.</span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">End</span> <span class="highlight-keyword">Select</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.Worker = <span class="highlight-keyword">New</span> DevBackgroundWorker
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.Worker.RunAsync()
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Button_Pause_Click() <span class="highlight-keyword">Handles</span> Button_Pause.Click
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.Worker.RequestPause()
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Button_Resume_Click() <span class="highlight-keyword">Handles</span> Button_Resume.Click
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.Worker.<span class="highlight-keyword">Resume</span>()
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Button_Cancel_Click() <span class="highlight-keyword">Handles</span> Button_Cancel.Click
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Me</span>.Worker.Cancel()
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' Handles the &lt;see cref="DevBackgroundWorker.DoWork"/&gt; event of the &lt;see cref="Worker"/&gt; instance.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="sender"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The source of the event.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' </span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="e"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The &lt;see cref="DoWorkEventArgs"/&gt; instance containing the event data.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>&lt;DebuggerStepperBoundary&gt;
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Worker_DoWork(<span class="highlight-keyword">ByVal</span> sender <span class="highlight-keyword">As</span> <span class="highlight-keyword">Object</span>, <span class="highlight-keyword">ByVal</span> e <span class="highlight-keyword">As</span> DoWorkEventArgs) _
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Handles</span> Worker.DoWork
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Dim</span> progress <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Dim</span> lock <span class="highlight-keyword">As</span> <span class="highlight-keyword">Object</span> = <span class="highlight-literal">""</span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">SyncLock</span> lock
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">For</span> i <span class="highlight-keyword">As</span> <span class="highlight-keyword">Integer</span> = <span class="highlight-number">0</span> <span class="highlight-keyword">To</span> <span class="highlight-number">100</span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">If</span> (<span class="highlight-keyword">Me</span>.Worker.CancellationPending) <span class="highlight-keyword">Then</span> <span class="highlight-comment">' Cancel the background operation.</span>
+<span class="highlight-spacerShort"></span>                e.Cancel = <span class="highlight-keyword">True</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Exit</span> <span class="highlight-keyword">For</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">Else</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">If</span> (<span class="highlight-keyword">Me</span>.Worker.PausePending) <span class="highlight-keyword">Then</span> <span class="highlight-comment">' Pause the background operation.</span>
+<span class="highlight-spacerShort"></span>                    <span class="highlight-keyword">Me</span>.Worker.Pause() <span class="highlight-comment">' Blocking pause call.</span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">Me</span>.DoSomething()
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">If</span> <span class="highlight-keyword">Me</span>.Worker.WorkerReportsProgress <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>                    progress = i
+<span class="highlight-spacerShort"></span>                    <span class="highlight-keyword">Me</span>.Worker.ReportProgress(progress)
+<span class="highlight-spacerShort"></span>                <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>            <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Next</span> i
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">SyncLock</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">If</span> (<span class="highlight-keyword">Me</span>.Worker.WorkerReportsProgress) <span class="highlight-keyword">AndAlso</span> <span class="highlight-keyword">Not</span> (<span class="highlight-keyword">Me</span>.Worker.CancellationPending) <span class="highlight-keyword">AndAlso</span> (progress &lt; <span class="highlight-number">100</span>) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>        <span class="highlight-keyword">Me</span>.Worker.ReportProgress(percentProgress:=<span class="highlight-number">100</span>)
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' Handles the &lt;see cref="DevBackgroundWorker.ProgressChanged"/&gt; event of the &lt;see cref="Worker"/&gt; instance.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="sender"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The source of the event.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' </span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="e"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The &lt;see cref="ProgressChangedEventArgs"/&gt; instance containing the event data.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>&lt;DebuggerStepperBoundary&gt;
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Worker_ProgressChanged(<span class="highlight-keyword">ByVal</span> sender <span class="highlight-keyword">As</span> <span class="highlight-keyword">Object</span>, <span class="highlight-keyword">ByVal</span> e <span class="highlight-keyword">As</span> ProgressChangedEventArgs) _
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Handles</span> Worker.ProgressChanged
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    Console.WriteLine(<span class="highlight-keyword">String</span>.Format(<span class="highlight-literal">"Background Work Progress: {00}%"</span>, e.ProgressPercentage))
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' Handles the &lt;see cref="DevBackgroundWorker.RunWorkerCompleted"/&gt; event of the &lt;see cref="Worker"/&gt; instance.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/summary&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="sender"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The source of the event.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' </span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;param name="e"&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' The &lt;see cref="RunWorkerCompletedEventArgs"/&gt; instance containing the event data.</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' &lt;/param&gt;</span>
+<span class="highlight-spacerShort"></span><span class="highlight-comment">''' ----------------------------------------------------------------------------------------------------</span>
+<span class="highlight-spacerShort"></span>&lt;DebuggerStepperBoundary&gt;
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> Worker_RunWorkerCompleted(<span class="highlight-keyword">ByVal</span> sender <span class="highlight-keyword">As</span> <span class="highlight-keyword">Object</span>, <span class="highlight-keyword">ByVal</span> e <span class="highlight-keyword">As</span> RunWorkerCompletedEventArgs) _
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Handles</span> Worker.RunWorkerCompleted
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">If</span> (e.Cancelled) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>        Debug.WriteLine(<span class="highlight-literal">"Background work cancelled."</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">ElseIf</span> (e.<span class="highlight-keyword">Error</span> <span class="highlight-keyword">IsNot</span> <span class="highlight-keyword">Nothing</span>) <span class="highlight-keyword">Then</span>
+<span class="highlight-spacerShort"></span>        Debug.WriteLine(<span class="highlight-literal">"Background work error."</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">Else</span>
+<span class="highlight-spacerShort"></span>        Debug.WriteLine(<span class="highlight-literal">"Background work done."</span>)
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    <span class="highlight-keyword">End</span> <span class="highlight-keyword">If</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>    Console.WriteLine(<span class="highlight-keyword">String</span>.Format(<span class="highlight-literal">"State: {0}"</span>, <span class="highlight-keyword">Me</span>.Worker.State.ToString()))
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span>
+<span class="highlight-spacerShort"></span>
+<span class="highlight-spacerShort"></span>&lt;DebuggerStepperBoundary&gt;
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">Private</span> <span class="highlight-keyword">Sub</span> DoSomething()
+<span class="highlight-spacerShort"></span>    Thread.Sleep(TimeSpan.FromSeconds(<span class="highlight-number">1</span>))
+<span class="highlight-spacerShort"></span><span class="highlight-keyword">End</span> <span class="highlight-keyword">Sub</span></pre></div></div></div><script type="text/javascript">AddLanguageTabSet("ID1EAABBA");</script></div><div class="collapsibleAreaRegion" id="seeAlsoSection"><span class="collapsibleRegionTitle" onclick="SectionExpandCollapse('ID7RB')" onkeypress="SectionExpandCollapse_CheckKey('ID7RB', event)" tabindex="0"><img id="ID7RBToggle" class="collapseToggle" src="../icons/SectionExpanded.png" />See Also</span></div><div id="ID7RBSection" class="collapsibleSection"><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="N_DevCase_Core_Threading_Components.htm">DevCase.Core.Threading.Components Namespace</a></div><div class="seeAlsoStyle"><a href="https://docs.microsoft.com/dotnet/api/system.componentmodel.backgroundworker" target="_blank" rel="noopener noreferrer">System.ComponentModel<span id="LSTD2F7B1CE_15"></span><script type="text/javascript">AddLanguageSpecificTextSet("LSTD2F7B1CE_15?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>BackgroundWorker</a></div></div></div>
+    </div>
+    <div id="pageFooter" class="pageFooter">
+      <p>ElektroStudios 2022</p>
+      <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%20v4.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script> </div>
+  </body>
+</html>
