@@ -9,16 +9,6 @@
 
 ---
 
-# **💲 Purchase**
- - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
-
----
-
-# **ℹ️ Online Documentation**
- - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
-
----
-
 # **✔️ Features**
 
 + ### The right tool to solve (almost) all your problems
@@ -31,6 +21,89 @@
 
 + ### Help is ~~on the way~~ right here
   * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
+
+---
+
+# **💲 Purchase**
+ - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
+
+---
+
+# **ℹ️ Online Documentation**
+ - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
+
+---
+
+# **🤷‍ But what specific things can I achieve using the DevCase Class Library?**
+
+The capabilities provided by the 100+ library files that composes the DevCase class library cannot be summarized in a few paragraphs, but here is a great list of interesting tasks that were achieved by using the members provided in the namespaces from the DevCase class library:
+
+| Task |
+| ------ |
+| A low-level keyboard hook in a event-oriented way, by using the built-in KeyboardMonitor class. |
+| A low-level mouse hook in a event-oriented way, by using the built-in MouseMonitor class. |
+| A most recent used (MRU) system for your application, by using the built-in MruUtil and MruItem classes. | 
+| A shortcut file (.lnk) manager to create or edit shortcuts, with the built-in ShortcutFileInfo class. | 
+| A Undo/Redo mechanism for your controls, by using the built-in UndoRedo class. | 
+| Add a file to Microsoft Windows recent docs, pin or unpin a file into taskbar or startmenu, refresh the Explorer instances. | 
+| Add magnetism to the borders of your user-interface window, by using the built-in WindowMagnetizer class. | 
+| Add or remove items to windows startup, by using the built-in WinStartup class. | 
+| Add, find, remove or edit user accounts, by using the built-in UserAccountUtil class. | 
+| An application’s log file system, by using the built-in LogfileWriter class. | 
+| Animate windows, center them to other windows, activate full-screen mode and other features, by using the built-in GraphicalUtil class. | 
+| Automate external processes and windows, move or resize windows, modify text of an edit-control, flash a window, and more, by using the built-in UIAutomation class. | 
+| Beuautify XML or JSON documents. | 
+| Build command-line parameters for CLI applications, by using the built-in CommandlineParameter class. | 
+| Calculate numeric percentages, determine if number is multiple by, divisible by, prime, positive, negative, and more. | 
+| Compile C# or VB.NET projects at run-time, or single units of code. | 
+| Convert an amount of time, from unit of time to other. | 
+| Convert between units of the Metric System of the International System of Units (SI), by using the built-in Units class. | 
+| Convert karaoke lyrics, by using the built-in LyricUtil class. | 
+| Copy or rename files and fodlers, set the user-rights of a file, set file attributes, find files by patterns, compare files byte to byte, create dummy files and hard-links, and much more by using the built-in FileUtil and DirectoryUtil classes. | 
+| Create a file splitter and a file merger, by using the built-in FileSplitter class. | 
+| Create and edit .NET managed resources (.resx files) at run-time, by using the built-in ResXManager class. | 
+| Create and manage INI files for your portable application, by using the built-in IniManager class. | 
+| Create and represent file signatures, by using the built-in FileSignature class. | 
+| Create or edit music playlists, by using the built-in PlaylistEditor class. | 
+| Create, remove, find, backup, copy and edit registry keys or sub-trees, by using the built-in RegistryUtil class. | 
+| Customize system cursors, wallpapers, fonts, screen saver and visual themes, by using the built-in ThemingUtil class. | 
+| Determine if a network device or specific webpage is available. | 
+| Dock your application window to any border of the screen or to another window, by using the built-in WindowToScreenDocker and WindowToWindowDocker classes. | 
+| Drag controls at run-time in your user-interface, by using the built-in ControlDragger class. | 
+| Encrypt and decrypt data, text or files, compute and compare file checksums and hashes, generate passwords; all by using the built-in CryptoUtil class. | 
+| Extend IEnumerable types by using built-in extension-methods to find by index an element, split a collection into a number of sequences, randomize, bubble-sort, and much more. | 
+| Format a drive, list drives of specific drive-type, get hardware identifiers (CPU, Motherdoard), print a document. | 
+| Generate captchas for your application, by using the built-in CaptchaGenerator and Captcha classes. | 
+| Geo-locate addresses, download files, upload to an FTP, send a mail using Gmail or Microsoft Live, create a temporary mail account, and much more. | 
+| Get the current market price of a cryptocurrency. | 
+| Kill or close processes by their name, do WMI queries for processes, run and wait until a process is fully loaded. | 
+| Launch a control-panel applet, arrange desktop icons, show or hide the desktop or taskbar. | 
+| Let the end-user select and capture a region on the screen, by using the built-in ScreenRegionSelector class. | 
+| Lock at run-time the components that composes your user-interface, by using the built-in WindowLocker class. | 
+| Make a borderless Form moveable, by using the built-in FormDragger class. | 
+| Manage shared-memory blocks for inter-process communication with another application, by using the built-in SharedMemory class. | 
+| Manage the address mappings of the Microsoft Windows HOSTS file, by using the built-in Hosts class. | 
+| Manage the environment variables and PATH and EXTPATH contents, by using the built-in EnvironmentVariables and EnvironmentPath classes. | 
+| Manage the system recycle bins and their items inside, by using the built-in RecycleBin class. | 
+| Manage the Windows Firewall, enable or disable it, add or remove firewall rules, by using the built-in FirewallUtil class. | 
+| Measure time as a chronometer or a countdown in a event-oriented way, by using the built-in TimeMeasurer class. | 
+| Monitor hardware changes about the insertion or removal of drives (eg. useful for USB monitoring), by using the built-in DriveWatcher class. | 
+| Monitor the system network traffic or a specific application’s traffic, by using the built-in NetworkTrafficMonitor and ProcessTrafficMonitor classes. | 
+| Perform string operations such as: split bylength, rename using a specific string-case, randomize, measure length, reverse, rotate, and much mor. | 
+| Permute all the possible sequences of characters. | 
+| Print text documents, by using the built-in PrintDocumentBasic and PrintDocumentExpert classes. | 
+| Record and play music files, by using the built-in WaveRecorder class. | 
+| Register system-wide hotkeys, by using the built-in Hotkey class. | 
+| Retrieve S.M.A.R.T. data from disk drives, by using the built-in SMART class. | 
+| Serialize and deserialize objects as Binary, XML, or JSON formats. | 
+| Stress a CPU or a disk drive, by using the built-in HardwareStress class. | 
+| Take screenshots from a screen, a window or a region, by using the built-in ImageUtil class. | 
+| Test the execution of a target member and the time that the member takes to finish execution. | 
+| Transform images into black and white or grayscale, set the brightness, gamma, opacity or contrast of a image, resize or scale a image, and much more. | 
+| Translate words between languages, by using the built-in GoogleTranslator class. | 
+| Tweak operating system values, by using the built-in TweakingUtil class. | 
+| Use command-line wrappers for some 3rd part applications such as FFmpeg, dbPoweramp or MP3val, by using the DevCase.ThirdPArt.dll assembly. | 
+| Validate an ip, url, or mail address. | 
 
 ---
 
@@ -58,7 +131,9 @@
 
 # **⚙️ Main assemblies and namespaces**
 
-| Name | Description |
+Listed below are the names of the main namespaces that are shared by the 100+ library files that composes the DevCase Class Library, and a brief summary of their general purpose:
+
+| Assembly Name / Namespace | Description |
 | ------ | ----------- |
 | DevCase.Runtime | This assembly is specifically designed to enhance the runtime performance of DevCase's libraries by focusing on memory and resource optimization, while it also offers some reusable utilities for the programmer.
 | DevCase.UI | Create visually stunning and intuitive user interfaces with the user-controls contained in DevCase.UI namespaces. This namespace offers a wide range of UI components, dialogs, controls, and styling options to enhance the aesthetics and user experience of your applications. DevCase.UI namespace empowers you to create captivating interfaces that leave a lasting impression.
