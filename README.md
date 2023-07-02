@@ -9,12 +9,32 @@
 
 ---
 
-# **💲 Purchase**
- - __*[Click here to open the product page at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
+# **✔️ Features**
+
++ ### The right tool to solve (almost) all your problems
+  * The DevCase Class Library is a comprehensive collection comprising over 100 distinct library files, each tailored to provide an extensive range of capabilities across diverse scenarios. 
+  * With its expansive repertoire, this class library equips developers with a powerful toolkit to address a wide spectrum of requirements. Whether you're building business applications, developing cutting-edge software solutions, or exploring innovative possibilities, the DevCase Class Library empowers you with an abundance of functionalities and features.
+
++ ### For .NET Framework and .NET Core
+  * This extensive collection of libraries are conveniently packaged to provide seamless support for .NET Framework 4.8 and above, as well as .NET Core 7.0 and above. This inclusive distribution ensures compatibility across various versions of the .NET platform, allowing developers to leverage the libraries' capabilities regardless of their preferred framework.
+  * Note that .NET Core support is a recent feature in DevCase Class Library and not all the functionality has been successfully ported.
+
++ ### Help is ~~on the way~~ right here
+  * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
 
 ---
 
-# **✅ Benefits**
+# **ℹ️ Online Documentation **
+ - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
+
+---
+
+# **💲 Purchase**
+ - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
+
+---
+
+# **❤️ Benefits**
 
 + ### Unlock the Potential
   * With DevCase Class Library, you gain access to a vast collection of innovative and powerful APIs and extensions, meticulously crafted to streamline your development process. No longer bound by mundane and repetitive tasks, you can focus your creativity on building remarkable applications that fulfill your business or personal needs.
@@ -36,20 +56,7 @@
 
 ---
 
-# **ℹ️ Features**
-
-+ ### The right tool to solve (almost) all your problems
-  * The DevCase Class Library is a comprehensive collection comprising over 100 distinct library files, each tailored to provide an extensive range of capabilities across diverse scenarios. 
-  * With its expansive repertoire, this class library equips developers with a powerful toolkit to address a wide spectrum of requirements. Whether you're building business applications, developing cutting-edge software solutions, or exploring innovative possibilities, the DevCase Class Library empowers you with an abundance of functionalities and features.
-
-+ ### For .NET Framework and .NET Core
-  * This extensive collection of libraries are conveniently packaged to provide seamless support for .NET Framework 4.8 and above, as well as .NET Core 7.0 and above. This inclusive distribution ensures compatibility across various versions of the .NET platform, allowing developers to leverage the libraries' capabilities regardless of their preferred framework.
-  * Note that .NET Core support is a recent feature in DevCase Class Library and not all the functionality has been successfully ported.
-
-+ ### Help is ~~on the way~~ right here
-  * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
-
-## Main assemblies and namespaces
+## ⚙️ Main assemblies and namespaces
 
 | Name | Description |
 | ------ | ----------- |
