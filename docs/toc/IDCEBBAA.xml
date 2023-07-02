@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+    </li>
+    <li>
+      <a href="589f16e2-8b41-7589-9775-6b2b1b9ef178.htm">BBCode<wbr />Node</a>
+    </li>
+    <li>
+      <a href="a9f1c181-d768-d301-c4de-51beb95e82f8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a5f0f2ab-ac49-5e35-e9f3-d9b650a56f53" class="has-submenu" href="a5f0f2ab-ac49-5e35-e9f3-d9b650a56f53.htm">
+        <span data-tocFile="../toc/IDACEBBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Append<wbr />Child</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9a58af34-034a-a7fc-10c3-00c32621b917" href="9a58af34-034a-a7fc-10c3-00c32621b917.htm">Clone</a>
+    </li>
+    <li>
+      <a id="f8276ddf-3616-b729-89d8-2c31fb1c7ce6" href="f8276ddf-3616-b729-89d8-2c31fb1c7ce6.htm">Insert<wbr />After</a>
+    </li>
+    <li>
+      <a id="de7749d5-190c-6c93-9910-86c54a2df720" href="de7749d5-190c-6c93-9910-86c54a2df720.htm">Insert<wbr />Before</a>
+    </li>
+    <li>
+      <a id="fd6c60fa-b2aa-74fd-3b51-e4c90cffaa19" href="fd6c60fa-b2aa-74fd-3b51-e4c90cffaa19.htm">Prepend<wbr />Child</a>
+    </li>
+    <li>
+      <a id="586aa263-e62a-21d6-4f8f-6cd34a5f61d3" href="586aa263-e62a-21d6-4f8f-6cd34a5f61d3.htm">Remove<wbr />All</a>
+    </li>
+    <li>
+      <a id="b12665f3-5b9d-1a4d-91c0-f01caedde885" href="b12665f3-5b9d-1a4d-91c0-f01caedde885.htm">Remove<wbr />Child</a>
+    </li>
+    <li>
+      <a id="c625ee58-30e1-9108-7bb0-ab25aff5eda0" href="c625ee58-30e1-9108-7bb0-ab25aff5eda0.htm">Replace<wbr />Child</a>
+    </li>
+    <li>
+      <a id="fbe30f98-e1d3-8038-3ad9-414809a4e323" href="fbe30f98-e1d3-8038-3ad9-414809a4e323.htm">To<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

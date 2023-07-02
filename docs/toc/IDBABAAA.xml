@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="e51cd8be-5bcf-29ad-22d4-0ef107ca07e8.htm">Console<wbr />Progress<wbr />Bar</a>
+    </li>
+    <li>
+      <a href="cfceb57c-d4a1-318e-f151-7c129a2b51ee.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a6d746be-cddd-dcd8-d1c0-6d0b78521bba" href="a6d746be-cddd-dcd8-d1c0-6d0b78521bba.htm">Animation</a>
+    </li>
+    <li>
+      <a id="aff9d0df-3ac1-ab25-66da-193e86e25201" href="aff9d0df-3ac1-ab25-66da-193e86e25201.htm">Animation<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="7afd987b-e3f1-0ad0-b5bd-e51d5ce81582" href="7afd987b-e3f1-0ad0-b5bd-e51d5ce81582.htm">Animation<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="658a6be5-d69c-fe67-843f-ac18b3fe906a" href="658a6be5-d69c-fe67-843f-ac18b3fe906a.htm">Animation<wbr />Speed</a>
+    </li>
+    <li>
+      <a id="f415d8bd-1212-048e-cc3f-67fe9e698650" href="f415d8bd-1212-048e-cc3f-67fe9e698650.htm">Animation<wbr />Visible</a>
+    </li>
+    <li>
+      <a id="11d6798a-0a37-b37f-ebbe-84edd6ec7da4" href="11d6798a-0a37-b37f-ebbe-84edd6ec7da4.htm">Block<wbr />Active<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="21827c3b-7a0b-dc2c-5016-d158c22ab9ad" href="21827c3b-7a0b-dc2c-5016-d158c22ab9ad.htm">Block<wbr />Active<wbr />Char</a>
+    </li>
+    <li>
+      <a id="c4c25b50-a1d8-a190-df1f-ffd2e25f2bfe" href="c4c25b50-a1d8-a190-df1f-ffd2e25f2bfe.htm">Block<wbr />Active<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="d1899738-0e38-ef1f-8589-7e7d5e01a176" href="d1899738-0e38-ef1f-8589-7e7d5e01a176.htm">Block<wbr />Count</a>
+    </li>
+    <li>
+      <a id="648a4281-217b-b8c6-24d2-a8d61942b8ff" href="648a4281-217b-b8c6-24d2-a8d61942b8ff.htm">Block<wbr />Inactive<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="7ec37a5c-6ea0-76f4-c113-007ac820ad09" href="7ec37a5c-6ea0-76f4-c113-007ac820ad09.htm">Block<wbr />Inactive<wbr />Char</a>
+    </li>
+    <li>
+      <a id="0e1c44a1-cdcb-77ef-dcdb-ada89bc5a82b" href="0e1c44a1-cdcb-77ef-dcdb-ada89bc5a82b.htm">Block<wbr />Inactive<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="cd4c02d8-0967-ef08-5496-22246b52f58a" href="cd4c02d8-0967-ef08-5496-22246b52f58a.htm">Border<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="fd29ac2c-a659-e2b4-ef35-8db30d0621d7" href="fd29ac2c-a659-e2b4-ef35-8db30d0621d7.htm">Border<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="2b9a9b1c-d686-e948-21f2-31e634386c62" href="2b9a9b1c-d686-e948-21f2-31e634386c62.htm">Current<wbr />Progress</a>
+    </li>
+    <li>
+      <a id="7ba28b44-2ceb-73c3-da7c-f81cb5da8ea2" href="7ba28b44-2ceb-73c3-da7c-f81cb5da8ea2.htm">Progress<wbr />Text<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="a5c5f94d-f36b-eb61-bb52-8ba8865996f4" href="a5c5f94d-f36b-eb61-bb52-8ba8865996f4.htm">Progress<wbr />Text<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="d66bfe87-086f-e2c8-3fde-a9ac9e141f61" href="d66bfe87-086f-e2c8-3fde-a9ac9e141f61.htm">Progress<wbr />Text<wbr />Format</a>
+    </li>
+  </tocItems>
+</toc>

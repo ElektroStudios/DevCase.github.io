@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="582f4cbd-f571-ad09-21d7-6a10d528b3ac.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Digital<wbr />Information</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="88cf22d9-0398-878d-b9c0-06554e95294a" href="88cf22d9-0398-878d-b9c0-06554e95294a.htm">Digital<wbr />Storage<wbr />Units</a>
+    </li>
+    <li>
+      <a id="ce649a48-50f3-6ef9-a97b-d16b4ca8f973" href="ce649a48-50f3-6ef9-a97b-d16b4ca8f973.htm">Disc<wbr />Storage<wbr />Sizes</a>
+    </li>
+    <li>
+      <a id="27b6322d-097e-d855-e893-43f6ef000294" class="has-submenu" href="27b6322d-097e-d855-e893-43f6ef000294.htm">
+        <span data-tocFile="../toc/IDCHFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Digital<wbr />Information</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="d9ff22c4-a995-7607-c882-ce9ccedcd966.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Game<wbr />Faqs</a>
+    </li>
+    <li>
+      <a href="21f2544d-45dc-3bde-a929-eedfaac3b4ec.htm">Util<wbr />Game<wbr />Faqs</a>
+    </li>
+    <li>
+      <a href="58b5042e-4604-a53b-58aa-4543dfd65a35.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ef372f86-71e1-ce57-b57a-0950dabd55ea" class="has-submenu" href="ef372f86-71e1-ce57-b57a-0950dabd55ea.htm">
+        <span data-tocFile="../toc/IDAAATDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Has<wbr />Cheats</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="696fbb05-932c-6414-38c2-5dcb55d0088b" class="has-submenu" href="696fbb05-932c-6414-38c2-5dcb55d0088b.htm">
+        <span data-tocFile="../toc/IDBAATDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Has<wbr />Savegames</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="97b2f5a7-1101-7373-5694-52b1a2839dee" class="has-submenu" href="97b2f5a7-1101-7373-5694-52b1a2839dee.htm">
+        <span data-tocFile="../toc/IDCAATDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Scrap<wbr />Cheats</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

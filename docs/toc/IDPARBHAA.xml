@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="f930cfcb-ad12-19d1-7f00-0fee3634f96d.htm">Util<wbr />Image</a>
+    </li>
+    <li>
+      <a href="e4024a54-917e-6ad4-93e1-58978220cc90.htm">Methods</a>
+    </li>
+    <li>
+      <a href="87529f99-aa99-65a5-41fe-ea38d371e329.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8fece739-e23e-f642-567e-4ecbda85487b" href="8fece739-e23e-f642-567e-4ecbda85487b.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />File<wbr />Info, Color)</a>
+    </li>
+    <li>
+      <a id="ac8f830c-a424-0c96-24d2-c06e5555c558" href="ac8f830c-a424-0c96-24d2-c06e5555c558.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />Image, Color)</a>
+    </li>
+    <li>
+      <a id="36c3a2c3-7d74-11c6-4025-89088883d930" href="36c3a2c3-7d74-11c6-4025-89088883d930.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />String, Color)</a>
+    </li>
+    <li>
+      <a id="9dccb0b5-6af4-9447-f91a-08df5e63a25c" href="9dccb0b5-6af4-9447-f91a-08df5e63a25c.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />File<wbr />Info, Int<wbr />32, Color)</a>
+    </li>
+    <li>
+      <a id="7409c8d6-803e-1d21-69d4-e68bc33f3024" href="7409c8d6-803e-1d21-69d4-e68bc33f3024.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />Image, Int<wbr />32, Color)</a>
+    </li>
+    <li>
+      <a id="51245c52-8578-2140-d6e9-38ae97bfee7d" href="51245c52-8578-2140-d6e9-38ae97bfee7d.htm">Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image(<wbr />String, Int<wbr />32, Color)</a>
+    </li>
+  </tocItems>
+</toc>

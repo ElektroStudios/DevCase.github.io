@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="f0ad7811-5ed8-4920-dc5e-6fed39829b20.htm">Dev<wbr />Mode</a>
+    </li>
+    <li>
+      <a href="b5e3daff-8ca7-cdce-4769-74f1cb0b2d17.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7d903dc6-38c2-c84c-0956-05af1e4d67aa" href="7d903dc6-38c2-c84c-0956-05af1e4d67aa.htm">Bits<wbr />Per<wbr />Pixel</a>
+    </li>
+    <li>
+      <a id="84e42180-ccb7-83ec-cd7c-8a8ea33770f7" href="84e42180-ccb7-83ec-cd7c-8a8ea33770f7.htm">Collate</a>
+    </li>
+    <li>
+      <a id="b20e73f3-cdca-ce36-cfba-5e6b803877fe" href="b20e73f3-cdca-ce36-cfba-5e6b803877fe.htm">Color</a>
+    </li>
+    <li>
+      <a id="17df1546-fe5f-b8a0-ffa6-dffdea0bce86" href="17df1546-fe5f-b8a0-ffa6-dffdea0bce86.htm">Device<wbr />Name</a>
+    </li>
+    <li>
+      <a id="bf9104b5-c9b0-eb54-6736-803e7686b6b4" href="bf9104b5-c9b0-eb54-6736-803e7686b6b4.htm">Display<wbr />Frequency</a>
+    </li>
+    <li>
+      <a id="ff78654c-d070-0e0f-f2e0-0a9b08c2f52e" href="ff78654c-d070-0e0f-f2e0-0a9b08c2f52e.htm">Dither<wbr />Type</a>
+    </li>
+    <li>
+      <a id="703aa49b-1f5e-2f4e-1958-7099382f2eed" href="703aa49b-1f5e-2f4e-1958-7099382f2eed.htm">Driver<wbr />Extra</a>
+    </li>
+    <li>
+      <a id="68ebe961-740f-8bd5-43f7-171260e96f67" href="68ebe961-740f-8bd5-43f7-171260e96f67.htm">Driver<wbr />Version</a>
+    </li>
+    <li>
+      <a id="fcb41d2d-49ce-b838-c054-ca78fd6b1f7c" href="fcb41d2d-49ce-b838-c054-ca78fd6b1f7c.htm">Duplex</a>
+    </li>
+    <li>
+      <a id="e4253d4d-a3a0-5c69-8991-2522b48f9a98" href="e4253d4d-a3a0-5c69-8991-2522b48f9a98.htm">Fields</a>
+    </li>
+    <li>
+      <a id="b5a80d01-5fca-0362-5a3b-ef968a264164" href="b5a80d01-5fca-0362-5a3b-ef968a264164.htm">Flags</a>
+    </li>
+    <li>
+      <a id="bd292b1e-dbfc-460b-6838-c66bfd038b99" href="bd292b1e-dbfc-460b-6838-c66bfd038b99.htm">Form<wbr />Name</a>
+    </li>
+    <li>
+      <a id="6387bcf3-3945-7915-5f19-aa7ba55fa7a3" href="6387bcf3-3945-7915-5f19-aa7ba55fa7a3.htm">Icm<wbr />Intent</a>
+    </li>
+    <li>
+      <a id="bb22b04f-ff9e-02a4-1cd1-301b6f46794c" href="bb22b04f-ff9e-02a4-1cd1-301b6f46794c.htm">Icm<wbr />Method</a>
+    </li>
+    <li>
+      <a id="61e3b656-b6f7-6708-23fc-e294948d2d7b" href="61e3b656-b6f7-6708-23fc-e294948d2d7b.htm">Log<wbr />Pixels</a>
+    </li>
+    <li>
+      <a id="e5b65f75-fc26-a7fe-35f9-f8482bfa3e0b" href="e5b65f75-fc26-a7fe-35f9-f8482bfa3e0b.htm">Media<wbr />Type</a>
+    </li>
+    <li>
+      <a id="4bd608f9-0901-a5db-c05c-ac749dc2a3d2" href="4bd608f9-0901-a5db-c05c-ac749dc2a3d2.htm">Mode</a>
+    </li>
+    <li>
+      <a id="012b81f8-6a28-7a6c-6b46-0e77ae9afe86" href="012b81f8-6a28-7a6c-6b46-0e77ae9afe86.htm">Panning<wbr />Height</a>
+    </li>
+    <li>
+      <a id="7bf20f12-7d48-7ef8-c330-d3cd91a14b29" href="7bf20f12-7d48-7ef8-c330-d3cd91a14b29.htm">Panning<wbr />Width</a>
+    </li>
+    <li>
+      <a id="174e0eae-4bb7-0742-15f8-270c1f30d91b" href="174e0eae-4bb7-0742-15f8-270c1f30d91b.htm">Pixels<wbr />Height</a>
+    </li>
+    <li>
+      <a id="1b331d9a-8721-bc5c-23db-3b19cb187d90" href="1b331d9a-8721-bc5c-23db-3b19cb187d90.htm">Pixels<wbr />Width</a>
+    </li>
+    <li>
+      <a id="f2102690-11e7-8c45-0773-7db614ceb5b5" href="f2102690-11e7-8c45-0773-7db614ceb5b5.htm">Reserved<wbr />1</a>
+    </li>
+    <li>
+      <a id="d64a6919-343b-8563-32b4-a624e212a2b0" href="d64a6919-343b-8563-32b4-a624e212a2b0.htm">Reserved<wbr />2</a>
+    </li>
+    <li>
+      <a id="e889aa6a-0996-0c48-4218-655294b119d4" href="e889aa6a-0996-0c48-4218-655294b119d4.htm">Size<wbr />Of<wbr />Struct</a>
+    </li>
+    <li>
+      <a id="7ac2fc39-b7fc-1741-9220-3d57b0aafce8" href="7ac2fc39-b7fc-1741-9220-3d57b0aafce8.htm">Spec<wbr />Version</a>
+    </li>
+    <li>
+      <a id="0cd0a6ad-9604-ade1-b757-bd2a42f79b1f" href="0cd0a6ad-9604-ade1-b757-bd2a42f79b1f.htm">TTOption</a>
+    </li>
+    <li>
+      <a id="0d395c6c-459b-076a-b1b4-0c382165278d" href="0d395c6c-459b-076a-b1b4-0c382165278d.htm">YResolution</a>
+    </li>
+  </tocItems>
+</toc>

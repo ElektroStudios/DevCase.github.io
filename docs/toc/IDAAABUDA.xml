@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="bf2415de-f4af-771e-2036-4197f74650a1.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx Namespaces</a>
+    </li>
+    <li>
+      <a href="2b79b325-7e7d-9210-45b6-750d9c2a96cc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx.<wbr />Extensions.<wbr />Gecko<wbr />Web<wbr />Browser<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="5cea574a-583e-41fc-2b63-ba2024da0448.htm">Gecko<wbr />Web<wbr />Browser<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="5e30c1c8-6d91-5347-b824-5f660131bd39.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9fa0fd86-3f4e-210b-c4f1-dedfa78a087e.htm">Navigate<wbr />And<wbr />Wait</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bbe5e8b5-4548-5537-bd8e-cb1737bb56d7" href="bbe5e8b5-4548-5537-bd8e-cb1737bb56d7.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, String)</a>
+    </li>
+    <li>
+      <a id="3090d8a2-43e0-3b0f-ed29-da8121686ace" href="3090d8a2-43e0-3b0f-ed29-da8121686ace.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, Uri)</a>
+    </li>
+    <li>
+      <a id="f9bd4470-7cb4-546e-c2e8-bc619689e291" href="f9bd4470-7cb4-546e-c2e8-bc619689e291.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, String, Gecko<wbr />Load<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="0ecc9b33-8a82-2773-9f7a-2b2609216d98" href="0ecc9b33-8a82-2773-9f7a-2b2609216d98.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, Uri, Gecko<wbr />Load<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="04fc17e8-2f7b-f19e-cb78-4f989bb5c9b5" href="04fc17e8-2f7b-f19e-cb78-4f989bb5c9b5.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, String, Gecko<wbr />Load<wbr />Flags, String, Mime<wbr />Input<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="6aac8dd8-e7e4-7cc4-b0cb-69f830b8d2d9" href="6aac8dd8-e7e4-7cc4-b0cb-69f830b8d2d9.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, Uri, Gecko<wbr />Load<wbr />Flags, String, Mime<wbr />Input<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="9c05434b-a4da-40c2-cfbc-c0ed8d0bf7fd" href="9c05434b-a4da-40c2-cfbc-c0ed8d0bf7fd.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, String, Gecko<wbr />Load<wbr />Flags, String, Mime<wbr />Input<wbr />Stream, Mime<wbr />Input<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="a07a1216-dc83-ce1e-e720-c861538058ff" href="a07a1216-dc83-ce1e-e720-c861538058ff.htm">Navigate<wbr />And<wbr />Wait(<wbr />Gecko<wbr />Web<wbr />Browser, Uri, Gecko<wbr />Load<wbr />Flags, String, Mime<wbr />Input<wbr />Stream, Mime<wbr />Input<wbr />Stream)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,345 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>Kernel32.DeviceIoControl(SafeFileHandle, DirectoryManagementControlCodes, IntPtr, Int32, IntPtr, Int32, Int32, IntPtr) Method</title>
+    <meta name="Title" content="DeviceIoControl(SafeFileHandle, DirectoryManagementControlCodes, IntPtr, Int32, IntPtr, Int32, Int32, IntPtr)" />
+    <meta name="Help.Id" content="M:DevCase.Win32.NativeMethods.Kernel32.DeviceIoControl(Microsoft.Win32.SafeHandles.SafeFileHandle,DevCase.Win32.Enums.DirectoryManagementControlCodes,System.IntPtr,System.Int32,System.IntPtr,System.Int32,System.Int32@,System.IntPtr)" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Win32.NativeMethods" />
+    <meta name="guid" content="3e0df151-fa13-9731-7499-125b520f3085" />
+    <meta name="Description" content="Sends a control code directly to a specified device driver, causing the corresponding device to perform the corresponding operation." />
+    <meta name="tocFile" content="../toc/ID02B0AJFFA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Kernel<wbr />32<span id="LST46AD045E_0" data-languageSpecificText="cpp=::|nu=."></span>Device<wbr />Io<wbr />Control(Safe<wbr />File<wbr />Handle, Directory<wbr />Management<wbr />Control<wbr />Codes, Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, Int<wbr />32, Int<wbr />32<span id="LST46AD045E_1" data-languageSpecificText="cpp=%"></span>, Int<wbr />Ptr) Method</h1>
+            <div class="summary">
+ Sends a control code directly to a specified device driver,
+ causing the corresponding device to perform the corresponding operation.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">DeviceIoControl</span>(
+	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a> <span class="parameter">hDevice</span>,
+	<a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a> <span class="parameter">ioControlCode</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">inputBuffer</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">inputBufferSize</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">outputBuffer</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">outputBufferSize</span>,
+	<span class="keyword">out</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">refBytesReturned</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">overlapped</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet := CharSet.Auto, SetLastError := true&gt;]
+<span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">DeviceIoControl</span> ( 
+	<span class="parameter">hDevice</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>,
+	<span class="parameter">ioControlCode</span> <span class="keyword">As</span> <a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">inputBuffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">inputBufferSize</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; &lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="parameter">outputBuffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">outputBufferSize</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refBytesReturned</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; &lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="parameter">overlapped</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+
+<span class="keyword">Dim</span> <span class="parameter">hDevice</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>
+<span class="keyword">Dim</span> <span class="parameter">ioControlCode</span> <span class="keyword">As</span> <a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a>
+<span class="keyword">Dim</span> <span class="parameter">inputBuffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">inputBufferSize</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">outputBuffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">outputBufferSize</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">refBytesReturned</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">overlapped</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+
+<span class="parameter">returnValue</span> = <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32</a>.<span class="identifier">DeviceIoControl</span>(<span class="parameter">hDevice</span>, 
+	<span class="parameter">ioControlCode</span>, <span class="parameter">inputBuffer</span>, <span class="parameter">inputBufferSize</span>, 
+	<span class="parameter">outputBuffer</span>, <span class="parameter">outputBufferSize</span>, 
+	<span class="parameter">refBytesReturned</span>, <span class="parameter">overlapped</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
+[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Kernel32.dll", CharSet = CharSet::Auto, SetLastError = true)]
+<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">DeviceIoControl</span>(
+	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>^ <span class="parameter">hDevice</span>, 
+	<a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a> <span class="parameter">ioControlCode</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">inputBuffer</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">inputBufferSize</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">outputBuffer</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">outputBufferSize</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a>% <span class="parameter">refBytesReturned</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">overlapped</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)&gt;]
+<span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">DeviceIoControl</span> : 
+        <span class="parameter">hDevice</span> : <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a> * 
+        <span class="parameter">ioControlCode</span> : <a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">inputBuffer</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">inputBufferSize</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">outputBuffer</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">byref</span> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">outputBufferSize</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
+        <span class="parameter">refBytesReturned</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="keyword">byref</span> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">overlapped</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hDevice</span>  <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a></dt><dd>
+ A handle to the device on which the operation is to be performed.
+ <p />
+ The device is typically a volume, directory, file, or stream.
+ <p />
+ To retrieve a device handle, use the <a href="4c279059-6d21-48f1-fabd-e5a9fd291e4f.htm">CreateFile(String, FileAccessRights, FileShare, IntPtr, FileMode, CreateFileFlags, IntPtr)</a> function.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">ioControlCode</span>  <a href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">DirectoryManagementControlCodes</a></dt><dd>
+ The directory management control code for the operation.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">inputBuffer</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ A pointer to the input buffer that contains the data required to perform the operation.
+ <p />
+ The format of this data depends on the value of the <span class="parameter">ioControlCode</span> parameter.
+ <p />
+ This parameter can be <span class="keyword"><span id="LST46AD045E_2" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span> if
+ <span class="parameter">ioControlCode</span> parameter specifies an operation that does not require input data.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">inputBufferSize</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a>  (Optional)</dt><dd>
+ The size of the input buffer specified in the <span class="parameter">inputBuffer</span> parameter, in bytes.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">outputBuffer</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ A pointer to the output buffer that is to receive the data returned by the operation.
+ <p />
+ The format of this data depends on the value of the dwIoControlCode parameter.
+ <p />
+ This parameter can be <span class="keyword"><span id="LST46AD045E_3" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span> if
+ <span class="parameter">ioControlCode</span> parameter specifies an operation that does not return data.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">outputBufferSize</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a>  (Optional)</dt><dd>
+ The size of the input buffer specified in the <span class="parameter">outputBuffer</span> parameter, in bytes.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refBytesReturned</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a><span id="LST46AD045E_4" data-languageSpecificText="cpp=%"></span></dt><dd>
+ A pointer to a variable that receives the size of the data stored in the
+ output buffer of <span class="parameter">outputBuffer</span> parameter, in bytes.
+ <p />
+ If the output buffer is too small to receive any data, the call fails,
+ <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST46AD045E_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> returns <a href="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de.htm">ERROR_INSUFFICIENT_BUFFER</a>,
+ and <span class="parameter">refBytesReturned</span> is zero.
+ <p />
+ If the output buffer is too small to hold all of the data but can hold some entries,
+ some drivers will return as much data as fits.
+ In this case, the call fails, <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST46AD045E_6" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> returns
+ <a href="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de.htm">ERROR_MORE_DATA</a>, and <span class="parameter">refBytesReturned</span> indicates the
+ amount of data received.
+ Your application should call <span class="selflink">DeviceIoControl(SafeFileHandle, DirectoryManagementControlCodes, IntPtr, Int32, IntPtr, Int32, Int32<span id="LST46AD045E_7" data-languageSpecificText="cpp=%"></span>, IntPtr)</span> again with the same operation,
+ specifying a new starting point.
+ <p />
+ If <span class="parameter">overlapped</span> is <span class="keyword"><span id="LST46AD045E_8" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>,
+ <span class="parameter">refBytesReturned</span> cannot be <span class="keyword"><span id="LST46AD045E_9" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>.
+ Even when an operation returns no output data and <span class="parameter">outputBuffer</span> is <span class="keyword"><span id="LST46AD045E_10" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>,
+ <span class="selflink">DeviceIoControl(SafeFileHandle, DirectoryManagementControlCodes, IntPtr, Int32, IntPtr, Int32, Int32<span id="LST46AD045E_11" data-languageSpecificText="cpp=%"></span>, IntPtr)</span> makes use of <span class="parameter">refBytesReturned</span>.
+ After such an operation, the value of <span class="parameter">refBytesReturned</span> is meaningless.
+ <p />
+ If <span class="parameter">overlapped</span> is not <span class="keyword"><span id="LST46AD045E_12" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>,
+ <span class="parameter">refBytesReturned</span> can be <span class="keyword"><span id="LST46AD045E_13" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>.
+ If this parameter is not <span class="keyword"><span id="LST46AD045E_14" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span> and the operation returns data,
+ <span class="parameter">refBytesReturned</span> is meaningless until the overlapped operation has completed.
+ To retrieve the number of bytes returned, call <span class="code">GetOverlappedResult</span> function.
+ <p />
+ If <span class="parameter">hDevice</span> is associated with an I/O completion port,
+ you can retrieve the number of bytes returned by calling <span class="code">GetQueuedCompletionStatus</span> function.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">overlapped</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ A pointer to an <span class="code">OVERLAPPED</span> structure.
+ <p />
+ If <span class="parameter">hDevice</span> was opened without specifying <a href="0cdc7944-c002-6c71-e2c5-21dc23270caf.htm">Overlapped</a> flag,
+ <span class="parameter">overlapped</span> parameter is ignored.
+ <p />
+ If <span class="parameter">hDevice</span> was opened with the <a href="0cdc7944-c002-6c71-e2c5-21dc23270caf.htm">Overlapped</a> flag,
+ the operation is performed as an overlapped (asynchronous) operation.
+ In this case, <span class="parameter">overlapped</span> parameter must point to a valid <span class="code">OVERLAPPED</span> structure
+ that contains a handle to an event object. Otherwise, the function fails in unpredictable ways.
+ <p />
+ For overlapped operations, <span class="selflink">DeviceIoControl(SafeFileHandle, DirectoryManagementControlCodes, IntPtr, Int32, IntPtr, Int32, Int32<span id="LST46AD045E_15" data-languageSpecificText="cpp=%"></span>, IntPtr)</span> returns immediately,
+ and the event object is signaled when the operation has been completed.
+ Otherwise, the function does not return until the operation has been completed or an error occurs.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br />
+ If the operation completes successfully, the return value is <span class="keyword"><span id="LST46AD045E_16" data-languageSpecificText="vb=True|nu=true"></span></span>.
+ <p />
+ If the operation fails or is pending, the return value is <span class="keyword"><span id="LST46AD045E_17" data-languageSpecificText="vb=False|nu=false"></span></span>.
+ <p />
+ To get extended error information, call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST46AD045E_18" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDBCSection">
+              <a href="https://msdn.microsoft.com/es-es/library/windows/desktop/aa363216(v=vs.85).aspx" target="_blank" rel="noopener noreferrer">https://msdn.microsoft.com/es-es/library/windows/desktop/aa363216(v=vs.85).aspx</a>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32 Class</a>
+              </div>
+              <div>
+                <a href="fa703739-87d0-6398-b515-b4acc8fe7624.htm">DeviceIoControl Overload</a>
+              </div>
+              <div>
+                <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                  <ul class="menu">
+                    <li>
+                      <a class="quickLink">Parameters</a>
+                    </li>
+                    <li>
+                      <a class="quickLink">Return Value</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+    <script>
+		$(".requestExampleLink").each(function ()
+		{
+			if(this.href.substring(0, 4).toLowerCase() === "http")
+				this.href += "?title=";
+			else
+				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+
+			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
+				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +
+				"scenario you would like to see addressed.%0D%0DHelp Topic: " + window.location.href).replace(/%250D/g, "%0D");
+		});
+	</script>
+  </body>
+</html>

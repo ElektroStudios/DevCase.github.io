@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="4b0c8fd4-19b9-0c0e-2aed-a79e29bae45f.htm">Process<wbr />Watcher</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="31afc54f-a835-cd9a-c5e8-26143947f1da" href="31afc54f-a835-cd9a-c5e8-26143947f1da.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2ff58c42-c022-279e-df2b-2828c918fa36" class="has-submenu" href="2ff58c42-c022-279e-df2b-2828c918fa36.htm">
+        <span data-tocFile="../toc/IDBGMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c70804b8-790a-2b96-4dae-de21bdff8ee4" class="has-submenu" href="c70804b8-790a-2b96-4dae-de21bdff8ee4.htm">
+        <span data-tocFile="../toc/IDCGMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Events</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

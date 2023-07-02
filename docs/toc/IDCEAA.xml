@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3a85eb7c-b5af-67ea-d1bd-9172872ebd51.htm">Dev<wbr />Case.<wbr />Core.<wbr />Finances Namespaces</a>
+    </li>
+    <li>
+      <a href="042c5e7e-0274-2789-a4ee-249c141a5685.htm">Dev<wbr />Case.<wbr />Core.<wbr />Finances.<wbr />e<wbr />Commerce</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="256851b0-d422-70f9-8063-08ead0d12171" class="has-submenu" href="256851b0-d422-70f9-8063-08ead0d12171.htm">
+        <span data-tocFile="../toc/IDACEAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Commerce</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly.<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="57f5d84e-f8fa-532e-5814-b61731b33fe3.htm">Util<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="566bf1e5-ee8e-dd7a-f7ce-9a19660553cc.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fcb49f62-bd44-e5bd-460a-c28113d128dc" href="fcb49f62-bd44-e5bd-460a-c28113d128dc.htm">Get<wbr />All<wbr />Base<wbr />Types&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="5a5b0d94-d4ec-6bcd-10d2-98c460d7f67c" class="has-submenu" href="5a5b0d94-d4ec-6bcd-10d2-98c460d7f67c.htm">
+        <span data-tocFile="../toc/IDBAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7beaf4cb-3c55-dd1f-4570-348f876ae732" class="has-submenu" href="7beaf4cb-3c55-dd1f-4570-348f876ae732.htm">
+        <span data-tocFile="../toc/IDCAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Derived<wbr />Types</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="73268897-e1f9-b091-b4e5-de1f26c1cdee" href="73268897-e1f9-b091-b4e5-de1f26c1cdee.htm">Get<wbr />All<wbr />Enums</a>
+    </li>
+    <li>
+      <a id="b797d57d-9ba7-4613-789b-5d16f41d449e" class="has-submenu" href="b797d57d-9ba7-4613-789b-5d16f41d449e.htm">
+        <span data-tocFile="../toc/IDEAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4c6a4f2d-8a0e-84de-5359-cfb48b07e4ab" class="has-submenu" href="4c6a4f2d-8a0e-84de-5359-cfb48b07e4ab.htm">
+        <span data-tocFile="../toc/IDFAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Interfaces</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="614a2619-12f9-e84a-6b8e-f145a6dd29ee" class="has-submenu" href="614a2619-12f9-e84a-6b8e-f145a6dd29ee.htm">
+        <span data-tocFile="../toc/IDGAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c9706684-82d8-c910-4001-f7ba8c49f5a0" class="has-submenu" href="c9706684-82d8-c910-4001-f7ba8c49f5a0.htm">
+        <span data-tocFile="../toc/IDHAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />All<wbr />Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7cb0ca14-ec2f-1d8a-6ec9-24e517d7a46a" href="7cb0ca14-ec2f-1d8a-6ec9-24e517d7a46a.htm">Get<wbr />Assembly<wbr />PEKind</a>
+    </li>
+    <li>
+      <a id="bbc0102c-8782-5d5a-9688-3b3076e14e92" href="bbc0102c-8782-5d5a-9688-3b3076e14e92.htm">Get<wbr />Assembly<wbr />Target<wbr />Platform</a>
+    </li>
+    <li>
+      <a id="34400a15-dca2-cf51-065d-9cfdeeacee03" href="34400a15-dca2-cf51-065d-9cfdeeacee03.htm">Get<wbr />CLRVersion</a>
+    </li>
+    <li>
+      <a id="27b5f365-751b-c08b-e8a6-99724930ab2f" class="has-submenu" href="27b5f365-751b-c08b-e8a6-99724930ab2f.htm">
+        <span data-tocFile="../toc/IDLAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Field</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="22e53b46-a274-3271-a2ab-eeddc2914696" class="has-submenu" href="22e53b46-a274-3271-a2ab-eeddc2914696.htm">
+        <span data-tocFile="../toc/IDMAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Field<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="01da0e53-bd08-1903-7e21-bac207c5b35d" class="has-submenu" href="01da0e53-bd08-1903-7e21-bac207c5b35d.htm">
+        <span data-tocFile="../toc/IDNAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Interface</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a1dc75db-000d-f903-6f64-14d05d41aabe" class="has-submenu" href="a1dc75db-000d-f903-6f64-14d05d41aabe.htm">
+        <span data-tocFile="../toc/IDOAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Method</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="45044066-5c93-f46f-9f73-ca2622e760cd" class="has-submenu" href="45044066-5c93-f46f-9f73-ca2622e760cd.htm">
+        <span data-tocFile="../toc/IDPAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Property</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b324f24a-c335-7ce4-c925-dadf103452fc" class="has-submenu" href="b324f24a-c335-7ce4-c925-dadf103452fc.htm">
+        <span data-tocFile="../toc/IDQAABDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Property<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4bd0a09f-0bde-6d45-8652-9217a18d8885" href="4bd0a09f-0bde-6d45-8652-9217a18d8885.htm">Get<wbr />Referenced<wbr />Assemblies</a>
+    </li>
+    <li>
+      <a id="a4af8436-28f0-530b-525d-9ddab6d076ae" href="a4af8436-28f0-530b-525d-9ddab6d076ae.htm">Get<wbr />Target<wbr />Framework<wbr />Name</a>
+    </li>
+    <li>
+      <a id="70539727-d0b8-ec8b-d64c-fdff6c16b715" href="70539727-d0b8-ec8b-d64c-fdff6c16b715.htm">Get<wbr />Target<wbr />Framework<wbr />Version</a>
+    </li>
+    <li>
+      <a id="73976914-325c-a728-5423-34208bbce5e6" href="73976914-325c-a728-5423-34208bbce5e6.htm">Is<wbr />Net<wbr />Assembly</a>
+    </li>
+    <li>
+      <a id="8ec0d87b-9ece-6cac-bff7-ebc84b31e7ad" href="8ec0d87b-9ece-6cac-bff7-ebc84b31e7ad.htm">Type<wbr />Has<wbr />Public<wbr />Constructor</a>
+    </li>
+    <li>
+      <a id="33cfc6f3-290a-9d44-6ffa-66d9764d2a91" href="33cfc6f3-290a-9d44-6ffa-66d9764d2a91.htm">Type<wbr />Has<wbr />Public<wbr />Default<wbr />Constructor</a>
+    </li>
+  </tocItems>
+</toc>

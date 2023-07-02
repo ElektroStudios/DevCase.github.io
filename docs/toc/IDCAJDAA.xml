@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="3ed2dc6a-9b48-b83b-29a9-383d16f3b470.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Logging</a>
+    </li>
+    <li>
+      <a href="f7ae0fd9-01fd-c54d-6814-2e17de796315.htm">Logfile<wbr />Writer</a>
+    </li>
+    <li>
+      <a href="cf1dc33a-be74-8314-3046-3fa8dfc8fd52.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d018c180-b3b5-f7ed-e59c-e30d3534b6e9" href="d018c180-b3b5-f7ed-e59c-e30d3534b6e9.htm">Clear</a>
+    </li>
+    <li>
+      <a id="0720fc65-8a4e-4e76-3f23-7323ed2f5ea3" href="0720fc65-8a4e-4e76-3f23-7323ed2f5ea3.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="18ed2d45-3bc1-5f13-089d-1bb8b6bec2c7" href="18ed2d45-3bc1-5f13-089d-1bb8b6bec2c7.htm">Write<wbr />Entry</a>
+    </li>
+    <li>
+      <a id="5d9193d4-8566-75fd-77d6-5457a6deec9d" href="5d9193d4-8566-75fd-77d6-5457a6deec9d.htm">Write<wbr />New<wbr />Line</a>
+    </li>
+    <li>
+      <a id="78dd25de-1548-52ec-ca20-af16d38154db" href="78dd25de-1548-52ec-ca20-af16d38154db.htm">Write<wbr />Text</a>
+    </li>
+  </tocItems>
+</toc>

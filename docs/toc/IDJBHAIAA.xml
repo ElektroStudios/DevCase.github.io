@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2f4ee7fc-b3ae-2a0e-dff4-235d45a476fc.htm">Geo<wbr />Locate</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4f701096-326d-f4a9-6b65-16d61a5b926e" href="4f701096-326d-f4a9-6b65-16d61a5b926e.htm">Geo<wbr />Locate(<wbr />IPAddress)</a>
+    </li>
+    <li>
+      <a id="117de5ce-4cd8-945f-c13e-0ba486dd2daf" href="117de5ce-4cd8-945f-c13e-0ba486dd2daf.htm">Geo<wbr />Locate(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="5406ab52-75ca-9be0-3a16-d57d62d46f71" href="5406ab52-75ca-9be0-3a16-d57d62d46f71.htm">Geo<wbr />Locate(<wbr />Uri)</a>
+    </li>
+  </tocItems>
+</toc>

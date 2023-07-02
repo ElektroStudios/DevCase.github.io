@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="a5bcac21-2594-eada-989c-8aa919f29d68.htm">Keyboard<wbr />Monitor</a>
+    </li>
+    <li>
+      <a href="6c7632b4-6c60-16db-b643-14e16da74f9a.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b7754515-4ddc-f965-ac36-dac75a23a530" href="b7754515-4ddc-f965-ac36-dac75a23a530.htm">Device<wbr />Count</a>
+    </li>
+    <li>
+      <a id="1f7a38a0-8161-9f91-f564-14d771bacbe3" href="1f7a38a0-8161-9f91-f564-14d771bacbe3.htm">Enabled</a>
+    </li>
+    <li>
+      <a id="f8de7f06-1c83-8379-222c-2296fcb0c8d8" href="f8de7f06-1c83-8379-222c-2296fcb0c8d8.htm">Handle</a>
+    </li>
+    <li>
+      <a id="4ea87d86-553d-4b08-aabf-8bd3fa0dccdb" href="4ea87d86-553d-4b08-aabf-8bd3fa0dccdb.htm">Handle<wbr />Pastes</a>
+    </li>
+    <li>
+      <a id="f36cfd7c-5bc4-689f-5eb6-b3ea7e678811" href="f36cfd7c-5bc4-689f-5eb6-b3ea7e678811.htm">Ignored<wbr />Chars</a>
+    </li>
+    <li>
+      <a id="cfed2556-49d5-9b33-c274-444982931d92" href="cfed2556-49d5-9b33-c274-444982931d92.htm">Ignored<wbr />Chars<wbr />Comparer</a>
+    </li>
+    <li>
+      <a id="75ebfee0-d4ac-fca8-8cb0-979efcd34731" href="75ebfee0-d4ac-fca8-8cb0-979efcd34731.htm">Ignored<wbr />Keys</a>
+    </li>
+    <li>
+      <a id="37879673-e822-666f-f88b-467a393bdc85" href="37879673-e822-666f-f88b-467a393bdc85.htm">Ignored<wbr />Strings</a>
+    </li>
+    <li>
+      <a id="65b9ad76-822f-c9b3-d695-15f1221f7f1d" href="65b9ad76-822f-c9b3-d695-15f1221f7f1d.htm">Ignored<wbr />Strings<wbr />Comparer</a>
+    </li>
+    <li>
+      <a id="0cb22af3-d12c-463c-b145-377dfadf6e8b" href="0cb22af3-d12c-463c-b145-377dfadf6e8b.htm">Keyboard<wbr />Layout<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="9248bcb8-07eb-18a8-2bd1-8e6538e3c892" href="9248bcb8-07eb-18a8-2bd1-8e6538e3c892.htm">Keyboard<wbr />Layout<wbr />ID</a>
+    </li>
+    <li>
+      <a id="efb96344-5e21-7b3f-ff26-198dc174b7da" href="efb96344-5e21-7b3f-ff26-198dc174b7da.htm">Language</a>
+    </li>
+    <li>
+      <a id="e8538b7b-c195-df3d-7079-56134b81f5fb" href="e8538b7b-c195-df3d-7079-56134b81f5fb.htm">Owner<wbr />Window</a>
+    </li>
+  </tocItems>
+</toc>

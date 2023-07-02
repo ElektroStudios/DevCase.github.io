@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="7a7b0a71-d9dc-2cfe-1daa-8be108fb237e.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Globalization</a>
+    </li>
+    <li>
+      <a href="f01d02d3-6e25-0227-22d3-d880e0f8b4ed.htm">Util<wbr />Culture</a>
+    </li>
+    <li>
+      <a href="b2d3d604-0fe9-c1b4-9992-8bd92cd5da6c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f55a4465-c289-c0f4-c14f-3000272ecb24" href="f55a4465-c289-c0f4-c14f-3000272ecb24.htm">Get<wbr />Process<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="5f31a1e8-5341-53b2-189d-b2487730db67" href="5f31a1e8-5341-53b2-189d-b2487730db67.htm">Get<wbr />System<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="6bd2cc00-cc1c-decc-16e3-d85d667cac99" href="6bd2cc00-cc1c-decc-16e3-d85d667cac99.htm">Get<wbr />Thread<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="37ea647b-3a51-bfd1-a4eb-df2eb0e534af" class="has-submenu" href="37ea647b-3a51-bfd1-a4eb-df2eb0e534af.htm">
+        <span data-tocFile="../toc/IDDBAFAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Current<wbr />Culture</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="118c269e-7faa-18ec-8ce6-584b46244005" class="has-submenu" href="118c269e-7faa-18ec-8ce6-584b46244005.htm">
+        <span data-tocFile="../toc/IDEBAFAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Process<wbr />Preferred<wbr />UILanguages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1647fe59-8950-3e0a-7356-77785914f825" class="has-submenu" href="1647fe59-8950-3e0a-7356-77785914f825.htm">
+        <span data-tocFile="../toc/IDFBAFAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Thread<wbr />Preferred<wbr />UILanguages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

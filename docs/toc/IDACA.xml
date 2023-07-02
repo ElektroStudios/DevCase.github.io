@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="40c8f523-fa28-f31f-95ac-d9a2da40d92f.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Attributes</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9fe59976-5f10-3f30-17af-f228345c6c74" class="has-submenu" href="9fe59976-5f10-3f30-17af-f228345c6c74.htm">
+        <span data-tocFile="../toc/IDAACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Module<wbr />Initializer<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f84e480f-6486-671b-0294-b0fa349bfc66" class="has-submenu" href="f84e480f-6486-671b-0294-b0fa349bfc66.htm">
+        <span data-tocFile="../toc/IDBACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Obsoleted<wbr />OSPlatform<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="85b8b429-c9b7-92bd-bffc-1b8fda1c5326" class="has-submenu" href="85b8b429-c9b7-92bd-bffc-1b8fda1c5326.htm">
+        <span data-tocFile="../toc/IDCACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Skip<wbr />Locals<wbr />Init<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="86f0fb7d-2605-70c7-fb0b-4cd46fd8899f" class="has-submenu" href="86f0fb7d-2605-70c7-fb0b-4cd46fd8899f.htm">
+        <span data-tocFile="../toc/IDDACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supported<wbr />OSPlatform<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4dd28c4c-5a68-a67f-8e59-c13ea6a3597c" class="has-submenu" href="4dd28c4c-5a68-a67f-8e59-c13ea6a3597c.htm">
+        <span data-tocFile="../toc/IDEACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Target<wbr />Platform<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7163d5d1-71ee-b3de-579f-e2655a96ef31" class="has-submenu" href="7163d5d1-71ee-b3de-579f-e2655a96ef31.htm">
+        <span data-tocFile="../toc/IDFACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unsupported<wbr />OSPlatform<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

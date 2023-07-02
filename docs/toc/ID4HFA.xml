@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="0a01afd1-d490-9fb4-09c7-e59222e96f73.htm">Display<wbr />Config<wbr />Target<wbr />Mode</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="266ff8b9-94fb-025a-8113-4569c2bd460e" href="266ff8b9-94fb-025a-8113-4569c2bd460e.htm">Methods</a>
+    </li>
+    <li>
+      <a id="682ad279-10bc-c9f7-1b2c-a3b60a2f789d" class="has-submenu" href="682ad279-10bc-c9f7-1b2c-a3b60a2f789d.htm">
+        <span data-tocFile="../toc/IDB4HFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

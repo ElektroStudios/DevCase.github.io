@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="51720786-bb84-f316-b863-3d2eb50c1082.htm">Map<wbr />Window<wbr />Points</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="00fde3d6-2afc-7f8d-dc27-f53b43746d63" href="00fde3d6-2afc-7f8d-dc27-f53b43746d63.htm">Map<wbr />Window<wbr />Points(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Native<wbr />Point, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="a710732d-9798-622c-5c17-43bd84ba3256" href="a710732d-9798-622c-5c17-43bd84ba3256.htm">Map<wbr />Window<wbr />Points(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Native<wbr />Rectangle, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="22a02f5a-8d7b-5f3f-9e80-0f5455dec7f5" href="22a02f5a-8d7b-5f3f-9e80-0f5455dec7f5.htm">Map<wbr />Window<wbr />Points(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Point, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="29eff2fb-e28d-9d5a-69e8-f253f4e4a38e" href="29eff2fb-e28d-9d5a-69e8-f253f4e4a38e.htm">Map<wbr />Window<wbr />Points(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Rectangle, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="69a96834-1fa5-c5d5-04c5-3a981715a164" href="69a96834-1fa5-c5d5-04c5-3a981715a164.htm">Map<wbr />Window<wbr />Points(<wbr />Safe<wbr />Handle, Safe<wbr />Handle, Native<wbr />Point, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="c2e60ca0-5676-1de9-3740-f9aaec948b69" href="c2e60ca0-5676-1de9-3740-f9aaec948b69.htm">Map<wbr />Window<wbr />Points(<wbr />Safe<wbr />Handle, Safe<wbr />Handle, Native<wbr />Rectangle, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="e17f9dce-6d7b-fc6d-021f-e2c8ec6288ac" href="e17f9dce-6d7b-fc6d-021f-e2c8ec6288ac.htm">Map<wbr />Window<wbr />Points(<wbr />Safe<wbr />Handle, Safe<wbr />Handle, Point, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="f5ee68c4-2129-9cbe-0193-8f8e6e237ba1" href="f5ee68c4-2129-9cbe-0193-8f8e6e237ba1.htm">Map<wbr />Window<wbr />Points(<wbr />Safe<wbr />Handle, Safe<wbr />Handle, Rectangle, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

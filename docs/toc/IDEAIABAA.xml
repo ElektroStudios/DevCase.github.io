@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="5428e3c5-709f-ea99-714e-4372c7c34f09.htm">Util<wbr />String</a>
+    </li>
+    <li>
+      <a href="71e6963d-7490-cc67-0b4f-59108117158c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c327dca7-c220-4c03-66a3-b764ac9f0a29.htm">Generate<wbr />Random<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="57822ce3-0bac-dbca-24f3-b5e4b513f321" href="57822ce3-0bac-dbca-24f3-b5e4b513f321.htm">Generate<wbr />Random<wbr />String(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="d551fbac-33d7-a58a-54f8-2efbe81c6ea6" href="d551fbac-33d7-a58a-54f8-2efbe81c6ea6.htm">Generate<wbr />Random<wbr />String(<wbr />Char[], Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="02c71fb7-3115-fd5f-1b51-57080d0cb7a3" href="02c71fb7-3115-fd5f-1b51-57080d0cb7a3.htm">Generate<wbr />Random<wbr />String(<wbr />Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="a913f87b-b59f-248e-dea4-bf96a8cd18ea" href="a913f87b-b59f-248e-dea4-bf96a8cd18ea.htm">Generate<wbr />Random<wbr />String(<wbr />Char[], Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

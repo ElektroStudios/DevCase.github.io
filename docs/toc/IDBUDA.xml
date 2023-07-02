@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="bf2415de-f4af-771e-2036-4197f74650a1.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx Namespaces</a>
+    </li>
+    <li>
+      <a href="2b79b325-7e7d-9210-45b6-750d9c2a96cc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx.<wbr />Extensions.<wbr />Gecko<wbr />Web<wbr />Browser<wbr />Extensions</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5cea574a-583e-41fc-2b63-ba2024da0448" class="has-submenu" href="5cea574a-583e-41fc-2b63-ba2024da0448.htm">
+        <span data-tocFile="../toc/IDABUDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Gecko<wbr />Web<wbr />Browser<wbr />Extensions</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

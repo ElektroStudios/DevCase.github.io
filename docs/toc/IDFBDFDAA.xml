@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9f2da4fb-2783-3dd7-caa3-17e309afbced.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="42f5d9ac-adda-1cdd-6556-8cde72982a22.htm">Util<wbr />Debug</a>
+    </li>
+    <li>
+      <a href="05fa01a5-8dab-f29a-8bf8-07cbc2e0878c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c16eebd8-71a2-5f88-39c6-9b9a7ee487e8.htm">Invoke<wbr />Times</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="397f221f-675e-d539-015e-46149202e993" href="397f221f-675e-d539-015e-46149202e993.htm">Invoke<wbr />Times(<wbr />Int<wbr />32, Action)</a>
+    </li>
+    <li>
+      <a id="bb988211-037a-b1f1-9266-b841baf9cd5f" href="bb988211-037a-b1f1-9266-b841baf9cd5f.htm">Invoke<wbr />Times&lt;T&gt;(<wbr />Int<wbr />32, Func&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

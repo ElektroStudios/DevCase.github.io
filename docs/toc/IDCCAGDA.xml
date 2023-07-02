@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="678c3b97-29a3-bbe4-e4ee-1599d12c3b9c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />DBpoweramp</a>
+    </li>
+    <li>
+      <a href="387e9eaf-1a73-9f78-d8c3-9e581764dbc4.htm">Converter</a>
+    </li>
+    <li>
+      <a href="86a67eff-4155-6202-1646-5f43392e8404.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5b0eff15-73a0-6262-3fad-6e1870720c9e.htm">Convert<wbr />To<wbr />Wma</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="490c9a88-2d37-1abd-ecb5-4e0ce6e871e8" href="490c9a88-2d37-1abd-ecb5-4e0ce6e871e8.htm">Convert<wbr />To<wbr />Wma(<wbr />File<wbr />Info, String, Wma<wbr />9Bitrate, Wma<wbr />9Frequency, Wma<wbr />9Channel<wbr />Mode, Core<wbr />Converter<wbr />Dsp<wbr />Effect, Boolean, Core<wbr />Converter<wbr />Priority, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="618af322-ed5b-b400-cdd1-80fb34c76ae1" href="618af322-ed5b-b400-cdd1-80fb34c76ae1.htm">Convert<wbr />To<wbr />Wma(<wbr />String, String, Wma<wbr />9Bitrate, Wma<wbr />9Frequency, Wma<wbr />9Channel<wbr />Mode, Core<wbr />Converter<wbr />Dsp<wbr />Effect, Boolean, Core<wbr />Converter<wbr />Priority, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

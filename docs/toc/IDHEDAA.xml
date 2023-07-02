@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="6987b3aa-7d67-3386-ac00-a5cb5894338f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Generation</a>
+    </li>
+    <li>
+      <a href="2a0cffeb-c769-6913-05ad-9195b4c1c7f0.htm">Code<wbr />Templates.<wbr />Snippets.<wbr />Regedit</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e2dd48d8-e888-f8b3-a36f-d8b9b841c32f" href="e2dd48d8-e888-f8b3-a36f-d8b9b841c32f.htm">Methods</a>
+    </li>
+    <li>
+      <a id="3f6d2e43-c1dc-2b51-bdcf-69ee9c17ceec" class="has-submenu" href="3f6d2e43-c1dc-2b51-bdcf-69ee9c17ceec.htm">
+        <span data-tocFile="../toc/IDBHEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

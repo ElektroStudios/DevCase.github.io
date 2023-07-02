@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="edd4d6e4-cc8d-add0-5e5f-8eaeb288cf72.htm">Shlw<wbr />Api</a>
+    </li>
+    <li>
+      <a href="9e6f737c-6c49-2ea9-d826-c2b2b883031a.htm">Methods</a>
+    </li>
+    <li>
+      <a href="54f92fbd-f71c-1319-762d-c8178cbf8429.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="596570e0-4804-8768-3e18-5ac5d9196c1e" href="596570e0-4804-8768-3e18-5ac5d9196c1e.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, Create<wbr />File<wbr />Flags, Boolean, Fsi<wbr />Stream, Fsi<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="d2042671-a237-615d-1a42-852c924ff245" href="d2042671-a237-615d-1a42-852c924ff245.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, Create<wbr />File<wbr />Flags, Boolean, IStream, IStream)</a>
+    </li>
+    <li>
+      <a id="0534c43c-b3e4-be00-cf73-ee4ea9ff37ee" href="0534c43c-b3e4-be00-cf73-ee4ea9ff37ee.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, File<wbr />Attributes, Boolean, Fsi<wbr />Stream, Fsi<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="c486fb5f-9d5b-72d1-43f9-5e79f1af80d7" href="c486fb5f-9d5b-72d1-43f9-5e79f1af80d7.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, File<wbr />Attributes, Boolean, IStream, IStream)</a>
+    </li>
+    <li>
+      <a id="63731ded-fb92-8c02-ea0a-7bd2e28b5278" href="63731ded-fb92-8c02-ea0a-7bd2e28b5278.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, UInt<wbr />32, Boolean, Fsi<wbr />Stream, Fsi<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="507889b2-b37b-c9de-41fd-aa06d07dc2c8" href="507889b2-b37b-c9de-41fd-aa06d07dc2c8.htm">SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex(<wbr />String, Storage<wbr />Mode<wbr />Flags, UInt<wbr />32, Boolean, IStream, IStream)</a>
+    </li>
+  </tocItems>
+</toc>

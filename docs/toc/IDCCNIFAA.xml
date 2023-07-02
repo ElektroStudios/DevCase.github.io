@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="8e9c3172-9940-8b85-36ed-213d7fe41bd3.htm">File<wbr />Splitter</a>
+    </li>
+    <li>
+      <a href="3914cc49-bd84-1fce-894b-c23e0a3d76c9.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f41bf7c1-1c32-0639-b3d1-c1c724889125.htm">Split</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="47b55ab7-8ef7-9942-3e9c-41d9bec49279" href="47b55ab7-8ef7-9942-3e9c-41d9bec49279.htm">Split(<wbr />Int<wbr />32, String, String, Boolean, Boolean)</a>
+    </li>
+    <li>
+      <a id="b4f9d264-4885-a18f-06a8-5094fc1d163f" href="b4f9d264-4885-a18f-06a8-5094fc1d163f.htm">Split(<wbr />Int<wbr />64, String, String, Boolean, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

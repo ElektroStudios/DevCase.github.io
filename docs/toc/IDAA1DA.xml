@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="71b646ab-e5ad-804d-3029-1f32e8afd2f7.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Image<wbr />Draw</a>
+    </li>
+    <li>
+      <a href="8f6221c1-f590-f2eb-30ca-a800964d71dc.htm">Util<wbr />Image<wbr />Draw</a>
+    </li>
+    <li>
+      <a href="f28bbc72-74f9-d0de-5f36-bb8e2fcbfec9.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="92f97472-a743-c061-1cb0-ad7f06f0c45c" href="92f97472-a743-c061-1cb0-ad7f06f0c45c.htm">Brightness</a>
+    </li>
+    <li>
+      <a id="564a2985-7d80-f594-c508-7be4a8357ef2" href="564a2985-7d80-f594-c508-7be4a8357ef2.htm">Camera<wbr />View</a>
+    </li>
+    <li>
+      <a id="b7013c36-6925-cee3-9525-1e078554da71" href="b7013c36-6925-cee3-9525-1e078554da71.htm">Color<wbr />Substitution</a>
+    </li>
+    <li>
+      <a id="6616d544-e832-12aa-5fcc-cf22e20b20d8" href="6616d544-e832-12aa-5fcc-cf22e20b20d8.htm">Contrast</a>
+    </li>
+    <li>
+      <a id="f6e31a0a-a37b-0645-f011-38a553287a22" href="f6e31a0a-a37b-0645-f011-38a553287a22.htm">Convert<wbr />To<wbr />Black<wbr />White</a>
+    </li>
+    <li>
+      <a id="5027d045-e8ec-1844-4682-a7598b8524d2" href="5027d045-e8ec-1844-4682-a7598b8524d2.htm">Convert<wbr />To<wbr />Grayscale</a>
+    </li>
+    <li>
+      <a id="c01da6fa-85d7-208d-3d35-9104a5c43eef" href="c01da6fa-85d7-208d-3d35-9104a5c43eef.htm">Convert<wbr />To<wbr />Negative</a>
+    </li>
+    <li>
+      <a id="c4144ba3-151d-98ab-27e1-c1051aa6ed99" href="c4144ba3-151d-98ab-27e1-c1051aa6ed99.htm">Convert<wbr />To<wbr />Sepia</a>
+    </li>
+    <li>
+      <a id="3883cdbf-d888-40f3-28a2-727241e269f9" href="3883cdbf-d888-40f3-28a2-727241e269f9.htm">Crop</a>
+    </li>
+    <li>
+      <a id="4486bce2-cd8d-5443-4d8e-b5115f255cba" href="4486bce2-cd8d-5443-4d8e-b5115f255cba.htm">Distort<wbr />Corners</a>
+    </li>
+    <li>
+      <a id="a2d40a52-5129-f7f1-2770-c26172118c55" href="a2d40a52-5129-f7f1-2770-c26172118c55.htm">Drop<wbr />Shadow</a>
+    </li>
+    <li>
+      <a id="a786c8a4-2ff6-af6b-cf75-c0c6fad8fe58" href="a786c8a4-2ff6-af6b-cf75-c0c6fad8fe58.htm">Fade</a>
+    </li>
+    <li>
+      <a id="31525960-425a-aef7-cbf5-f84bab046b52" href="31525960-425a-aef7-cbf5-f84bab046b52.htm">Feather</a>
+    </li>
+    <li>
+      <a id="f7670264-8cd4-676e-db1f-5eacb091433e" href="f7670264-8cd4-676e-db1f-5eacb091433e.htm">Filmstrip</a>
+    </li>
+    <li>
+      <a id="6089406f-addf-5114-4611-782548d6e20f" href="6089406f-addf-5114-4611-782548d6e20f.htm">Flip</a>
+    </li>
+    <li>
+      <a id="2f2999c4-e12f-bdea-1685-a2b1f601be61" href="2f2999c4-e12f-bdea-1685-a2b1f601be61.htm">Focal<wbr />Grayscale</a>
+    </li>
+    <li>
+      <a id="28bd4a1f-80df-71ea-295d-cb03480b7e09" href="28bd4a1f-80df-71ea-295d-cb03480b7e09.htm">Gamma</a>
+    </li>
+    <li>
+      <a id="921dfe59-d6ec-d44c-7269-ba1f1034370a" href="921dfe59-d6ec-d44c-7269-ba1f1034370a.htm">Gaussian<wbr />Blur</a>
+    </li>
+    <li>
+      <a id="39e7134f-3714-7a93-8f69-45d9f89aa12b" href="39e7134f-3714-7a93-8f69-45d9f89aa12b.htm">Glass<wbr />Table</a>
+    </li>
+    <li>
+      <a id="a6ab8302-3d53-4391-0d6f-a9f7f3868060" href="a6ab8302-3d53-4391-0d6f-a9f7f3868060.htm">Glow</a>
+    </li>
+    <li>
+      <a id="6ad5970a-fd98-4921-9474-48e339989ca8" href="6ad5970a-fd98-4921-9474-48e339989ca8.htm">Hsl</a>
+    </li>
+    <li>
+      <a id="be177deb-4ed3-9e24-87d2-f4a3df28aa31" href="be177deb-4ed3-9e24-87d2-f4a3df28aa31.htm">Hue</a>
+    </li>
+    <li>
+      <a id="b69e0e7c-c0b5-6427-a6d6-9eddecbe4550" class="has-submenu" href="b69e0e7c-c0b5-6427-a6d6-9eddecbe4550.htm">
+        <span data-tocFile="../toc/IDWAA1DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Make<wbr />Transparent</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9c0d23e4-08ea-1b47-5006-e5180d1fc35d" href="9c0d23e4-08ea-1b47-5006-e5180d1fc35d.htm">Opacity</a>
+    </li>
+    <li>
+      <a id="53b078d7-c9b0-16da-c159-1b6226418bc7" href="53b078d7-c9b0-16da-c159-1b6226418bc7.htm">Perspective<wbr />Reflection</a>
+    </li>
+    <li>
+      <a id="21fb5ed3-2993-a4c9-c10b-95512d0ad875" href="21fb5ed3-2993-a4c9-c10b-95512d0ad875.htm">Perspective<wbr />View</a>
+    </li>
+    <li>
+      <a id="e0568b31-06bc-c510-ef03-9febd50344e7" href="e0568b31-06bc-c510-ef03-9febd50344e7.htm">Pixelate</a>
+    </li>
+    <li>
+      <a id="403014a3-1134-2c45-4d34-6946cff68e0d" href="403014a3-1134-2c45-4d34-6946cff68e0d.htm">Remove<wbr />Color</a>
+    </li>
+    <li>
+      <a id="6a10b3bb-38ad-3ce8-8ba5-c605ad9e0380" href="6a10b3bb-38ad-3ce8-8ba5-c605ad9e0380.htm">Remove<wbr />Transparency</a>
+    </li>
+    <li>
+      <a id="b84b969d-0b19-90a4-eeb0-761bec084c1e" href="b84b969d-0b19-90a4-eeb0-761bec084c1e.htm">Resize</a>
+    </li>
+    <li>
+      <a id="1c4c41bc-bb77-f2ec-7988-9424c05a32dc" href="1c4c41bc-bb77-f2ec-7988-9424c05a32dc.htm">Rotate</a>
+    </li>
+    <li>
+      <a id="7f540c10-af49-7b47-898f-4efa754ea87a" class="has-submenu" href="7f540c10-af49-7b47-898f-4efa754ea87a.htm">
+        <span data-tocFile="../toc/ID6AA1DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Round<wbr />Corners</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ee8c0270-dd19-d91a-c491-24326c5f29cb" href="ee8c0270-dd19-d91a-c491-24326c5f29cb.htm">Scale</a>
+    </li>
+    <li>
+      <a id="dc9d0fac-ce52-1ecc-7c7d-6344c975bd1f" href="dc9d0fac-ce52-1ecc-7c7d-6344c975bd1f.htm">Sharpen</a>
+    </li>
+    <li>
+      <a id="48416744-165c-da6e-47e6-13cc22293f20" href="48416744-165c-da6e-47e6-13cc22293f20.htm">Silhouette</a>
+    </li>
+    <li>
+      <a id="d629eb90-2b53-44a1-939f-80585686afd4" href="d629eb90-2b53-44a1-939f-80585686afd4.htm">Skew</a>
+    </li>
+    <li>
+      <a id="a94aeda1-ee17-d002-a561-94c5e43e3292" href="a94aeda1-ee17-d002-a561-94c5e43e3292.htm">Solarize</a>
+    </li>
+    <li>
+      <a id="7c468c69-00cd-d4b3-1fa9-6e9196ce09e7" href="7c468c69-00cd-d4b3-1fa9-6e9196ce09e7.htm">Stretch</a>
+    </li>
+    <li>
+      <a id="9b625081-67b9-5452-701e-611a2a04a0d9" href="9b625081-67b9-5452-701e-611a2a04a0d9.htm">Tint</a>
+    </li>
+  </tocItems>
+</toc>

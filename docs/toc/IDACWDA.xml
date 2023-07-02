@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+    <li>
+      <a href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">Gmail<wbr />Client</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9359f2a8-f3eb-7f09-6b21-4a9ec8fdf7d8" class="has-submenu" href="9359f2a8-f3eb-7f09-6b21-4a9ec8fdf7d8.htm">
+        <span data-tocFile="../toc/IDAACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bce39d36-0af5-4fcd-b53d-025c8cdf13fd" class="has-submenu" href="bce39d36-0af5-4fcd-b53d-025c8cdf13fd.htm">
+        <span data-tocFile="../toc/IDBACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="29877e0d-86b4-06f9-e0b0-d116d83bd0c6" class="has-submenu" href="29877e0d-86b4-06f9-e0b0-d116d83bd0c6.htm">
+        <span data-tocFile="../toc/IDCACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

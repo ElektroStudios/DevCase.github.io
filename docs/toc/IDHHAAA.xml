@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="9bd2f8ed-89ef-b24a-df06-b97f96885e24.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="32074694-dcc2-d889-6663-ea2387fe2093.htm">Command<wbr />Line<wbr />Value<wbr />Parameter<wbr />Collection</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4d25b1c0-c652-26dd-1080-630ba6a84d16" href="4d25b1c0-c652-26dd-1080-630ba6a84d16.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="6f0a54ed-9350-06e9-b3bc-c9f0fdb95cda" class="has-submenu" href="6f0a54ed-9350-06e9-b3bc-c9f0fdb95cda.htm">
+        <span data-tocFile="../toc/IDBHHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="85f70840-4398-e1da-2257-e6445a445d54" class="has-submenu" href="85f70840-4398-e1da-2257-e6445a445d54.htm">
+        <span data-tocFile="../toc/IDCHHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

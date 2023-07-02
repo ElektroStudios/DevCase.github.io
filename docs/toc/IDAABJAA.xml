@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="1a52ead2-08ae-3649-a274-ce205140620b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="bb417099-54c8-4190-62f3-1236383f7a90.htm">Util<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="f77cf6cd-9354-d2de-2f0a-bca9b940cd1b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5135df77-04e1-9b1f-bb44-bc82e1ef4adc" href="5135df77-04e1-9b1f-bb44-bc82e1ef4adc.htm">Aes<wbr />Decrypt</a>
+    </li>
+    <li>
+      <a id="c7889842-7f1c-7c2c-5210-ed9c799701f1" href="c7889842-7f1c-7c2c-5210-ed9c799701f1.htm">Aes<wbr />Encrypt</a>
+    </li>
+    <li>
+      <a id="2ccf6303-25d6-818b-0b3d-5976a8591452" href="2ccf6303-25d6-818b-0b3d-5976a8591452.htm">Atbash<wbr />Decrypt</a>
+    </li>
+    <li>
+      <a id="4009f132-4146-ba4e-0b0e-9f05ff6158e8" href="4009f132-4146-ba4e-0b0e-9f05ff6158e8.htm">Atbash<wbr />Encrypt</a>
+    </li>
+    <li>
+      <a id="53893405-2d87-5f45-de07-0e10a3e74a5c" href="53893405-2d87-5f45-de07-0e10a3e74a5c.htm">Base<wbr />36Decode</a>
+    </li>
+    <li>
+      <a id="eb614fb8-59c0-6c4c-1eae-8141f47a30e9" href="eb614fb8-59c0-6c4c-1eae-8141f47a30e9.htm">Base<wbr />36Encode</a>
+    </li>
+    <li>
+      <a id="7092d965-0b8e-e89b-8972-950ff7c5cd50" href="7092d965-0b8e-e89b-8972-950ff7c5cd50.htm">Base<wbr />64Decode</a>
+    </li>
+    <li>
+      <a id="ea27da2e-79be-3c86-43fe-7a0b515a13be" href="ea27da2e-79be-3c86-43fe-7a0b515a13be.htm">Base<wbr />64Decode<wbr />As<wbr />Bitmap</a>
+    </li>
+    <li>
+      <a id="9366c8be-2513-7246-0abe-d2d3f9ad83f0" href="9366c8be-2513-7246-0abe-d2d3f9ad83f0.htm">Base<wbr />64Decode<wbr />As<wbr />Image</a>
+    </li>
+    <li>
+      <a id="beaca652-08cf-9ea0-aee8-2fbbdff12b09" class="has-submenu" href="beaca652-08cf-9ea0-aee8-2fbbdff12b09.htm">
+        <span data-tocFile="../toc/IDJAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Base<wbr />64Encode</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cb60e2a0-4bdd-c0a8-2e25-6cde20c35a79" href="cb60e2a0-4bdd-c0a8-2e25-6cde20c35a79.htm">Binary<wbr />Decode</a>
+    </li>
+    <li>
+      <a id="ea7bac82-1ee0-4c12-8786-947258cc0396" href="ea7bac82-1ee0-4c12-8786-947258cc0396.htm">Binary<wbr />Encode</a>
+    </li>
+    <li>
+      <a id="a97fa361-dccf-21e2-fa9c-994e9e536014" href="a97fa361-dccf-21e2-fa9c-994e9e536014.htm">Caesar<wbr />Decrypt</a>
+    </li>
+    <li>
+      <a id="4932985b-2a93-c10a-b394-a13aa85f17e0" href="4932985b-2a93-c10a-b394-a13aa85f17e0.htm">Caesar<wbr />Encrypt</a>
+    </li>
+    <li>
+      <a id="7b0f0092-a5cd-f320-cc84-8d62b4675fa7" class="has-submenu" href="7b0f0092-a5cd-f320-cc84-8d62b4675fa7.htm">
+        <span data-tocFile="../toc/IDOAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Decrypt<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c1fba279-9ace-611b-8294-4f84b41547ce" class="has-submenu" href="c1fba279-9ace-611b-8294-4f84b41547ce.htm">
+        <span data-tocFile="../toc/IDPAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Decrypt<wbr />File<wbr />As<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="23e0a4f6-84b3-1855-2f29-8a0b690c4b86" class="has-submenu" href="23e0a4f6-84b3-1855-2f29-8a0b690c4b86.htm">
+        <span data-tocFile="../toc/IDQAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Encrypt<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="814e579d-2616-2c28-a84c-de15eecc0139" href="814e579d-2616-2c28-a84c-de15eecc0139.htm">Hexadecimal<wbr />Decode</a>
+    </li>
+    <li>
+      <a id="35319392-eb6a-01a3-1780-aa681a3d24a7" href="35319392-eb6a-01a3-1780-aa681a3d24a7.htm">Hexadecimal<wbr />Encode</a>
+    </li>
+    <li>
+      <a id="78fc4f4d-1d85-f486-5230-39b01c6b228b" href="78fc4f4d-1d85-f486-5230-39b01c6b228b.htm">Is<wbr />Base<wbr />64Encoded</a>
+    </li>
+    <li>
+      <a id="65c8e7c4-52b1-d263-3618-98066bb4905e" class="has-submenu" href="65c8e7c4-52b1-d263-3618-98066bb4905e.htm">
+        <span data-tocFile="../toc/IDUAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Polymorphic<wbr />Stairs<wbr />Decrypt</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f48261de-e05f-9e8c-6af1-9272d27549cb" class="has-submenu" href="f48261de-e05f-9e8c-6af1-9272d27549cb.htm">
+        <span data-tocFile="../toc/IDVAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Polymorphic<wbr />Stairs<wbr />Encrypt</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a5e8a4b3-68ea-7ef1-ae9f-b909d17f2575" class="has-submenu" href="a5e8a4b3-68ea-7ef1-ae9f-b909d17f2575.htm">
+        <span data-tocFile="../toc/IDWAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Stairs<wbr />De<wbr />Crypt</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ba3182c2-d2a4-7e1c-1398-b03a00abff8c" class="has-submenu" href="ba3182c2-d2a4-7e1c-1398-b03a00abff8c.htm">
+        <span data-tocFile="../toc/IDXAABJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Stairs<wbr />Encrypt</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dd81d1c6-b360-cfd3-d858-f092d5946f11" href="dd81d1c6-b360-cfd3-d858-f092d5946f11.htm">Symmetric<wbr />Decrypt&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="f2ecd234-2dcf-3d82-4a92-2d82034927fb" href="f2ecd234-2dcf-3d82-4a92-2d82034927fb.htm">Symmetric<wbr />Encrypt&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="02a310e5-a43a-fda9-a747-9d301ad73a87" href="02a310e5-a43a-fda9-a747-9d301ad73a87.htm">Xor<wbr />Encrypt<wbr />Or<wbr />Decrypt</a>
+    </li>
+  </tocItems>
+</toc>

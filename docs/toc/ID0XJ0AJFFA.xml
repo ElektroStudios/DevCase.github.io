@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d5a1edba-1837-aa56-fc3d-b2d542978e93.htm">Virtual<wbr />Lock</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0c131145-af6e-9a6c-ab9c-adab71feefbd" href="0c131145-af6e-9a6c-ab9c-adab71feefbd.htm">Virtual<wbr />Lock(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="addb207a-65b2-dd7e-20bc-bb378649ca7b" href="addb207a-65b2-dd7e-20bc-bb378649ca7b.htm">Virtual<wbr />Lock(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="70ef5faf-2d98-db04-2a7b-7d981b04876e" href="70ef5faf-2d98-db04-2a7b-7d981b04876e.htm">Virtual<wbr />Lock(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

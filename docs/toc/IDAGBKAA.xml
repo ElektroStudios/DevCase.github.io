@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="cbcb4fe0-bcac-6037-5d8b-1edc72ee8e08.htm">Util<wbr />System<wbr />Notification</a>
+    </li>
+    <li>
+      <a href="cd2fc205-feb5-69dd-2cd9-b8b96c5232f4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bb243a96-c9c2-323d-41db-5d3fc4440e02" href="bb243a96-c9c2-323d-41db-5d3fc4440e02.htm">Notify<wbr />Directory<wbr />Attributes<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="45784992-bacf-81ae-77dc-00bfeb58ca6c" href="45784992-bacf-81ae-77dc-00bfeb58ca6c.htm">Notify<wbr />Directory<wbr />Created</a>
+    </li>
+    <li>
+      <a id="7df81f4f-99f1-d1ff-90cb-f5a2525167aa" href="7df81f4f-99f1-d1ff-90cb-f5a2525167aa.htm">Notify<wbr />Directory<wbr />Deleted</a>
+    </li>
+    <li>
+      <a id="8f058ccb-58f5-69fa-61bf-17e37cd4bda6" href="8f058ccb-58f5-69fa-61bf-17e37cd4bda6.htm">Notify<wbr />Directory<wbr />Renamed</a>
+    </li>
+    <li>
+      <a id="22ad8a42-118b-4bb0-288d-69390b2682c9" href="22ad8a42-118b-4bb0-288d-69390b2682c9.htm">Notify<wbr />Drive<wbr />Added</a>
+    </li>
+    <li>
+      <a id="89690b7b-501a-c4c4-db9f-227b3e339ed0" href="89690b7b-501a-c4c4-db9f-227b3e339ed0.htm">Notify<wbr />Drive<wbr />Removed</a>
+    </li>
+    <li>
+      <a id="ec3d6e8d-e2c5-cd10-1d4c-934c6bcbab76" href="ec3d6e8d-e2c5-cd10-1d4c-934c6bcbab76.htm">Notify<wbr />File<wbr />Association<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="f15908cb-455e-df83-edea-16cf6cda87c9" href="f15908cb-455e-df83-edea-16cf6cda87c9.htm">Notify<wbr />File<wbr />Attributes<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="1dcd1afe-58d3-5666-2495-69e3b6413c73" href="1dcd1afe-58d3-5666-2495-69e3b6413c73.htm">Notify<wbr />File<wbr />Created</a>
+    </li>
+    <li>
+      <a id="fcf6db26-06f4-bd3e-2d8a-5baa3c4dae08" href="fcf6db26-06f4-bd3e-2d8a-5baa3c4dae08.htm">Notify<wbr />File<wbr />Deleted</a>
+    </li>
+    <li>
+      <a id="392f7f19-db50-9fc0-34cb-3c76dc1589ca" href="392f7f19-db50-9fc0-34cb-3c76dc1589ca.htm">Notify<wbr />File<wbr />Renamed</a>
+    </li>
+    <li>
+      <a id="55093a25-a40a-e251-7d05-53ebb743c51f" href="55093a25-a40a-e251-7d05-53ebb743c51f.htm">Notify<wbr />Freespace<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="e12ec9c0-56b5-8228-55ac-f296476bba69" href="e12ec9c0-56b5-8228-55ac-f296476bba69.htm">Notify<wbr />Media<wbr />Inserted</a>
+    </li>
+    <li>
+      <a id="d7d7bc38-6a9b-b454-85d4-c5e2b14f5014" href="d7d7bc38-6a9b-b454-85d4-c5e2b14f5014.htm">Notify<wbr />Media<wbr />Removed</a>
+    </li>
+    <li>
+      <a id="ba10758b-aec0-c2f0-1eac-80a58cd67208" href="ba10758b-aec0-c2f0-1eac-80a58cd67208.htm">Notify<wbr />Network<wbr />Folder<wbr />Shared</a>
+    </li>
+    <li>
+      <a id="222d83f7-d0aa-6690-04ed-ed1d6d43f78a" href="222d83f7-d0aa-6690-04ed-ed1d6d43f78a.htm">Notify<wbr />Network<wbr />Folder<wbr />Unshared</a>
+    </li>
+    <li>
+      <a id="416a753a-e4f2-5e53-94c3-de8a98df6ec0" href="416a753a-e4f2-5e53-94c3-de8a98df6ec0.htm">Notify<wbr />Registry<wbr />Change</a>
+    </li>
+    <li>
+      <a id="3d239a76-137d-0575-97c4-e57df539d032" href="3d239a76-137d-0575-97c4-e57df539d032.htm">Notify<wbr />Update<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="2b0eaee4-e2d9-4ebb-340b-cb7152b2a6ed" href="2b0eaee4-e2d9-4ebb-340b-cb7152b2a6ed.htm">Notify<wbr />Update<wbr />Image</a>
+    </li>
+    <li>
+      <a id="9f33cc1c-db90-2deb-cb8f-19c1b686031c" href="9f33cc1c-db90-2deb-cb8f-19c1b686031c.htm">Reload<wbr />System<wbr />Cursors</a>
+    </li>
+    <li>
+      <a id="d7dd1e9c-93d4-249d-4515-ddc19da8e832" href="d7dd1e9c-93d4-249d-4515-ddc19da8e832.htm">Reload<wbr />System<wbr />Icons</a>
+    </li>
+  </tocItems>
+</toc>

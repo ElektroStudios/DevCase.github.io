@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="35dc9a33-9bde-f48d-1885-85c1e965928f.htm">Util<wbr />Drawing</a>
+    </li>
+    <li>
+      <a href="19f63293-2ee5-2650-b1d2-1f604014fb67.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d20c394e-9a98-f3a2-8381-2abd2bb7feab" class="has-submenu" href="d20c394e-9a98-f3a2-8381-2abd2bb7feab.htm">
+        <span data-tocFile="../toc/IDAAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Draw<wbr />Ellipse<wbr />On<wbr />Screen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6cbd0b93-532c-cb01-5168-66a1438c083f" class="has-submenu" href="6cbd0b93-532c-cb01-5168-66a1438c083f.htm">
+        <span data-tocFile="../toc/IDBAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Draw<wbr />Rectangle<wbr />On<wbr />Screen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="89f1dc8a-c4ba-00f8-ab4e-0774106d7233" href="89f1dc8a-c4ba-00f8-ab4e-0774106d7233.htm">Fill<wbr />Rectangle<wbr />On<wbr />Screen</a>
+    </li>
+    <li>
+      <a id="1e3d0fa6-fbd9-9718-ece5-5e277a8db353" class="has-submenu" href="1e3d0fa6-fbd9-9718-ece5-5e277a8db353.htm">
+        <span data-tocFile="../toc/IDDAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Aspect<wbr />Ratio</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="556d57d8-01a6-a471-4bc9-96375a38132e" href="556d57d8-01a6-a471-4bc9-96375a38132e.htm">Get<wbr />Opposite<wbr />Anchor<wbr />Styles</a>
+    </li>
+    <li>
+      <a id="22ff5d25-be7a-cd5e-7d85-f871466db712" class="has-submenu" href="22ff5d25-be7a-cd5e-7d85-f871466db712.htm">
+        <span data-tocFile="../toc/IDFAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Point</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f2cb07b0-e0aa-723a-9bde-f91add6e403e" class="has-submenu" href="f2cb07b0-e0aa-723a-9bde-f91add6e403e.htm">
+        <span data-tocFile="../toc/IDGAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Point<wbr />F</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="69e2f60c-c448-6a5c-d515-08007bd41e52" class="has-submenu" href="69e2f60c-c448-6a5c-d515-08007bd41e52.htm">
+        <span data-tocFile="../toc/IDHAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Rectangle</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c9758929-095f-39df-5b2c-87a2d3fde85e" class="has-submenu" href="c9758929-095f-39df-5b2c-87a2d3fde85e.htm">
+        <span data-tocFile="../toc/IDIAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Rectangle<wbr />F</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8ae49904-c2d6-5d41-278b-19491f31748e" class="has-submenu" href="8ae49904-c2d6-5d41-278b-19491f31748e.htm">
+        <span data-tocFile="../toc/IDJAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Size</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="39ee3e3a-f8bc-fe86-110d-29d4892c5715" class="has-submenu" href="39ee3e3a-f8bc-fe86-110d-29d4892c5715.htm">
+        <span data-tocFile="../toc/IDKAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Size<wbr />F</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4f02ebdf-0e3a-2f9e-aea8-bb449a1c3a6f" class="has-submenu" href="4f02ebdf-0e3a-2f9e-aea8-bb449a1c3a6f.htm">
+        <span data-tocFile="../toc/IDLAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Square<wbr />Similarity<wbr />Percentage</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="020011ab-9f75-cd7d-5677-6ca0ce281029" href="020011ab-9f75-cd7d-5677-6ca0ce281029.htm">Point<wbr />Rectangle<wbr />FTo<wbr />Center<wbr />Of<wbr />Rectangle<wbr />F</a>
+    </li>
+    <li>
+      <a id="a17118ac-5bc1-cac7-a3cb-7c06027c0e15" href="a17118ac-5bc1-cac7-a3cb-7c06027c0e15.htm">Point<wbr />Rectangle<wbr />To<wbr />Center<wbr />Of<wbr />Control</a>
+    </li>
+    <li>
+      <a id="c49d8a3f-c0e2-21e9-28aa-8ef9b3c163a8" href="c49d8a3f-c0e2-21e9-28aa-8ef9b3c163a8.htm">Point<wbr />Rectangle<wbr />To<wbr />Center<wbr />Of<wbr />Form</a>
+    </li>
+    <li>
+      <a id="26c90bf0-9fe2-0be8-6e71-211d209e4db7" href="26c90bf0-9fe2-0be8-6e71-211d209e4db7.htm">Point<wbr />Rectangle<wbr />To<wbr />Center<wbr />Of<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="c855d162-d0b0-bb31-e422-86c1f4fd0144" href="c855d162-d0b0-bb31-e422-86c1f4fd0144.htm">Point<wbr />Rectangle<wbr />To<wbr />Center<wbr />Of<wbr />Screen</a>
+    </li>
+    <li>
+      <a id="c612fde3-ce7d-4f6a-c97e-76e8e258cd67" class="has-submenu" href="c612fde3-ce7d-4f6a-c97e-76e8e258cd67.htm">
+        <span data-tocFile="../toc/IDRAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resolution<wbr />Is<wbr />Of<wbr />Aspect<wbr />Ratio</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8356cfe3-3d3e-56c4-9644-659bee3ba036" class="has-submenu" href="8356cfe3-3d3e-56c4-9644-659bee3ba036.htm">
+        <span data-tocFile="../toc/IDSAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Transform<wbr />Point</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c46a9937-5496-49f5-9224-da454cd1335b" class="has-submenu" href="c46a9937-5496-49f5-9224-da454cd1335b.htm">
+        <span data-tocFile="../toc/IDTAQBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Win<wbr />Forms<wbr />Font<wbr />Size<wbr />To<wbr />WPFFont<wbr />Size</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e4ce5f61-e7da-22d6-b506-a7f854f088d5" href="e4ce5f61-e7da-22d6-b506-a7f854f088d5.htm">WPFFont<wbr />Size<wbr />To<wbr />Win<wbr />Forms<wbr />Font<wbr />Size</a>
+    </li>
+  </tocItems>
+</toc>

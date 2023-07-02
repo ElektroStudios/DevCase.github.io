@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bc2343a0-4d5c-c98e-1406-ab74a6e5c88a" class="has-submenu" href="bc2343a0-4d5c-c98e-1406-ab74a6e5c88a.htm">
+        <span data-tocFile="../toc/IDAFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2abb54da-63cd-ffdd-0266-26bc94fc4c83" class="has-submenu" href="2abb54da-63cd-ffdd-0266-26bc94fc4c83.htm">
+        <span data-tocFile="../toc/IDBFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Display</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6b52e1f4-f3e6-ada3-c1c9-4c898276a935" class="has-submenu" href="6b52e1f4-f3e6-ada3-c1c9-4c898276a935.htm">
+        <span data-tocFile="../toc/IDCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Drives</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dba4f045-fe88-1f93-c86d-eaf85300948f" class="has-submenu" href="dba4f045-fe88-1f93-c86d-eaf85300948f.htm">
+        <span data-tocFile="../toc/IDDFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Hardware<wbr />Stress</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9c3a411a-4774-9655-d81c-dad1971bc634" class="has-submenu" href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">
+        <span data-tocFile="../toc/IDEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6" class="has-submenu" href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">
+        <span data-tocFile="../toc/IDFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Power</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0f8ca8c8-408e-2c6d-8bbe-2292cc918724" class="has-submenu" href="0f8ca8c8-408e-2c6d-8bbe-2292cc918724.htm">
+        <span data-tocFile="../toc/IDGFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Printer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="582f4cbd-f571-ad09-21d7-6a10d528b3ac" class="has-submenu" href="582f4cbd-f571-ad09-21d7-6a10d528b3ac.htm">
+        <span data-tocFile="../toc/IDHFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Digital<wbr />Information</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9eab8eea-2b52-7cf0-8599-43240ba895fe" class="has-submenu" href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">
+        <span data-tocFile="../toc/IDIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c7c39842-b481-9c94-2083-a59f8cd2c3e1" class="has-submenu" href="c7c39842-b481-9c94-2083-a59f8cd2c3e1.htm">
+        <span data-tocFile="../toc/IDJFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1edfa4d3-24fe-aa76-3922-ab89fe116a1a" class="has-submenu" href="1edfa4d3-24fe-aa76-3922-ab89fe116a1a.htm">
+        <span data-tocFile="../toc/IDKFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Type<wbr />Converters</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="66becc03-578d-cc75-3014-e7df711b3587" class="has-submenu" href="66becc03-578d-cc75-3014-e7df711b3587.htm">
+        <span data-tocFile="../toc/IDLFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Type<wbr />Editors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Power</a>
+    </li>
+    <li>
+      <a href="7df203d9-6f49-89b5-2545-eaaca00d6927.htm">Power<wbr />State<wbr />Monitor</a>
+    </li>
+    <li>
+      <a href="c8509f44-debf-5299-9b17-9aa529c8329c.htm">Events</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1fbd52f8-a01d-9619-6e05-2c0096d29437" href="1fbd52f8-a01d-9619-6e05-2c0096d29437.htm">Battery<wbr />Status<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="64c55421-9d53-cc07-554c-80133cedfbd8" href="64c55421-9d53-cc07-554c-80133cedfbd8.htm">Suspend<wbr />Initiated</a>
+    </li>
+    <li>
+      <a id="30613973-3e94-fb5b-11b8-2f97429394c2" href="30613973-3e94-fb5b-11b8-2f97429394c2.htm">Suspend<wbr />Resumed</a>
+    </li>
+  </tocItems>
+</toc>

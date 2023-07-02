@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="25067364-65e8-0912-cf32-b5588199ba23.htm">Show<wbr />Window</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="df00774c-f311-e85e-46ef-c4c1a317c704" href="df00774c-f311-e85e-46ef-c4c1a317c704.htm">Show<wbr />Window(<wbr />Int<wbr />Ptr, Native<wbr />Window<wbr />State)</a>
+    </li>
+    <li>
+      <a id="8effad69-af7e-93ce-6eaa-bc21384b31e1" href="8effad69-af7e-93ce-6eaa-bc21384b31e1.htm">Show<wbr />Window(<wbr />Safe<wbr />Handle, Native<wbr />Window<wbr />State)</a>
+    </li>
+  </tocItems>
+</toc>

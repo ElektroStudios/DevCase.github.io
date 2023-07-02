@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9ccab889-ea5b-1918-8a95-d51e8c4b941f.htm">Shortcut<wbr />File<wbr />Info</a>
+    </li>
+    <li>
+      <a href="8aa416e2-9cab-027f-a2a7-bc45b9bedc4b.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8e2bec0d-8a81-1364-2f76-4f44865f4620" href="8e2bec0d-8a81-1364-2f76-4f44865f4620.htm">Attributes</a>
+    </li>
+    <li>
+      <a id="87369218-abfa-3df5-ce93-13cd8c574411" href="87369218-abfa-3df5-ce93-13cd8c574411.htm">Creation<wbr />Time</a>
+    </li>
+    <li>
+      <a id="57ce5c90-c4d3-ced4-1c69-546ec7ffd9eb" href="57ce5c90-c4d3-ced4-1c69-546ec7ffd9eb.htm">Creation<wbr />Time<wbr />Utc</a>
+    </li>
+    <li>
+      <a id="265eae38-652c-c95a-aa7a-c503a466f73f" href="265eae38-652c-c95a-aa7a-c503a466f73f.htm">Description</a>
+    </li>
+    <li>
+      <a id="e36abe37-6cd4-2744-bad6-ac5b0fbeba4a" href="e36abe37-6cd4-2744-bad6-ac5b0fbeba4a.htm">Directory</a>
+    </li>
+    <li>
+      <a id="8060e627-875d-f2d8-942d-02d7b1c4ce42" href="8060e627-875d-f2d8-942d-02d7b1c4ce42.htm">Directory<wbr />Name</a>
+    </li>
+    <li>
+      <a id="277277a6-e37e-dc78-231e-604e50ec25d7" href="277277a6-e37e-dc78-231e-604e50ec25d7.htm">Exists</a>
+    </li>
+    <li>
+      <a id="a28ff51e-b5c5-8fb5-1fbd-3e77445cec1e" href="a28ff51e-b5c5-8fb5-1fbd-3e77445cec1e.htm">Extension</a>
+    </li>
+    <li>
+      <a id="2f55b09d-4218-cf21-6f4b-09c8ede0bfb3" href="2f55b09d-4218-cf21-6f4b-09c8ede0bfb3.htm">Full<wbr />Name</a>
+    </li>
+    <li>
+      <a id="e33279de-29dd-14bd-27b8-e8766488121b" href="e33279de-29dd-14bd-27b8-e8766488121b.htm">Hotkey</a>
+    </li>
+    <li>
+      <a id="d6f241d6-5fbf-e06c-200e-7067391b0d18" href="d6f241d6-5fbf-e06c-200e-7067391b0d18.htm">Icon</a>
+    </li>
+    <li>
+      <a id="274b868b-06ee-7d48-86cc-4d0fff358b08" href="274b868b-06ee-7d48-86cc-4d0fff358b08.htm">Icon<wbr />Index</a>
+    </li>
+    <li>
+      <a id="bae35488-bd9c-fbe1-1cc8-9fa108a34937" href="bae35488-bd9c-fbe1-1cc8-9fa108a34937.htm">Is<wbr />Read<wbr />Only</a>
+    </li>
+    <li>
+      <a id="267587ca-c59f-95bd-4509-af242b734084" href="267587ca-c59f-95bd-4509-af242b734084.htm">Last<wbr />Access<wbr />Time</a>
+    </li>
+    <li>
+      <a id="96c4fe01-f5c1-71b7-3667-0f43ee835232" href="96c4fe01-f5c1-71b7-3667-0f43ee835232.htm">Last<wbr />Access<wbr />Time<wbr />Utc</a>
+    </li>
+    <li>
+      <a id="fc846c52-1556-b807-1635-e408b5e84a01" href="fc846c52-1556-b807-1635-e408b5e84a01.htm">Last<wbr />Write<wbr />Time</a>
+    </li>
+    <li>
+      <a id="42820656-98ea-29bd-5495-ef1b688fd520" href="42820656-98ea-29bd-5495-ef1b688fd520.htm">Last<wbr />Write<wbr />Time<wbr />Utc</a>
+    </li>
+    <li>
+      <a id="d4bd1027-5216-7297-eed4-04781646a792" href="d4bd1027-5216-7297-eed4-04781646a792.htm">Length</a>
+    </li>
+    <li>
+      <a id="02c1ca1f-c2c9-fb8d-8dbb-3d4a7c180793" href="02c1ca1f-c2c9-fb8d-8dbb-3d4a7c180793.htm">Name</a>
+    </li>
+    <li>
+      <a id="a293c7a7-8f05-1599-16b2-9d1566a9f28c" href="a293c7a7-8f05-1599-16b2-9d1566a9f28c.htm">Target</a>
+    </li>
+    <li>
+      <a id="f193d52a-27d5-6468-f527-bddce373e182" href="f193d52a-27d5-6468-f527-bddce373e182.htm">Target<wbr />Arguments</a>
+    </li>
+    <li>
+      <a id="2fb99953-a9b4-0986-c605-8cbcdbbd0bc4" href="2fb99953-a9b4-0986-c605-8cbcdbbd0bc4.htm">Target<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="1705435c-03e6-f303-23ee-7eaab45c32f0" href="1705435c-03e6-f303-23ee-7eaab45c32f0.htm">View<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="773c2b6d-0bce-5f13-81c0-a68799588cb5" href="773c2b6d-0bce-5f13-81c0-a68799588cb5.htm">Window<wbr />State</a>
+    </li>
+    <li>
+      <a id="6295642e-bb6a-61da-5a2e-a3b61ed6849c" href="6295642e-bb6a-61da-5a2e-a3b61ed6849c.htm">Working<wbr />Directory</a>
+    </li>
+  </tocItems>
+</toc>

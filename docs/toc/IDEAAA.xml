@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="5c64db65-f304-c243-cd8f-395e9c660450.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms.<wbr />Undo<wbr />Redo</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="eaaf7e68-e40c-1188-7b9a-493147960de9" class="has-submenu" href="eaaf7e68-e40c-1188-7b9a-493147960de9.htm">
+        <span data-tocFile="../toc/IDAEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo&lt;T&gt;</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9922b3e5-16fa-5e79-9beb-99e83f3c2bf6" class="has-submenu" href="9922b3e5-16fa-5e79-9beb-99e83f3c2bf6.htm">
+        <span data-tocFile="../toc/IDBEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Check<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="367691ad-cb90-6660-dc1d-6185ecd700a5" href="367691ad-cb90-6660-dc1d-6185ecd700a5.htm">Undo<wbr />Redo<wbr />Check<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="3135193b-deab-fdac-7bc9-bd15ab10b491" class="has-submenu" href="3135193b-deab-fdac-7bc9-bd15ab10b491.htm">
+        <span data-tocFile="../toc/IDDEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Combo<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="45b31a88-8b1e-8038-fbfa-c30f7c0e3d2a" href="45b31a88-8b1e-8038-fbfa-c30f7c0e3d2a.htm">Undo<wbr />Redo<wbr />Combo<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="01b45cb4-2d76-f5a6-337b-3e3a036f6270" href="01b45cb4-2d76-f5a6-337b-3e3a036f6270.htm">Undo<wbr />Redo<wbr />Command</a>
+    </li>
+    <li>
+      <a id="6ab6cb04-5226-87be-0e06-9682666d980b" class="has-submenu" href="6ab6cb04-5226-87be-0e06-9682666d980b.htm">
+        <span data-tocFile="../toc/IDGEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Date<wbr />Time<wbr />Picker</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6e31a531-1b8f-cc80-ac86-858f5342bb16" href="6e31a531-1b8f-cc80-ac86-858f5342bb16.htm">Undo<wbr />Redo<wbr />Date<wbr />Time<wbr />Picker<wbr />Events</a>
+    </li>
+    <li>
+      <a id="08c00a60-d743-ba30-bfe7-e8e36f626c78" class="has-submenu" href="08c00a60-d743-ba30-bfe7-e8e36f626c78.htm">
+        <span data-tocFile="../toc/IDIEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Item</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1bc68875-bba0-7347-f161-62177b3653f7" class="has-submenu" href="1bc68875-bba0-7347-f161-62177b3653f7.htm">
+        <span data-tocFile="../toc/IDJEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />List<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="88ef5990-5a94-4271-d2c9-5c295de7ff2f" href="88ef5990-5a94-4271-d2c9-5c295de7ff2f.htm">Undo<wbr />Redo<wbr />List<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="503a7d4f-d376-8116-6f61-e3699c7a6726" class="has-submenu" href="503a7d4f-d376-8116-6f61-e3699c7a6726.htm">
+        <span data-tocFile="../toc/IDLEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />List<wbr />View</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e89e1b29-af72-679f-b756-d0e5c9607cb0" href="e89e1b29-af72-679f-b756-d0e5c9607cb0.htm">Undo<wbr />Redo<wbr />List<wbr />View<wbr />Events</a>
+    </li>
+    <li>
+      <a id="5f5c9107-16b2-8495-15fc-b1e519dc6a88" class="has-submenu" href="5f5c9107-16b2-8495-15fc-b1e519dc6a88.htm">
+        <span data-tocFile="../toc/IDNEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Masked<wbr />Text<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2e8c6bf6-5ec6-125a-6deb-e056ec032cd2" href="2e8c6bf6-5ec6-125a-6deb-e056ec032cd2.htm">Undo<wbr />Redo<wbr />Masked<wbr />Text<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="541642f0-aa94-ac44-b5e5-37e9d050f66f" class="has-submenu" href="541642f0-aa94-ac44-b5e5-37e9d050f66f.htm">
+        <span data-tocFile="../toc/IDPEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Month<wbr />Calendar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="71d70066-3d08-961a-78da-4865d4640afa" href="71d70066-3d08-961a-78da-4865d4640afa.htm">Undo<wbr />Redo<wbr />Month<wbr />Calendar<wbr />Events</a>
+    </li>
+    <li>
+      <a id="371456c8-3da4-5cde-e13d-baeb981b2f69" class="has-submenu" href="371456c8-3da4-5cde-e13d-baeb981b2f69.htm">
+        <span data-tocFile="../toc/IDREAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Numeric<wbr />Up<wbr />Down</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="528e798e-9178-0901-55d8-9d85f633666c" href="528e798e-9178-0901-55d8-9d85f633666c.htm">Undo<wbr />Redo<wbr />Numeric<wbr />Up<wbr />Down<wbr />Events</a>
+    </li>
+    <li>
+      <a id="973ecfc1-ab19-a220-99c7-26fbeb2a81ef" class="has-submenu" href="973ecfc1-ab19-a220-99c7-26fbeb2a81ef.htm">
+        <span data-tocFile="../toc/IDTEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Rich<wbr />Text<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c6dd40bc-a268-ca62-3bb9-25af2fbe11d3" href="c6dd40bc-a268-ca62-3bb9-25af2fbe11d3.htm">Undo<wbr />Redo<wbr />Rich<wbr />Text<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="d068915d-dfde-c50a-9653-4ebf606caf95" class="has-submenu" href="d068915d-dfde-c50a-9653-4ebf606caf95.htm">
+        <span data-tocFile="../toc/IDVEAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Undo<wbr />Redo<wbr />Text<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="06ddf8ad-9aea-183f-4365-0eee0f9ceea4" href="06ddf8ad-9aea-183f-4365-0eee0f9ceea4.htm">Undo<wbr />Redo<wbr />Text<wbr />Box<wbr />Events</a>
+    </li>
+    <li>
+      <a id="5b621ebe-950a-b936-acc5-d7312ef9eaf6" href="5b621ebe-950a-b936-acc5-d7312ef9eaf6.htm">Undo<wbr />Redo<wbr />Text<wbr />Update<wbr />Behavior</a>
+    </li>
+  </tocItems>
+</toc>

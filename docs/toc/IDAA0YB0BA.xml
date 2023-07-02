@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="618a1da7-8b3b-5591-b1a3-d9b0efa4fc22" class="has-submenu" href="618a1da7-8b3b-5591-b1a3-d9b0efa4fc22.htm">
+        <span data-tocFile="../toc/IDAAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Apply<wbr />Color<wbr />Matrix</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2dbb1322-19c3-421e-adc4-5c40739694c8" class="has-submenu" href="2dbb1322-19c3-421e-adc4-5c40739694c8.htm">
+        <span data-tocFile="../toc/IDBAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Center</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8598cd3a-2b58-158d-4bab-6c9b605ba340" href="8598cd3a-2b58-158d-4bab-6c9b605ba340.htm">Compute<wbr />Hash&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="271dcd32-7a17-09a4-7b1d-a5b9dedbf684" href="271dcd32-7a17-09a4-7b1d-a5b9dedbf684.htm">Contains<wbr />Color</a>
+    </li>
+    <li>
+      <a id="8e649e81-0b2f-76ef-0732-ff357c8c88b5" href="8e649e81-0b2f-76ef-0732-ff357c8c88b5.htm">Convert<wbr />To<wbr />Pixel<wbr />Format</a>
+    </li>
+    <li>
+      <a id="d755c9f5-ddc8-1207-101b-2e67dcb1eeec" class="has-submenu" href="d755c9f5-ddc8-1207-101b-2e67dcb1eeec.htm">
+        <span data-tocFile="../toc/IDFAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Crop</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8009894b-f09b-b9d2-954c-b1f5ea8add16" href="8009894b-f09b-b9d2-954c-b1f5ea8add16.htm">Flip</a>
+    </li>
+    <li>
+      <a id="9b4515b1-0b95-76e0-36e4-2434cbf3d1f2" href="9b4515b1-0b95-76e0-36e4-2434cbf3d1f2.htm">Get<wbr />Pixel<wbr />Info</a>
+    </li>
+    <li>
+      <a id="816584be-9412-1bd0-3998-8425c59c7b80" href="816584be-9412-1bd0-3998-8425c59c7b80.htm">Get<wbr />Pixel<wbr />Info<wbr />At</a>
+    </li>
+    <li>
+      <a id="be6df9ac-4c97-dab7-b767-da8f730891c6" href="be6df9ac-4c97-dab7-b767-da8f730891c6.htm">Get<wbr />Region</a>
+    </li>
+    <li>
+      <a id="89884b4c-1964-d765-d9a4-3dc65feedb89" href="89884b4c-1964-d765-d9a4-3dc65feedb89.htm">Get<wbr />Region<wbr />Exclude</a>
+    </li>
+    <li>
+      <a id="50e7444f-207b-06ba-8385-e82c1a09eac0" href="50e7444f-207b-06ba-8385-e82c1a09eac0.htm">Get<wbr />Region<wbr />Include</a>
+    </li>
+    <li>
+      <a id="2186f21b-e72d-751b-a22c-006f55bb89b8" href="2186f21b-e72d-751b-a22c-006f55bb89b8.htm">Get<wbr />Region<wbr />Reverse</a>
+    </li>
+    <li>
+      <a id="0feb37c5-16e4-8f04-4f72-792b03fad61b" class="has-submenu" href="0feb37c5-16e4-8f04-4f72-792b03fad61b.htm">
+        <span data-tocFile="../toc/IDNAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Index<wbr />Of</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5426e87c-8755-af21-9728-c2b5a4a4ed8f" class="has-submenu" href="5426e87c-8755-af21-9728-c2b5a4a4ed8f.htm">
+        <span data-tocFile="../toc/IDOAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invert<wbr />Colors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="61f3913a-f97b-7818-c488-2d4a4dc19298" href="61f3913a-f97b-7818-c488-2d4a4dc19298.htm">Replace<wbr />Color</a>
+    </li>
+    <li>
+      <a id="fa852da9-9cb8-d558-c1f0-ca2e5e83d95c" class="has-submenu" href="fa852da9-9cb8-d558-c1f0-ca2e5e83d95c.htm">
+        <span data-tocFile="../toc/IDQAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resize</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="add59055-fa18-b2e9-3587-011bdaaacefc" href="add59055-fa18-b2e9-3587-011bdaaacefc.htm">Save<wbr />As<wbr />JPEG</a>
+    </li>
+    <li>
+      <a id="8ba458bf-8e10-ba0e-0eb8-01de73009d57" class="has-submenu" href="8ba458bf-8e10-ba0e-0eb8-01de73009d57.htm">
+        <span data-tocFile="../toc/IDSAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Scale</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2290fc2a-e35c-95c6-0a3e-0a39d1c58f45" class="has-submenu" href="2290fc2a-e35c-95c6-0a3e-0a39d1c58f45.htm">
+        <span data-tocFile="../toc/IDTAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Brightness</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="44d92232-7669-1309-7aea-d0dda053ad8a" class="has-submenu" href="44d92232-7669-1309-7aea-d0dda053ad8a.htm">
+        <span data-tocFile="../toc/IDUAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Contrast</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6253be79-b48c-a2da-0895-cf6372d7cb77" class="has-submenu" href="6253be79-b48c-a2da-0895-cf6372d7cb77.htm">
+        <span data-tocFile="../toc/IDVAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Gamma</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6ca05575-bf34-7669-ce2e-a957ff0959e0" class="has-submenu" href="6ca05575-bf34-7669-ce2e-a957ff0959e0.htm">
+        <span data-tocFile="../toc/IDWAA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Opacity</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a0c1d461-d35f-6c7c-c73e-659585df6195" href="a0c1d461-d35f-6c7c-c73e-659585df6195.htm">Stretch</a>
+    </li>
+    <li>
+      <a id="3bdd580d-96cf-ff87-825a-dc16b5bd76eb" href="3bdd580d-96cf-ff87-825a-dc16b5bd76eb.htm">Tile</a>
+    </li>
+    <li>
+      <a id="b46c1797-bac1-158c-5012-9b73841754bd" href="b46c1797-bac1-158c-5012-9b73841754bd.htm">To<wbr />Array</a>
+    </li>
+    <li>
+      <a id="67ebfced-ca13-2742-e21a-0faa4dbdea71" href="67ebfced-ca13-2742-e21a-0faa4dbdea71.htm">To<wbr />Base<wbr />64</a>
+    </li>
+    <li>
+      <a id="fabacaa0-0b45-d15e-ff65-e598a2b147ea" href="fabacaa0-0b45-d15e-ff65-e598a2b147ea.htm">To<wbr />Bitmap<wbr />Frame</a>
+    </li>
+    <li>
+      <a id="72a6df4c-c1e9-4991-83c1-4f3318f3109c" href="72a6df4c-c1e9-4991-83c1-4f3318f3109c.htm">To<wbr />Bitmap<wbr />Image</a>
+    </li>
+    <li>
+      <a id="d5992643-1a39-c5fd-272d-22245b570c3f" href="d5992643-1a39-c5fd-272d-22245b570c3f.htm">To<wbr />Bitmap<wbr />Source</a>
+    </li>
+    <li>
+      <a id="09ab040a-454b-0911-e12c-ef14306418e0" class="has-submenu" href="09ab040a-454b-0911-e12c-ef14306418e0.htm">
+        <span data-tocFile="../toc/ID5AA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Black<wbr />And<wbr />White</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f8f94c4f-40ff-c188-c0a1-c6bced927a4e" class="has-submenu" href="f8f94c4f-40ff-c188-c0a1-c6bced927a4e.htm">
+        <span data-tocFile="../toc/ID6AA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Grayscale</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8a648d6c-313f-b37d-dacd-e8698d56d823" class="has-submenu" href="8a648d6c-313f-b37d-dacd-e8698d56d823.htm">
+        <span data-tocFile="../toc/ID0AB0AA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Grid<wbr />Images</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5137e46-1f4c-9509-83d8-6defa196b53a" href="b5137e46-1f4c-9509-83d8-6defa196b53a.htm">To<wbr />Grid<wbr />Rectangles</a>
+    </li>
+    <li>
+      <a id="d1ed85ce-7d09-d95b-a9d3-5e45e370f68a" href="d1ed85ce-7d09-d95b-a9d3-5e45e370f68a.htm">To<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="7844f412-d3c5-6987-e811-bb124cbaf235" href="7844f412-d3c5-6987-e811-bb124cbaf235.htm">To<wbr />Memory<wbr />Stream</a>
+    </li>
+    <li>
+      <a id="83ecb835-4efd-f1d6-56cb-7ca1c9574fc2" href="83ecb835-4efd-f1d6-56cb-7ca1c9574fc2.htm">To<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="4bff31b9-d0a2-dbcf-c874-6e70f95071aa" href="4bff31b9-d0a2-dbcf-c874-6e70f95071aa.htm">To<wbr />Rectangle<wbr />F</a>
+    </li>
+    <li>
+      <a id="9483debd-994a-92d6-37d7-a3567cbcdf6f" class="has-submenu" href="9483debd-994a-92d6-37d7-a3567cbcdf6f.htm">
+        <span data-tocFile="../toc/ID0GB0AA0YB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Zoom</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="c189ae4f-ff10-daa9-e771-a0baff728af6.htm">Util<wbr />Process</a>
+    </li>
+    <li>
+      <a href="ebbebbb1-5085-58f9-6c66-6048608f5837.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0bbc0209-1c67-6fdd-be06-d3b559de8f1b.htm">Set<wbr />Process<wbr />Privileges</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8c187e6e-4040-e9e1-b5eb-f76c0d164d1c" href="8c187e6e-4040-e9e1-b5eb-f76c0d164d1c.htm">Set<wbr />Process<wbr />Privileges(<wbr />Int<wbr />32, Process<wbr />Privileges, Privilege<wbr />States)</a>
+    </li>
+    <li>
+      <a id="66a7dd37-5654-8bf2-3fa3-a41dfdfd7549" href="66a7dd37-5654-8bf2-3fa3-a41dfdfd7549.htm">Set<wbr />Process<wbr />Privileges(<wbr />Process, Process<wbr />Privileges, Privilege<wbr />States)</a>
+    </li>
+    <li>
+      <a id="7c31c6bb-838c-e9a7-1225-1768292097e9" href="7c31c6bb-838c-e9a7-1225-1768292097e9.htm">Set<wbr />Process<wbr />Privileges(<wbr />String, Process, Process<wbr />Privileges, Privilege<wbr />States)</a>
+    </li>
+    <li>
+      <a id="e7889bcf-3e01-4ded-477c-58b13c75a80e" href="e7889bcf-3e01-4ded-477c-58b13c75a80e.htm">Set<wbr />Process<wbr />Privileges(<wbr />String, Int<wbr />32, Process<wbr />Privileges, Privilege<wbr />States)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="8dcc36cd-622b-cc3b-7ab1-1f481ff9d901.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Array<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9f223842-2c0d-2d2c-2748-5d8d9f3a498a.htm">Array<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="25356ae9-57e3-d186-1b09-a0b0018065ae.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5110f4d8-8aec-eef4-e593-d88a71fecbe6.htm">Find<wbr />Last</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="187bae00-187b-f88a-7860-bf02dfc308a8" href="187bae00-187b-f88a-7860-bf02dfc308a8.htm">Find<wbr />Last&lt;T&gt;(<wbr />T[][], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="9cfa9006-1e4e-2477-d8c2-89b3295b7811" href="9cfa9006-1e4e-2477-d8c2-89b3295b7811.htm">Find<wbr />Last&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="20fab470-3bff-5adc-4452-3ca05ff9a1a9" href="20fab470-3bff-5adc-4452-3ca05ff9a1a9.htm">Find<wbr />Last&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="f87ef90a-4bac-492a-1125-d29a5584bb67" href="f87ef90a-4bac-492a-1125-d29a5584bb67.htm">Find<wbr />Last&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

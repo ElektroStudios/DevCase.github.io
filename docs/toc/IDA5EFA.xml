@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="3a403381-5af5-722a-38a5-a7ae9ea47c6d.htm">IShared<wbr />Bitmap</a>
+    </li>
+    <li>
+      <a href="df302ac0-4009-5143-d637-41d6bfa4beae.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c739c326-2687-f2eb-38eb-8883d39783f9" href="c739c326-2687-f2eb-38eb-8883d39783f9.htm">Detach</a>
+    </li>
+    <li>
+      <a id="11efdea3-bde8-6fce-588d-9b1935189688" href="11efdea3-bde8-6fce-588d-9b1935189688.htm">Get<wbr />Format</a>
+    </li>
+    <li>
+      <a id="c8814d2b-624f-db51-9eba-3c07a70958a6" href="c8814d2b-624f-db51-9eba-3c07a70958a6.htm">Get<wbr />Shared<wbr />Bitmap</a>
+    </li>
+    <li>
+      <a id="7ec0ecb7-2b43-9793-f66c-fe3d81fa7849" href="7ec0ecb7-2b43-9793-f66c-fe3d81fa7849.htm">Get<wbr />Size</a>
+    </li>
+    <li>
+      <a id="b4fdca4a-488b-26ea-75ce-52f0a626b001" href="b4fdca4a-488b-26ea-75ce-52f0a626b001.htm">Initialize<wbr />Bitmap</a>
+    </li>
+  </tocItems>
+</toc>

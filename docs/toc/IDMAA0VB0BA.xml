@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e407e225-bc1e-fe39-b21c-7aa83e1fc108.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9c7733d2-9fca-d14e-3ed8-9e250aa0a477.htm">Methods</a>
+    </li>
+    <li>
+      <a href="918411ae-29ca-7f5f-04be-b85baed8e036.htm">Index<wbr />Of</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="50032d17-f279-362d-6e2f-1ddd45510f21" href="50032d17-f279-362d-6e2f-1ddd45510f21.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, T)</a>
+    </li>
+    <li>
+      <a id="09661063-fbeb-83ce-f984-8477fc450e52" href="09661063-fbeb-83ce-f984-8477fc450e52.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="8f588c31-2c60-c7cc-1688-d5bb681182b0" href="8f588c31-2c60-c7cc-1688-d5bb681182b0.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, T, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="c255604f-16d9-7ce9-a15c-35180c8147f3" href="c255604f-16d9-7ce9-a15c-35180c8147f3.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="679364be-4018-14b7-e9aa-33a1703144c0" href="679364be-4018-14b7-e9aa-33a1703144c0.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, T, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="2575440b-3b1e-b541-413d-a33b6318a16b" href="2575440b-3b1e-b541-413d-a33b6318a16b.htm">Index<wbr />Of&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="874b521d-a70e-6b88-72e2-62f2ca729b9b.htm">Cred<wbr />UI</a>
+    </li>
+    <li>
+      <a href="760f5d74-36da-5c21-91df-851ecede4c1b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2a34b12e-67d8-d840-f047-9d7ace850e03" href="2a34b12e-67d8-d840-f047-9d7ace850e03.htm">Cred<wbr />Pack<wbr />Authentication<wbr />Buffer</a>
+    </li>
+    <li>
+      <a id="176f9b61-ea7a-14fc-cb69-ea6282063a6d" href="176f9b61-ea7a-14fc-cb69-ea6282063a6d.htm">Cred<wbr />UICmd<wbr />Line<wbr />Prompt<wbr />For<wbr />Credentials</a>
+    </li>
+    <li>
+      <a id="5980a1d4-ca81-cc83-2586-fc7a35ff3190" href="5980a1d4-ca81-cc83-2586-fc7a35ff3190.htm">Cred<wbr />UIConfirm<wbr />Credentials</a>
+    </li>
+    <li>
+      <a id="e1e8d849-45aa-7844-725c-ac54877d41b1" href="e1e8d849-45aa-7844-725c-ac54877d41b1.htm">Cred<wbr />UIParse<wbr />User<wbr />Name</a>
+    </li>
+    <li>
+      <a id="b025d220-8ac0-a779-0e87-d920eaa85344" href="b025d220-8ac0-a779-0e87-d920eaa85344.htm">Cred<wbr />UIPrompt<wbr />For<wbr />Credentials</a>
+    </li>
+    <li>
+      <a id="f6ddee51-62cf-217e-8879-b0dcb8894b8a" href="f6ddee51-62cf-217e-8879-b0dcb8894b8a.htm">Cred<wbr />UIPrompt<wbr />For<wbr />Windows<wbr />Credentials</a>
+    </li>
+    <li>
+      <a id="d91bb870-490f-5286-ed57-b597fa713649" href="d91bb870-490f-5286-ed57-b597fa713649.htm">Cred<wbr />UIRead<wbr />SSOCred</a>
+    </li>
+    <li>
+      <a id="cada8b3e-4ca9-898e-8f76-3d415127c557" href="cada8b3e-4ca9-898e-8f76-3d415127c557.htm">Cred<wbr />UIStore<wbr />SSOCred</a>
+    </li>
+    <li>
+      <a id="7e098faa-39e0-db48-9b57-db5e34b350ce" class="has-submenu" href="7e098faa-39e0-db48-9b57-db5e34b350ce.htm">
+        <span data-tocFile="../toc/IDIACFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Cred<wbr />Un<wbr />Pack<wbr />Authentication<wbr />Buffer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

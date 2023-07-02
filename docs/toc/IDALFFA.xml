@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">Nt<wbr />Dll</a>
+    </li>
+    <li>
+      <a href="2dde2e15-8c5e-a9ef-c692-d8fc8177e7bb.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="aa895c87-4a91-652f-ff4b-ed76557958cf" href="aa895c87-4a91-652f-ff4b-ed76557958cf.htm">Dbg<wbr />Break<wbr />Point</a>
+    </li>
+    <li>
+      <a id="ce641716-adaf-a0a4-46b3-4389af7c0785" href="ce641716-adaf-a0a4-46b3-4389af7c0785.htm">Dbg<wbr />Prompt</a>
+    </li>
+    <li>
+      <a id="173d1d2e-256d-65d8-bfad-09eb5bff17dc" href="173d1d2e-256d-65d8-bfad-09eb5bff17dc.htm">Nt<wbr />Close</a>
+    </li>
+    <li>
+      <a id="5261052b-1a7f-f0fd-7beb-170a84bd37d7" class="has-submenu" href="5261052b-1a7f-f0fd-7beb-170a84bd37d7.htm">
+        <span data-tocFile="../toc/IDDALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Create<wbr />Section</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3d4e3afa-e115-eaf5-1220-17aee34a33fd" href="3d4e3afa-e115-eaf5-1220-17aee34a33fd.htm">Nt<wbr />Extend<wbr />Section</a>
+    </li>
+    <li>
+      <a id="8d9ac883-a2d9-6784-3494-074d2ecfa843" href="8d9ac883-a2d9-6784-3494-074d2ecfa843.htm">Nt<wbr />Freeze<wbr />Registry</a>
+    </li>
+    <li>
+      <a id="e03c5e8c-4f1d-40af-2af7-560c7280e405" class="has-submenu" href="e03c5e8c-4f1d-40af-2af7-560c7280e405.htm">
+        <span data-tocFile="../toc/IDGALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Map<wbr />View<wbr />Of<wbr />Section</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1d492b10-c7e8-3752-2cb8-efe5227beb79" class="has-submenu" href="1d492b10-c7e8-3752-2cb8-efe5227beb79.htm">
+        <span data-tocFile="../toc/IDHALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Open<wbr />Event</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4e9182a5-74cd-bb6d-40d2-8ee8aaff7ffe" class="has-submenu" href="4e9182a5-74cd-bb6d-40d2-8ee8aaff7ffe.htm">
+        <span data-tocFile="../toc/IDIALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Open<wbr />Section</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9ce157f8-4fcc-a439-8cfc-71df1a4914be" href="9ce157f8-4fcc-a439-8cfc-71df1a4914be.htm">Nt<wbr />Query<wbr />Information<wbr />Process</a>
+    </li>
+    <li>
+      <a id="60eeb5bc-7279-abc4-48fe-e33d832a746c" class="has-submenu" href="60eeb5bc-7279-abc4-48fe-e33d832a746c.htm">
+        <span data-tocFile="../toc/IDKALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Query<wbr />Mutex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="436dbbd9-1157-5f3b-39b0-f49f60e42858" href="436dbbd9-1157-5f3b-39b0-f49f60e42858.htm">Nt<wbr />Raise<wbr />Hard<wbr />Error</a>
+    </li>
+    <li>
+      <a id="879b9f41-61ee-a34e-26eb-29a595ef8a4c" href="879b9f41-61ee-a34e-26eb-29a595ef8a4c.htm">Nt<wbr />Resume<wbr />Process</a>
+    </li>
+    <li>
+      <a id="b1ab7656-4a89-e771-11a5-24bc328ad9e0" href="b1ab7656-4a89-e771-11a5-24bc328ad9e0.htm">Nt<wbr />Set<wbr />Event</a>
+    </li>
+    <li>
+      <a id="52024a0a-4863-e5da-db46-5d5ec853f4b2" href="52024a0a-4863-e5da-db46-5d5ec853f4b2.htm">Nt<wbr />Suspend<wbr />Process</a>
+    </li>
+    <li>
+      <a id="a37b6b9f-441f-0359-0e0d-6d7bc8cf484b" href="a37b6b9f-441f-0359-0e0d-6d7bc8cf484b.htm">Nt<wbr />Thaw<wbr />Registry</a>
+    </li>
+    <li>
+      <a id="76fba0db-26db-3d4d-3549-37cf5364ba95" class="has-submenu" href="76fba0db-26db-3d4d-3549-37cf5364ba95.htm">
+        <span data-tocFile="../toc/IDQALFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Unmap<wbr />View<wbr />Of<wbr />Section</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6ee3cc9f-0e43-c3f0-e8cc-92c998cf43c6" href="6ee3cc9f-0e43-c3f0-e8cc-92c998cf43c6.htm">Rtl<wbr />Adjust<wbr />Privilege</a>
+    </li>
+    <li>
+      <a id="b0b4c4bc-a781-41fe-077e-a826944f5f57" href="b0b4c4bc-a781-41fe-077e-a826944f5f57.htm">Rtl<wbr />Compute<wbr />Crc<wbr />32</a>
+    </li>
+    <li>
+      <a id="e9d3904f-5566-041d-b6bb-4c4b6fbb6339" href="e9d3904f-5566-041d-b6bb-4c4b6fbb6339.htm">Rtl<wbr />Crc<wbr />32</a>
+    </li>
+    <li>
+      <a id="975ec040-e800-2991-f054-75de82014c72" href="975ec040-e800-2991-f054-75de82014c72.htm">Rtl<wbr />Crc<wbr />64</a>
+    </li>
+    <li>
+      <a id="91c77a31-0157-72fc-c7e2-60eb3df36e30" href="91c77a31-0157-72fc-c7e2-60eb3df36e30.htm">Rtl<wbr />Random<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="49322f67-f8d4-71e4-c498-d1d345c84e00" href="49322f67-f8d4-71e4-c498-d1d345c84e00.htm">Rtl<wbr />Uniform</a>
+    </li>
+    <li>
+      <a id="795332fe-dac5-9d8a-66f7-12a312fc2da3" href="795332fe-dac5-9d8a-66f7-12a312fc2da3.htm">Set<wbr />Current<wbr />Process<wbr />Is<wbr />Critical</a>
+    </li>
+  </tocItems>
+</toc>

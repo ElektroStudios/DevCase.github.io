@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="9361f3bf-be4e-beb6-0bf9-1dc35a2a9c97.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Gaming.<wbr />Rom<wbr />Hacking.<wbr />SNES</a>
+    </li>
+    <li>
+      <a href="638d3a37-c7ea-7eae-6da5-5443792782f3.htm">Snes<wbr />Rom</a>
+    </li>
+    <li>
+      <a href="cff9a7be-ca4e-8429-a676-5ce9be4485e8.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="40174f88-b591-5cad-fbd9-f6d3e5a4090f" href="40174f88-b591-5cad-fbd9-f6d3e5a4090f.htm">Snes<wbr />Rom(<wbr />Byte[])</a>
+    </li>
+    <li>
+      <a id="5c74e38a-c0ac-b9ef-ded3-37f0b352b557" href="5c74e38a-c0ac-b9ef-ded3-37f0b352b557.htm">Snes<wbr />Rom(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="0f4e581e-84a8-de37-6c2a-9ed8b69ab3f1" href="0f4e581e-84a8-de37-6c2a-9ed8b69ab3f1.htm">Snes<wbr />Rom(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

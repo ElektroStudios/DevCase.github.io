@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="f13069e8-6177-2cae-34c2-ffa76981af6c.htm">Memory<wbr />Basic<wbr />Information<wbr />64</a>
+    </li>
+    <li>
+      <a href="e0a3fcb6-cc06-491d-e9de-235fc3bf513f.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b75c0e70-8b12-0ab3-81c1-a011993a164c" href="b75c0e70-8b12-0ab3-81c1-a011993a164c.htm">__<wbr />alignment<wbr />1</a>
+    </li>
+    <li>
+      <a id="7f72644d-d158-4f40-bc6d-9eb8e1bf0dbb" href="7f72644d-d158-4f40-bc6d-9eb8e1bf0dbb.htm">__<wbr />alignment<wbr />2</a>
+    </li>
+    <li>
+      <a id="dad2e4b2-0a5e-4c4a-6b00-0c5976c171d6" href="dad2e4b2-0a5e-4c4a-6b00-0c5976c171d6.htm">Allocation<wbr />Base</a>
+    </li>
+    <li>
+      <a id="b5850b57-a9fe-25d2-88fa-7cac7a8a75b8" href="b5850b57-a9fe-25d2-88fa-7cac7a8a75b8.htm">Allocation<wbr />Protect</a>
+    </li>
+    <li>
+      <a id="b3430769-2053-8b1a-e937-e589ba1d6c06" href="b3430769-2053-8b1a-e937-e589ba1d6c06.htm">Base<wbr />Address</a>
+    </li>
+    <li>
+      <a id="657d3e57-9a27-3330-f759-7d134f6acf7d" href="657d3e57-9a27-3330-f759-7d134f6acf7d.htm">Protect</a>
+    </li>
+    <li>
+      <a id="d6c2929b-6215-8fd5-375b-8bc86391874e" href="d6c2929b-6215-8fd5-375b-8bc86391874e.htm">Region<wbr />Size</a>
+    </li>
+    <li>
+      <a id="25404ef1-cc23-8781-0098-075f7a4445c7" href="25404ef1-cc23-8781-0098-075f7a4445c7.htm">State</a>
+    </li>
+    <li>
+      <a id="1cb446c6-56b7-7e0f-b41e-3e7551748c2d" href="1cb446c6-56b7-7e0f-b41e-3e7551748c2d.htm">Type</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="5c64db65-f304-c243-cd8f-395e9c660450.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms.<wbr />Undo<wbr />Redo</a>
+    </li>
+    <li>
+      <a href="eaaf7e68-e40c-1188-7b9a-493147960de9.htm">Undo<wbr />Redo&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="304a8b92-738e-ef27-b394-4d6603ab5ad5.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1769a6c5-3037-255c-065f-5d548d6456c8" href="1769a6c5-3037-255c-065f-5d548d6456c8.htm">Can<wbr />Redo</a>
+    </li>
+    <li>
+      <a id="9f0d3ae7-9cd4-7902-4ffa-12fe113345d3" href="9f0d3ae7-9cd4-7902-4ffa-12fe113345d3.htm">Can<wbr />Undo</a>
+    </li>
+    <li>
+      <a id="ba359528-8a70-ce12-9b72-59e3488d1291" href="ba359528-8a70-ce12-9b72-59e3488d1291.htm">Control</a>
+    </li>
+    <li>
+      <a id="c02916e9-a8c2-3adf-ce02-85274060f723" href="c02916e9-a8c2-3adf-ce02-85274060f723.htm">Is<wbr />Redoing</a>
+    </li>
+    <li>
+      <a id="e3f47e00-e5f6-99a3-3907-59a48b4fb788" href="e3f47e00-e5f6-99a3-3907-59a48b4fb788.htm">Is<wbr />Undoing</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Power</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3e631775-e1c9-66f6-90c8-df1ee63cede1" class="has-submenu" href="3e631775-e1c9-66f6-90c8-df1ee63cede1.htm">
+        <span data-tocFile="../toc/IDAFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Battery<wbr />Status<wbr />Changed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3fbba298-e3f1-19b6-b1e6-7c2f092cab99" href="3fbba298-e3f1-19b6-b1e6-7c2f092cab99.htm">Log<wbr />Off<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="c6f7b345-e3b8-000d-2997-87abc2f9743a" class="has-submenu" href="c6f7b345-e3b8-000d-2997-87abc2f9743a.htm">
+        <span data-tocFile="../toc/IDCFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Power<wbr />Plan</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7df203d9-6f49-89b5-2545-eaaca00d6927" class="has-submenu" href="7df203d9-6f49-89b5-2545-eaaca00d6927.htm">
+        <span data-tocFile="../toc/IDDFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Power<wbr />State<wbr />Monitor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0e981c0e-e6b3-4326-fe8d-94c16905a30f" class="has-submenu" href="0e981c0e-e6b3-4326-fe8d-94c16905a30f.htm">
+        <span data-tocFile="../toc/IDEFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Prevent<wbr />Shutdown<wbr />Context</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e" href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">Shutdown<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="7697ca75-a252-281f-49e5-f665a18c8f94" class="has-submenu" href="7697ca75-a252-281f-49e5-f665a18c8f94.htm">
+        <span data-tocFile="../toc/IDGFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Power</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

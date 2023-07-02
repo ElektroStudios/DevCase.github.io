@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fd399cb5-ff4f-6383-7b37-971e59ad8c3c.htm">Write<wbr />At</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9efc9030-d73e-5900-2009-4f06aab6a5f3" href="9efc9030-d73e-5900-2009-4f06aab6a5f3.htm">Write<wbr />At(<wbr />Memory<wbr />Mapped<wbr />File, Byte, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="e8cb2b95-d492-a6f6-5981-1c77117b610e" href="e8cb2b95-d492-a6f6-5981-1c77117b610e.htm">Write<wbr />At(<wbr />Memory<wbr />Mapped<wbr />File, Byte[], Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="0f7f2d92-ce5c-f999-9b5b-1b6d140079d4" href="0f7f2d92-ce5c-f999-9b5b-1b6d140079d4.htm">Write<wbr />At&lt;T&gt;(<wbr />Memory<wbr />Mapped<wbr />File, T, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="f05790b4-6965-f421-c22a-c86760b2cacf" href="f05790b4-6965-f421-c22a-c86760b2cacf.htm">Write<wbr />At(<wbr />String, Byte, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="1a15c01e-7885-ee47-be9d-0851b8c36c1a" href="1a15c01e-7885-ee47-be9d-0851b8c36c1a.htm">Write<wbr />At(<wbr />String, Byte[], Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="19fcc734-0b0d-bf39-9abe-35dd8d0a5e3d" href="19fcc734-0b0d-bf39-9abe-35dd8d0a5e3d.htm">Write<wbr />At&lt;T&gt;(<wbr />String, T, Int<wbr />64)</a>
+    </li>
+  </tocItems>
+</toc>

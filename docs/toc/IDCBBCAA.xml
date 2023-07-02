@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="9391e677-11d9-224c-e01c-8529276a161e.htm">Dev<wbr />Case.<wbr />Core.<wbr />Date<wbr />And<wbr />Time Namespaces</a>
+    </li>
+    <li>
+      <a href="fe1897e3-fea4-5991-dea7-1554e723aa60.htm">Dev<wbr />Case.<wbr />Core.<wbr />Date<wbr />And<wbr />Time.<wbr />Time<wbr />Management</a>
+    </li>
+    <li>
+      <a href="4076b9e2-e870-9e1c-c06a-62eb39e55e34.htm">Time<wbr />Measurer</a>
+    </li>
+    <li>
+      <a href="9aad7890-808f-436c-8fcc-427004e99830.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e52af8af-321a-1462-46af-eb8146d26e5e" href="e52af8af-321a-1462-46af-eb8146d26e5e.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="5b8a4998-b93e-15c3-794a-042f9f2cb2f2" href="5b8a4998-b93e-15c3-794a-042f9f2cb2f2.htm">Pause</a>
+    </li>
+    <li>
+      <a id="3ec03ccf-f8ef-ee56-83cb-e0118f08b3ca" href="3ec03ccf-f8ef-ee56-83cb-e0118f08b3ca.htm">Resume</a>
+    </li>
+    <li>
+      <a id="bb5d4204-2a90-cf7c-e3cf-52eff0fab4bb" class="has-submenu" href="bb5d4204-2a90-cf7c-e3cf-52eff0fab4bb.htm">
+        <span data-tocFile="../toc/IDDCBBCAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Start</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="667b5d3c-0cd5-b2ec-b148-921f3da35fdd" href="667b5d3c-0cd5-b2ec-b148-921f3da35fdd.htm">Stop</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+    </li>
+    <li>
+      <a href="b2a06e73-5b12-751d-6862-1a6c9cdd438b.htm">Util<wbr />Mail</a>
+    </li>
+    <li>
+      <a href="6351292b-2511-cc31-04e9-fc4f4befb73b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ca0d40c7-617b-e1e7-1a1c-738dcf67eb0e.htm">Send<wbr />Mail<wbr />Html</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7be2b5b7-0832-0ee6-2ce1-e6f2b161ec16" href="7be2b5b7-0832-0ee6-2ce1-e6f2b161ec16.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address)</a>
+    </li>
+    <li>
+      <a id="eab3089c-a63f-13a2-e39a-1d3525b039b9" href="eab3089c-a63f-13a2-e39a-1d3525b039b9.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="d8c1c65b-99b6-bd96-324a-9b0a544fb2b6" href="d8c1c65b-99b6-bd96-324a-9b0a544fb2b6.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String)</a>
+    </li>
+    <li>
+      <a id="70bc9060-2fb1-fcb6-a68e-263df68288c8" href="70bc9060-2fb1-fcb6-a68e-263df68288c8.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String[])</a>
+    </li>
+    <li>
+      <a id="9ee8006b-7c1b-d9e5-fe43-187da1ac6c9b" href="9ee8006b-7c1b-d9e5-fe43-187da1ac6c9b.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="9c97ebcb-5a9e-1b4b-7c01-5f98d9d89d2a" href="9c97ebcb-5a9e-1b4b-7c01-5f98d9d89d2a.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address, Attachment[])</a>
+    </li>
+    <li>
+      <a id="ff85f7a6-b5d1-b088-7f4a-173bed446986" href="ff85f7a6-b5d1-b088-7f4a-173bed446986.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address<wbr />Collection, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="08542236-1a57-0ebc-6c84-85f0775e0b81" href="08542236-1a57-0ebc-6c84-85f0775e0b81.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, Mail<wbr />Address<wbr />Collection, Attachment[])</a>
+    </li>
+    <li>
+      <a id="cc154841-1491-a979-a172-62c66a44c363" href="cc154841-1491-a979-a172-62c66a44c363.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="33263292-6566-fcc0-0afe-abc13ad90b4c" href="33263292-6566-fcc0-0afe-abc13ad90b4c.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String, Attachment[])</a>
+    </li>
+    <li>
+      <a id="78ab21fa-04d4-f560-0cc0-ed87152750c6" href="78ab21fa-04d4-f560-0cc0-ed87152750c6.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String[], ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="7b595039-c3ae-21ab-1d6e-b60f6fc8a5eb" href="7b595039-c3ae-21ab-1d6e-b60f6fc8a5eb.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, Network<wbr />Credential, String, String, String[], Attachment[])</a>
+    </li>
+    <li>
+      <a id="0ce98299-5fd8-c287-41de-0c30be96fe2a" href="0ce98299-5fd8-c287-41de-0c30be96fe2a.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address)</a>
+    </li>
+    <li>
+      <a id="efb84732-1e04-cc6d-b9e2-436262135281" href="efb84732-1e04-cc6d-b9e2-436262135281.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="b32fb0d0-7b3d-3df8-76a9-de2be0f3445d" href="b32fb0d0-7b3d-3df8-76a9-de2be0f3445d.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String)</a>
+    </li>
+    <li>
+      <a id="be43dcb8-6f8e-20e7-16ef-6c3c981f8c5f" href="be43dcb8-6f8e-20e7-16ef-6c3c981f8c5f.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String[])</a>
+    </li>
+    <li>
+      <a id="4ef2e71b-e829-32eb-19ac-249149e2e296" href="4ef2e71b-e829-32eb-19ac-249149e2e296.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="db9fae63-74c4-ec11-cf9a-48e9c424f00a" href="db9fae63-74c4-ec11-cf9a-48e9c424f00a.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address, Attachment[])</a>
+    </li>
+    <li>
+      <a id="4d2fc415-ad36-2a0c-fac5-49b04f88d6c5" href="4d2fc415-ad36-2a0c-fac5-49b04f88d6c5.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address<wbr />Collection, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="40dc4b7b-bf88-6600-cb23-3f1e7a306ea1" href="40dc4b7b-bf88-6600-cb23-3f1e7a306ea1.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, Mail<wbr />Address<wbr />Collection, Attachment[])</a>
+    </li>
+    <li>
+      <a id="b2ee4870-8e85-205c-276d-f22f81550fc5" href="b2ee4870-8e85-205c-276d-f22f81550fc5.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="f82d9f3b-86ad-3ff7-ec2b-9fd3c87cedfd" href="f82d9f3b-86ad-3ff7-ec2b-9fd3c87cedfd.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String, Attachment[])</a>
+    </li>
+    <li>
+      <a id="8a7dac87-5a37-56f7-81db-1e3880e8b9b8" href="8a7dac87-5a37-56f7-81db-1e3880e8b9b8.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String[], ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="c58ec3b6-8ae9-1b62-5858-b34d8da299ec" href="c58ec3b6-8ae9-1b62-5858-b34d8da299ec.htm">Send<wbr />Mail<wbr />Html(<wbr />Smtp<wbr />Client, String, String, String, String, String[], Attachment[])</a>
+    </li>
+  </tocItems>
+</toc>

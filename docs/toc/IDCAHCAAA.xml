@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="99bc21d7-51bb-f715-bb22-acd3e292fc23.htm">Async<wbr />Dispose</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9e297548-4bf8-8cc1-d979-c3744d01b820" href="9e297548-4bf8-8cc1-d979-c3744d01b820.htm">Async<wbr />Dispose(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="d915d303-9596-432e-826b-e2e5d9fd2997" href="d915d303-9596-432e-826b-e2e5d9fd2997.htm">Async<wbr />Dispose(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="9819e6a8-e741-21ac-b602-37fcc957758e" href="9819e6a8-e741-21ac-b602-37fcc957758e.htm">Async<wbr />Dispose&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="25c2428f-6d65-4c85-d5cb-2bba45202714" href="25c2428f-6d65-4c85-d5cb-2bba45202714.htm">Async<wbr />Dispose&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="bbc65607-d8a2-0b3e-b30c-bd041b680559" href="bbc65607-d8a2-0b3e-b30c-bd041b680559.htm">Async<wbr />Dispose&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

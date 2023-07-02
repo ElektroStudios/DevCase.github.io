@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="07f9a734-6d80-91a5-3298-52435e0d5a20.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Microsoft<wbr />Live</a>
+    </li>
+    <li>
+      <a href="40c78a07-f6dd-c120-1d3d-c76e2ac5b264.htm">Outlook<wbr />Mail<wbr />Client<wbr />Experimental</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1379cd14-5606-91b8-9bd3-c9e45ecb30aa" class="has-submenu" href="1379cd14-5606-91b8-9bd3-c9e45ecb30aa.htm">
+        <span data-tocFile="../toc/IDAB6DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8a408a48-08cb-e2d7-8ec8-c6019d8ab495" class="has-submenu" href="8a408a48-08cb-e2d7-8ec8-c6019d8ab495.htm">
+        <span data-tocFile="../toc/IDBB6DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="09509818-05f6-0d73-8001-2e4f57007f3b" class="has-submenu" href="09509818-05f6-0d73-8001-2e4f57007f3b.htm">
+        <span data-tocFile="../toc/IDCB6DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

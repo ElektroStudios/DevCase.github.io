@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="9bd2f8ed-89ef-b24a-df06-b97f96885e24.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="447e8aa0-64b1-3b61-8e40-b2c698f9c5e9.htm">Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="4ecb42bc-d3db-e919-8183-e803ae16d231.htm">Operators</a>
+    </li>
+    <li>
+      <a href="18a41885-8264-922a-a772-be9a984c4092.htm">Implicit</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7fa6aa13-404f-a904-922e-ed5032a7f677" href="7fa6aa13-404f-a904-922e-ed5032a7f677.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Boolean&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="8d2774d6-cf63-edbc-6e70-c620166c8dbf" href="8d2774d6-cf63-edbc-6e70-c620166c8dbf.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Byte&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="9b2bcc14-4aa7-e37f-28b3-ea7952e5f7e7" href="9b2bcc14-4aa7-e37f-28b3-ea7952e5f7e7.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Char&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="4d0f172a-323b-253a-6729-8265db83316d" href="4d0f172a-323b-253a-6729-8265db83316d.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Date<wbr />Time&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="ab84be31-6408-1c50-9076-5f7f2604b4fa" href="ab84be31-6408-1c50-9076-5f7f2604b4fa.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Decimal&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="b37e7b97-01fd-6f86-402a-162c142efa54" href="b37e7b97-01fd-6f86-402a-162c142efa54.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Double&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="ea454713-27b2-26d5-3ce3-0057dfdc215b" href="ea454713-27b2-26d5-3ce3-0057dfdc215b.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;IConvertible&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="96da4ebf-32c8-41da-122d-d2c9ea1416f9" href="96da4ebf-32c8-41da-122d-d2c9ea1416f9.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Int<wbr />16&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="6ff085b5-b2f4-5efc-11db-a244b654a7c8" href="6ff085b5-b2f4-5efc-11db-a244b654a7c8.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Int<wbr />32&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="ba7995d2-a8ac-8acc-7c29-79c2ef590121" href="ba7995d2-a8ac-8acc-7c29-79c2ef590121.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Int<wbr />64&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="023f2a91-e67d-094a-85d8-6d519f176d98" href="023f2a91-e67d-094a-85d8-6d519f176d98.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;SByte&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="a5d4c1be-dce5-1a1d-40ad-1ca612b14ab0" href="a5d4c1be-dce5-1a1d-40ad-1ca612b14ab0.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;Single&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="07eb80cd-2521-4cbe-65ce-25940df99014" href="07eb80cd-2521-4cbe-65ce-25940df99014.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;String&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="19dd6ae9-5f3e-b259-b080-28ce91745991" href="19dd6ae9-5f3e-b259-b080-28ce91745991.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;UInt<wbr />16&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="7bffb538-b791-5b20-3cbd-d11b94f38f04" href="7bffb538-b791-5b20-3cbd-d11b94f38f04.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;UInt<wbr />32&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="e88c8f85-82ef-5e36-ee51-0602b17207b5" href="e88c8f85-82ef-5e36-ee51-0602b17207b5.htm">Implicit Conversion (Command<wbr />Line<wbr />Value<wbr />Parameter&lt;UInt<wbr />64&gt; to Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="d0244d5b-d202-3244-7350-71846751ee77.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Stack<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="8d5a4f6d-12fd-f44b-a02b-96c05f40469b.htm">Stack<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="0066d7f6-a2c0-de4f-4762-220425da3dcc.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5d197282-1acb-4a05-092c-0bc4d815eb06" href="5d197282-1acb-4a05-092c-0bc4d815eb06.htm">Peek&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="67d4f0f7-70cf-ceee-cacf-352d88d18fb3" href="67d4f0f7-70cf-ceee-cacf-352d88d18fb3.htm">Pop&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="eca26fdb-07ec-0eb0-a566-3121614df462" href="eca26fdb-07ec-0eb0-a566-3121614df462.htm">Push<wbr />Range&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="74c5fb2f-e8e7-5d8d-7c83-0dfe8c16eb52" href="74c5fb2f-e8e7-5d8d-7c83-0dfe8c16eb52.htm">Reverse&lt;T&gt;</a>
+    </li>
+  </tocItems>
+</toc>

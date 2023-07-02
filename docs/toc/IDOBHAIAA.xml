@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="087e6660-664f-c994-8e83-f7b191cf5c62.htm">Get<wbr />Post<wbr />Response<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3d5c3d6d-2006-72ca-d7ad-319759f093a3" href="3d5c3d6d-2006-72ca-d7ad-319759f093a3.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />String, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="5125f97e-dd46-e10c-9504-1ecc3666d73f" href="5125f97e-dd46-e10c-9504-1ecc3666d73f.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />String, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="b202357b-db6c-38dc-5e36-00be49c3397a" href="b202357b-db6c-38dc-5e36-00be49c3397a.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />Uri, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="8795e976-6db2-0376-5fcd-d0245a22f47e" href="8795e976-6db2-0376-5fcd-d0245a22f47e.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />Uri, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="28d82047-19cc-b2f1-a9d5-3b0ad7577933" href="28d82047-19cc-b2f1-a9d5-3b0ad7577933.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />String, Cookie<wbr />Container, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="614a66fd-8be5-876a-4ed1-368b9f9f2fdf" href="614a66fd-8be5-876a-4ed1-368b9f9f2fdf.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />String, Cookie<wbr />Container, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="a1dd3436-4705-2e9e-edb8-3a0573e7f72d" href="a1dd3436-4705-2e9e-edb8-3a0573e7f72d.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />Uri, Cookie<wbr />Container, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="0639a901-8ea7-d503-1b7b-57a42c00e510" href="0639a901-8ea7-d503-1b7b-57a42c00e510.htm">Get<wbr />Post<wbr />Response<wbr />Async(<wbr />Uri, Cookie<wbr />Container, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+  </tocItems>
+</toc>

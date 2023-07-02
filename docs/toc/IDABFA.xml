@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58d11375-7881-6c5b-e408-2fb0e3f945c2.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="e854bab1-9f3f-701e-7a88-820e38bba49c.htm">Com<wbr />Object<wbr />Disposer&lt;T&gt;</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2310e83f-e05f-d941-e58b-ff134bae298e" href="2310e83f-e05f-d941-e58b-ff134bae298e.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="52c0c2ae-c245-1f05-4b78-3990c3d14355" class="has-submenu" href="52c0c2ae-c245-1f05-4b78-3990c3d14355.htm">
+        <span data-tocFile="../toc/IDBABFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="93204dd4-1b19-df4c-474f-782a8c89bf6e" class="has-submenu" href="93204dd4-1b19-df4c-474f-782a8c89bf6e.htm">
+        <span data-tocFile="../toc/IDCABFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

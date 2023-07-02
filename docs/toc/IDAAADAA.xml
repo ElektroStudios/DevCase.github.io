@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+    </li>
+    <li>
+      <a href="d685b97f-b9e6-ca3c-9d21-e12b1b119729.htm">Util<wbr />Assembly<wbr />Registration</a>
+    </li>
+    <li>
+      <a href="90379158-f529-c7ba-8f75-c5d9815cec72.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1b2ba507-561d-4a6c-7695-be814fcf02b1" class="has-submenu" href="1b2ba507-561d-4a6c-7695-be814fcf02b1.htm">
+        <span data-tocFile="../toc/IDAAAADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>GACInstall<wbr />Assembly</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6de074a4-1c9d-5c37-9c9f-56ed98b9017b" class="has-submenu" href="6de074a4-1c9d-5c37-9c9f-56ed98b9017b.htm">
+        <span data-tocFile="../toc/IDBAAADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>GACUninstall<wbr />Assembly</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="74b0da12-928b-aa33-cd18-aefe97101d52" class="has-submenu" href="74b0da12-928b-aa33-cd18-aefe97101d52.htm">
+        <span data-tocFile="../toc/IDCAAADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Assembly<wbr />In<wbr />GAC</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="17de5e41-4550-8a82-4203-eeef28e21087" class="has-submenu" href="17de5e41-4550-8a82-4203-eeef28e21087.htm">
+        <span data-tocFile="../toc/IDDAAADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Register<wbr />Managed<wbr />Assembly</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="72701e14-3795-5dac-4416-b73fad0987eb" class="has-submenu" href="72701e14-3795-5dac-4416-b73fad0987eb.htm">
+        <span data-tocFile="../toc/IDEAAADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unregister<wbr />Managed<wbr />Assembly</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

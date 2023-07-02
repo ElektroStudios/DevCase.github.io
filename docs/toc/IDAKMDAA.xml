@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5f3a5a94-eadd-4da4-9965-e032767088b3" href="5f3a5a94-eadd-4da4-9965-e032767088b3.htm">Append<wbr />Text</a>
+    </li>
+    <li>
+      <a id="16aed5bc-3799-5980-5614-ba7b2f1943a1" class="has-submenu" href="16aed5bc-3799-5980-5614-ba7b2f1943a1.htm">
+        <span data-tocFile="../toc/IDBAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Caret<wbr />Create</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0613b7b8-a577-eb82-e491-b9b430cac16a" href="0613b7b8-a577-eb82-e491-b9b430cac16a.htm">Caret<wbr />Destroy</a>
+    </li>
+    <li>
+      <a id="7614e4c6-bd80-65d8-b5ed-8415e5ae3d4c" class="has-submenu" href="7614e4c6-bd80-65d8-b5ed-8415e5ae3d4c.htm">
+        <span data-tocFile="../toc/IDDAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Caret<wbr />Hide</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0acb418b-a273-448a-4ec9-c2af42fd56cc" class="has-submenu" href="0acb418b-a273-448a-4ec9-c2af42fd56cc.htm">
+        <span data-tocFile="../toc/IDEAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Caret<wbr />Show</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="55dd9053-42b0-5f0c-e05c-ad9bfcb5efa0" href="55dd9053-42b0-5f0c-e05c-ad9bfcb5efa0.htm">Disable<wbr />Drawing</a>
+    </li>
+    <li>
+      <a id="63b109b7-c463-6d92-493e-a06644f8d926" href="63b109b7-c463-6d92-493e-a06644f8d926.htm">Enable<wbr />Drawing</a>
+    </li>
+    <li>
+      <a id="eab3cd66-f8de-c4ef-8d88-0117d4a6e237" class="has-submenu" href="eab3cd66-f8de-c4ef-8d88-0117d4a6e237.htm">
+        <span data-tocFile="../toc/IDHAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Enumerate<wbr />Child<wbr />Windows</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f12be7fa-af85-b24e-84be-3dd55eb5b2b2" href="f12be7fa-af85-b24e-84be-3dd55eb5b2b2.htm">Enumerate<wbr />Windows</a>
+    </li>
+    <li>
+      <a id="7b058d8c-7252-62e2-75a3-b88dda7da502" class="has-submenu" href="7b058d8c-7252-62e2-75a3-b88dda7da502.htm">
+        <span data-tocFile="../toc/IDJAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Exit<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="88a224e7-a8a9-68da-8e8d-b47b635d473b" class="has-submenu" href="88a224e7-a8a9-68da-8e8d-b47b635d473b.htm">
+        <span data-tocFile="../toc/IDKAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Flash<wbr />Window</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5cccc68e-a3be-f060-3453-61b24ec0eb5f" class="has-submenu" href="5cccc68e-a3be-f060-3453-61b24ec0eb5f.htm">
+        <span data-tocFile="../toc/IDLAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Scrollbars</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f34da410-e690-3ff1-e049-614098eb0994" href="f34da410-e690-3ff1-e049-614098eb0994.htm">Get<wbr />Titlebar<wbr />Text</a>
+    </li>
+    <li>
+      <a id="f2f6e709-0726-7f16-b173-bd5bc7207559" href="f2f6e709-0726-7f16-b173-bd5bc7207559.htm">Get<wbr />Toolbar<wbr />Buttons</a>
+    </li>
+    <li>
+      <a id="d1874045-6bdf-be18-869e-284d9c609cd3" class="has-submenu" href="d1874045-6bdf-be18-869e-284d9c609cd3.htm">
+        <span data-tocFile="../toc/IDOAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Vertical<wbr />Scroll<wbr />Position</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="24659e60-f863-4b23-692c-37e60ddadab2" class="has-submenu" href="24659e60-f863-4b23-692c-37e60ddadab2.htm">
+        <span data-tocFile="../toc/IDPAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Window<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="89a9f202-bd65-d12b-0616-49cb564f6940" class="has-submenu" href="89a9f202-bd65-d12b-0616-49cb564f6940.htm">
+        <span data-tocFile="../toc/IDQAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />Scroll<wbr />Bar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="640733b9-55fe-466b-3cfc-65e1ffa85b78" href="640733b9-55fe-466b-3cfc-65e1ffa85b78.htm">Insert<wbr />Text</a>
+    </li>
+    <li>
+      <a id="fa6059cf-a025-d1c8-3f85-19952a4dad7d" class="has-submenu" href="fa6059cf-a025-d1c8-3f85-19952a4dad7d.htm">
+        <span data-tocFile="../toc/IDSAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Horizontal<wbr />Scroll<wbr />Visible</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="59360e8d-f92d-8cf9-3c44-c7b7e85ae84b" class="has-submenu" href="59360e8d-f92d-8cf9-3c44-c7b7e85ae84b.htm">
+        <span data-tocFile="../toc/IDTAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Vertical<wbr />Scroll<wbr />Visible</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b8aa97d6-551a-4261-dfec-e8083ff9b3b9" class="has-submenu" href="b8aa97d6-551a-4261-dfec-e8083ff9b3b9.htm">
+        <span data-tocFile="../toc/IDUAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Window<wbr />Totally<wbr />Visible</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="64634e60-de9b-03f3-17ba-9f40fd865869" class="has-submenu" href="64634e60-de9b-03f3-17ba-9f40fd865869.htm">
+        <span data-tocFile="../toc/IDVAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Window<wbr />Visible</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fa993d21-216d-0ad2-19cd-84e5db409a60" href="fa993d21-216d-0ad2-19cd-84e5db409a60.htm">Move<wbr />Horizontal<wbr />Scrollbar</a>
+    </li>
+    <li>
+      <a id="be8d0ac3-2006-3ef8-e964-8276eae2c316" href="be8d0ac3-2006-3ef8-e964-8276eae2c316.htm">Move<wbr />Line<wbr />Scroll</a>
+    </li>
+    <li>
+      <a id="e9553358-61e4-e138-a288-769eaa722f0d" href="e9553358-61e4-e138-a288-769eaa722f0d.htm">Move<wbr />Vertical<wbr />Scrollbar</a>
+    </li>
+    <li>
+      <a id="01812c35-31bc-6b18-b941-60bba1e946ce" class="has-submenu" href="01812c35-31bc-6b18-b941-60bba1e946ce.htm">
+        <span data-tocFile="../toc/IDZAKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Window</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6f48ec6e-7b43-fbb2-96b1-6c97ace27d0b" class="has-submenu" href="6f48ec6e-7b43-fbb2-96b1-6c97ace27d0b.htm">
+        <span data-tocFile="../toc/ID1AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Pause<wbr />Process</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f2df73e3-1680-c459-a64c-c0e1a52d0828" class="has-submenu" href="f2df73e3-1680-c459-a64c-c0e1a52d0828.htm">
+        <span data-tocFile="../toc/ID2AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Pause<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="427d531b-1c9c-cd07-ce27-6c1c1e8bfff5" class="has-submenu" href="427d531b-1c9c-cd07-ce27-6c1c1e8bfff5.htm">
+        <span data-tocFile="../toc/ID3AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resize<wbr />Window</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96ab6400-f7ba-c818-488e-bbc631fc5b31" href="96ab6400-f7ba-c818-488e-bbc631fc5b31.htm">Resume<wbr />Process</a>
+    </li>
+    <li>
+      <a id="583c6960-f16b-fe08-29b6-00500976de9a" class="has-submenu" href="583c6960-f16b-fe08-29b6-00500976de9a.htm">
+        <span data-tocFile="../toc/ID5AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resume<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f0cfa4a0-d5ac-3097-d5d6-fa0eef7a5057" href="f0cfa4a0-d5ac-3097-d5d6-fa0eef7a5057.htm">Set<wbr />Caret<wbr />Blink<wbr />Time</a>
+    </li>
+    <li>
+      <a id="8b463875-028c-5132-8b80-9b72af017a12" href="8b463875-028c-5132-8b80-9b72af017a12.htm">Set<wbr />Caret<wbr />Position</a>
+    </li>
+    <li>
+      <a id="e77c5fa2-60b1-2004-dcb8-171d0c7f8a42" class="has-submenu" href="e77c5fa2-60b1-2004-dcb8-171d0c7f8a42.htm">
+        <span data-tocFile="../toc/ID0BB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Window<wbr />Opacity</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6b19b6b6-be89-67cc-2a1b-1f45c2c93f88" class="has-submenu" href="6b19b6b6-be89-67cc-2a1b-1f45c2c93f88.htm">
+        <span data-tocFile="../toc/ID0CB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Window<wbr />Pos</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf46afb7-ac3b-78b7-8045-e98d6e2bd0df" class="has-submenu" href="bf46afb7-ac3b-78b7-8045-e98d6e2bd0df.htm">
+        <span data-tocFile="../toc/ID0DB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Window<wbr />State</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="25519b85-d237-3f2a-269e-cd32047208a9" class="has-submenu" href="25519b85-d237-3f2a-269e-cd32047208a9.htm">
+        <span data-tocFile="../toc/ID0EB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Window<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="998918aa-7df9-e4e2-3500-3a11fa68a276" class="has-submenu" href="998918aa-7df9-e4e2-3500-3a11fa68a276.htm">
+        <span data-tocFile="../toc/ID0FB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Scroll<wbr />Bar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="45ea5a80-dadd-e15d-c11a-9b4511f88836" class="has-submenu" href="45ea5a80-dadd-e15d-c11a-9b4511f88836.htm">
+        <span data-tocFile="../toc/ID0GB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Slice<wbr />Window<wbr />Position</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d6b9d342-100d-8b9a-47c4-8442a8920605" class="has-submenu" href="d6b9d342-100d-8b9a-47c4-8442a8920605.htm">
+        <span data-tocFile="../toc/ID0HB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Slice<wbr />Window<wbr />Size</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="48baa3db-64af-3943-f181-a2d47cfb30f5" class="has-submenu" href="48baa3db-64af-3943-f181-a2d47cfb30f5.htm">
+        <span data-tocFile="../toc/ID0IB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Vertical<wbr />Scroll<wbr />Is<wbr />At<wbr />Bottom</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="486e2fcc-b977-e075-57de-9cd39dafe127" class="has-submenu" href="486e2fcc-b977-e075-57de-9cd39dafe127.htm">
+        <span data-tocFile="../toc/ID0JB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Vertical<wbr />Scroll<wbr />Is<wbr />At<wbr />Top</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fa9f1368-7e25-8bd7-6573-5862a2d2add6" class="has-submenu" href="fa9f1368-7e25-8bd7-6573-5862a2d2add6.htm">
+        <span data-tocFile="../toc/ID0KB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Vertical<wbr />Scroll<wbr />Reached<wbr />Bottom</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="78da6d9e-c33f-643d-0ceb-2df87faee3e3" class="has-submenu" href="78da6d9e-c33f-643d-0ceb-2df87faee3e3.htm">
+        <span data-tocFile="../toc/ID0LB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Vertical<wbr />Scroll<wbr />Reached<wbr />Top</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="84ff0f23-da68-0beb-f089-22add9a63249" class="has-submenu" href="84ff0f23-da68-0beb-f089-22add9a63249.htm">
+        <span data-tocFile="../toc/ID0MB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Wait<wbr />For<wbr />Child<wbr />Window</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1de25a24-07b1-b984-ca11-52dca1ea3411" class="has-submenu" href="1de25a24-07b1-b984-ca11-52dca1ea3411.htm">
+        <span data-tocFile="../toc/ID0NB0AKMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Wait<wbr />For<wbr />Window</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

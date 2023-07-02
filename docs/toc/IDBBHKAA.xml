@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="c413b0c6-21e7-44d1-a359-44fa3f98886b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Theming</a>
+    </li>
+    <li>
+      <a href="b85ddbf4-1db4-3e29-00c2-ee4815f32947.htm">Util<wbr />Theming</a>
+    </li>
+    <li>
+      <a href="214c75dc-398c-b0ed-aa1f-fdec6eac1e4d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4011c327-6192-7d5e-3d6d-d770a3a7ad47" class="has-submenu" href="4011c327-6192-7d5e-3d6d-d770a3a7ad47.htm">
+        <span data-tocFile="../toc/IDABBHKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Font<wbr />Installed</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7773d7b3-7c81-0f12-7142-48f4a1ffe1db" href="7773d7b3-7c81-0f12-7142-48f4a1ffe1db.htm">Remove<wbr />Desktop<wbr />Wallpaper</a>
+    </li>
+    <li>
+      <a id="e65e69d2-0ab4-1902-3f40-cae657f41959" href="e65e69d2-0ab4-1902-3f40-cae657f41959.htm">Set<wbr />Desktop<wbr />Wallpaper</a>
+    </li>
+    <li>
+      <a id="702282a9-303e-5d48-5b22-b8588b4535ff" href="702282a9-303e-5d48-5b22-b8588b4535ff.htm">Set<wbr />Screensaver</a>
+    </li>
+    <li>
+      <a id="97105bd2-dc7f-8c54-66c3-661abecbef85" href="97105bd2-dc7f-8c54-66c3-661abecbef85.htm">Set<wbr />System<wbr />Cursor</a>
+    </li>
+    <li>
+      <a id="7979be96-7d71-13f7-61ca-b0ef1d91b10f" href="7979be96-7d71-13f7-61ca-b0ef1d91b10f.htm">Set<wbr />System<wbr />Visual<wbr />Theme</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="10e4bf89-7b62-2a00-cbf0-dbe573be0911.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Youtube</a>
+    </li>
+    <li>
+      <a href="91c40d9e-8ba1-87c6-10ad-a6ee0d012523.htm">Youtube<wbr />Client</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b14244c2-a302-a6ca-bae2-d624349ad64f" class="has-submenu" href="b14244c2-a302-a6ca-bae2-d624349ad64f.htm">
+        <span data-tocFile="../toc/IDABHWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="02714347-65fe-a58c-87b6-8941d937d4f3" class="has-submenu" href="02714347-65fe-a58c-87b6-8941d937d4f3.htm">
+        <span data-tocFile="../toc/IDBBHWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="466a7938-9ad4-f555-9a37-140f4b8f2f3d" class="has-submenu" href="466a7938-9ad4-f555-9a37-140f4b8f2f3d.htm">
+        <span data-tocFile="../toc/IDCBHWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

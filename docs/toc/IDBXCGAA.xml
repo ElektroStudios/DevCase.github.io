@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="b9a58c14-d35c-a0b1-3946-585e31212461.htm">Units.<wbr />Time</a>
+    </li>
+    <li>
+      <a href="41942342-fba8-b692-5025-ac47a3493c8e.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="195acd77-ad67-d929-b3a3-5e7faaf3dd37" href="195acd77-ad67-d929-b3a3-5e7faaf3dd37.htm">Century</a>
+    </li>
+    <li>
+      <a id="37608dae-cf14-768e-0c41-fa8e859dc2f9" href="37608dae-cf14-768e-0c41-fa8e859dc2f9.htm">Day</a>
+    </li>
+    <li>
+      <a id="59db6f93-c438-4479-5081-7bf41e4999fd" href="59db6f93-c438-4479-5081-7bf41e4999fd.htm">Decade</a>
+    </li>
+    <li>
+      <a id="aacbb2dc-d36a-4bc5-542c-616577dc93aa" href="aacbb2dc-d36a-4bc5-542c-616577dc93aa.htm">Hour</a>
+    </li>
+    <li>
+      <a id="344306dc-5145-2ff4-f459-02a1996cdee2" href="344306dc-5145-2ff4-f459-02a1996cdee2.htm">Micro<wbr />Second</a>
+    </li>
+    <li>
+      <a id="1c82d808-cb8b-5cc1-08b4-37ab8e3bb1fb" href="1c82d808-cb8b-5cc1-08b4-37ab8e3bb1fb.htm">Millennium</a>
+    </li>
+    <li>
+      <a id="cfb0d66b-2422-a4cb-3111-95ad368fa30d" href="cfb0d66b-2422-a4cb-3111-95ad368fa30d.htm">Milli<wbr />Second</a>
+    </li>
+    <li>
+      <a id="8afef308-53b7-6a18-13c7-b40c96f9809d" href="8afef308-53b7-6a18-13c7-b40c96f9809d.htm">Minute</a>
+    </li>
+    <li>
+      <a id="ea7cb4b8-b294-9cec-3fcf-93d11d183cc9" href="ea7cb4b8-b294-9cec-3fcf-93d11d183cc9.htm">Month</a>
+    </li>
+    <li>
+      <a id="f6f98c01-cecc-e036-7062-cf951772d261" href="f6f98c01-cecc-e036-7062-cf951772d261.htm">Nano<wbr />Second</a>
+    </li>
+    <li>
+      <a id="65443b78-c37a-7810-4e57-b59054d56b97" href="65443b78-c37a-7810-4e57-b59054d56b97.htm">Second</a>
+    </li>
+    <li>
+      <a id="64befa0f-809e-cd60-b3b7-ec0f346d18c9" href="64befa0f-809e-cd60-b3b7-ec0f346d18c9.htm">Week</a>
+    </li>
+    <li>
+      <a id="e85c887a-ed1f-d7ec-fe72-5dfc6545da0c" href="e85c887a-ed1f-d7ec-fe72-5dfc6545da0c.htm">Year</a>
+    </li>
+  </tocItems>
+</toc>

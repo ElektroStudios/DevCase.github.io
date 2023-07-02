@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="03053956-b0b2-46e8-2f91-6186049ec54b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application</a>
+    </li>
+    <li>
+      <a href="48517cfe-d9c5-abca-4c0c-bd50792383cb.htm">Util<wbr />Application</a>
+    </li>
+    <li>
+      <a href="756bfae5-0728-6eb2-1517-428f0c21d104.htm">Methods</a>
+    </li>
+    <li>
+      <a href="cc9958d2-3b33-b1c5-4056-799767839c78.htm">Sleep<wbr />Random</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ea767e89-ebbd-8f9e-6ea7-287c67f80af0" href="ea767e89-ebbd-8f9e-6ea7-287c67f80af0.htm">Sleep<wbr />Random(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="563a47b4-980b-09fb-09a1-e1ef02cf99c5" href="563a47b4-980b-09fb-09a1-e1ef02cf99c5.htm">Sleep<wbr />Random(<wbr />Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="dddfd6db-7bcf-7a5e-09cc-fbfa53e36dfb" href="dddfd6db-7bcf-7a5e-09cc-fbfa53e36dfb.htm">Sleep<wbr />Random(<wbr />Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="ae2bee8c-06c1-40fa-56f0-8feca1b67789" href="ae2bee8c-06c1-40fa-56f0-8feca1b67789.htm">Sleep<wbr />Random(<wbr />Time<wbr />Span, Time<wbr />Span)</a>
+    </li>
+  </tocItems>
+</toc>

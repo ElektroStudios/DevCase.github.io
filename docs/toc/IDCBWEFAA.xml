@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="141ddc61-2a68-fc3f-7526-b52bf278735c.htm">Util<wbr />Mouse</a>
+    </li>
+    <li>
+      <a href="e95d92fa-a2bb-bdd2-32c9-3f1d4e1f9446.htm">Methods</a>
+    </li>
+    <li>
+      <a href="6738bb6f-e2da-623d-cb96-e36304593a34.htm">Send<wbr />Mouse<wbr />Button</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ad8cb100-f7ce-5866-69d0-dd19657566b3" href="ad8cb100-f7ce-5866-69d0-dd19657566b3.htm">Send<wbr />Mouse<wbr />Button(<wbr />Int<wbr />Ptr, Mouse<wbr />Button)</a>
+    </li>
+    <li>
+      <a id="a4a04e5c-f14c-6d70-c216-a028cbb56766" href="a4a04e5c-f14c-6d70-c216-a028cbb56766.htm">Send<wbr />Mouse<wbr />Button(<wbr />Int<wbr />Ptr, Mouse<wbr />Button, Point)</a>
+    </li>
+  </tocItems>
+</toc>

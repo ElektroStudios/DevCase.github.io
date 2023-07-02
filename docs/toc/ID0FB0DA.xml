@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="d07ea05e-74cc-d1c5-63b3-e1b98df0e317.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />NAudio</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1c1bdf32-0f89-472b-1dcd-fc5ffef63e36" class="has-submenu" href="1c1bdf32-0f89-472b-1dcd-fc5ffef63e36.htm">
+        <span data-tocFile="../toc/IDA0FB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />NAudio</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

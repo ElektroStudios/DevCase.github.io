@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+    </li>
+    <li>
+      <a href="322930ca-1be6-d0ed-4239-62140fb80d0b.htm">Util<wbr />Pe<wbr />Header</a>
+    </li>
+    <li>
+      <a href="267b19c3-99d7-dcff-bbf5-839b1a5c0133.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="905bcab2-b5b5-cebd-8934-f03d883b6e7c" class="has-submenu" href="905bcab2-b5b5-cebd-8934-f03d883b6e7c.htm">
+        <span data-tocFile="../toc/IDAABADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />PEFile<wbr />Kind</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="06be7fba-7f08-5cf3-c0ce-8f4b6cf016a1" class="has-submenu" href="06be7fba-7f08-5cf3-c0ce-8f4b6cf016a1.htm">
+        <span data-tocFile="../toc/IDBABADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />PEHeader</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d323c448-b64d-3a5e-e58c-ae69d6b7bda1" class="has-submenu" href="d323c448-b64d-3a5e-e58c-ae69d6b7bda1.htm">
+        <span data-tocFile="../toc/IDCABADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Time<wbr />Stamp</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3c3e38e2-4ac2-a233-0f8f-f2d5c0c65189" class="has-submenu" href="3c3e38e2-4ac2-a233-0f8f-f2d5c0c65189.htm">
+        <span data-tocFile="../toc/IDDABADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Strong<wbr />Name<wbr />Signed</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

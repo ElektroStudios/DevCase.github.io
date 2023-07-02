@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="41a79afa-943b-b3f1-3b6e-c194cbf24c4c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Resources</a>
+    </li>
+    <li>
+      <a href="b6a66114-305a-ab1e-0317-02281194a7f8.htm">Util<wbr />Resource</a>
+    </li>
+    <li>
+      <a href="38e91346-dafa-6a1d-d9f8-923d9524462c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bc72bd23-7988-d68e-1155-8d36f34afb3a" class="has-submenu" href="bc72bd23-7988-d68e-1155-8d36f34afb3a.htm">
+        <span data-tocFile="../toc/IDAADIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Execute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="216de0e8-4a2f-ccfc-557a-aaef8a66cd3a" class="has-submenu" href="216de0e8-4a2f-ccfc-557a-aaef8a66cd3a.htm">
+        <span data-tocFile="../toc/IDBADIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Execute<wbr />Safe</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1adbc98f-e62d-8505-747b-5d05140dd9bf" href="1adbc98f-e62d-8505-747b-5d05140dd9bf.htm">Extract<wbr />Resource<wbr />To<wbr />Disk</a>
+    </li>
+    <li>
+      <a id="e89d6751-cc61-4cf8-19ad-cef8645b1238" class="has-submenu" href="e89d6751-cc61-4cf8-19ad-cef8645b1238.htm">
+        <span data-tocFile="../toc/IDDADIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Embedded<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="47ce9208-426a-ef29-0ec9-7edd4c45cc89" class="has-submenu" href="47ce9208-426a-ef29-0ec9-7edd4c45cc89.htm">
+        <span data-tocFile="../toc/IDEADIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Embedded<wbr />Resource<wbr />As<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="02534e41-0d69-35d3-6062-1e9281357036" class="has-submenu" href="02534e41-0d69-35d3-6062-1e9281357036.htm">
+        <span data-tocFile="../toc/IDFADIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Embedded<wbr />Resource<wbr />As<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e9ebca80-2229-39c4-9587-8f60c23a6b5c" href="e9ebca80-2229-39c4-9587-8f60c23a6b5c.htm">Get<wbr />Resources<wbr />Of&lt;T&gt;</a>
+    </li>
+  </tocItems>
+</toc>

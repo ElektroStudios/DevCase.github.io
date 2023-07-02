@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="3abc94e6-7c92-6714-eb60-7ce6b4f842b0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2856e35a-23d5-f068-d75e-d7634161b635.htm">Data<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="32dfbea2-a302-bf7e-9bc5-a4a679f8599d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d3045516-0e03-b59e-89bf-34ba195f5235" href="d3045516-0e03-b59e-89bf-34ba195f5235.htm">Export<wbr />To<wbr />CSV</a>
+    </li>
+    <li>
+      <a id="0c237414-c951-c800-6ffb-982de0e0b521" href="0c237414-c951-c800-6ffb-982de0e0b521.htm">Export<wbr />To<wbr />Xml</a>
+    </li>
+    <li>
+      <a id="34c7a81e-ff07-4967-1c3e-c6e3f6e420bb" class="has-submenu" href="34c7a81e-ff07-4967-1c3e-c6e3f6e420bb.htm">
+        <span data-tocFile="../toc/IDCAASBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b97f82d4-16df-633f-3747-b36c237f2754" class="has-submenu" href="b97f82d4-16df-633f-3747-b36c237f2754.htm">
+        <span data-tocFile="../toc/IDDAASBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="49c0140c-0f27-fd3f-e063-772fd84e4539" class="has-submenu" href="49c0140c-0f27-fd3f-e063-772fd84e4539.htm">
+        <span data-tocFile="../toc/IDEAASBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Selected<wbr />Rows</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ba772eea-6e08-d78f-464f-3f669bdeba00" href="ba772eea-6e08-d78f-464f-3f669bdeba00.htm">Remove<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="bb562c60-9840-472a-8a85-b57392838f0c" class="has-submenu" href="bb562c60-9840-472a-8a85-b57392838f0c.htm">
+        <span data-tocFile="../toc/IDGAASBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6c6ab687-2f92-8742-7d6c-a67504e12943" class="has-submenu" href="6c6ab687-2f92-8742-7d6c-a67504e12943.htm">
+        <span data-tocFile="../toc/IDHAASBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d208ae19-faed-ca5d-197d-eea418f34d53" href="d208ae19-faed-ca5d-197d-eea418f34d53.htm">To<wbr />Data<wbr />Table</a>
+    </li>
+    <li>
+      <a id="26da6714-ada3-dcca-24f8-966eea11f5c3" href="26da6714-ada3-dcca-24f8-966eea11f5c3.htm">To<wbr />List<wbr />View</a>
+    </li>
+  </tocItems>
+</toc>

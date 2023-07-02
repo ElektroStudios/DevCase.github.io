@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="17815bb6-d240-9e28-2d92-969758f029d9.htm">Util<wbr />Environment<wbr />Path</a>
+    </li>
+    <li>
+      <a href="690434d1-4bb4-543a-08b4-89a2b46ebf75.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="40830c63-5eff-956b-65e1-8d551a1c4ccd" href="40830c63-5eff-956b-65e1-8d551a1c4ccd.htm">Default<wbr />Path<wbr />Ext</a>
+    </li>
+    <li>
+      <a id="8fd74c7b-590b-3db3-cee3-b7af7fa03e70" href="8fd74c7b-590b-3db3-cee3-b7af7fa03e70.htm">Default<wbr />Path<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a id="bdd88dc9-c08e-7553-c08a-c79b4890e924" href="bdd88dc9-c08e-7553-c08a-c79b4890e924.htm">Default<wbr />Path<wbr />Win<wbr />64</a>
+    </li>
+    <li>
+      <a id="6fb9b33a-dfb1-bbfb-258a-0453f7ca24f9" href="6fb9b33a-dfb1-bbfb-258a-0453f7ca24f9.htm">Environment<wbr />Path<wbr />Current<wbr />User</a>
+    </li>
+    <li>
+      <a id="9baef485-4a9a-cacc-4fb8-7097cd1f6d95" href="9baef485-4a9a-cacc-4fb8-7097cd1f6d95.htm">Environment<wbr />Path<wbr />Machine</a>
+    </li>
+    <li>
+      <a id="d4552855-faa9-e7c0-d017-0b8bd20e6626" href="d4552855-faa9-e7c0-d017-0b8bd20e6626.htm">Path<wbr />Data</a>
+    </li>
+    <li>
+      <a id="61461483-5ce3-9044-b4a1-ca83d3602680" href="61461483-5ce3-9044-b4a1-ca83d3602680.htm">Path<wbr />Ext<wbr />Data</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="2e1c4d50-f238-1c6b-517a-fa7ff8040227.htm">Amount</a>
+    </li>
+    <li>
+      <a href="85d066d1-0eba-6f14-6839-df15e7632102.htm">Operators</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="860ac448-17d7-8856-4ba9-ea241b7b0654" href="860ac448-17d7-8856-4ba9-ea241b7b0654.htm">Addition Operator</a>
+    </li>
+    <li>
+      <a id="711491fa-76e2-596a-bbfb-eab75d16b53e" class="has-submenu" href="711491fa-76e2-596a-bbfb-eab75d16b53e.htm">
+        <span data-tocFile="../toc/IDBDACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Division</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="13e33bf3-1671-6233-c5e6-24145bb195ba" href="13e33bf3-1671-6233-c5e6-24145bb195ba.htm">Equality Operator</a>
+    </li>
+    <li>
+      <a id="ffa0260d-3382-f878-6af7-e291e3fb6c18" href="ffa0260d-3382-f878-6af7-e291e3fb6c18.htm">Explicit Conversion (Amount to Nullable&lt;Double&gt;)</a>
+    </li>
+    <li>
+      <a id="225b6cd2-b407-ea4c-10a9-ec1f4b5e9e14" href="225b6cd2-b407-ea4c-10a9-ec1f4b5e9e14.htm">Greater<wbr />Than Operator</a>
+    </li>
+    <li>
+      <a id="7e4bb369-2d8d-db19-c0e3-464508338636" href="7e4bb369-2d8d-db19-c0e3-464508338636.htm">Greater<wbr />Than<wbr />Or<wbr />Equal Operator</a>
+    </li>
+    <li>
+      <a id="5192325b-e61c-9f89-4fde-c825d52d6279" href="5192325b-e61c-9f89-4fde-c825d52d6279.htm">Inequality Operator</a>
+    </li>
+    <li>
+      <a id="6e3224e7-f928-7437-db0c-d0cd9fc281a5" href="6e3224e7-f928-7437-db0c-d0cd9fc281a5.htm">Less<wbr />Than Operator</a>
+    </li>
+    <li>
+      <a id="67e6eafb-76d9-f6f9-c1fc-9ebb7a8c9d02" href="67e6eafb-76d9-f6f9-c1fc-9ebb7a8c9d02.htm">Less<wbr />Than<wbr />Or<wbr />Equal Operator</a>
+    </li>
+    <li>
+      <a id="c0e35a56-1f7b-53a7-bedb-8a9ca57a6bd0" class="has-submenu" href="c0e35a56-1f7b-53a7-bedb-8a9ca57a6bd0.htm">
+        <span data-tocFile="../toc/IDJDACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Multiply</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b1c4847d-0f28-ee3e-7bcf-0a805dc470de" href="b1c4847d-0f28-ee3e-7bcf-0a805dc470de.htm">Subtraction Operator</a>
+    </li>
+    <li>
+      <a id="8f399a16-1f2a-70d8-b822-de0d8636061c" href="8f399a16-1f2a-70d8-b822-de0d8636061c.htm">Unary<wbr />Negation Operator</a>
+    </li>
+    <li>
+      <a id="4b80df4e-4089-e24f-4bb5-479fc6305586" href="4b80df4e-4089-e24f-4bb5-479fc6305586.htm">Unary<wbr />Plus Operator</a>
+    </li>
+  </tocItems>
+</toc>

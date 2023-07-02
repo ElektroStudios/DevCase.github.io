@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d80d6b2d-19f0-d3cf-cdbb-bb8e27851dc6" class="has-submenu" href="d80d6b2d-19f0-d3cf-cdbb-bb8e27851dc6.htm">
+        <span data-tocFile="../toc/IDAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="58d11375-7881-6c5b-e408-2fb0e3f945c2" class="has-submenu" href="58d11375-7881-6c5b-e408-2fb0e3f945c2.htm">
+        <span data-tocFile="../toc/IDBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Common</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a7efa16a-cc61-1533-0cf1-5a04cbec0a5e" class="has-submenu" href="a7efa16a-cc61-1533-0cf1-5a04cbec0a5e.htm">
+        <span data-tocFile="../toc/IDCFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Delegates</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bc387bbf-c905-2558-9de0-4a5ffd59a6a0" class="has-submenu" href="bc387bbf-c905-2558-9de0-4a5ffd59a6a0.htm">
+        <span data-tocFile="../toc/IDDFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Enums</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="58f096c9-7b6d-ef47-ff82-a91553c45344" class="has-submenu" href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">
+        <span data-tocFile="../toc/IDEFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853" class="has-submenu" href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">
+        <span data-tocFile="../toc/IDFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2a0660d9-4e1c-8fc7-cb1a-47378d4c1d05" class="has-submenu" href="2a0660d9-4e1c-8fc7-cb1a-47378d4c1d05.htm">
+        <span data-tocFile="../toc/IDGFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Safe<wbr />Handles</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="99e5d792-7f9f-a8d2-0ca1-76024e78a54f" class="has-submenu" href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">
+        <span data-tocFile="../toc/IDHFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

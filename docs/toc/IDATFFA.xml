@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="edd4d6e4-cc8d-add0-5e5f-8eaeb288cf72.htm">Shlw<wbr />Api</a>
+    </li>
+    <li>
+      <a href="9e6f737c-6c49-2ea9-d826-c2b2b883031a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="84afdbe7-0ffb-048d-7a50-e386b4355263" href="84afdbe7-0ffb-048d-7a50-e386b4355263.htm">Assoc<wbr />Query<wbr />String</a>
+    </li>
+    <li>
+      <a id="2f8c25b4-8c99-652c-325f-03cc66192216" href="2f8c25b4-8c99-652c-325f-03cc66192216.htm">Color<wbr />HLSTo<wbr />RGB</a>
+    </li>
+    <li>
+      <a id="08da53b7-cb22-5bdd-9158-6d7dcbd297ca" href="08da53b7-cb22-5bdd-9158-6d7dcbd297ca.htm">Color<wbr />RGBTo<wbr />HLS</a>
+    </li>
+    <li>
+      <a id="386ac642-3d68-8fc7-718f-717e3bb72840" href="386ac642-3d68-8fc7-718f-717e3bb72840.htm">Get<wbr />Menu<wbr />Pos<wbr />From<wbr />ID</a>
+    </li>
+    <li>
+      <a id="a3cc12d4-c14c-e4fb-0a81-8b27b6fea95b" href="a3cc12d4-c14c-e4fb-0a81-8b27b6fea95b.htm">Hash<wbr />Data</a>
+    </li>
+    <li>
+      <a id="fe122455-921a-35d6-9680-e4975afb9a5d" href="fe122455-921a-35d6-9680-e4975afb9a5d.htm">Is<wbr />Char<wbr />Space</a>
+    </li>
+    <li>
+      <a id="393ee71b-3120-7de7-a0f4-d595e6f26b72" href="393ee71b-3120-7de7-a0f4-d595e6f26b72.htm">IUnknown_<wbr />Query<wbr />Service</a>
+    </li>
+    <li>
+      <a id="1ff596c8-7d0c-eef0-2f72-deef50a25d46" href="1ff596c8-7d0c-eef0-2f72-deef50a25d46.htm">Path<wbr />Add<wbr />Backslash</a>
+    </li>
+    <li>
+      <a id="ba206f15-ff79-5cf4-c594-8c4cd067d7bd" href="ba206f15-ff79-5cf4-c594-8c4cd067d7bd.htm">Path<wbr />Add<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="9b4809b1-8e40-5fe3-37f2-8c2c416a09f6" href="9b4809b1-8e40-5fe3-37f2-8c2c416a09f6.htm">Path<wbr />Append</a>
+    </li>
+    <li>
+      <a id="a3f9a232-3ebb-38a1-7757-66bbdc54a84e" href="a3f9a232-3ebb-38a1-7757-66bbdc54a84e.htm">Path<wbr />Build<wbr />Root</a>
+    </li>
+    <li>
+      <a id="caf4760b-86f5-d4b8-b705-2de03425d625" href="caf4760b-86f5-d4b8-b705-2de03425d625.htm">Path<wbr />Canonicalize</a>
+    </li>
+    <li>
+      <a id="ac5a3dfa-c739-a8e3-cea4-b8ce14c878e0" href="ac5a3dfa-c739-a8e3-cea4-b8ce14c878e0.htm">Path<wbr />Combine</a>
+    </li>
+    <li>
+      <a id="c567d802-1855-0103-ddcc-f250ce0a804a" href="c567d802-1855-0103-ddcc-f250ce0a804a.htm">Path<wbr />Compact<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d251712a-ec63-ccec-9158-ffefa6d0b1fe" href="d251712a-ec63-ccec-9158-ffefa6d0b1fe.htm">Path<wbr />Compact<wbr />Path<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="42decf74-0f77-cd90-fad8-47ea3358f662" href="42decf74-0f77-cd90-fad8-47ea3358f662.htm">Path<wbr />File<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="c9f1d2e7-e39d-c309-168d-bb54ba567c7a" href="c9f1d2e7-e39d-c309-168d-bb54ba567c7a.htm">Path<wbr />Get<wbr />Drive<wbr />Number</a>
+    </li>
+    <li>
+      <a id="c3555214-13d8-bf3d-649e-0254deb3ecdc" href="c3555214-13d8-bf3d-649e-0254deb3ecdc.htm">Path<wbr />Is<wbr />Content<wbr />Type</a>
+    </li>
+    <li>
+      <a id="ee650d1f-fa00-764b-d92e-618d460fa695" href="ee650d1f-fa00-764b-d92e-618d460fa695.htm">Path<wbr />Is<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="b4e1e423-38a5-b704-ff5a-1075cc5fab33" href="b4e1e423-38a5-b704-ff5a-1075cc5fab33.htm">Path<wbr />Is<wbr />Directory<wbr />Empty</a>
+    </li>
+    <li>
+      <a id="38bf8f16-ff4d-2d87-db0c-b5d54e036f71" href="38bf8f16-ff4d-2d87-db0c-b5d54e036f71.htm">Path<wbr />Is<wbr />Network<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d0002f7d-97bb-bda7-1f98-8076e348cde5" href="d0002f7d-97bb-bda7-1f98-8076e348cde5.htm">Path<wbr />Is<wbr />Relative</a>
+    </li>
+    <li>
+      <a id="a7266bd6-582e-5599-eae0-0749e3451b36" href="a7266bd6-582e-5599-eae0-0749e3451b36.htm">Path<wbr />Is<wbr />Root</a>
+    </li>
+    <li>
+      <a id="0de64233-63a5-7664-3e58-b56cdd535539" href="0de64233-63a5-7664-3e58-b56cdd535539.htm">Path<wbr />Is<wbr />Same<wbr />Root</a>
+    </li>
+    <li>
+      <a id="fc288b4b-174a-5f5f-7e1e-f60ab8e72c05" class="has-submenu" href="fc288b4b-174a-5f5f-7e1e-f60ab8e72c05.htm">
+        <span data-tocFile="../toc/IDYATFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Path<wbr />Is<wbr />System<wbr />Folder</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="26bac9ee-709c-954f-9c53-cd01240a5cfb" href="26bac9ee-709c-954f-9c53-cd01240a5cfb.htm">Path<wbr />Is<wbr />UNC</a>
+    </li>
+    <li>
+      <a id="02249056-64e0-9551-efab-1ee18c41c5d8" href="02249056-64e0-9551-efab-1ee18c41c5d8.htm">Path<wbr />Is<wbr />UNCServer</a>
+    </li>
+    <li>
+      <a id="89296e07-90a0-e304-ca19-949b06dd666b" href="89296e07-90a0-e304-ca19-949b06dd666b.htm">Path<wbr />Is<wbr />UNCServer<wbr />Share</a>
+    </li>
+    <li>
+      <a id="5a341844-be9e-829d-a523-82c2623a9f61" href="5a341844-be9e-829d-a523-82c2623a9f61.htm">Path<wbr />Is<wbr />URL</a>
+    </li>
+    <li>
+      <a id="ee1921cf-e8f4-a65e-5990-87f2a45e8879" href="ee1921cf-e8f4-a65e-5990-87f2a45e8879.htm">Path<wbr />Make<wbr />Pretty</a>
+    </li>
+    <li>
+      <a id="d675a91e-4342-6c07-664e-757ddf53cacd" href="d675a91e-4342-6c07-664e-757ddf53cacd.htm">Path<wbr />Make<wbr />System<wbr />Folder</a>
+    </li>
+    <li>
+      <a id="dc48a1df-8984-dbb1-399c-2dae31ffca13" href="dc48a1df-8984-dbb1-399c-2dae31ffca13.htm">Path<wbr />Quote<wbr />Spaces</a>
+    </li>
+    <li>
+      <a id="1ec728bc-cf8d-5081-c7e2-283dc94e7a7b" href="1ec728bc-cf8d-5081-c7e2-283dc94e7a7b.htm">Path<wbr />Relative<wbr />Path<wbr />To</a>
+    </li>
+    <li>
+      <a id="380a7c20-1ed4-a593-51b1-12f914f4e475" href="380a7c20-1ed4-a593-51b1-12f914f4e475.htm">Path<wbr />Remove<wbr />Backslash</a>
+    </li>
+    <li>
+      <a id="297404a0-2f66-bce2-c077-6721b787fa87" href="297404a0-2f66-bce2-c077-6721b787fa87.htm">Path<wbr />Remove<wbr />Blanks</a>
+    </li>
+    <li>
+      <a id="9a0be1fb-afcf-d83c-c38d-7de882370c31" href="9a0be1fb-afcf-d83c-c38d-7de882370c31.htm">Path<wbr />Remove<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="9159be09-a181-06d4-470c-f585ffd53e94" href="9159be09-a181-06d4-470c-f585ffd53e94.htm">Path<wbr />Remove<wbr />File<wbr />Spec</a>
+    </li>
+    <li>
+      <a id="d524e0e1-6ee0-8495-370d-64bfd2ef810b" href="d524e0e1-6ee0-8495-370d-64bfd2ef810b.htm">Path<wbr />Rename<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="ee647653-d817-e75c-4443-4dcf254f789c" href="ee647653-d817-e75c-4443-4dcf254f789c.htm">Path<wbr />Set<wbr />Dlg<wbr />Item<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a8530d61-8ecb-e79a-b615-c43d945e78e6" href="a8530d61-8ecb-e79a-b615-c43d945e78e6.htm">Path<wbr />Strip<wbr />Path</a>
+    </li>
+    <li>
+      <a id="5c80640d-64d1-d24b-33dc-112f3b62b0d9" href="5c80640d-64d1-d24b-33dc-112f3b62b0d9.htm">Path<wbr />Strip<wbr />To<wbr />Root</a>
+    </li>
+    <li>
+      <a id="0b971bef-c668-214e-e4e6-8f6a274c9c84" href="0b971bef-c668-214e-e4e6-8f6a274c9c84.htm">Path<wbr />Un<wbr />Expand<wbr />Env<wbr />Strings</a>
+    </li>
+    <li>
+      <a id="de950387-5ed7-69c9-d502-87049e9a4a63" href="de950387-5ed7-69c9-d502-87049e9a4a63.htm">Path<wbr />Unmake<wbr />System<wbr />Folder</a>
+    </li>
+    <li>
+      <a id="dd9f5552-7a77-90ed-7aab-46cff1c31e3a" href="dd9f5552-7a77-90ed-7aab-46cff1c31e3a.htm">Path<wbr />Unquote<wbr />Spaces</a>
+    </li>
+    <li>
+      <a id="dd51c4cd-4c36-d3a0-8b91-812a1259d430" href="dd51c4cd-4c36-d3a0-8b91-812a1259d430.htm">SHAuto<wbr />Complete</a>
+    </li>
+    <li>
+      <a id="5f9f67f7-0504-1835-eae7-84622eecc00a" class="has-submenu" href="5f9f67f7-0504-1835-eae7-84622eecc00a.htm">
+        <span data-tocFile="../toc/ID0NB0ATFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Stream<wbr />On<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="54f92fbd-f71c-1319-762d-c8178cbf8429" class="has-submenu" href="54f92fbd-f71c-1319-762d-c8178cbf8429.htm">
+        <span data-tocFile="../toc/ID0OB0ATFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Stream<wbr />On<wbr />File<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7ddf7ea3-dfdd-f016-55dc-89d1c710b0a0" href="7ddf7ea3-dfdd-f016-55dc-89d1c710b0a0.htm">SHCreate<wbr />Thread<wbr />Ref</a>
+    </li>
+    <li>
+      <a id="a1363d8b-4b51-72e0-990f-1e75b4895ec4" href="a1363d8b-4b51-72e0-990f-1e75b4895ec4.htm">SHGet<wbr />Thread<wbr />Ref</a>
+    </li>
+    <li>
+      <a id="a72a034c-5bf1-6078-a68c-336b6cc0f45d" href="a72a034c-5bf1-6078-a68c-336b6cc0f45d.htm">SHRelease<wbr />Thread<wbr />Ref</a>
+    </li>
+    <li>
+      <a id="7f0b0bdb-6530-e5cc-6ace-0a781c4151ef" href="7f0b0bdb-6530-e5cc-6ace-0a781c4151ef.htm">SHSet<wbr />Thread<wbr />Ref</a>
+    </li>
+    <li>
+      <a id="e8ce26c9-dc75-73e0-f422-9b917ed636fd" href="e8ce26c9-dc75-73e0-f422-9b917ed636fd.htm">Str<wbr />Cmp<wbr />Logical<wbr />W</a>
+    </li>
+    <li>
+      <a id="40090a08-800e-cbda-d327-5df37aa2bcbd" href="40090a08-800e-cbda-d327-5df37aa2bcbd.htm">Str<wbr />Format<wbr />Byte<wbr />Size<wbr />64A</a>
+    </li>
+    <li>
+      <a id="4b9482b7-0dc1-178f-eaa8-72c41e1ad3b5" href="4b9482b7-0dc1-178f-eaa8-72c41e1ad3b5.htm">Str<wbr />Format<wbr />Byte<wbr />Size<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="aecf7213-fdd2-ed3d-8e32-c437b3134fe0" href="aecf7213-fdd2-ed3d-8e32-c437b3134fe0.htm">Str<wbr />Format<wbr />KBSize</a>
+    </li>
+    <li>
+      <a id="62a2095f-7cb8-ffee-78dc-de3837fa67bc" href="62a2095f-7cb8-ffee-78dc-de3837fa67bc.htm">Str<wbr />From<wbr />Time<wbr />Interval</a>
+    </li>
+    <li>
+      <a id="91c3b279-a493-d4ce-4eee-7dce0ae52d89" href="91c3b279-a493-d4ce-4eee-7dce0ae52d89.htm">Url<wbr />Hash</a>
+    </li>
+  </tocItems>
+</toc>

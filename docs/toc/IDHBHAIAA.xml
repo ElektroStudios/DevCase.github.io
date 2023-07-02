@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="586343f3-c673-5618-2a27-757d7e338032.htm">Download<wbr />Webpage</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4ef30359-5dd1-eaec-0efa-e1930ea3fe6e" href="4ef30359-5dd1-eaec-0efa-e1930ea3fe6e.htm">Download<wbr />Webpage(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="bca7900b-9955-c751-8976-11885e37cb73" href="bca7900b-9955-c751-8976-11885e37cb73.htm">Download<wbr />Webpage(<wbr />Uri)</a>
+    </li>
+    <li>
+      <a id="79cc3fe7-dbce-9cdf-aa28-d41a81a91cda" href="79cc3fe7-dbce-9cdf-aa28-d41a81a91cda.htm">Download<wbr />Webpage(<wbr />String, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="6365579a-5047-1fc8-88a1-c87f29c3ab02" href="6365579a-5047-1fc8-88a1-c87f29c3ab02.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="5864aa50-d03a-c8d3-cc00-3a8682b76959" href="5864aa50-d03a-c8d3-cc00-3a8682b76959.htm">Download<wbr />Webpage(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="ca0d96a1-171a-dc8a-32a7-13c2b3f5570e" href="ca0d96a1-171a-dc8a-32a7-13c2b3f5570e.htm">Download<wbr />Webpage(<wbr />String, Encoding)</a>
+    </li>
+    <li>
+      <a id="589b6bbe-3e81-f604-54c0-5da4d39c46c1" href="589b6bbe-3e81-f604-54c0-5da4d39c46c1.htm">Download<wbr />Webpage(<wbr />Uri, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="d40435ea-99fa-5d04-2fdc-de4d9e21cdd9" href="d40435ea-99fa-5d04-2fdc-de4d9e21cdd9.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="b32dfd8f-9b51-5736-aebe-4826de6f0b48" href="b32dfd8f-9b51-5736-aebe-4826de6f0b48.htm">Download<wbr />Webpage(<wbr />Uri, String)</a>
+    </li>
+    <li>
+      <a id="5218077d-f046-95e0-976f-05bd83fc4e8f" href="5218077d-f046-95e0-976f-05bd83fc4e8f.htm">Download<wbr />Webpage(<wbr />Uri, Encoding)</a>
+    </li>
+    <li>
+      <a id="0a6554c9-8ca1-0402-ce97-59acc627875f" href="0a6554c9-8ca1-0402-ce97-59acc627875f.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="eabe26cc-316e-1b72-284e-e0acef2ada76" href="eabe26cc-316e-1b72-284e-e0acef2ada76.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy, String)</a>
+    </li>
+    <li>
+      <a id="7184c7df-81e8-ade2-9e85-993daddd5809" href="7184c7df-81e8-ade2-9e85-993daddd5809.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy, Encoding)</a>
+    </li>
+    <li>
+      <a id="60a4166a-971a-10df-23aa-1376d2537e74" href="60a4166a-971a-10df-23aa-1376d2537e74.htm">Download<wbr />Webpage(<wbr />String, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="b11d8c78-665d-3a9d-21f6-d5268ed4197f" href="b11d8c78-665d-3a9d-21f6-d5268ed4197f.htm">Download<wbr />Webpage(<wbr />String, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="222ebe00-edd8-78de-1fa9-ecdafcf58ba9" href="222ebe00-edd8-78de-1fa9-ecdafcf58ba9.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="76d0da34-351f-9213-bf1c-dd40f55f9610" href="76d0da34-351f-9213-bf1c-dd40f55f9610.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy, String)</a>
+    </li>
+    <li>
+      <a id="f3eab5b5-c460-be32-2943-8bf851fa3e7c" href="f3eab5b5-c460-be32-2943-8bf851fa3e7c.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy, Encoding)</a>
+    </li>
+    <li>
+      <a id="9a3ac0b9-73c9-c5c3-e268-bcf46d6d147f" href="9a3ac0b9-73c9-c5c3-e268-bcf46d6d147f.htm">Download<wbr />Webpage(<wbr />Uri, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="27d855da-bdd3-4e0d-2c6c-0fd01b7c99b3" href="27d855da-bdd3-4e0d-2c6c-0fd01b7c99b3.htm">Download<wbr />Webpage(<wbr />Uri, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="40d7ff89-1d63-6349-b127-b64b9b5866b6" href="40d7ff89-1d63-6349-b127-b64b9b5866b6.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="71186d6f-8766-97eb-ac33-123163fa87eb" href="71186d6f-8766-97eb-ac33-123163fa87eb.htm">Download<wbr />Webpage(<wbr />String, Web<wbr />Proxy, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="328ea90e-07e3-0c9a-fc7d-7a04d70dbe34" href="328ea90e-07e3-0c9a-fc7d-7a04d70dbe34.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="0b283044-4541-3ae3-a3dd-17c61ceaa9ad" href="0b283044-4541-3ae3-a3dd-17c61ceaa9ad.htm">Download<wbr />Webpage(<wbr />Uri, Web<wbr />Proxy, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+  </tocItems>
+</toc>

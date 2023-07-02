@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="94070b4f-1237-0cc2-11b3-2f73bca4f637.htm">Create<wbr />Remote<wbr />Thread<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ff94d37b-251b-11f7-5ee9-95d54e144f93" href="ff94d37b-251b-11f7-5ee9-95d54e144f93.htm">Create<wbr />Remote<wbr />Thread<wbr />Ex(<wbr />Int<wbr />Ptr, Security<wbr />Attributes, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="e21c90e3-276b-f146-48c2-e01823506fbf" href="e21c90e3-276b-f146-48c2-e01823506fbf.htm">Create<wbr />Remote<wbr />Thread<wbr />Ex(<wbr />Int<wbr />Ptr, Security<wbr />Attributes, Int<wbr />Ptr, Thread<wbr />Start, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="e8f89ab1-ebfa-5e16-b59f-3f2803bae73a" href="e8f89ab1-ebfa-5e16-b59f-3f2803bae73a.htm">Create<wbr />Remote<wbr />Thread<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="018e4c50-3985-797c-d9ce-a75ed885da72" href="018e4c50-3985-797c-d9ce-a75ed885da72.htm">Create<wbr />Remote<wbr />Thread<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Thread<wbr />Start, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="42212b5c-0f63-2f3e-21ec-594756caf33f" class="has-submenu" href="42212b5c-0f63-2f3e-21ec-594756caf33f.htm">
+        <span data-tocFile="../toc/IDACIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Disposable<wbr />Mail<wbr />Expired<wbr />Exception</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="75d214d8-8eca-8bb7-6ddf-46256fe76009" class="has-submenu" href="75d214d8-8eca-8bb7-6ddf-46256fe76009.htm">
+        <span data-tocFile="../toc/IDBCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>IDisposable<wbr />Mail</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5242776-620c-4235-f1cc-3abe03ec1fa7" class="has-submenu" href="b5242776-620c-4235-f1cc-3abe03ec1fa7.htm">
+        <span data-tocFile="../toc/IDCCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mail<wbr />Account</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8e4411c3-3e4e-cca9-7d0f-4f640f594207" class="has-submenu" href="8e4411c3-3e4e-cca9-7d0f-4f640f594207.htm">
+        <span data-tocFile="../toc/IDDCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mail<wbr />Message<wbr />Arrived<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5ff73880-e650-e0e4-4896-5edbd8f1b5cc" class="has-submenu" href="5ff73880-e650-e0e4-4896-5edbd8f1b5cc.htm">
+        <span data-tocFile="../toc/IDECIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Smtp<wbr />Clients</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2a06e73-5b12-751d-6862-1a6c9cdd438b" class="has-submenu" href="b2a06e73-5b12-751d-6862-1a6c9cdd438b.htm">
+        <span data-tocFile="../toc/IDFCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Mail</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

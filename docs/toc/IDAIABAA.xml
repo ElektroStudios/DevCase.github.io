@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="5428e3c5-709f-ea99-714e-4372c7c34f09.htm">Util<wbr />String</a>
+    </li>
+    <li>
+      <a href="71e6963d-7490-cc67-0b4f-59108117158c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b5706e6b-2e6f-0138-902a-2c9f4199797f" href="b5706e6b-2e6f-0138-902a-2c9f4199797f.htm">Generate<wbr />Lorem<wbr />Ipsum<wbr />Text</a>
+    </li>
+    <li>
+      <a id="1f3cc73a-f907-fc27-9d90-1bf46acac568" href="1f3cc73a-f907-fc27-9d90-1bf46acac568.htm">Generate<wbr />Random<wbr />Hex<wbr />String</a>
+    </li>
+    <li>
+      <a id="944c55f5-e72d-57dc-c473-69a5d7ffbb49" href="944c55f5-e72d-57dc-c473-69a5d7ffbb49.htm">Generate<wbr />Random<wbr />Numeric<wbr />String</a>
+    </li>
+    <li>
+      <a id="ad82ef69-6f9b-6e8d-e355-afc35b20007a" href="ad82ef69-6f9b-6e8d-e355-afc35b20007a.htm">Generate<wbr />Random<wbr />Paragraph</a>
+    </li>
+    <li>
+      <a id="c327dca7-c220-4c03-66a3-b764ac9f0a29" class="has-submenu" href="c327dca7-c220-4c03-66a3-b764ac9f0a29.htm">
+        <span data-tocFile="../toc/IDEAIABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Generate<wbr />Random<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="36dc40c4-2b18-a64a-ffa7-99b4ac6646dd" href="36dc40c4-2b18-a64a-ffa7-99b4ac6646dd.htm">Generate<wbr />White<wbr />Spaced<wbr />String</a>
+    </li>
+    <li>
+      <a id="0470917f-a55a-223d-568d-20376feda16a" href="0470917f-a55a-223d-568d-20376feda16a.htm">Get<wbr />Diff</a>
+    </li>
+    <li>
+      <a id="f1fb2de5-758e-53fb-f3f7-f3471daeb9cf" class="has-submenu" href="f1fb2de5-758e-53fb-f3f7-f3471daeb9cf.htm">
+        <span data-tocFile="../toc/IDHAIABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Diff<wbr />Count</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="19c22033-874e-9ada-369f-66cc810c55e9" href="19c22033-874e-9ada-369f-66cc810c55e9.htm">Get<wbr />Similarity</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="40c8f523-fa28-f31f-95ac-d9a2da40d92f" class="has-submenu" href="40c8f523-fa28-f31f-95ac-d9a2da40d92f.htm">
+        <span data-tocFile="../toc/IDACA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="37506d9e-0bdd-e0aa-6f9c-cfb072a10084" class="has-submenu" href="37506d9e-0bdd-e0aa-6f9c-cfb072a10084.htm">
+        <span data-tocFile="../toc/IDBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Collections</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2302b13b-09ef-c6d6-9f2e-29155f7ac2a4" class="has-submenu" href="2302b13b-09ef-c6d6-9f2e-29155f7ac2a4.htm">
+        <span data-tocFile="../toc/IDCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Dialogs</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fa7dc0ad-7b80-b649-99eb-436c3054bee7" class="has-submenu" href="fa7dc0ad-7b80-b649-99eb-436c3054bee7.htm">
+        <span data-tocFile="../toc/IDDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Enums</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="82d64413-bbc7-0151-7610-848f013801c5" class="has-submenu" href="82d64413-bbc7-0151-7610-848f013801c5.htm">
+        <span data-tocFile="../toc/IDECA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Numerics</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a93464ef-9706-651f-97dd-6ac45fce2af0" class="has-submenu" href="a93464ef-9706-651f-97dd-6ac45fce2af0.htm">
+        <span data-tocFile="../toc/IDFCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Services</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96964f5c-69f7-60e1-15ec-e14bd611da01" class="has-submenu" href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">
+        <span data-tocFile="../toc/IDGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c17d5ab0-1588-86cc-a16f-ab5938124500" class="has-submenu" href="c17d5ab0-1588-86cc-a16f-ab5938124500.htm">
+        <span data-tocFile="../toc/IDHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Comparers</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7cb4bd54-a09a-2cc5-4897-c6d5509fd197" class="has-submenu" href="7cb4bd54-a09a-2cc5-4897-c6d5509fd197.htm">
+        <span data-tocFile="../toc/IDICA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Converters</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

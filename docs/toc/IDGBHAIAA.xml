@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f53fde92-578a-749d-a8f2-b2a15adb3616.htm">Download<wbr />Image<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d3f49f5c-1ec9-b1c9-4a3f-9c7217316d87" href="d3f49f5c-1ec9-b1c9-4a3f-9c7217316d87.htm">Download<wbr />Image<wbr />Async(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="2ed5a64d-8724-8892-d973-16a871f59722" href="2ed5a64d-8724-8892-d973-16a871f59722.htm">Download<wbr />Image<wbr />Async(<wbr />String, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="524559ec-7f65-b584-6dba-1aa88c71a5d1" href="524559ec-7f65-b584-6dba-1aa88c71a5d1.htm">Download<wbr />Image<wbr />Async(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="bb6fb444-d2f6-9b6f-6c51-efb5bd9573e5" href="bb6fb444-d2f6-9b6f-6c51-efb5bd9573e5.htm">Download<wbr />Image<wbr />Async(<wbr />String, Web<wbr />Proxy, String)</a>
+    </li>
+  </tocItems>
+</toc>

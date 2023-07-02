@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="c6bb472f-8d1a-ae63-9e52-5a38131f127f.htm">IFile<wbr />Operation<wbr />Progress<wbr />Sink</a>
+    </li>
+    <li>
+      <a href="5f1a58e6-1c8b-69be-6242-8394ef5762e2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e5034804-d92c-eeb1-4c2c-da989bfb9685" href="e5034804-d92c-eeb1-4c2c-da989bfb9685.htm">Finish<wbr />Operations</a>
+    </li>
+    <li>
+      <a id="422939a9-dcd7-913d-3f89-524dfda53e18" href="422939a9-dcd7-913d-3f89-524dfda53e18.htm">Pause<wbr />Timer</a>
+    </li>
+    <li>
+      <a id="589d00da-a6b2-4978-531d-88029a61a09d" href="589d00da-a6b2-4978-531d-88029a61a09d.htm">Post<wbr />Copy<wbr />Item</a>
+    </li>
+    <li>
+      <a id="a16f72f6-b45e-cc82-583c-55a24bf8848e" href="a16f72f6-b45e-cc82-583c-55a24bf8848e.htm">Post<wbr />Delete<wbr />Item</a>
+    </li>
+    <li>
+      <a id="e1bdb1d6-a825-8066-bfdc-0f80aad63f0c" href="e1bdb1d6-a825-8066-bfdc-0f80aad63f0c.htm">Post<wbr />Move<wbr />Item</a>
+    </li>
+    <li>
+      <a id="d72c0953-e7ed-b4a1-1434-e2775990aed2" href="d72c0953-e7ed-b4a1-1434-e2775990aed2.htm">Post<wbr />New<wbr />Item</a>
+    </li>
+    <li>
+      <a id="256a9ee8-4c99-c360-f8ce-7b80a2b9f095" href="256a9ee8-4c99-c360-f8ce-7b80a2b9f095.htm">Post<wbr />Rename<wbr />Item</a>
+    </li>
+    <li>
+      <a id="e3bbd2a6-3b40-5408-ab8f-2213ad963fef" href="e3bbd2a6-3b40-5408-ab8f-2213ad963fef.htm">Pre<wbr />Copy<wbr />Item</a>
+    </li>
+    <li>
+      <a id="e953588c-6b2d-3874-54e1-041a544c8251" href="e953588c-6b2d-3874-54e1-041a544c8251.htm">Pre<wbr />Delete<wbr />Item</a>
+    </li>
+    <li>
+      <a id="34adeb5b-52dc-cc56-3e90-255b61eded59" href="34adeb5b-52dc-cc56-3e90-255b61eded59.htm">Pre<wbr />Move<wbr />Item</a>
+    </li>
+    <li>
+      <a id="789f3045-3923-d7e0-0d6d-d3ef0a16684c" href="789f3045-3923-d7e0-0d6d-d3ef0a16684c.htm">Pre<wbr />New<wbr />Item</a>
+    </li>
+    <li>
+      <a id="60da487b-f62a-9f3a-555e-ef6937b7b106" href="60da487b-f62a-9f3a-555e-ef6937b7b106.htm">Pre<wbr />Rename<wbr />Item</a>
+    </li>
+    <li>
+      <a id="d4ae72af-0772-8a68-fd68-193a6555a948" href="d4ae72af-0772-8a68-fd68-193a6555a948.htm">Reset<wbr />Timer</a>
+    </li>
+    <li>
+      <a id="72051c70-2ac2-4bd9-95b4-cc26bf2c891f" href="72051c70-2ac2-4bd9-95b4-cc26bf2c891f.htm">Resume<wbr />Timer</a>
+    </li>
+    <li>
+      <a id="f2d87bc1-c35a-cace-003b-5afdeb2e1ad1" href="f2d87bc1-c35a-cace-003b-5afdeb2e1ad1.htm">Start<wbr />Operations</a>
+    </li>
+    <li>
+      <a id="3587172e-8b65-0bce-c816-6044501d7b6e" href="3587172e-8b65-0bce-c816-6044501d7b6e.htm">Update<wbr />Progress</a>
+    </li>
+  </tocItems>
+</toc>

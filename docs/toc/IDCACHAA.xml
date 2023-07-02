@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="f945e44f-8017-7c96-d4ed-bd39b0091b42.htm">Audio<wbr />Player</a>
+    </li>
+    <li>
+      <a href="de623aa2-91ca-2d1e-05be-85cfb95b05c9.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="81caf01f-8c42-6874-8a88-94fcaef147b0" href="81caf01f-8c42-6874-8a88-94fcaef147b0.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="a2f1e182-d8de-d2c9-5346-d256e6c015a1" href="a2f1e182-d8de-d2c9-5346-d256e6c015a1.htm">Load<wbr />File</a>
+    </li>
+    <li>
+      <a id="58722685-8963-d24a-4824-295a41859088" href="58722685-8963-d24a-4824-295a41859088.htm">Pause</a>
+    </li>
+    <li>
+      <a id="aac5c149-9410-3d7e-d8ae-375609f5493b" href="aac5c149-9410-3d7e-d8ae-375609f5493b.htm">Play</a>
+    </li>
+    <li>
+      <a id="ca4f180a-547f-b6a0-b1cf-d99b70298860" href="ca4f180a-547f-b6a0-b1cf-d99b70298860.htm">Resume</a>
+    </li>
+    <li>
+      <a id="18d56a23-c641-f134-1a53-62402c763112" class="has-submenu" href="18d56a23-c641-f134-1a53-62402c763112.htm">
+        <span data-tocFile="../toc/IDFCACHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Seek</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3142a30c-1d17-6622-da34-2458795d2a39" href="3142a30c-1d17-6622-da34-2458795d2a39.htm">Stop</a>
+    </li>
+    <li>
+      <a id="b0cff795-af25-ee17-84d9-753f28fd32de" href="b0cff795-af25-ee17-84d9-753f28fd32de.htm">Un<wbr />Load<wbr />File</a>
+    </li>
+  </tocItems>
+</toc>

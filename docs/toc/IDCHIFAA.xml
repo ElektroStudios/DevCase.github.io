@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="da585215-dbd3-9bae-433f-45785d5129e1.htm">File<wbr />Dater</a>
+    </li>
+    <li>
+      <a href="a022aced-6728-39e1-8500-b2c7515b04b8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4baab11a-c016-f154-5e4f-d8005754c466" href="4baab11a-c016-f154-5e4f-d8005754c466.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="2a278415-a93f-4126-9664-c097ec358167" href="2a278415-a93f-4126-9664-c097ec358167.htm">Restore</a>
+    </li>
+    <li>
+      <a id="06ceb5b0-aab2-b018-17ef-d11e5ae9e67f" href="06ceb5b0-aab2-b018-17ef-d11e5ae9e67f.htm">Save</a>
+    </li>
+    <li>
+      <a id="e21602cd-2025-6e87-723b-f1f50b075326" href="e21602cd-2025-6e87-723b-f1f50b075326.htm">Set</a>
+    </li>
+    <li>
+      <a id="3e64b3ff-0053-f14c-548a-2367e761cce1" class="has-submenu" href="3e64b3ff-0053-f14c-548a-2367e761cce1.htm">
+        <span data-tocFile="../toc/IDECHIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Filepath</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5073a619-a233-311b-283d-371bd878102d" href="5073a619-a233-311b-283d-371bd878102d.htm">Truncate</a>
+    </li>
+  </tocItems>
+</toc>

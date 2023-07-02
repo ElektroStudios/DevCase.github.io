@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="b978bc77-394a-d48c-9da3-05389ee9dd94.htm">Util<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="f113d2ab-2f35-2564-0466-fd5e8c42f08d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6eed59a9-af26-a2c2-49c0-627739c17188" href="6eed59a9-af26-a2c2-49c0-627739c17188.htm">Activate<wbr />Fullscreen</a>
+    </li>
+    <li>
+      <a id="23b77ff8-09d0-fec3-062f-b2d6886ab4c3" href="23b77ff8-09d0-fec3-062f-b2d6886ab4c3.htm">Allocate<wbr />Console</a>
+    </li>
+    <li>
+      <a id="f03cad43-af90-8005-89c0-ed6afa408786" href="f03cad43-af90-8005-89c0-ed6afa408786.htm">Animate<wbr />Window</a>
+    </li>
+    <li>
+      <a id="3ef2e555-20e5-ba6a-eb98-5728ab0fad97" href="3ef2e555-20e5-ba6a-eb98-5728ab0fad97.htm">Center<wbr />To<wbr />Control</a>
+    </li>
+    <li>
+      <a id="d39ba63b-b424-0aed-c399-a2a8f5ddc655" class="has-submenu" href="d39ba63b-b424-0aed-c399-a2a8f5ddc655.htm">
+        <span data-tocFile="../toc/IDEBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Center<wbr />To<wbr />Screen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c40faff1-d8d7-ba66-2bfe-52a85b4eab8d" href="c40faff1-d8d7-ba66-2bfe-52a85b4eab8d.htm">Control<wbr />Invoke&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="1c0ae1d1-5df1-1643-4983-701af7d8206e" href="1c0ae1d1-5df1-1643-4983-701af7d8206e.htm">Control<wbr />Invoke<wbr />Async&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="8e114d04-2ff5-1ecd-8f0f-17888e381b02" href="8e114d04-2ff5-1ecd-8f0f-17888e381b02.htm">Deactivate<wbr />Fullscreen</a>
+    </li>
+    <li>
+      <a id="b33597b2-22eb-6581-2193-a5cdb3e5f515" href="b33597b2-22eb-6581-2193-a5cdb3e5f515.htm">Do<wbr />Events<wbr />Safe</a>
+    </li>
+    <li>
+      <a id="27b19627-4fe1-387f-42c4-df6d02578223" href="27b19627-4fe1-387f-42c4-df6d02578223.htm">Enable<wbr />Double<wbr />Buffered<wbr />On<wbr />Control&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="fc3db845-c278-7179-7709-5ac9a1b9f148" href="fc3db845-c278-7179-7709-5ac9a1b9f148.htm">Fade</a>
+    </li>
+    <li>
+      <a id="137cb467-a0fd-f13d-cc70-73115f834265" href="137cb467-a0fd-f13d-cc70-73115f834265.htm">Force<wbr />Message<wbr />Queue<wbr />Pump</a>
+    </li>
+    <li>
+      <a id="46542c87-ec71-a0b4-1815-8fe6cab34dfc" class="has-submenu" href="46542c87-ec71-a0b4-1815-8fe6cab34dfc.htm">
+        <span data-tocFile="../toc/IDMBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Control<wbr />From<wbr />Point</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3ff86266-4e69-65f5-169a-7f63da130dd5" href="3ff86266-4e69-65f5-169a-7f63da130dd5.htm">Get<wbr />Cursor<wbr />Pan<wbr />Direction</a>
+    </li>
+    <li>
+      <a id="3fb33edf-048a-fe0f-c7b2-cb3b320c4710" class="has-submenu" href="3fb33edf-048a-fe0f-c7b2-cb3b320c4710.htm">
+        <span data-tocFile="../toc/IDOBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Non<wbr />Client<wbr />Area<wbr />Margins</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="053a4ddb-fa97-044b-b77a-99873acda34d" href="053a4ddb-fa97-044b-b77a-99873acda34d.htm">Get<wbr />Notify<wbr />Icon<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="27b60688-53b2-ba77-b0b0-7535b1fef9f4" href="27b60688-53b2-ba77-b0b0-7535b1fef9f4.htm">Get<wbr />Notify<wbr />Icon<wbr />Rect</a>
+    </li>
+    <li>
+      <a id="f31bad4f-5b7a-d894-964d-c8457c0df1f9" class="has-submenu" href="f31bad4f-5b7a-d894-964d-c8457c0df1f9.htm">
+        <span data-tocFile="../toc/IDRBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Fullscreen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="649aa31f-63e6-0a5e-4446-4be88ad8ec46" class="has-submenu" href="649aa31f-63e6-0a5e-4446-4be88ad8ec46.htm">
+        <span data-tocFile="../toc/IDSBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Load<wbr />Cursor<wbr />From<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1e74b98e-3e6d-7ee0-09ab-d8a2e1a29fd6" href="1e74b98e-3e6d-7ee0-09ab-d8a2e1a29fd6.htm">Load<wbr />Cursor<wbr />From<wbr />Resource</a>
+    </li>
+    <li>
+      <a id="3236193f-daef-b993-c62b-fda38cfcf23f" href="3236193f-daef-b993-c62b-fda38cfcf23f.htm">Minimize<wbr />To<wbr />Systray</a>
+    </li>
+    <li>
+      <a id="fd94b539-4f12-b642-b3a2-6a7d4092095f" href="fd94b539-4f12-b642-b3a2-6a7d4092095f.htm">Mouse<wbr />Is<wbr />Over<wbr />Control</a>
+    </li>
+    <li>
+      <a id="0ca81e2b-0dfa-0c87-e644-e83fbd50ed00" href="0ca81e2b-0dfa-0c87-e644-e83fbd50ed00.htm">Move<wbr />To<wbr />Screen</a>
+    </li>
+    <li>
+      <a id="32a12de9-b7d9-68cf-5aea-f3dea3819dd4" href="32a12de9-b7d9-68cf-5aea-f3dea3819dd4.htm">Restore<wbr />From<wbr />Systray</a>
+    </li>
+    <li>
+      <a id="bd4e6561-c592-8fa0-aa35-96e6b1d2e66c" class="has-submenu" href="bd4e6561-c592-8fa0-aa35-96e6b1d2e66c.htm">
+        <span data-tocFile="../toc/IDYBYCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Round<wbr />Borders</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dca61396-b93c-a34e-a60a-eb8fc997e3ac" href="dca61396-b93c-a34e-a60a-eb8fc997e3ac.htm">Shake<wbr />Control</a>
+    </li>
+    <li>
+      <a id="6b43bba6-6334-a7bc-2231-cc88769e2e5a" href="6b43bba6-6334-a7bc-2231-cc88769e2e5a.htm">Shake<wbr />Form</a>
+    </li>
+    <li>
+      <a id="6e3df40f-61a1-9b24-d714-5f6f4e20ef7a" href="6e3df40f-61a1-9b24-d714-5f6f4e20ef7a.htm">Show<wbr />Save<wbr />File<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="a1fe88d6-43b7-f27e-09c1-7ee9090195f5" href="a1fe88d6-43b7-f27e-09c1-7ee9090195f5.htm">Toggle<wbr />Form<wbr />Systray</a>
+    </li>
+    <li>
+      <a id="6d316e2d-517a-0e57-eb61-2385f7478e74" href="6d316e2d-517a-0e57-eb61-2385f7478e74.htm">Toggle<wbr />Fullscreen</a>
+    </li>
+  </tocItems>
+</toc>

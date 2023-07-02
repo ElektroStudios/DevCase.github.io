@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="d07ea05e-74cc-d1c5-63b3-e1b98df0e317.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />NAudio</a>
+    </li>
+    <li>
+      <a href="1c1bdf32-0f89-472b-1dcd-fc5ffef63e36.htm">Util<wbr />NAudio</a>
+    </li>
+    <li>
+      <a href="9b61ffc2-05a4-8e8e-b7f0-6a5dad591ae6.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5d59cdcf-92a2-4020-f0ae-0e1a4572e50d" href="5d59cdcf-92a2-4020-f0ae-0e1a4572e50d.htm">Append<wbr />Fade<wbr />Out</a>
+    </li>
+    <li>
+      <a id="3484bfca-4973-9015-0651-9fbc894ab03c" href="3484bfca-4973-9015-0651-9fbc894ab03c.htm">Append<wbr />Silence</a>
+    </li>
+    <li>
+      <a id="2a017423-ba50-0def-6b76-a6088206af08" class="has-submenu" href="2a017423-ba50-0def-6b76-a6088206af08.htm">
+        <span data-tocFile="../toc/IDCAA0FB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Convert<wbr />File<wbr />To<wbr />Wave</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="aa03d4e8-d63e-8f10-06fe-c59aec3be7ac" href="aa03d4e8-d63e-8f10-06fe-c59aec3be7ac.htm">Cut<wbr />Audio</a>
+    </li>
+    <li>
+      <a id="a0afb931-e025-b12e-cdd6-1e8bdf2a7213" href="a0afb931-e025-b12e-cdd6-1e8bdf2a7213.htm">Enumerate<wbr />Sound<wbr />Capture<wbr />Devices</a>
+    </li>
+    <li>
+      <a id="b96860dd-039a-4d2d-fe4f-a88a0b315b16" href="b96860dd-039a-4d2d-fe4f-a88a0b315b16.htm">Enumerate<wbr />Sound<wbr />Render<wbr />Devices</a>
+    </li>
+    <li>
+      <a id="303a7884-a72f-3895-0fc9-37edef02c1c1" href="303a7884-a72f-3895-0fc9-37edef02c1c1.htm">Get<wbr />Default<wbr />Sound<wbr />Capture<wbr />Device</a>
+    </li>
+    <li>
+      <a id="add5362c-1bff-31f1-ae35-50b31eb20965" href="add5362c-1bff-31f1-ae35-50b31eb20965.htm">Get<wbr />Default<wbr />Sound<wbr />Render<wbr />Device</a>
+    </li>
+    <li>
+      <a id="ecf21267-579a-1a57-0d09-5f2e0f1d347f" href="ecf21267-579a-1a57-0d09-5f2e0f1d347f.htm">Insert<wbr />Fade<wbr />In</a>
+    </li>
+    <li>
+      <a id="21e24501-0a19-c173-33e9-f7cfa76e81c1" href="21e24501-0a19-c173-33e9-f7cfa76e81c1.htm">Insert<wbr />Fade<wbr />Out</a>
+    </li>
+    <li>
+      <a id="f253cad4-b7c5-863d-166a-16b15b78bbdf" href="f253cad4-b7c5-863d-166a-16b15b78bbdf.htm">Insert<wbr />Silence</a>
+    </li>
+    <li>
+      <a id="8cc5315b-30d2-914a-a934-15801e193736" href="8cc5315b-30d2-914a-a934-15801e193736.htm">Play<wbr />Audio</a>
+    </li>
+    <li>
+      <a id="591a937c-efdd-821b-fc6c-4ced9f59ec28" href="591a937c-efdd-821b-fc6c-4ced9f59ec28.htm">Play<wbr />Audio<wbr />File</a>
+    </li>
+    <li>
+      <a id="9736889e-2d94-59eb-bfe9-970a2b4fe308" href="9736889e-2d94-59eb-bfe9-970a2b4fe308.htm">Prepend<wbr />Fade<wbr />In</a>
+    </li>
+    <li>
+      <a id="83a9bead-1395-50c0-c010-39860118f08c" href="83a9bead-1395-50c0-c010-39860118f08c.htm">Prepend<wbr />Silence</a>
+    </li>
+    <li>
+      <a id="8a0a8b80-4ea9-6041-7a00-2d2bd2e738e2" href="8a0a8b80-4ea9-6041-7a00-2d2bd2e738e2.htm">Set<wbr />Volume</a>
+    </li>
+  </tocItems>
+</toc>

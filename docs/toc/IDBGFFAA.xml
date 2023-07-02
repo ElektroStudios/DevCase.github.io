@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Power</a>
+    </li>
+    <li>
+      <a href="7697ca75-a252-281f-49e5-f665a18c8f94.htm">Util<wbr />Power</a>
+    </li>
+    <li>
+      <a href="c108ff96-1a09-e8dc-6893-b412209cf1e6.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fb56e024-2994-dc09-4298-84bdcd706c95" href="fb56e024-2994-dc09-4298-84bdcd706c95.htm">Abort<wbr />Shutdown</a>
+    </li>
+    <li>
+      <a id="3e8c3727-c339-e959-2bcf-43ea78f8098c" href="3e8c3727-c339-e959-2bcf-43ea78f8098c.htm">Hibernate</a>
+    </li>
+    <li>
+      <a id="7385dd64-003c-2029-c90f-30f9ed919b10" href="7385dd64-003c-2029-c90f-30f9ed919b10.htm">Hybrid<wbr />Shutdown</a>
+    </li>
+    <li>
+      <a id="da369643-aa24-3404-360e-6ba5fb5fd2ab" href="da369643-aa24-3404-360e-6ba5fb5fd2ab.htm">Log<wbr />Off</a>
+    </li>
+    <li>
+      <a id="4bd09cd2-bf94-93dd-3c69-5375d3e6a12b" href="4bd09cd2-bf94-93dd-3c69-5375d3e6a12b.htm">Power<wbr />Off</a>
+    </li>
+    <li>
+      <a id="2ee18758-845f-90ed-d96d-c76f2522e004" href="2ee18758-845f-90ed-d96d-c76f2522e004.htm">Remove<wbr />Awake<wbr />Signal</a>
+    </li>
+    <li>
+      <a id="6937aa59-175b-73c2-0b2a-bf4e316cdbd5" href="6937aa59-175b-73c2-0b2a-bf4e316cdbd5.htm">Restart</a>
+    </li>
+    <li>
+      <a id="673bd841-cbd4-b6e3-6768-6fa99461bcf8" href="673bd841-cbd4-b6e3-6768-6fa99461bcf8.htm">Restart<wbr />Apps</a>
+    </li>
+    <li>
+      <a id="4c70aa2d-d811-e25b-1eeb-d85b0ec91b6d" href="4c70aa2d-d811-e25b-1eeb-d85b0ec91b6d.htm">Send<wbr />Awake<wbr />Signal</a>
+    </li>
+    <li>
+      <a id="c73bbdbd-247a-ab13-06eb-300eb3138aa0" class="has-submenu" href="c73bbdbd-247a-ab13-06eb-300eb3138aa0.htm">
+        <span data-tocFile="../toc/IDJBGFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Monitor<wbr />State</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0f1f58cc-5dc8-d8db-7cf4-85d37448a4dc" href="0f1f58cc-5dc8-d8db-7cf4-85d37448a4dc.htm">Shutdown</a>
+    </li>
+    <li>
+      <a id="f55afc97-6356-368f-8a15-070be6680b62" href="f55afc97-6356-368f-8a15-070be6680b62.htm">Suspend</a>
+    </li>
+  </tocItems>
+</toc>

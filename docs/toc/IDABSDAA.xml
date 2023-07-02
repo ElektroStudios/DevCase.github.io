@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="e9d9192a-9664-c11a-1c95-4428a26c93a9.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />WMI</a>
+    </li>
+    <li>
+      <a href="3c62b63a-a0c9-1ce6-b99e-5f25b547bfda.htm">WMIEvent<wbr />Watcher</a>
+    </li>
+    <li>
+      <a href="2c5ffb27-c358-5e97-e0d5-ea2a4fec28da.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="922cdf62-ba54-3b8d-6752-ca164f71a4bc" href="922cdf62-ba54-3b8d-6752-ca164f71a4bc.htm">WMIEvent<wbr />Watcher(<wbr />Select<wbr />Query)</a>
+    </li>
+    <li>
+      <a id="ccbab365-21ba-6d93-a764-bf054b2d397f" href="ccbab365-21ba-6d93-a764-bf054b2d397f.htm">WMIEvent<wbr />Watcher(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="4385f77b-000f-92d9-9a4c-ec3d30017911" href="4385f77b-000f-92d9-9a4c-ec3d30017911.htm">WMIEvent<wbr />Watcher(<wbr />Select<wbr />Query, Single)</a>
+    </li>
+    <li>
+      <a id="5bf84a80-c943-321e-1625-7baa2d803f00" href="5bf84a80-c943-321e-1625-7baa2d803f00.htm">WMIEvent<wbr />Watcher(<wbr />Select<wbr />Query, Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="a76db2a3-a674-c40e-7547-d4fc6b0e869a" href="a76db2a3-a674-c40e-7547-d4fc6b0e869a.htm">WMIEvent<wbr />Watcher(<wbr />Select<wbr />Query, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="583aa08d-4d79-ccbe-1eb4-4b30d9b3995e" href="583aa08d-4d79-ccbe-1eb4-4b30d9b3995e.htm">WMIEvent<wbr />Watcher(<wbr />String, Single)</a>
+    </li>
+    <li>
+      <a id="406840f5-5e38-91f8-a2d6-63592fa9b7bf" href="406840f5-5e38-91f8-a2d6-63592fa9b7bf.htm">WMIEvent<wbr />Watcher(<wbr />String, Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="c9d9dd2d-48b6-468c-0237-1ea10d05d8d6" href="c9d9dd2d-48b6-468c-0237-1ea10d05d8d6.htm">WMIEvent<wbr />Watcher(<wbr />String, String, Single)</a>
+    </li>
+    <li>
+      <a id="fe4903d0-7d76-42d5-a1b1-e6921d0976a5" href="fe4903d0-7d76-42d5-a1b1-e6921d0976a5.htm">WMIEvent<wbr />Watcher(<wbr />String, String, Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="0c4aa8dc-1e83-941b-f866-be58fc762e70" href="0c4aa8dc-1e83-941b-f866-be58fc762e70.htm">WMIEvent<wbr />Watcher(<wbr />String, String, String[], Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="274a5787-4390-f9c8-21a3-515214af9921" href="274a5787-4390-f9c8-21a3-515214af9921.htm">WMIEvent<wbr />Watcher(<wbr />String, String, String[], UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

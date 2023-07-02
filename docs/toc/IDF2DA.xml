@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="cd19639c-ca9e-18c1-cb5e-00874525f6ed.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Imgur</a>
+    </li>
+    <li>
+      <a href="6d850ce6-507b-13f1-42ca-d9467d06b864.htm">Upload<wbr />Error<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7e6529d8-da92-14b9-7dee-31ed63e6258e" href="7e6529d8-da92-14b9-7dee-31ed63e6258e.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="82118c2b-b5ae-2d4b-9dad-c82d00837b58" class="has-submenu" href="82118c2b-b5ae-2d4b-9dad-c82d00837b58.htm">
+        <span data-tocFile="../toc/IDBF2DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c1668e3d-c928-09a5-5a67-bfba7644e520" href="c1668e3d-c928-09a5-5a67-bfba7644e520.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

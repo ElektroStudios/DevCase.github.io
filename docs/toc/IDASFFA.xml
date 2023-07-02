@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="c163f904-b022-176a-c37f-32be777695e1.htm">Shell<wbr />32</a>
+    </li>
+    <li>
+      <a href="ddce2ad5-d1f8-b67a-99e9-295509aae97f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="93514c72-4327-20ff-77a8-f1de3f619d19" href="93514c72-4327-20ff-77a8-f1de3f619d19.htm">Command<wbr />Line<wbr />To<wbr />Argv<wbr />W</a>
+    </li>
+    <li>
+      <a id="f9e2e70a-2de8-c8fd-8b04-22b103396c01" href="f9e2e70a-2de8-c8fd-8b04-22b103396c01.htm">Duplicate<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="a38a31d9-0b37-04ec-81b6-427fdf3c288c" class="has-submenu" href="a38a31d9-0b37-04ec-81b6-427fdf3c288c.htm">
+        <span data-tocFile="../toc/IDCASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Empty<wbr />Recycle<wbr />Bin</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1a15a14c-748c-59b5-4e81-f8fcd4ee11d7" href="1a15a14c-748c-59b5-4e81-f8fcd4ee11d7.htm">Extract<wbr />Icon<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="91defa33-f1bb-8765-5765-5278d3cf041e" href="91defa33-f1bb-8765-5765-5278d3cf041e.htm">Find<wbr />Executable</a>
+    </li>
+    <li>
+      <a id="9d8fd766-7c8c-8608-8d31-15d935be5c24" href="9d8fd766-7c8c-8608-8d31-15d935be5c24.htm">Get<wbr />Current<wbr />Process<wbr />Explicit<wbr />App<wbr />User<wbr />Model<wbr />ID</a>
+    </li>
+    <li>
+      <a id="8a0183b5-87f5-b208-556c-6d3f0cbd291b" href="8a0183b5-87f5-b208-556c-6d3f0cbd291b.htm">ILClone</a>
+    </li>
+    <li>
+      <a id="5c777829-3e0a-d284-c9e0-07516009be80" href="5c777829-3e0a-d284-c9e0-07516009be80.htm">ILClone<wbr />First</a>
+    </li>
+    <li>
+      <a id="30da3592-3142-f9f7-e754-9d22cc63efd0" href="30da3592-3142-f9f7-e754-9d22cc63efd0.htm">ILClone<wbr />Int<wbr />Ptr</a>
+    </li>
+    <li>
+      <a id="612c0afd-e401-04e5-4fd9-1a88274a3d89" href="612c0afd-e401-04e5-4fd9-1a88274a3d89.htm">ILCombine</a>
+    </li>
+    <li>
+      <a id="99a0b4cd-d7fe-56e7-d3fa-f31bc0094f78" href="99a0b4cd-d7fe-56e7-d3fa-f31bc0094f78.htm">ILCombine<wbr />Int<wbr />Ptr</a>
+    </li>
+    <li>
+      <a id="8d814cd3-acfb-8e91-91aa-eea79f9a47cc" href="8d814cd3-acfb-8e91-91aa-eea79f9a47cc.htm">ILCreate<wbr />From<wbr />Path</a>
+    </li>
+    <li>
+      <a id="fc69d120-0c08-e191-4e18-df68ddd83130" href="fc69d120-0c08-e191-4e18-df68ddd83130.htm">ILCreate<wbr />From<wbr />Path<wbr />Int<wbr />Ptr</a>
+    </li>
+    <li>
+      <a id="67bf3e61-bbdf-c1e0-b6fb-f4b6817b05ae" class="has-submenu" href="67bf3e61-bbdf-c1e0-b6fb-f4b6817b05ae.htm">
+        <span data-tocFile="../toc/IDNASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ILFind<wbr />Child</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="030269e1-3f90-6e83-b5b3-dfe799b348bb" href="030269e1-3f90-6e83-b5b3-dfe799b348bb.htm">ILFind<wbr />Last<wbr />ID</a>
+    </li>
+    <li>
+      <a id="4fb04103-bb96-4e9f-6cde-fcb8d15f3dbf" href="4fb04103-bb96-4e9f-6cde-fcb8d15f3dbf.htm">ILFree</a>
+    </li>
+    <li>
+      <a id="fa90a427-531f-255a-7a5b-94aebde0e1ba" href="fa90a427-531f-255a-7a5b-94aebde0e1ba.htm">ILGet<wbr />Next</a>
+    </li>
+    <li>
+      <a id="9619a5b4-786c-3623-976e-c177f6e252c4" href="9619a5b4-786c-3623-976e-c177f6e252c4.htm">ILGet<wbr />Size</a>
+    </li>
+    <li>
+      <a id="f85c1c7a-2f52-bf47-0d37-63e7e86d13bf" href="f85c1c7a-2f52-bf47-0d37-63e7e86d13bf.htm">ILIs<wbr />Equal</a>
+    </li>
+    <li>
+      <a id="aa49dcf5-175e-2eb4-6966-70c0c93ba9ab" href="aa49dcf5-175e-2eb4-6966-70c0c93ba9ab.htm">ILIs<wbr />Parent</a>
+    </li>
+    <li>
+      <a id="24f650d2-67c9-1816-d125-46ef4b0e7cd9" class="has-submenu" href="24f650d2-67c9-1816-d125-46ef4b0e7cd9.htm">
+        <span data-tocFile="../toc/IDUASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ILLoad<wbr />From<wbr />Stream<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e6ab6a54-40f6-d7c8-cd02-1a590f686c80" href="e6ab6a54-40f6-d7c8-cd02-1a590f686c80.htm">ILRemove<wbr />Last<wbr />ID</a>
+    </li>
+    <li>
+      <a id="c21d2acf-b187-218f-23a2-68e166e22fc3" class="has-submenu" href="c21d2acf-b187-218f-23a2-68e166e22fc3.htm">
+        <span data-tocFile="../toc/IDWASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ILSave<wbr />To<wbr />Stream</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96fb224f-c76c-99d4-f934-b631903f4a07" href="96fb224f-c76c-99d4-f934-b631903f4a07.htm">Init<wbr />Network<wbr />Address<wbr />Control</a>
+    </li>
+    <li>
+      <a id="8cc59af0-1c68-b109-9da3-c0d83aedceda" href="8cc59af0-1c68-b109-9da3-c0d83aedceda.htm">Is<wbr />User<wbr />An<wbr />Admin</a>
+    </li>
+    <li>
+      <a id="d485ccd5-af22-1543-0acb-95acf99069f6" class="has-submenu" href="d485ccd5-af22-1543-0acb-95acf99069f6.htm">
+        <span data-tocFile="../toc/IDZASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Notify<wbr />Icon<wbr />Get<wbr />Rect</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="67757f13-d175-8386-d2a6-58e47314e814" href="67757f13-d175-8386-d2a6-58e47314e814.htm">Path<wbr />Get<wbr />Short<wbr />Path</a>
+    </li>
+    <li>
+      <a id="b58bbfa3-80eb-0e9a-d680-eeaccb54431b" href="b58bbfa3-80eb-0e9a-d680-eeaccb54431b.htm">Path<wbr />Is<wbr />Exe</a>
+    </li>
+    <li>
+      <a id="0f4fc47f-8e50-c147-4ecc-9eb29f9394bc" href="0f4fc47f-8e50-c147-4ecc-9eb29f9394bc.htm">Path<wbr />Is<wbr />Slow</a>
+    </li>
+    <li>
+      <a id="dd81d2c4-02a7-5717-7f2d-0c9520164ef8" href="dd81d2c4-02a7-5717-7f2d-0c9520164ef8.htm">Path<wbr />Make<wbr />Unique<wbr />Name</a>
+    </li>
+    <li>
+      <a id="28cb4201-fe12-6521-c35a-a4147234a751" href="28cb4201-fe12-6521-c35a-a4147234a751.htm">Path<wbr />Resolve</a>
+    </li>
+    <li>
+      <a id="cc648399-fbd0-e2c0-e585-cc87cc281f65" href="cc648399-fbd0-e2c0-e585-cc87cc281f65.htm">Path<wbr />Yet<wbr />Another<wbr />Make<wbr />Unique<wbr />Name</a>
+    </li>
+    <li>
+      <a id="4b3c3db8-6775-dbd4-6ff9-63e2868079e5" class="has-submenu" href="4b3c3db8-6775-dbd4-6ff9-63e2868079e5.htm">
+        <span data-tocFile="../toc/ID0AB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Pick<wbr />Icon<wbr />Dlg</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e7a7e578-dd25-3828-77ba-d22b7feed7f1" href="e7a7e578-dd25-3828-77ba-d22b7feed7f1.htm">Query<wbr />Recycle<wbr />Bin</a>
+    </li>
+    <li>
+      <a id="5ee6e39d-bb99-12cf-4108-b72c3a8b2c9b" href="5ee6e39d-bb99-12cf-4108-b72c3a8b2c9b.htm">Set<wbr />Current<wbr />Process<wbr />Explicit<wbr />App<wbr />User<wbr />Model<wbr />ID</a>
+    </li>
+    <li>
+      <a id="08d2703b-442a-1292-e4a3-a84a87068209" class="has-submenu" href="08d2703b-442a-1292-e4a3-a84a87068209.htm">
+        <span data-tocFile="../toc/ID0DB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHAdd<wbr />To<wbr />Recent<wbr />Docs</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8b9ff728-ef90-20ef-8405-d98fc47da6f1" href="8b9ff728-ef90-20ef-8405-d98fc47da6f1.htm">SHApp<wbr />Bar<wbr />Message</a>
+    </li>
+    <li>
+      <a id="87693b07-7ed8-83c0-20c7-f8977829ca64" class="has-submenu" href="87693b07-7ed8-83c0-20c7-f8977829ca64.htm">
+        <span data-tocFile="../toc/ID0FB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHChange<wbr />Notify</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e4dc26c5-61f0-0da4-46ba-3f82a8b53e89" class="has-submenu" href="e4dc26c5-61f0-0da4-46ba-3f82a8b53e89.htm">
+        <span data-tocFile="../toc/ID0GB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Item<wbr />From<wbr />IDList</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="06cacb56-2d1c-e9b1-7da6-5a75b5c7ce87" class="has-submenu" href="06cacb56-2d1c-e9b1-7da6-5a75b5c7ce87.htm">
+        <span data-tocFile="../toc/ID0HB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Item<wbr />From<wbr />Parsing<wbr />Name</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="caf2669e-4910-2892-080a-ab8514d116b9" class="has-submenu" href="caf2669e-4910-2892-080a-ab8514d116b9.htm">
+        <span data-tocFile="../toc/ID0IB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Item<wbr />From<wbr />Relative<wbr />Name</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="50bd6265-43f4-f2ec-254e-7ae60296f9eb" class="has-submenu" href="50bd6265-43f4-f2ec-254e-7ae60296f9eb.htm">
+        <span data-tocFile="../toc/ID0JB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHCreate<wbr />Item<wbr />With<wbr />Parent</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f09cf273-6596-68ed-99a2-df09d3411e9d" href="f09cf273-6596-68ed-99a2-df09d3411e9d.htm">SHCreate<wbr />Shell<wbr />Item</a>
+    </li>
+    <li>
+      <a id="d67f5d0d-5d75-0c55-ca42-8d9a32a6a2de" href="d67f5d0d-5d75-0c55-ca42-8d9a32a6a2de.htm">SHDef<wbr />Extract<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="36bc2132-d601-3745-7fec-8755b56dec37" href="36bc2132-d601-3745-7fec-8755b56dec37.htm">SHDo<wbr />Drag<wbr />Drop</a>
+    </li>
+    <li>
+      <a id="5a0f5684-614d-9361-14ba-d051cd7907b7" class="has-submenu" href="5a0f5684-614d-9361-14ba-d051cd7907b7.htm">
+        <span data-tocFile="../toc/ID0NB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shell<wbr />About</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0c3cb10a-e97c-f260-5864-420da1a66fba" href="0c3cb10a-e97c-f260-5864-420da1a66fba.htm">Shell<wbr />Execute<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="74f00c7c-c849-9dab-c8b0-6fc15b57207c" href="74f00c7c-c849-9dab-c8b0-6fc15b57207c.htm">SHFind<wbr />Files</a>
+    </li>
+    <li>
+      <a id="98c6882f-797b-1837-806e-439c3ab5e6e9" href="98c6882f-797b-1837-806e-439c3ab5e6e9.htm">SHFlush<wbr />SFCache</a>
+    </li>
+    <li>
+      <a id="8c46bb99-e9a8-9aa9-9aa2-8594d9ee3135" href="8c46bb99-e9a8-9aa9-9aa2-8594d9ee3135.htm">SHGet<wbr />Desktop<wbr />Folder</a>
+    </li>
+    <li>
+      <a id="a2aae99d-fcff-7fcf-4aaa-a8446ba35d8a" class="has-submenu" href="a2aae99d-fcff-7fcf-4aaa-a8446ba35d8a.htm">
+        <span data-tocFile="../toc/ID0SB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHGet<wbr />File<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f1004767-004d-76f3-e7a7-f8b7f2e82962" class="has-submenu" href="f1004767-004d-76f3-e7a7-f8b7f2e82962.htm">
+        <span data-tocFile="../toc/ID0TB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHGet<wbr />IDList<wbr />From<wbr />Object</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0d7ff245-67b3-c696-ef45-69af27448adc" href="0d7ff245-67b3-c696-ef45-69af27448adc.htm">SHGet<wbr />Instance<wbr />Explorer</a>
+    </li>
+    <li>
+      <a id="a51f2e45-c0ab-8f56-5397-f88f523b57a9" class="has-submenu" href="a51f2e45-c0ab-8f56-5397-f88f523b57a9.htm">
+        <span data-tocFile="../toc/ID0VB0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHGet<wbr />Name<wbr />From<wbr />IDList</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4d1c80ac-6eb7-7cf5-03fc-bfbccc9b0b1a" href="4d1c80ac-6eb7-7cf5-03fc-bfbccc9b0b1a.htm">SHGet<wbr />New<wbr />Link<wbr />Info</a>
+    </li>
+    <li>
+      <a id="11a77716-fc50-cb5d-f96c-ec4c9dc1168f" href="11a77716-fc50-cb5d-f96c-ec4c9dc1168f.htm">SHGet<wbr />Path<wbr />From<wbr />IDList</a>
+    </li>
+    <li>
+      <a id="4c6d58a5-5fa8-9d75-576f-9cec22ac38da" href="4c6d58a5-5fa8-9d75-576f-9cec22ac38da.htm">SHGet<wbr />Path<wbr />From<wbr />IDList<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="b5b57f3f-d0f4-10dd-4cec-a68a520e45a4" href="b5b57f3f-d0f4-10dd-4cec-a68a520e45a4.htm">SHGet<wbr />Set<wbr />Settings</a>
+    </li>
+    <li>
+      <a id="04eb22ca-4329-8987-1246-0b7066a8fba0" href="04eb22ca-4329-8987-1246-0b7066a8fba0.htm">SHLoad<wbr />Nonloaded<wbr />Icon<wbr />Overlay<wbr />Identifiers</a>
+    </li>
+    <li>
+      <a id="8edc4691-c9bc-ee3e-6e33-f23cdc6b0dc1" href="8edc4691-c9bc-ee3e-6e33-f23cdc6b0dc1.htm">SHMulti<wbr />File<wbr />Properties</a>
+    </li>
+    <li>
+      <a id="7de31cfe-a418-462e-1732-bb3be87cafa3" href="7de31cfe-a418-462e-1732-bb3be87cafa3.htm">SHObject<wbr />Properties</a>
+    </li>
+    <li>
+      <a id="6d3322fb-7490-221a-a68b-4e593705accd" href="6d3322fb-7490-221a-a68b-4e593705accd.htm">SHOpen<wbr />Folder<wbr />And<wbr />Select<wbr />Items</a>
+    </li>
+    <li>
+      <a id="6fb2f4ae-7103-8859-be35-4fb388de1ec0" href="6fb2f4ae-7103-8859-be35-4fb388de1ec0.htm">SHOpen<wbr />With<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="877b55c8-e1a8-48b1-c32a-b05a02d74cf0" class="has-submenu" href="877b55c8-e1a8-48b1-c32a-b05a02d74cf0.htm">
+        <span data-tocFile="../toc/ID06B0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SHParse<wbr />Display<wbr />Name</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bc1d0e17-a51e-71ad-27b4-ce7e22e1ab21" href="bc1d0e17-a51e-71ad-27b4-ce7e22e1ab21.htm">SHQuery<wbr />User<wbr />Notification<wbr />State</a>
+    </li>
+    <li>
+      <a id="9200d938-2bb2-5703-4d5a-2dd2792ccfdf" href="9200d938-2bb2-5703-4d5a-2dd2792ccfdf.htm">SHSet<wbr />Instance<wbr />Explorer</a>
+    </li>
+    <li>
+      <a id="fb9e2430-75ed-76aa-4042-6c44dbdd7ef7" href="fb9e2430-75ed-76aa-4042-6c44dbdd7ef7.htm">SHSimple<wbr />IDList<wbr />From<wbr />Path</a>
+    </li>
+    <li>
+      <a id="96b042e8-53a0-0fac-b19a-3d2ad145ab7e" href="96b042e8-53a0-0fac-b19a-3d2ad145ab7e.htm">SHSimple<wbr />IDList<wbr />From<wbr />Path<wbr />Int<wbr />Ptr</a>
+    </li>
+    <li>
+      <a id="66a7e437-b2a6-0844-904c-3e64d5a5a8a0" href="66a7e437-b2a6-0844-904c-3e64d5a5a8a0.htm">SHUpdate<wbr />Image</a>
+    </li>
+    <li>
+      <a id="495bcc5b-9523-f465-8b88-e449f7d1e9eb" class="has-submenu" href="495bcc5b-9523-f465-8b88-e449f7d1e9eb.htm">
+        <span data-tocFile="../toc/ID0FC0ASFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Signal<wbr />File<wbr />Open</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5d888fdf-4893-4da3-637d-0234cbca4cd7" href="5d888fdf-4893-4da3-637d-0234cbca4cd7.htm">Update<wbr />Recycle<wbr />Bin<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="9b917858-f89c-52cf-e207-d64d5806728c" href="9b917858-f89c-52cf-e207-d64d5806728c.htm">Win<wbr />32Delete<wbr />File</a>
+    </li>
+  </tocItems>
+</toc>

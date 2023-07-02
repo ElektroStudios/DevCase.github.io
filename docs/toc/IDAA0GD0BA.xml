@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="0c501179-8ab4-4189-10cc-536df439da22.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Text<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="319c517e-d926-ae30-381e-46d0ff3dca22.htm">Text<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="323cc95a-0e05-1f0d-3538-ab8bb2d65cba.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="52465563-6bdc-775e-1869-bc7df0272067" href="52465563-6bdc-775e-1869-bc7df0272067.htm">Clear<wbr />Selected<wbr />Text</a>
+    </li>
+    <li>
+      <a id="b34fcabe-f3c0-5f9f-987d-ca009e135b01" href="b34fcabe-f3c0-5f9f-987d-ca009e135b01.htm">Copy<wbr />All</a>
+    </li>
+    <li>
+      <a id="eb53f286-0f57-0860-d678-f4aa56029142" href="eb53f286-0f57-0860-d678-f4aa56029142.htm">Deserialize</a>
+    </li>
+    <li>
+      <a id="d8f85e3b-a0c2-ed55-146c-418c056bf886" href="d8f85e3b-a0c2-ed55-146c-418c056bf886.htm">Serialize</a>
+    </li>
+    <li>
+      <a id="f683b919-04c0-af09-cc21-622f68c49714" href="f683b919-04c0-af09-cc21-622f68c49714.htm">Set<wbr />Caret<wbr />Pos</a>
+    </li>
+    <li>
+      <a id="078e1381-ad24-bcf3-e42f-746c46d44987" href="078e1381-ad24-bcf3-e42f-746c46d44987.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />Begin</a>
+    </li>
+    <li>
+      <a id="2aed7f08-92a5-bc82-f097-cdebe7bef424" href="2aed7f08-92a5-bc82-f097-cdebe7bef424.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />End</a>
+    </li>
+  </tocItems>
+</toc>

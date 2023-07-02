@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+    </li>
+    <li>
+      <a href="d685b97f-b9e6-ca3c-9d21-e12b1b119729.htm">Util<wbr />Assembly<wbr />Registration</a>
+    </li>
+    <li>
+      <a href="90379158-f529-c7ba-8f75-c5d9815cec72.htm">Methods</a>
+    </li>
+    <li>
+      <a href="17de5e41-4550-8a82-4203-eeef28e21087.htm">Register<wbr />Managed<wbr />Assembly</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d2f5f3a7-084d-c4ff-19a8-a476f1e592b1" href="d2f5f3a7-084d-c4ff-19a8-a476f1e592b1.htm">Register<wbr />Managed<wbr />Assembly(<wbr />Assembly, Assembly<wbr />Registration<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="ea3522c7-5f46-a746-cc1b-2f3c98645bac" href="ea3522c7-5f46-a746-cc1b-2f3c98645bac.htm">Register<wbr />Managed<wbr />Assembly(<wbr />File<wbr />Info, Assembly<wbr />Registration<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="33842b17-c909-d654-46d1-1686ffaa3115" href="33842b17-c909-d654-46d1-1686ffaa3115.htm">Register<wbr />Managed<wbr />Assembly(<wbr />String, Assembly<wbr />Registration<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

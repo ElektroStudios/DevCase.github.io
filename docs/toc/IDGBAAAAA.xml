@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="03053956-b0b2-46e8-2f91-6186049ec54b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application</a>
+    </li>
+    <li>
+      <a href="48517cfe-d9c5-abca-4c0c-bd50792383cb.htm">Util<wbr />Application</a>
+    </li>
+    <li>
+      <a href="756bfae5-0728-6eb2-1517-428f0c21d104.htm">Methods</a>
+    </li>
+    <li>
+      <a href="82ed5d6b-09a0-1ff5-7c32-a3f276935cc5.htm">Create<wbr />Mutex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a8a156e8-1185-ffbb-d76b-2e00a78ee4a6" href="a8a156e8-1185-ffbb-d76b-2e00a78ee4a6.htm">Create<wbr />Mutex(<wbr />Boolean, String, Boolean)</a>
+    </li>
+    <li>
+      <a id="3d331733-40cc-23c5-b7fe-8e1231245483" href="3d331733-40cc-23c5-b7fe-8e1231245483.htm">Create<wbr />Mutex(<wbr />Boolean, String, Boolean, Boolean)</a>
+    </li>
+    <li>
+      <a id="3e7253a4-ff56-c3e9-d173-92ec73d2d065" href="3e7253a4-ff56-c3e9-d173-92ec73d2d065.htm">Create<wbr />Mutex(<wbr />Boolean, String, Boolean, Boolean, Mutex<wbr />Security)</a>
+    </li>
+  </tocItems>
+</toc>

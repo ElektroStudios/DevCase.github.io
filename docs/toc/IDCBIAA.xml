@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="cb7b41fc-09e5-5fe4-c76c-ba463120422b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Google<wbr />Services</a>
+    </li>
+    <li>
+      <a href="41cb7008-16e2-047b-5ddb-2374f4d17d9d.htm">Youtube<wbr />Url</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0559566c-0e2d-02e0-305c-d95e56ff4e8c" class="has-submenu" href="0559566c-0e2d-02e0-305c-d95e56ff4e8c.htm">
+        <span data-tocFile="../toc/IDACBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1bf0bdd5-174c-4d14-3f20-e1054614b461" class="has-submenu" href="1bf0bdd5-174c-4d14-3f20-e1054614b461.htm">
+        <span data-tocFile="../toc/IDBCBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c4e3f40f-a449-fd70-dcd8-af482680f7fc" href="c4e3f40f-a449-fd70-dcd8-af482680f7fc.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="e7e6bacb-f6f0-61ce-c66d-18aaa10900f4.htm">IAudio<wbr />Session<wbr />Events</a>
+    </li>
+    <li>
+      <a href="60e8f562-a215-035b-0971-7c8e615950cb.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fd3d4906-728f-970b-45cf-7711284b5822" href="fd3d4906-728f-970b-45cf-7711284b5822.htm">On<wbr />Channel<wbr />Volume<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="0a2f41b8-5b62-227d-1e39-a530881ddd7a" href="0a2f41b8-5b62-227d-1e39-a530881ddd7a.htm">On<wbr />Display<wbr />Name<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="a5006f3d-bcb8-57de-0050-346e005bc7ae" href="a5006f3d-bcb8-57de-0050-346e005bc7ae.htm">On<wbr />Grouping<wbr />Param<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="c855bfd0-35f4-1ce4-8d6d-7d60db94514b" href="c855bfd0-35f4-1ce4-8d6d-7d60db94514b.htm">On<wbr />Icon<wbr />Path<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="dd332b47-c066-ed54-7dd1-b0a870fea597" href="dd332b47-c066-ed54-7dd1-b0a870fea597.htm">On<wbr />Session<wbr />Disconnected</a>
+    </li>
+    <li>
+      <a id="0db23410-1f9f-fb45-ebab-59f2e246be79" href="0db23410-1f9f-fb45-ebab-59f2e246be79.htm">On<wbr />Simple<wbr />Volume<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="ef9af62b-7f5d-7953-da79-017943b717e3" href="ef9af62b-7f5d-7953-da79-017943b717e3.htm">On<wbr />State<wbr />Changed</a>
+    </li>
+  </tocItems>
+</toc>

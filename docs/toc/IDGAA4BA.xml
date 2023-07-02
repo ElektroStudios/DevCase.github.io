@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="172aa538-917c-bb10-6333-29d819c3d7ed.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Directory<wbr />Info<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="35823a3a-a46a-ea56-c8c6-53aa2b2d3099.htm">Directory<wbr />Info<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2aea50ce-7442-4f39-2a2d-b22e6f36382b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d8a339f1-b8ed-ea1f-57ec-be0ffa2e9ee8.htm">Create<wbr />Zip<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5b194e4b-f36a-ea76-6778-6266828c4824" href="5b194e4b-f36a-ea76-6778-6266828c4824.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="9cce46b0-48ce-f85e-120e-2c022795570d" href="9cce46b0-48ce-f85e-120e-2c022795570d.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="0debdd72-1097-ea1c-cf1d-5ad202a5e6aa" href="0debdd72-1097-ea1c-cf1d-5ad202a5e6aa.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="94ab3657-8690-79d9-322d-ebfd5dabba50" href="94ab3657-8690-79d9-322d-ebfd5dabba50.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="b3718348-cbd6-e80f-b150-00ac53e1001e" href="b3718348-cbd6-e80f-b150-00ac53e1001e.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, Compression<wbr />Level, Encoding)</a>
+    </li>
+    <li>
+      <a id="a90e6134-63f8-9da6-84fb-9c4fd50dc838" href="a90e6134-63f8-9da6-84fb-9c4fd50dc838.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, File<wbr />Info, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="b681f5a6-f0fc-ebc1-e458-d72e58460583" href="b681f5a6-f0fc-ebc1-e458-d72e58460583.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, String, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="e554bf37-44d8-2c46-2c87-3f283b156fbd" href="e554bf37-44d8-2c46-2c87-3f283b156fbd.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, File<wbr />Info, Compression<wbr />Level, Encoding)</a>
+    </li>
+    <li>
+      <a id="59e8ac00-d15c-0f66-e014-2ac763e83e98" href="59e8ac00-d15c-0f66-e014-2ac763e83e98.htm">Create<wbr />Zip<wbr />File(<wbr />Directory<wbr />Info, String, Compression<wbr />Level, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="be7321d8-9d8a-6afc-4e1b-b752ec90b39c.htm">Chemical<wbr />Elements</a>
+    </li>
+    <li>
+      <a href="dca9abd7-def9-2340-8186-64345601d41a.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cbb3be18-3e12-74f4-9048-5e9869cc481b" href="cbb3be18-3e12-74f4-9048-5e9869cc481b.htm">Actinium</a>
+    </li>
+    <li>
+      <a id="5f77ebaa-5076-3b0f-eb79-489fff69ba11" href="5f77ebaa-5076-3b0f-eb79-489fff69ba11.htm">Aluminum</a>
+    </li>
+    <li>
+      <a id="8af5ba1a-9f3a-37a9-c6f4-e12ff14c6190" href="8af5ba1a-9f3a-37a9-c6f4-e12ff14c6190.htm">Americium</a>
+    </li>
+    <li>
+      <a id="455fbc81-fd32-e638-27de-d4f77942b17d" href="455fbc81-fd32-e638-27de-d4f77942b17d.htm">Antimony</a>
+    </li>
+    <li>
+      <a id="79f15d69-8ea5-ca89-9faf-eec92d40e115" href="79f15d69-8ea5-ca89-9faf-eec92d40e115.htm">Argon</a>
+    </li>
+    <li>
+      <a id="1234329a-920a-f272-4550-079e99dffc59" href="1234329a-920a-f272-4550-079e99dffc59.htm">Arsenic</a>
+    </li>
+    <li>
+      <a id="fc535f17-1399-a2d9-34d1-d5f6a5669065" href="fc535f17-1399-a2d9-34d1-d5f6a5669065.htm">Astatine</a>
+    </li>
+    <li>
+      <a id="e0d71e50-bcd0-e831-014c-bb45a1d05766" href="e0d71e50-bcd0-e831-014c-bb45a1d05766.htm">Barium</a>
+    </li>
+    <li>
+      <a id="e8f2965e-cb72-c156-edda-e0e1aee75d8a" href="e8f2965e-cb72-c156-edda-e0e1aee75d8a.htm">Berkelium</a>
+    </li>
+    <li>
+      <a id="c480dccf-1126-0c41-325c-eae0814fd17b" href="c480dccf-1126-0c41-325c-eae0814fd17b.htm">Beryllium</a>
+    </li>
+    <li>
+      <a id="87059aa9-87ff-8aaf-6abd-761c87bcdad0" href="87059aa9-87ff-8aaf-6abd-761c87bcdad0.htm">Bismuth</a>
+    </li>
+    <li>
+      <a id="c654d3f2-60f9-0ed5-8225-a4ac998997ac" href="c654d3f2-60f9-0ed5-8225-a4ac998997ac.htm">Bohrium</a>
+    </li>
+    <li>
+      <a id="575de319-4b18-9f27-7f2b-be46669b038c" href="575de319-4b18-9f27-7f2b-be46669b038c.htm">Boron</a>
+    </li>
+    <li>
+      <a id="2023e6cd-4634-1ccc-f294-3e50708b9b6b" href="2023e6cd-4634-1ccc-f294-3e50708b9b6b.htm">Bromine</a>
+    </li>
+    <li>
+      <a id="a30f3eb7-dd8e-2a9e-7bb5-e9b7a4e9329d" href="a30f3eb7-dd8e-2a9e-7bb5-e9b7a4e9329d.htm">Cadmium</a>
+    </li>
+    <li>
+      <a id="ec3632cd-9e9f-b07b-e67b-349db4efd1df" href="ec3632cd-9e9f-b07b-e67b-349db4efd1df.htm">Calcium</a>
+    </li>
+    <li>
+      <a id="de1571a0-1036-ea32-d1a8-89bce30cd9f4" href="de1571a0-1036-ea32-d1a8-89bce30cd9f4.htm">Californium</a>
+    </li>
+    <li>
+      <a id="ece6be0d-8e8c-5924-7183-d0e2fb6c08c9" href="ece6be0d-8e8c-5924-7183-d0e2fb6c08c9.htm">Carbon</a>
+    </li>
+    <li>
+      <a id="b8c5ec47-b68b-37e4-0b71-537a080a50de" href="b8c5ec47-b68b-37e4-0b71-537a080a50de.htm">Cerium</a>
+    </li>
+    <li>
+      <a id="dc6785e8-20e0-3b88-f8d9-5a241861abba" href="dc6785e8-20e0-3b88-f8d9-5a241861abba.htm">Cesium</a>
+    </li>
+    <li>
+      <a id="97a34f26-c920-ce0e-9a04-b803a5cda11e" href="97a34f26-c920-ce0e-9a04-b803a5cda11e.htm">Chlorine</a>
+    </li>
+    <li>
+      <a id="f0d60bc9-5da9-e04f-1d54-8df9900d8ce4" href="f0d60bc9-5da9-e04f-1d54-8df9900d8ce4.htm">Chromium</a>
+    </li>
+    <li>
+      <a id="10ac0bc3-f2aa-c445-9208-ad81d2249649" href="10ac0bc3-f2aa-c445-9208-ad81d2249649.htm">Cobalt</a>
+    </li>
+    <li>
+      <a id="2f89feee-bd4e-8d5c-fb54-17388e482684" href="2f89feee-bd4e-8d5c-fb54-17388e482684.htm">Copernicium</a>
+    </li>
+    <li>
+      <a id="17d8e919-e298-e2a9-3d2b-af1e5a9264e9" href="17d8e919-e298-e2a9-3d2b-af1e5a9264e9.htm">Copper</a>
+    </li>
+    <li>
+      <a id="4af9269d-86bd-5d99-1523-31761924dc85" href="4af9269d-86bd-5d99-1523-31761924dc85.htm">Curium</a>
+    </li>
+    <li>
+      <a id="b8e94af3-bcbe-9242-613b-63829b49dcb8" href="b8e94af3-bcbe-9242-613b-63829b49dcb8.htm">Darmstadtium</a>
+    </li>
+    <li>
+      <a id="48add53f-08ac-d6e2-c740-30ed931de4a6" href="48add53f-08ac-d6e2-c740-30ed931de4a6.htm">Dubnium</a>
+    </li>
+    <li>
+      <a id="deaea1f6-8ccc-020b-6ec5-d6d2e1f70708" href="deaea1f6-8ccc-020b-6ec5-d6d2e1f70708.htm">Dysprosium</a>
+    </li>
+    <li>
+      <a id="e0e8ca77-a890-8905-d254-889864a05739" href="e0e8ca77-a890-8905-d254-889864a05739.htm">Einsteinium</a>
+    </li>
+    <li>
+      <a id="fc8d1b13-f135-e70e-56e7-7c7d8adb0632" href="fc8d1b13-f135-e70e-56e7-7c7d8adb0632.htm">Erbium</a>
+    </li>
+    <li>
+      <a id="fbc730eb-63f3-bfe5-6b63-b1b69d049d0e" href="fbc730eb-63f3-bfe5-6b63-b1b69d049d0e.htm">Europium</a>
+    </li>
+    <li>
+      <a id="c1a8f740-50ba-3bc9-e2d5-3484ea884174" href="c1a8f740-50ba-3bc9-e2d5-3484ea884174.htm">Fermium</a>
+    </li>
+    <li>
+      <a id="f331bb91-705d-ad4e-d34b-912beee30fa8" href="f331bb91-705d-ad4e-d34b-912beee30fa8.htm">Flerovium</a>
+    </li>
+    <li>
+      <a id="43bd6874-2045-49a6-1b4e-a0937b0bbb8c" href="43bd6874-2045-49a6-1b4e-a0937b0bbb8c.htm">Fluorine</a>
+    </li>
+    <li>
+      <a id="8220d6ca-ef9c-9e85-3887-4022c759147a" href="8220d6ca-ef9c-9e85-3887-4022c759147a.htm">Francium</a>
+    </li>
+    <li>
+      <a id="bc4c1853-ac05-7e96-c639-7ea3dee934b7" href="bc4c1853-ac05-7e96-c639-7ea3dee934b7.htm">Gadolinium</a>
+    </li>
+    <li>
+      <a id="66a3d8b6-a005-561e-84a3-8ed99ea187af" href="66a3d8b6-a005-561e-84a3-8ed99ea187af.htm">Gallium</a>
+    </li>
+    <li>
+      <a id="deefb84c-508f-ea59-db5b-07d1b884579d" href="deefb84c-508f-ea59-db5b-07d1b884579d.htm">Germanium</a>
+    </li>
+    <li>
+      <a id="4cf7361c-031c-2a29-f64e-555f558b541e" href="4cf7361c-031c-2a29-f64e-555f558b541e.htm">Gold</a>
+    </li>
+    <li>
+      <a id="db17420b-c492-1c3c-08f2-ec5138f56836" href="db17420b-c492-1c3c-08f2-ec5138f56836.htm">Hafnium</a>
+    </li>
+    <li>
+      <a id="5896b59d-0c0e-fd89-7c0a-2521fbb828d9" href="5896b59d-0c0e-fd89-7c0a-2521fbb828d9.htm">Hassium</a>
+    </li>
+    <li>
+      <a id="fe6ac3f9-d719-dc54-2c00-fae922b4f5cb" href="fe6ac3f9-d719-dc54-2c00-fae922b4f5cb.htm">Helium</a>
+    </li>
+    <li>
+      <a id="561659a9-6011-d65e-d0f5-fcf8bfb8fe77" href="561659a9-6011-d65e-d0f5-fcf8bfb8fe77.htm">Holmium</a>
+    </li>
+    <li>
+      <a id="e1c03b45-3af8-c550-0c9c-14f494936782" href="e1c03b45-3af8-c550-0c9c-14f494936782.htm">Hydrogen</a>
+    </li>
+    <li>
+      <a id="25184c21-bae2-7956-6ab4-63be4b794c33" href="25184c21-bae2-7956-6ab4-63be4b794c33.htm">Indium</a>
+    </li>
+    <li>
+      <a id="35e2030a-a9ec-26ac-d53f-8a45d3d19159" href="35e2030a-a9ec-26ac-d53f-8a45d3d19159.htm">Iodine</a>
+    </li>
+    <li>
+      <a id="b59c0b96-d694-963f-dd6a-a1611ab8bf12" href="b59c0b96-d694-963f-dd6a-a1611ab8bf12.htm">Iridium</a>
+    </li>
+    <li>
+      <a id="9daab398-8931-8eb1-cb21-cb0b0cbc2895" href="9daab398-8931-8eb1-cb21-cb0b0cbc2895.htm">Iron</a>
+    </li>
+    <li>
+      <a id="f17fae58-0853-343d-3154-be6849532a8c" href="f17fae58-0853-343d-3154-be6849532a8c.htm">Krypton</a>
+    </li>
+    <li>
+      <a id="11b37dd2-ee0d-63ba-4120-cc1ee5f3801e" href="11b37dd2-ee0d-63ba-4120-cc1ee5f3801e.htm">Lanthanum</a>
+    </li>
+    <li>
+      <a id="b857399d-87c4-85b6-f75d-4295ffba1a5c" href="b857399d-87c4-85b6-f75d-4295ffba1a5c.htm">Lawrencium</a>
+    </li>
+    <li>
+      <a id="90e44cb4-b24a-7842-ae7e-fd5dbf36cff8" href="90e44cb4-b24a-7842-ae7e-fd5dbf36cff8.htm">Lead</a>
+    </li>
+    <li>
+      <a id="443b958c-8d8a-c284-40ba-25001cc13a5d" href="443b958c-8d8a-c284-40ba-25001cc13a5d.htm">Lithium</a>
+    </li>
+    <li>
+      <a id="fdbae714-bcd5-6cec-4a5b-b52d7baccc15" href="fdbae714-bcd5-6cec-4a5b-b52d7baccc15.htm">Livermorium</a>
+    </li>
+    <li>
+      <a id="5bbf3de5-6006-83f9-f5d3-53511576c7e8" href="5bbf3de5-6006-83f9-f5d3-53511576c7e8.htm">Lutetium</a>
+    </li>
+    <li>
+      <a id="4694a884-8a36-b512-d534-3dfd3a6ec447" href="4694a884-8a36-b512-d534-3dfd3a6ec447.htm">Magnesium</a>
+    </li>
+    <li>
+      <a id="af517852-53a6-ef39-ca93-e8f8897c1218" href="af517852-53a6-ef39-ca93-e8f8897c1218.htm">Manganese</a>
+    </li>
+    <li>
+      <a id="3b4134fa-b796-24c4-fa2e-21c78206b600" href="3b4134fa-b796-24c4-fa2e-21c78206b600.htm">Meitnerium</a>
+    </li>
+    <li>
+      <a id="c256f52f-b871-acb0-fe56-f8906b15efed" href="c256f52f-b871-acb0-fe56-f8906b15efed.htm">Mendelevium</a>
+    </li>
+    <li>
+      <a id="03cf2c0f-7de5-6a52-4707-41f73704f287" href="03cf2c0f-7de5-6a52-4707-41f73704f287.htm">Mercury</a>
+    </li>
+    <li>
+      <a id="d25dcdaf-91bb-1e84-1c54-30fe1a95e0a1" href="d25dcdaf-91bb-1e84-1c54-30fe1a95e0a1.htm">Molybdenum</a>
+    </li>
+    <li>
+      <a id="7c0d2256-bef8-6d0a-4fa6-b995ab6cf392" href="7c0d2256-bef8-6d0a-4fa6-b995ab6cf392.htm">Moscovium</a>
+    </li>
+    <li>
+      <a id="36a49f7a-68c7-3b4c-7e7d-92e814dff200" href="36a49f7a-68c7-3b4c-7e7d-92e814dff200.htm">Neodymium</a>
+    </li>
+    <li>
+      <a id="e9c33858-bfa1-070b-1f7e-d65e7a1a5e3c" href="e9c33858-bfa1-070b-1f7e-d65e7a1a5e3c.htm">Neon</a>
+    </li>
+    <li>
+      <a id="6d6e8ae5-fee0-4ab5-b4e0-9306d4f7abc6" href="6d6e8ae5-fee0-4ab5-b4e0-9306d4f7abc6.htm">Neptunium</a>
+    </li>
+    <li>
+      <a id="759c832f-925c-c428-1765-aa8c91fbb4ae" href="759c832f-925c-c428-1765-aa8c91fbb4ae.htm">Nickel</a>
+    </li>
+    <li>
+      <a id="3ad85e41-f43d-dcf2-8cd9-ed2dd91dcac1" href="3ad85e41-f43d-dcf2-8cd9-ed2dd91dcac1.htm">Nihonium</a>
+    </li>
+    <li>
+      <a id="4ef4be22-797c-35e6-dec4-b6d19bf458bb" href="4ef4be22-797c-35e6-dec4-b6d19bf458bb.htm">Niobium</a>
+    </li>
+    <li>
+      <a id="f2da0115-40be-45fc-08b4-49da56d1cc78" href="f2da0115-40be-45fc-08b4-49da56d1cc78.htm">Nitrogen</a>
+    </li>
+    <li>
+      <a id="2e39eddb-d480-8fad-b7df-714cd813955f" href="2e39eddb-d480-8fad-b7df-714cd813955f.htm">Nobelium</a>
+    </li>
+    <li>
+      <a id="656293af-63a5-199e-09bf-773eedde68ce" href="656293af-63a5-199e-09bf-773eedde68ce.htm">Oganesson</a>
+    </li>
+    <li>
+      <a id="b8ec5df4-f230-40b5-fe06-a070880d5345" href="b8ec5df4-f230-40b5-fe06-a070880d5345.htm">Osmium</a>
+    </li>
+    <li>
+      <a id="4e81d3ea-c49d-a5c8-a37d-16665392b4fc" href="4e81d3ea-c49d-a5c8-a37d-16665392b4fc.htm">Oxygen</a>
+    </li>
+    <li>
+      <a id="a699d215-dc7a-def3-fad6-62303f089e63" href="a699d215-dc7a-def3-fad6-62303f089e63.htm">Palladium</a>
+    </li>
+    <li>
+      <a id="e2e4309d-1dcf-46a1-1fa9-cf9a81f10898" href="e2e4309d-1dcf-46a1-1fa9-cf9a81f10898.htm">Phosphorus</a>
+    </li>
+    <li>
+      <a id="40cc9e40-ab8f-556d-06d8-f8a5984fc3c2" href="40cc9e40-ab8f-556d-06d8-f8a5984fc3c2.htm">Platinum</a>
+    </li>
+    <li>
+      <a id="e6b0576f-bb61-e777-e025-a46f55969ec4" href="e6b0576f-bb61-e777-e025-a46f55969ec4.htm">Plutonium</a>
+    </li>
+    <li>
+      <a id="364eccfa-1496-3f3d-9b4b-1fa69c470bb6" href="364eccfa-1496-3f3d-9b4b-1fa69c470bb6.htm">Polonium</a>
+    </li>
+    <li>
+      <a id="a5fda44b-f23a-0306-eb04-dde247ade361" href="a5fda44b-f23a-0306-eb04-dde247ade361.htm">Potassium</a>
+    </li>
+    <li>
+      <a id="f33f3e2f-8c9c-f993-0379-0dac21c35046" href="f33f3e2f-8c9c-f993-0379-0dac21c35046.htm">Praseodymium</a>
+    </li>
+    <li>
+      <a id="468739bc-7f8f-bc27-e395-b49fd263682b" href="468739bc-7f8f-bc27-e395-b49fd263682b.htm">Promethium</a>
+    </li>
+    <li>
+      <a id="3bbf2b23-f2bb-07e6-4f71-0098888dfdc0" href="3bbf2b23-f2bb-07e6-4f71-0098888dfdc0.htm">Protactinium</a>
+    </li>
+    <li>
+      <a id="67e0b543-412e-ec29-0b4b-35d08ce2e808" href="67e0b543-412e-ec29-0b4b-35d08ce2e808.htm">Radium</a>
+    </li>
+    <li>
+      <a id="a93e3a1b-c2da-e847-bf0c-6af81c0e518d" href="a93e3a1b-c2da-e847-bf0c-6af81c0e518d.htm">Radon</a>
+    </li>
+    <li>
+      <a id="2212f04d-ecc0-046d-0766-44a3752c7c56" href="2212f04d-ecc0-046d-0766-44a3752c7c56.htm">Rhenium</a>
+    </li>
+    <li>
+      <a id="89c2cf7e-b10a-fdb5-8378-89983661b67e" href="89c2cf7e-b10a-fdb5-8378-89983661b67e.htm">Rhodium</a>
+    </li>
+    <li>
+      <a id="af504f69-aa9a-52d9-a13d-122502e29652" href="af504f69-aa9a-52d9-a13d-122502e29652.htm">Roentgenium</a>
+    </li>
+    <li>
+      <a id="43af0d8a-4925-a0f6-5f20-b43d374c32cd" href="43af0d8a-4925-a0f6-5f20-b43d374c32cd.htm">Rubidium</a>
+    </li>
+    <li>
+      <a id="ed174aa8-f1b3-d740-60b7-29ea1b78dc19" href="ed174aa8-f1b3-d740-60b7-29ea1b78dc19.htm">Ruthenium</a>
+    </li>
+    <li>
+      <a id="d446231b-c989-9fb6-4cd6-653bb619fc6a" href="d446231b-c989-9fb6-4cd6-653bb619fc6a.htm">Rutherfordium</a>
+    </li>
+    <li>
+      <a id="8f55d7c7-c383-bb87-f597-587ff131cd2b" href="8f55d7c7-c383-bb87-f597-587ff131cd2b.htm">Samarium</a>
+    </li>
+    <li>
+      <a id="f331a63d-3629-8c52-3adf-0ad6a4f78b7c" href="f331a63d-3629-8c52-3adf-0ad6a4f78b7c.htm">Scandium</a>
+    </li>
+    <li>
+      <a id="fc941d14-e3f6-b5b0-4827-6294567c6971" href="fc941d14-e3f6-b5b0-4827-6294567c6971.htm">Seaborgium</a>
+    </li>
+    <li>
+      <a id="08f57335-48de-b041-8ca0-0635cb99c3c4" href="08f57335-48de-b041-8ca0-0635cb99c3c4.htm">Selenium</a>
+    </li>
+    <li>
+      <a id="9f6099d5-18b1-c8f4-fddf-95e596689741" href="9f6099d5-18b1-c8f4-fddf-95e596689741.htm">Silicon</a>
+    </li>
+    <li>
+      <a id="d7ddcf55-b31b-044c-9a47-dc9cbb09618a" href="d7ddcf55-b31b-044c-9a47-dc9cbb09618a.htm">Silver</a>
+    </li>
+    <li>
+      <a id="41bc9c10-8201-fdf9-e9f8-b39daf0c0980" href="41bc9c10-8201-fdf9-e9f8-b39daf0c0980.htm">Sodium</a>
+    </li>
+    <li>
+      <a id="ff7b9385-f151-dc34-7cc7-97e3afcb4368" href="ff7b9385-f151-dc34-7cc7-97e3afcb4368.htm">Strontium</a>
+    </li>
+    <li>
+      <a id="98977875-aa95-d8e1-4d0b-a12666f14175" href="98977875-aa95-d8e1-4d0b-a12666f14175.htm">Sulphur</a>
+    </li>
+    <li>
+      <a id="2e343a7f-53b0-cf3c-4df9-d61e259a7236" href="2e343a7f-53b0-cf3c-4df9-d61e259a7236.htm">Tantalum</a>
+    </li>
+    <li>
+      <a id="d7979d3a-297d-9bd5-cc1b-da4c0cb0cae6" href="d7979d3a-297d-9bd5-cc1b-da4c0cb0cae6.htm">Technetium</a>
+    </li>
+    <li>
+      <a id="1c54bfcd-0882-82bf-8b48-317aa8784594" href="1c54bfcd-0882-82bf-8b48-317aa8784594.htm">Tellurium</a>
+    </li>
+    <li>
+      <a id="f6c787c4-c3b1-1896-25d6-e71962953605" href="f6c787c4-c3b1-1896-25d6-e71962953605.htm">Tennessine</a>
+    </li>
+    <li>
+      <a id="f3839766-8953-bc04-03d4-2237167b54a8" href="f3839766-8953-bc04-03d4-2237167b54a8.htm">Terbium</a>
+    </li>
+    <li>
+      <a id="adfe0665-e18b-4d89-979c-4a31db47abe0" href="adfe0665-e18b-4d89-979c-4a31db47abe0.htm">Thallium</a>
+    </li>
+    <li>
+      <a id="3d7443f0-e17b-ed4e-a5e9-7692cfbc160c" href="3d7443f0-e17b-ed4e-a5e9-7692cfbc160c.htm">Thorium</a>
+    </li>
+    <li>
+      <a id="30d639bf-5e2b-1946-bab5-f25a80fb8df9" href="30d639bf-5e2b-1946-bab5-f25a80fb8df9.htm">Thulium</a>
+    </li>
+    <li>
+      <a id="5bfd2e59-9981-552e-9769-1665afe7be7e" href="5bfd2e59-9981-552e-9769-1665afe7be7e.htm">Tin</a>
+    </li>
+    <li>
+      <a id="f5a004ea-041c-d515-2551-10196e5196ea" href="f5a004ea-041c-d515-2551-10196e5196ea.htm">Titanium</a>
+    </li>
+    <li>
+      <a id="b4c8b6ea-3213-2837-cceb-1b875657c4b8" href="b4c8b6ea-3213-2837-cceb-1b875657c4b8.htm">Tungsten</a>
+    </li>
+    <li>
+      <a id="8517cec9-08c5-6966-fd76-34a71d53a95d" href="8517cec9-08c5-6966-fd76-34a71d53a95d.htm">Uranium</a>
+    </li>
+    <li>
+      <a id="f25cffa0-bf1d-39a4-d201-0d3027e06329" href="f25cffa0-bf1d-39a4-d201-0d3027e06329.htm">Vanadium</a>
+    </li>
+    <li>
+      <a id="2e9be1d3-5f58-cbd2-561d-b1adf83a13d8" href="2e9be1d3-5f58-cbd2-561d-b1adf83a13d8.htm">Xenon</a>
+    </li>
+    <li>
+      <a id="322527f5-ba77-121d-1ca3-782c367b60e3" href="322527f5-ba77-121d-1ca3-782c367b60e3.htm">Ytterbium</a>
+    </li>
+    <li>
+      <a id="cb2481a1-1821-150c-8e39-02843ef9bcd5" href="cb2481a1-1821-150c-8e39-02843ef9bcd5.htm">Yttrium</a>
+    </li>
+    <li>
+      <a id="623af9b8-cfe8-4bbb-bc23-5d1a10d233d0" href="623af9b8-cfe8-4bbb-bc23-5d1a10d233d0.htm">Zinc</a>
+    </li>
+    <li>
+      <a id="cb90b16d-7a55-5021-b46f-ccf9645bf69b" href="cb90b16d-7a55-5021-b46f-ccf9645bf69b.htm">Zirconium</a>
+    </li>
+  </tocItems>
+</toc>

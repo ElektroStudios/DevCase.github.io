@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="60e7311b-5503-bb42-8a6a-6fe43ffa6647.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Translate</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6b83ce8a-8ea0-f2ef-2419-57d83c6f435a" class="has-submenu" href="6b83ce8a-8ea0-f2ef-2419-57d83c6f435a.htm">
+        <span data-tocFile="../toc/IDAFWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Translate<wbr />Client</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

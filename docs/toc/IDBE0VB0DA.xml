@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="db09b1c9-e59f-f986-41b9-bc0f422c62e7.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Vista<wbr />Core<wbr />Audio<wbr />Api</a>
+    </li>
+    <li>
+      <a href="75f35204-9820-e6b1-409c-9054a73a8d45.htm">Vista<wbr />Core<wbr />Audio<wbr />Api<wbr />Helper</a>
+    </li>
+    <li>
+      <a href="2f7cf3f3-ad60-42d6-1880-3dc5f5e55cf8.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6236ea2a-0569-7163-40c1-14dc32cf2f0f" href="6236ea2a-0569-7163-40c1-14dc32cf2f0f.htm">Channels<wbr />Count</a>
+    </li>
+    <li>
+      <a id="7dca5151-09c7-283a-21c6-9ab35e55aaef" href="7dca5151-09c7-283a-21c6-9ab35e55aaef.htm">Device<wbr />Monitors<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="4337e69a-3386-6596-decd-a11d226277c6" href="4337e69a-3386-6596-decd-a11d226277c6.htm">Is<wbr />Locked</a>
+    </li>
+    <li>
+      <a id="0f29a9b6-6987-c377-6dec-62944f1785e0" href="0f29a9b6-6987-c377-6dec-62944f1785e0.htm">Is<wbr />Muted</a>
+    </li>
+    <li>
+      <a id="121972cb-9e72-c44a-7a84-4dadc87d89ed" href="121972cb-9e72-c44a-7a84-4dadc87d89ed.htm">Name</a>
+    </li>
+    <li>
+      <a id="82ae753a-9904-ae3e-164a-a7c414900b74" href="82ae753a-9904-ae3e-164a-a7c414900b74.htm">Timer<wbr />Channels<wbr />Volume<wbr />Changed<wbr />Detection<wbr />Interval</a>
+    </li>
+    <li>
+      <a id="9f2f2916-3847-93c3-f329-e025ca6a2d53" href="9f2f2916-3847-93c3-f329-e025ca6a2d53.htm">Timer<wbr />Master<wbr />Volume<wbr />Changed<wbr />Detection<wbr />Interval</a>
+    </li>
+    <li>
+      <a id="58934a2e-0839-8705-9f91-528d0eea9416" href="58934a2e-0839-8705-9f91-528d0eea9416.htm">Timer<wbr />Mute<wbr />Detection<wbr />Interval</a>
+    </li>
+    <li>
+      <a id="9dfb0893-7a88-7a5c-9e86-3837337d58b0" href="9dfb0893-7a88-7a5c-9e86-3837337d58b0.htm">Volume</a>
+    </li>
+  </tocItems>
+</toc>

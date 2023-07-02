@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="5b032df0-65ab-2721-a40d-18d319f15722.htm">Ip<wbr />Stats</a>
+    </li>
+    <li>
+      <a href="8bb7e09a-5c77-c22d-2037-29c064f350b9.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="99d3009d-7da2-7355-a1f3-08368774a11c" href="99d3009d-7da2-7355-a1f3-08368774a11c.htm">Default<wbr />TTL</a>
+    </li>
+    <li>
+      <a id="07f61514-72c9-9785-4ae8-869db295c362" href="07f61514-72c9-9785-4ae8-869db295c362.htm">Forwarded<wbr />Datagrams</a>
+    </li>
+    <li>
+      <a id="106a04e8-3bc5-54f5-c847-61b9d8a47158" href="106a04e8-3bc5-54f5-c847-61b9d8a47158.htm">Forwarding</a>
+    </li>
+    <li>
+      <a id="4a31e966-f2e1-0df7-93e3-a7855e75856c" href="4a31e966-f2e1-0df7-93e3-a7855e75856c.htm">Fragments<wbr />Creates</a>
+    </li>
+    <li>
+      <a id="e54a8ed3-3de4-b028-cfbd-c10a3407a652" href="e54a8ed3-3de4-b028-cfbd-c10a3407a652.htm">Fragments<wbr />Fails</a>
+    </li>
+    <li>
+      <a id="beb37f15-c627-39bd-0f4b-531d2dc55c63" href="beb37f15-c627-39bd-0f4b-531d2dc55c63.htm">Fragments<wbr />Oks</a>
+    </li>
+    <li>
+      <a id="e2d9eb85-92a6-4583-0ef9-019bd14c726e" href="e2d9eb85-92a6-4583-0ef9-019bd14c726e.htm">In<wbr />Address<wbr />Errors</a>
+    </li>
+    <li>
+      <a id="f6477d90-91df-ed6b-73ff-308bdfc2f9f8" href="f6477d90-91df-ed6b-73ff-308bdfc2f9f8.htm">In<wbr />Delivers</a>
+    </li>
+    <li>
+      <a id="d773fb8c-9c73-4373-f3bf-a444ecae44c0" href="d773fb8c-9c73-4373-f3bf-a444ecae44c0.htm">In<wbr />Discards</a>
+    </li>
+    <li>
+      <a id="a0e8d5d8-f335-6d37-0e76-a6b85d51a7eb" href="a0e8d5d8-f335-6d37-0e76-a6b85d51a7eb.htm">In<wbr />Header<wbr />Errors</a>
+    </li>
+    <li>
+      <a id="eecd167a-605c-aa45-6c5d-3e85a01a78b6" href="eecd167a-605c-aa45-6c5d-3e85a01a78b6.htm">In<wbr />Receives</a>
+    </li>
+    <li>
+      <a id="859e15b1-78e1-85a4-4a52-87b0e8e2955b" href="859e15b1-78e1-85a4-4a52-87b0e8e2955b.htm">In<wbr />Unknown<wbr />Protocols</a>
+    </li>
+    <li>
+      <a id="786ae23e-3456-f0a6-b500-bee1f0e3d868" href="786ae23e-3456-f0a6-b500-bee1f0e3d868.htm">Num<wbr />Addresses</a>
+    </li>
+    <li>
+      <a id="988d48d9-a5f3-86de-8339-399333289fd0" href="988d48d9-a5f3-86de-8339-399333289fd0.htm">Num<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a id="a90dec55-3fc8-e3d1-6e0b-4b93c4efffbe" href="a90dec55-3fc8-e3d1-6e0b-4b93c4efffbe.htm">Num<wbr />Routes</a>
+    </li>
+    <li>
+      <a id="6328becd-ec17-edea-5d4e-0819cb284a07" href="6328becd-ec17-edea-5d4e-0819cb284a07.htm">Out<wbr />Discards</a>
+    </li>
+    <li>
+      <a id="5cb23d1c-5782-d619-d6ca-b995d7b50127" href="5cb23d1c-5782-d619-d6ca-b995d7b50127.htm">Out<wbr />No<wbr />Routes</a>
+    </li>
+    <li>
+      <a id="fcf84e5f-ed38-9091-0daa-2a82831bce78" href="fcf84e5f-ed38-9091-0daa-2a82831bce78.htm">Out<wbr />Requests</a>
+    </li>
+    <li>
+      <a id="ac59da75-5aed-0a1f-5fa3-769fccc47181" href="ac59da75-5aed-0a1f-5fa3-769fccc47181.htm">Reassembly<wbr />Fails</a>
+    </li>
+    <li>
+      <a id="43112d4a-cdea-b326-494a-2dc546d4e278" href="43112d4a-cdea-b326-494a-2dc546d4e278.htm">Reassembly<wbr />Oks</a>
+    </li>
+    <li>
+      <a id="6db880d8-c782-6607-5f90-f51c181e2712" href="6db880d8-c782-6607-5f90-f51c181e2712.htm">Reassembly<wbr />Required</a>
+    </li>
+    <li>
+      <a id="281be98d-2205-263a-c4fb-afdfcc65e3c5" href="281be98d-2205-263a-c4fb-afdfcc65e3c5.htm">Reassembly<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="7f174ec4-adb2-35fd-81c2-d3d5cdd21162" href="7f174ec4-adb2-35fd-81c2-d3d5cdd21162.htm">Routing<wbr />Discards</a>
+    </li>
+  </tocItems>
+</toc>

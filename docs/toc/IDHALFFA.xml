@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">Nt<wbr />Dll</a>
+    </li>
+    <li>
+      <a href="2dde2e15-8c5e-a9ef-c692-d8fc8177e7bb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1d492b10-c7e8-3752-2cb8-efe5227beb79.htm">Nt<wbr />Open<wbr />Event</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="75b7aa05-ab8c-2333-6b2f-7007599cbe0b" href="75b7aa05-ab8c-2333-6b2f-7007599cbe0b.htm">Nt<wbr />Open<wbr />Event(<wbr />Int<wbr />Ptr, Event<wbr />Access<wbr />Rights, Object<wbr />Attributes)</a>
+    </li>
+    <li>
+      <a id="b191943a-7160-7cd5-f242-9471ffc27b09" href="b191943a-7160-7cd5-f242-9471ffc27b09.htm">Nt<wbr />Open<wbr />Event(<wbr />Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Object<wbr />Attributes)</a>
+    </li>
+    <li>
+      <a id="f4bb88a2-6b6b-451d-b850-64d3340884fb" href="f4bb88a2-6b6b-451d-b850-64d3340884fb.htm">Nt<wbr />Open<wbr />Event(<wbr />Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Object<wbr />Attributes)</a>
+    </li>
+    <li>
+      <a id="20cfbf97-e89b-2663-a622-d4ef05d3cfd5" href="20cfbf97-e89b-2663-a622-d4ef05d3cfd5.htm">Nt<wbr />Open<wbr />Event(<wbr />Int<wbr />Ptr, UInt<wbr />32, Object<wbr />Attributes)</a>
+    </li>
+  </tocItems>
+</toc>

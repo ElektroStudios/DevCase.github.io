@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="aaff0a56-1efd-e88f-37b3-220a3cb28e08.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik Namespaces</a>
+    </li>
+    <li>
+      <a href="9b75c577-5bd5-0a4e-c695-52a8d39d2708.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik.<wbr />Extensions.<wbr />List<wbr />View<wbr />Data<wbr />Item<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="f0ba0560-ed07-aa1e-fc7c-d07186f52630.htm">List<wbr />View<wbr />Data<wbr />Item<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="f0324896-c762-dc7c-2f93-af93ed5825da.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c0c204e0-0924-8a5b-08f7-18be7d427388" class="has-submenu" href="c0c204e0-0924-8a5b-08f7-18be7d427388.htm">
+        <span data-tocFile="../toc/IDAAAB0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Item</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="70a74e41-5bd6-d445-0f2e-8870227654a0" class="has-submenu" href="70a74e41-5bd6-d445-0f2e-8870227654a0.htm">
+        <span data-tocFile="../toc/IDBAAB0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">Unit</a>
+    </li>
+    <li>
+      <a href="3373bb87-620e-aead-f6f9-1dd2999c37fd.htm">Operators</a>
+    </li>
+    <li>
+      <a href="f0382f39-a754-b40a-78d3-8acb35a4d574.htm">Division</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c70d31f7-bf54-d8d7-7255-f7effd3353b3" href="c70d31f7-bf54-d8d7-7255-f7effd3353b3.htm">Division(<wbr />Double, Unit) Operator</a>
+    </li>
+    <li>
+      <a id="9ba040a7-a9ff-48b0-b686-8d5db0c3681e" href="9ba040a7-a9ff-48b0-b686-8d5db0c3681e.htm">Division(<wbr />Unit, Unit) Operator</a>
+    </li>
+    <li>
+      <a id="3725fe5e-6bc9-1c6e-a337-27f873cb0d8b" href="3725fe5e-6bc9-1c6e-a337-27f873cb0d8b.htm">Division(<wbr />Unit, Double) Operator</a>
+    </li>
+  </tocItems>
+</toc>

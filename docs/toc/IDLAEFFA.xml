@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="254f2ca3-4603-3281-426c-087fc5b842dd.htm">Dwm<wbr />Api</a>
+    </li>
+    <li>
+      <a href="e69dacc6-39b2-843f-60ff-ba9717cc909e.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ba785ae5-1f7b-8a51-90ef-6e0eaad8a9c5.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a0ade232-47f1-8e45-c862-0177e5386618" href="a0ade232-47f1-8e45-c862-0177e5386618.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Int<wbr />Ptr, Safe<wbr />Bitmap<wbr />Handle, Native<wbr />Point, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="a30ce28a-7268-a1e6-9de8-d167062a04c8" href="a30ce28a-7268-a1e6-9de8-d167062a04c8.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Int<wbr />Ptr, Safe<wbr />Bitmap<wbr />Handle, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="49dc5533-7778-25ec-22ba-779c0f46b882" href="49dc5533-7778-25ec-22ba-779c0f46b882.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Native<wbr />Point, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="e06b80fa-9ae6-dbd6-b04f-1ef629dffba8" href="e06b80fa-9ae6-dbd6-b04f-1ef629dffba8.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="92272669-0487-b78f-dccd-e01eaa60e6a7" href="92272669-0487-b78f-dccd-e01eaa60e6a7.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Safe<wbr />Handle, Safe<wbr />Bitmap<wbr />Handle, Native<wbr />Point, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="fa929def-5853-7639-1275-d9c95452a42d" href="fa929def-5853-7639-1275-d9c95452a42d.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Safe<wbr />Handle, Safe<wbr />Bitmap<wbr />Handle, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="586f924a-cda1-3884-5fce-71210a4cbdf3" href="586f924a-cda1-3884-5fce-71210a4cbdf3.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Native<wbr />Point, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="05f3c456-5233-d1af-11bb-bf85d37a237a" href="05f3c456-5233-d1af-11bb-bf85d37a237a.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Bitmap(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

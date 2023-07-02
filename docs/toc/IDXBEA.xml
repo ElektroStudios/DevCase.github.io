@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
+    </li>
+    <li>
+      <a href="d0343e1d-8229-69a4-4bd4-704633fe0021.htm">Dev<wbr />Time<wbr />Picker</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a7534421-2a57-62a7-f1e5-49e78c92d8c4" href="a7534421-2a57-62a7-f1e5-49e78c92d8c4.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="1e89314e-7df5-be3a-637a-7ca04579a1d4" class="has-submenu" href="1e89314e-7df5-be3a-637a-7ca04579a1d4.htm">
+        <span data-tocFile="../toc/IDBXBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="abd2c017-dadb-5e74-8522-3295180cc15d" href="abd2c017-dadb-5e74-8522-3295180cc15d.htm">Methods</a>
+    </li>
+    <li>
+      <a id="dd33d1af-4dc0-1e29-2f44-c51babdb5121" href="dd33d1af-4dc0-1e29-2f44-c51babdb5121.htm">Events</a>
+    </li>
+  </tocItems>
+</toc>

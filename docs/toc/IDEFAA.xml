@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="072563d8-a1a0-882e-c39d-e8da3df31dda" href="072563d8-a1a0-882e-c39d-e8da3df31dda.htm">Device<wbr />Event</a>
+    </li>
+    <li>
+      <a id="28fe4df4-f16b-9676-f905-291cc059be20" href="28fe4df4-f16b-9676-f905-291cc059be20.htm">Hotkey<wbr />Modifiers</a>
+    </li>
+    <li>
+      <a id="eeedbb2f-d402-ead9-28ca-ab97d1196432" class="has-submenu" href="eeedbb2f-d402-ead9-28ca-ab97d1196432.htm">
+        <span data-tocFile="../toc/IDCEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hotkey<wbr />Paste<wbr />Pressed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f5ef39e9-3469-e92e-ee3a-1a8e9d55ec8f" href="f5ef39e9-3469-e92e-ee3a-1a8e9d55ec8f.htm">Key<wbr />Behavior</a>
+    </li>
+    <li>
+      <a id="bc5c1d20-b851-6ab4-3fc0-8d305d03cf7c" class="has-submenu" href="bc5c1d20-b851-6ab4-3fc0-8d305d03cf7c.htm">
+        <span data-tocFile="../toc/IDEEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Keyboard<wbr />Device<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a5bcac21-2594-eada-989c-8aa919f29d68" class="has-submenu" href="a5bcac21-2594-eada-989c-8aa919f29d68.htm">
+        <span data-tocFile="../toc/IDFEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Keyboard<wbr />Monitor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4c220ca9-bcdf-cc76-dfef-d7d0e4243950" class="has-submenu" href="4c220ca9-bcdf-cc76-dfef-d7d0e4243950.htm">
+        <span data-tocFile="../toc/IDGEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Key<wbr />Pressed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3fa7c0c3-b90f-0e05-8c4a-94be94957547" href="3fa7c0c3-b90f-0e05-8c4a-94be94957547.htm">Mouse<wbr />Button</a>
+    </li>
+    <li>
+      <a id="80147f19-8a3a-0396-9216-e7d0d146061c" class="has-submenu" href="80147f19-8a3a-0396-9216-e7d0d146061c.htm">
+        <span data-tocFile="../toc/IDIEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Button<wbr />Click<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b45e9f62-9fc5-7917-4940-3236d83e77e2" class="has-submenu" href="b45e9f62-9fc5-7917-4940-3236d83e77e2.htm">
+        <span data-tocFile="../toc/IDJEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Button<wbr />Double<wbr />Click<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0899a6c1-e3d9-314e-718f-130019b60275" class="has-submenu" href="0899a6c1-e3d9-314e-718f-130019b60275.htm">
+        <span data-tocFile="../toc/IDKEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Device<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f0ac26bc-0810-3312-da41-6b1e480d937d" class="has-submenu" href="f0ac26bc-0810-3312-da41-6b1e480d937d.htm">
+        <span data-tocFile="../toc/IDLEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Hook</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0efc6f0d-46d9-f2fb-83e5-767854356ff2" href="0efc6f0d-46d9-f2fb-83e5-767854356ff2.htm">Mouse<wbr />Hook.<wbr />Mouse<wbr />Button<wbr />Click<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="3e3188d9-32e1-1522-f1f9-9078038fdf76" href="3e3188d9-32e1-1522-f1f9-9078038fdf76.htm">Mouse<wbr />Hook.<wbr />Mouse<wbr />Button<wbr />Double<wbr />Click<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="ca9d2de1-9eb3-743b-c2e9-139282ad2b98" href="ca9d2de1-9eb3-743b-c2e9-139282ad2b98.htm">Mouse<wbr />Hook.<wbr />Mouse<wbr />Move<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="8687c379-971e-5246-427a-86a515a4c9cd" href="8687c379-971e-5246-427a-86a515a4c9cd.htm">Mouse<wbr />Hook.<wbr />Mouse<wbr />Wheel<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="a38c3d8f-a070-a131-609e-cb5b9d45abea" class="has-submenu" href="a38c3d8f-a070-a131-609e-cb5b9d45abea.htm">
+        <span data-tocFile="../toc/IDQEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Monitor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="99cf4685-1669-0779-30bd-c28c0d4f87b9" class="has-submenu" href="99cf4685-1669-0779-30bd-c28c0d4f87b9.htm">
+        <span data-tocFile="../toc/IDREFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Move<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="07166a5c-6409-cbf3-97e8-b0c3d0517d1b" class="has-submenu" href="07166a5c-6409-cbf3-97e8-b0c3d0517d1b.htm">
+        <span data-tocFile="../toc/IDSEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Recorder</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d3434096-d29b-c846-61b9-cf2f8bb49288" href="d3434096-d29b-c846-61b9-cf2f8bb49288.htm">Mouse<wbr />Wheel<wbr />Direction</a>
+    </li>
+    <li>
+      <a id="fb4ed452-5bad-eae2-7fa7-f96ae573dad9" class="has-submenu" href="fb4ed452-5bad-eae2-7fa7-f96ae573dad9.htm">
+        <span data-tocFile="../toc/IDUEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mouse<wbr />Wheel<wbr />Scroll<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6c3b2e39-edb2-c1e8-5108-c5e5863c7fd4" class="has-submenu" href="6c3b2e39-edb2-c1e8-5108-c5e5863c7fd4.htm">
+        <span data-tocFile="../toc/IDVEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Keyboard</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="141ddc61-2a68-fc3f-7526-b52bf278735c" class="has-submenu" href="141ddc61-2a68-fc3f-7526-b52bf278735c.htm">
+        <span data-tocFile="../toc/IDWEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Mouse</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e2ceadad-dcad-19a3-b7a6-e6cc63791e13.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="f84c9d02-0e5f-1438-addc-e44f0a5176b4.htm">List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="6c3cdc3e-0eb2-d085-333c-18da4ae40eb4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0a9ca7ac-ac1c-aa15-43f2-6b28584e3b42.htm">Sort</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5923d3aa-b2b8-00c9-aa9a-0eb08b4fe4e4" href="5923d3aa-b2b8-00c9-aa9a-0eb08b4fe4e4.htm">Sort&lt;T&gt;(<wbr />List<wbr />Box)</a>
+    </li>
+    <li>
+      <a id="ca381a78-7673-b931-1048-15a50c19a0b1" href="ca381a78-7673-b931-1048-15a50c19a0b1.htm">Sort&lt;T&gt;(<wbr />List<wbr />Box, IComparer&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

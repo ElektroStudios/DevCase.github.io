@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="4b0c8fd4-19b9-0c0e-2aed-a79e29bae45f.htm">Process<wbr />Watcher</a>
+    </li>
+    <li>
+      <a href="c70804b8-790a-2b96-4dae-de21bdff8ee4.htm">Events</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0500cd20-e48b-2c54-f947-cc989b7f3bd8" href="0500cd20-e48b-2c54-f947-cc989b7f3bd8.htm">Process<wbr />Started</a>
+    </li>
+    <li>
+      <a id="e0051b04-5603-1439-0eae-c73fecccd76d" href="e0051b04-5603-1439-0eae-c73fecccd76d.htm">Process<wbr />Stopped</a>
+    </li>
+  </tocItems>
+</toc>

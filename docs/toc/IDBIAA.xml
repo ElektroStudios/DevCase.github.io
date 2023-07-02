@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="cb7b41fc-09e5-5fe4-c76c-ba463120422b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Google<wbr />Services</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d1dbb968-5ca3-dce0-072c-e7c9bca14699" href="d1dbb968-5ca3-dce0-072c-e7c9bca14699.htm">Google<wbr />Language</a>
+    </li>
+    <li>
+      <a id="846d04e6-bcef-1a56-9431-241e9019b672" class="has-submenu" href="846d04e6-bcef-1a56-9431-241e9019b672.htm">
+        <span data-tocFile="../toc/IDBBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Google<wbr />Translate</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="41cb7008-16e2-047b-5ddb-2374f4d17d9d" class="has-submenu" href="41cb7008-16e2-047b-5ddb-2374f4d17d9d.htm">
+        <span data-tocFile="../toc/IDCBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Youtube<wbr />Url</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

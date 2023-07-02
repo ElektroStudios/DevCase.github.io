@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="3ba91054-a687-7062-55d2-848e5d401451.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="1bfad87e-195d-484a-8717-7a48f66129e8.htm">Util<wbr />Numerics</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b8ed1e46-5670-c94a-1cba-0d656072df7b" class="has-submenu" href="b8ed1e46-5670-c94a-1cba-0d656072df7b.htm">
+        <span data-tocFile="../toc/IDACBGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

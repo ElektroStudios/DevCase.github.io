@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="49e779a1-0ba0-d804-951c-96fc7a8de8f4.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Dn<wbr />Lib</a>
+    </li>
+    <li>
+      <a href="2c8825cb-7fda-60aa-d21b-f78e1e9ad955.htm">Util<wbr />Dn<wbr />Lib</a>
+    </li>
+    <li>
+      <a href="ae9bd69d-b7b6-2c83-7aaa-a92b16d3969d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6f788baa-a2e6-2f6a-fa5d-fa1bc942e1be" class="has-submenu" href="6f788baa-a2e6-2f6a-fa5d-fa1bc942e1be.htm">
+        <span data-tocFile="../toc/IDAAAJDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Assembly<wbr />Has<wbr />Native<wbr />Code</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="261aa756-942b-f691-28ce-ee2cb18c72d6" class="has-submenu" href="261aa756-942b-f691-28ce-ee2cb18c72d6.htm">
+        <span data-tocFile="../toc/IDBAAJDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />CLRVersion</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4544660e-f855-7120-d928-1d446f438955" class="has-submenu" href="4544660e-f855-7120-d928-1d446f438955.htm">
+        <span data-tocFile="../toc/IDCAAJDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c726ff47-d536-16c5-062e-4b40112b5dce" class="has-submenu" href="c726ff47-d536-16c5-062e-4b40112b5dce.htm">
+        <span data-tocFile="../toc/IDDAAJDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Types</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c8b9cbfb-f967-8b42-327e-25ec34f812e3" href="c8b9cbfb-f967-8b42-327e-25ec34f812e3.htm">Load<wbr />Assembly</a>
+    </li>
+  </tocItems>
+</toc>

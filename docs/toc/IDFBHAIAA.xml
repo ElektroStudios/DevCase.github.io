@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bbb4f7f4-b5fd-1b46-6366-52d8888ef9ed.htm">Download<wbr />Image</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f7320ec2-c660-b719-fac7-15b0df62c0cb" href="f7320ec2-c660-b719-fac7-15b0df62c0cb.htm">Download<wbr />Image(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="764b60cd-6654-63e5-e668-91b984b99bc1" href="764b60cd-6654-63e5-e668-91b984b99bc1.htm">Download<wbr />Image(<wbr />String, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="44a3a560-7107-659b-cec3-b0803cfaf06b" href="44a3a560-7107-659b-cec3-b0803cfaf06b.htm">Download<wbr />Image(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="aebfa26a-cc7b-371e-4104-03dd2c71826b" href="aebfa26a-cc7b-371e-4104-03dd2c71826b.htm">Download<wbr />Image(<wbr />String, Web<wbr />Proxy, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="1970015f-2f04-9051-fff2-8dc6ea7aad09.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium Namespaces</a>
+    </li>
+    <li>
+      <a href="8347b1ac-3612-4321-f413-e4b2efa84015.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium.<wbr />Extensions.<wbr />IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="82420d6c-2485-e661-a83c-7166d0367993.htm">IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="04d8fd32-3b61-cac7-bfc4-844a48146659.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1d35ca31-571a-f617-0e3a-b764606e2fbf.htm">Find<wbr />Elements<wbr />By<wbr />Text</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="dfc10f5c-8d42-ad9d-eb9f-f9bc52b50cd8" href="dfc10f5c-8d42-ad9d-eb9f-f9bc52b50cd8.htm">Find<wbr />Elements<wbr />By<wbr />Text(<wbr />IWeb<wbr />Driver, String, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="93fcbe25-4b33-6804-03da-38267773d74d" href="93fcbe25-4b33-6804-03da-38267773d74d.htm">Find<wbr />Elements<wbr />By<wbr />Text(<wbr />IWeb<wbr />Driver, By, String, String<wbr />Comparison)</a>
+    </li>
+  </tocItems>
+</toc>

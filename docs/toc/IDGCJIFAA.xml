@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="a688a1d7-b311-1129-39da-b3738f218853.htm">File<wbr />Operation</a>
+    </li>
+    <li>
+      <a href="8f5c23c5-5680-d46b-0ca6-748b04b11226.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a7f2c9b9-0be6-7dd6-69f1-36420fdd5af1.htm">Queue<wbr />Move</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ccbd9a6f-b431-584b-3010-b19708ba443e" href="ccbd9a6f-b431-584b-3010-b19708ba443e.htm">Queue<wbr />Move(<wbr />File<wbr />Info, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="451491cd-80c2-f7d9-743a-e84ee7dafc56" href="451491cd-80c2-f7d9-743a-e84ee7dafc56.htm">Queue<wbr />Move(<wbr />Directory<wbr />Info, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="a73fbb69-38a0-8f14-aafe-7c4d5274faef" href="a73fbb69-38a0-8f14-aafe-7c4d5274faef.htm">Queue<wbr />Move(<wbr />Directory<wbr />Info, String, String)</a>
+    </li>
+    <li>
+      <a id="9ddcf50f-32e6-dd08-4f80-63fb4dd45e2d" href="9ddcf50f-32e6-dd08-4f80-63fb4dd45e2d.htm">Queue<wbr />Move(<wbr />File<wbr />Info, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="f1a9d47a-0599-cdc5-65a6-f0d2a4da7c8b" href="f1a9d47a-0599-cdc5-65a6-f0d2a4da7c8b.htm">Queue<wbr />Move(<wbr />File<wbr />Info, String, String)</a>
+    </li>
+    <li>
+      <a id="f66bbea6-f107-86a4-66bd-21cb3282cf4d" href="f66bbea6-f107-86a4-66bd-21cb3282cf4d.htm">Queue<wbr />Move(<wbr />String, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="f2eaa4c0-e8ae-7cca-3cd0-006a37ed2af8" href="f2eaa4c0-e8ae-7cca-3cd0-006a37ed2af8.htm">Queue<wbr />Move(<wbr />String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="860d4274-8ce0-cc9a-5e6e-4616befa6a33.htm">Util<wbr />Color</a>
+    </li>
+    <li>
+      <a href="037b8ecd-1886-b123-5e73-2c8eeda857db.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ba610db4-5c80-5602-e352-d3e1f17fbba3" href="ba610db4-5c80-5602-e352-d3e1f17fbba3.htm">Console<wbr />Color<wbr />To<wbr />Win<wbr />Forms<wbr />Color</a>
+    </li>
+    <li>
+      <a id="311656e4-8273-5bbe-26c3-5a1eacdf7f2a" href="311656e4-8273-5bbe-26c3-5a1eacdf7f2a.htm">Console<wbr />Color<wbr />To<wbr />Wpf<wbr />Color</a>
+    </li>
+    <li>
+      <a id="b2b7f89c-afe5-7069-7524-353862ada14c" class="has-submenu" href="b2b7f89c-afe5-7069-7524-353862ada14c.htm">
+        <span data-tocFile="../toc/IDCAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Pixel<wbr />Brush</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9520fb80-facf-810f-9300-40ec97611cc1" class="has-submenu" href="9520fb80-facf-810f-9300-40ec97611cc1.htm">
+        <span data-tocFile="../toc/IDDAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Pixel<wbr />Color</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="acbd74be-c671-6fb5-49a0-b8361f7cb7be" class="has-submenu" href="acbd74be-c671-6fb5-49a0-b8361f7cb7be.htm">
+        <span data-tocFile="../toc/IDEAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Pixel<wbr />Pen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4139c049-e07d-f2fe-268e-e6a9a5c9b6e8" class="has-submenu" href="4139c049-e07d-f2fe-268e-e6a9a5c9b6e8.htm">
+        <span data-tocFile="../toc/IDFAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Brush</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="443b443d-419d-e53e-bc7a-910d85eaf310" class="has-submenu" href="443b443d-419d-e53e-bc7a-910d85eaf310.htm">
+        <span data-tocFile="../toc/IDGAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Color</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="03f58cd9-4cd6-ff71-15fa-03c580524436" href="03f58cd9-4cd6-ff71-15fa-03c580524436.htm">Get<wbr />Random<wbr />Console<wbr />Color</a>
+    </li>
+    <li>
+      <a id="81cc7d4e-858b-84bc-8223-09de2b73f1f3" class="has-submenu" href="81cc7d4e-858b-84bc-8223-09de2b73f1f3.htm">
+        <span data-tocFile="../toc/IDIAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Pen</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2edf08e6-f270-0e56-798b-ecde05156f7f" href="2edf08e6-f270-0e56-798b-ecde05156f7f.htm">Get<wbr />Random<wbr />Qb<wbr />Color</a>
+    </li>
+    <li>
+      <a id="534e4930-878f-2ca3-7c3c-9f55922a5137" class="has-submenu" href="534e4930-878f-2ca3-7c3c-9f55922a5137.htm">
+        <span data-tocFile="../toc/IDKAPBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Color<wbr />Similar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="54cf960f-bd0a-e9da-a0ac-a2f5ca03198e" href="54cf960f-bd0a-e9da-a0ac-a2f5ca03198e.htm">Win<wbr />Forms<wbr />Brush<wbr />To<wbr />Wpf<wbr />Brush</a>
+    </li>
+    <li>
+      <a id="9ae8bc39-7a38-98ce-2bb5-520daa775da5" href="9ae8bc39-7a38-98ce-2bb5-520daa775da5.htm">Win<wbr />Forms<wbr />Color<wbr />To<wbr />Wpf<wbr />Brush</a>
+    </li>
+    <li>
+      <a id="53cf8334-6866-c2ac-08ff-dbbd99359571" href="53cf8334-6866-c2ac-08ff-dbbd99359571.htm">Win<wbr />Forms<wbr />Color<wbr />To<wbr />Wpf<wbr />Color</a>
+    </li>
+    <li>
+      <a id="2a07c27a-155f-5024-7c23-10726e7ca04a" href="2a07c27a-155f-5024-7c23-10726e7ca04a.htm">Wpf<wbr />Brush<wbr />To<wbr />Win<wbr />Forms<wbr />Brush</a>
+    </li>
+    <li>
+      <a id="42127ed0-01fc-2e59-29f6-2011d27d2074" href="42127ed0-01fc-2e59-29f6-2011d27d2074.htm">Wpf<wbr />Color<wbr />To<wbr />Win<wbr />Forms<wbr />Brush</a>
+    </li>
+    <li>
+      <a id="8c7a25b6-3287-63e0-8955-9651280141b3" href="8c7a25b6-3287-63e0-8955-9651280141b3.htm">Wpf<wbr />Color<wbr />To<wbr />Win<wbr />Forms<wbr />Color</a>
+    </li>
+  </tocItems>
+</toc>

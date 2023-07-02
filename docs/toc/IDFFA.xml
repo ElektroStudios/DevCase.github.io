@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0c9cf0b2-e68c-4e8e-a29f-671d3e33008b" class="has-submenu" href="0c9cf0b2-e68c-4e8e-a29f-671d3e33008b.htm">
+        <span data-tocFile="../toc/IDAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Adv<wbr />Api<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1bb1fe43-54bd-e4f5-b725-bbbe362ed051" class="has-submenu" href="1bb1fe43-54bd-e4f5-b725-bbbe362ed051.htm">
+        <span data-tocFile="../toc/IDBFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Com<wbr />Ctl<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="874b521d-a70e-6b88-72e2-62f2ca729b9b" class="has-submenu" href="874b521d-a70e-6b88-72e2-62f2ca729b9b.htm">
+        <span data-tocFile="../toc/IDCFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Cred<wbr />UI</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="51d2657a-6b15-39aa-d8d3-803c1d89dcf0" class="has-submenu" href="51d2657a-6b15-39aa-d8d3-803c1d89dcf0.htm">
+        <span data-tocFile="../toc/IDDFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dbg<wbr />Help</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="254f2ca3-4603-3281-426c-087fc5b842dd" class="has-submenu" href="254f2ca3-4603-3281-426c-087fc5b842dd.htm">
+        <span data-tocFile="../toc/IDEFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dwm<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6b9070dd-f577-deb9-467b-b3bf62f48612" class="has-submenu" href="6b9070dd-f577-deb9-467b-b3bf62f48612.htm">
+        <span data-tocFile="../toc/IDFFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fusion</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="017f6188-18f7-2334-4b54-6233463b9b7e" class="has-submenu" href="017f6188-18f7-2334-4b54-6233463b9b7e.htm">
+        <span data-tocFile="../toc/IDGFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Gdi<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2a4e6ecc-afee-5deb-bdf9-148452967efa" class="has-submenu" href="2a4e6ecc-afee-5deb-bdf9-148452967efa.htm">
+        <span data-tocFile="../toc/IDHFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Inet<wbr />Cpl</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="20af7b00-d054-7b3e-95c8-02ddc8f56d0a" class="has-submenu" href="20af7b00-d054-7b3e-95c8-02ddc8f56d0a.htm">
+        <span data-tocFile="../toc/IDIFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ip<wbr />Hlp<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="094676a4-571b-ad1f-ef01-d8acf5ebed93" class="has-submenu" href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">
+        <span data-tocFile="../toc/IDJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Kernel<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e85f8cf5-2dd5-124d-a32a-ef8f97d4963e" class="has-submenu" href="e85f8cf5-2dd5-124d-a32a-ef8f97d4963e.htm">
+        <span data-tocFile="../toc/IDKFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Kernel<wbr />Base</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="acf85973-1453-e67b-362c-38bf21d621bc" class="has-submenu" href="acf85973-1453-e67b-362c-38bf21d621bc.htm">
+        <span data-tocFile="../toc/IDLFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Nt<wbr />Dll</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d0974fcd-93c8-602a-9a36-4015cd7b0341" class="has-submenu" href="d0974fcd-93c8-602a-9a36-4015cd7b0341.htm">
+        <span data-tocFile="../toc/IDMFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ole<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3465e734-a0c0-4f77-21bc-de38af84b907" class="has-submenu" href="3465e734-a0c0-4f77-21bc-de38af84b907.htm">
+        <span data-tocFile="../toc/IDNFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ole<wbr />Acc</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0cc8e0bf-4fdf-8d75-48dd-c823017318f8" class="has-submenu" href="0cc8e0bf-4fdf-8d75-48dd-c823017318f8.htm">
+        <span data-tocFile="../toc/IDOFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Powr<wbr />Prof</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="afbfe912-3ab3-6ed6-36b8-cc1aafc3d713" class="has-submenu" href="afbfe912-3ab3-6ed6-36b8-cc1aafc3d713.htm">
+        <span data-tocFile="../toc/IDPFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ps<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c29b54a1-9ca7-c7ce-79aa-e852873289ae" class="has-submenu" href="c29b54a1-9ca7-c7ce-79aa-e852873289ae.htm">
+        <span data-tocFile="../toc/IDQFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Rpc<wbr />Rt<wbr />4</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6d29ad78-60df-2d31-b426-3dcfcd261aaa" class="has-submenu" href="6d29ad78-60df-2d31-b426-3dcfcd261aaa.htm">
+        <span data-tocFile="../toc/IDRFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Setup<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c163f904-b022-176a-c37f-32be777695e1" class="has-submenu" href="c163f904-b022-176a-c37f-32be777695e1.htm">
+        <span data-tocFile="../toc/IDSFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shell<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="edd4d6e4-cc8d-add0-5e5f-8eaeb288cf72" class="has-submenu" href="edd4d6e4-cc8d-add0-5e5f-8eaeb288cf72.htm">
+        <span data-tocFile="../toc/IDTFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shlw<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1250e4dc-2fa8-a29b-a620-b6a741f177d2" class="has-submenu" href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">
+        <span data-tocFile="../toc/IDUFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>User<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ac27f92b-a5e8-1930-c52f-9c9ea6d1927d" class="has-submenu" href="ac27f92b-a5e8-1930-c52f-9c9ea6d1927d.htm">
+        <span data-tocFile="../toc/IDVFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>User<wbr />Env</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2b689be3-5e4f-2b39-ea84-d5fe539e2e06" class="has-submenu" href="2b689be3-5e4f-2b39-ea84-d5fe539e2e06.htm">
+        <span data-tocFile="../toc/IDWFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Ux<wbr />Theme</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="126ab4cb-348d-1df6-0c40-48a8892daa73" class="has-submenu" href="126ab4cb-348d-1df6-0c40-48a8892daa73.htm">
+        <span data-tocFile="../toc/IDXFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Win<wbr />INet</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="76f9fc20-05fe-7396-1343-12989d0992f8" class="has-submenu" href="76f9fc20-05fe-7396-1343-12989d0992f8.htm">
+        <span data-tocFile="../toc/IDYFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Win<wbr />MM</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

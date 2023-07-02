@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="b978bc77-394a-d48c-9da3-05389ee9dd94.htm">Util<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="f113d2ab-2f35-2564-0466-fd5e8c42f08d.htm">Methods</a>
+    </li>
+    <li>
+      <a href="46542c87-ec71-a0b4-1815-8fe6cab34dfc.htm">Get<wbr />Control<wbr />From<wbr />Point</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="94202dac-e103-b9b2-1697-7ad1c61e20d8" href="94202dac-e103-b9b2-1697-7ad1c61e20d8.htm">Get<wbr />Control<wbr />From<wbr />Point(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="6d114f9e-d61f-48a8-206f-d35340b1773c" href="6d114f9e-d61f-48a8-206f-d35340b1773c.htm">Get<wbr />Control<wbr />From<wbr />Point(<wbr />Form)</a>
+    </li>
+    <li>
+      <a id="bb02cfc1-8298-eee8-d9f8-bc87916528c9" href="bb02cfc1-8298-eee8-d9f8-bc87916528c9.htm">Get<wbr />Control<wbr />From<wbr />Point(<wbr />Control, Point)</a>
+    </li>
+    <li>
+      <a id="80d5a434-ba4a-18d8-ddb0-dbb82fb17dab" href="80d5a434-ba4a-18d8-ddb0-dbb82fb17dab.htm">Get<wbr />Control<wbr />From<wbr />Point(<wbr />Form, Point)</a>
+    </li>
+  </tocItems>
+</toc>

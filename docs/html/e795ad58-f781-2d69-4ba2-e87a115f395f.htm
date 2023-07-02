@@ -1,0 +1,264 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>NtDll.NtQueryMutex(IntPtr, MutexInformationClass, MutexOwnerInformation, Int32, Int32) Method</title>
+    <meta name="Title" content="NtQueryMutex(IntPtr, MutexInformationClass, MutexOwnerInformation, Int32, Int32)" />
+    <meta name="Help.Id" content="M:DevCase.Win32.NativeMethods.NtDll.NtQueryMutex(System.IntPtr,DevCase.Win32.Enums.MutexInformationClass,DevCase.Win32.Structures.MutexOwnerInformation@,System.Int32,System.Int32@)" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Win32.NativeMethods" />
+    <meta name="guid" content="e795ad58-f781-2d69-4ba2-e87a115f395f" />
+    <meta name="Description" content="Queries a mutual exclusion (Mutex) object." />
+    <meta name="tocFile" content="../toc/IDKALFFA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Nt<wbr />Dll<span id="LSTDE1CEC80_0" data-languageSpecificText="cpp=::|nu=."></span>Nt<wbr />Query<wbr />Mutex(Int<wbr />Ptr, Mutex<wbr />Information<wbr />Class, Mutex<wbr />Owner<wbr />Information<span id="LSTDE1CEC80_1" data-languageSpecificText="cpp=%"></span>, Int<wbr />32, Int<wbr />32<span id="LSTDE1CEC80_2" data-languageSpecificText="cpp=%"></span>) Method</h1>
+            <div class="summary">
+ Queries a mutual exclusion (Mutex) object.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("NtDll.dll", EntryPoint = "NtQueryMutant")]
+<span class="keyword">public</span> <span class="keyword">static</span> <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a> <span class="identifier">NtQueryMutex</span>(
+	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">mutexHandle</span>,
+	<a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a> <span class="parameter">mutexInformationClass</span>,
+	<span class="keyword">out</span> <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a> <span class="parameter">refMutexInformation</span>,
+	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">mutexInformationLength</span>,
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <span class="keyword">out</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">refReturnLength</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("NtDll.dll", EntryPoint := "NtQueryMutant"&gt;]
+<span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">NtQueryMutex</span> ( 
+	<span class="parameter">mutexHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
+	<span class="parameter">mutexInformationClass</span> <span class="keyword">As</span> <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refMutexInformation</span> <span class="keyword">As</span> <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a>,
+	<span class="parameter">mutexInformationLength</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
+	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; &lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refReturnLength</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+) <span class="keyword">As</span> <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a>
+
+<span class="keyword">Dim</span> <span class="parameter">mutexHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">mutexInformationClass</span> <span class="keyword">As</span> <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a>
+<span class="keyword">Dim</span> <span class="parameter">refMutexInformation</span> <span class="keyword">As</span> <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a>
+<span class="keyword">Dim</span> <span class="parameter">mutexInformationLength</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">refReturnLength</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a>
+
+<span class="parameter">returnValue</span> = <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">NtDll</a>.<span class="identifier">NtQueryMutex</span>(<span class="parameter">mutexHandle</span>, 
+	<span class="parameter">mutexInformationClass</span>, <span class="parameter">refMutexInformation</span>, 
+	<span class="parameter">mutexInformationLength</span>, <span class="parameter">refReturnLength</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
+[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"NtDll.dll", EntryPoint = L"NtQueryMutant")]
+<span class="keyword">static</span> <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a> <span class="identifier">NtQueryMutex</span>(
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">mutexHandle</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a> <span class="parameter">mutexInformationClass</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a>% <span class="parameter">refMutexInformation</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">mutexInformationLength</span>, 
+	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a>% <span class="parameter">refReturnLength</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("NtDll.dll", EntryPoint = "NtQueryMutant")&gt;]
+<span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">NtQueryMutex</span> : 
+        <span class="parameter">mutexHandle</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
+        <span class="parameter">mutexInformationClass</span> : <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a> * 
+        <span class="parameter">refMutexInformation</span> : <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a> <span class="keyword">byref</span> * 
+        <span class="parameter">mutexInformationLength</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
+        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">refReturnLength</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">mutexHandle</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ The Mutex handle.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">mutexInformationClass</span>  <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a></dt><dd>
+ The <a href="026558e0-632c-0468-5892-bb31e2950894.htm">MutexInformationClass</a>.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refMutexInformation</span>  <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a><span id="LSTDE1CEC80_3" data-languageSpecificText="cpp=%"></span></dt><dd>
+ The <a href="783aaf1d-ac77-c4f5-b9da-1f304c10f03c.htm">MutexOwnerInformation</a>.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">mutexInformationLength</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a></dt><dd>
+ Length of the Mutex information.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refReturnLength</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a><span id="LSTDE1CEC80_4" data-languageSpecificText="cpp=%"></span>  (Optional)</dt><dd>
+ Length of the return value.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a><br />
+ Returns <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">SUCCESS</a> on success, or the appropriate <a href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a> error code on failure.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDBCSection">
+              <a href="https://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FMutant%2FNtQueryMutant.html" target="_blank" rel="noopener noreferrer">https://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FMutant%2FNtQueryMutant.html</a>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">NtDll Class</a>
+              </div>
+              <div>
+                <a href="60eeb5bc-7279-abc4-48fe-e33d832a746c.htm">NtQueryMutex Overload</a>
+              </div>
+              <div>
+                <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                  <ul class="menu">
+                    <li>
+                      <a class="quickLink">Parameters</a>
+                    </li>
+                    <li>
+                      <a class="quickLink">Return Value</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+    <script>
+		$(".requestExampleLink").each(function ()
+		{
+			if(this.href.substring(0, 4).toLowerCase() === "http")
+				this.href += "?title=";
+			else
+				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+
+			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
+				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +
+				"scenario you would like to see addressed.%0D%0DHelp Topic: " + window.location.href).replace(/%250D/g, "%0D");
+		});
+	</script>
+  </body>
+</html>

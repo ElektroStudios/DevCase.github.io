@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="c413b0c6-21e7-44d1-a359-44fa3f98886b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Theming</a>
+    </li>
+    <li>
+      <a href="d6892fcb-a41c-94a7-b3d8-53779db3bf5f.htm">Theme<wbr />Info</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cfe7aaa8-823e-f039-6434-912e84ab5ff2" href="cfe7aaa8-823e-f039-6434-912e84ab5ff2.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="d038ab28-e783-1d84-1e35-91d5c36c0f31" class="has-submenu" href="d038ab28-e783-1d84-1e35-91d5c36c0f31.htm">
+        <span data-tocFile="../toc/IDBAHKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1bd3208d-a6be-423e-7c05-b6e17aa77d6f" href="1bd3208d-a6be-423e-7c05-b6e17aa77d6f.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

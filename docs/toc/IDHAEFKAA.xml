@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a45aa522-e947-d2be-e0c7-58594a8f2ac3.htm">Exist<wbr />Sub<wbr />Key</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3bf13036-e661-6224-60d4-8b22d2e28935" href="3bf13036-e661-6224-60d4-8b22d2e28935.htm">Exist<wbr />Sub<wbr />Key&lt;T&gt;(<wbr />Reg<wbr />Info&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="4fd80184-ebce-056b-a019-0cac7b474210" href="4fd80184-ebce-056b-a019-0cac7b474210.htm">Exist<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String)</a>
+    </li>
+    <li>
+      <a id="693e91ea-337c-3551-5045-5fdc360e8a62" href="693e91ea-337c-3551-5045-5fdc360e8a62.htm">Exist<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

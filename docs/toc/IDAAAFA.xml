@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="d80d6b2d-19f0-d3cf-cdbb-bb8e27851dc6.htm">Dev<wbr />Case.<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="aba17f5a-1e4c-778f-05b2-ddebeba67229.htm">Util<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="19d1f5ca-2a33-9a03-8af3-b00c1f0d194a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d3e74e5f-8efd-b238-22f8-e18024c620dc" href="d3e74e5f-8efd-b238-22f8-e18024c620dc.htm">Call<wbr />Native<wbr />Function&lt;TResult, TDelegate&gt;</a>
+    </li>
+    <li>
+      <a id="974f3d88-5912-bfe5-133e-1daba8fe7294" href="974f3d88-5912-bfe5-133e-1daba8fe7294.htm">Fail<wbr />Fast<wbr />If<wbr />False</a>
+    </li>
+    <li>
+      <a id="b1c5cdc0-ba9f-0141-4e93-7492dd439fb1" class="has-submenu" href="b1c5cdc0-ba9f-0141-4e93-7492dd439fb1.htm">
+        <span data-tocFile="../toc/IDCAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fail<wbr />Fast<wbr />If<wbr />Zero</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c822d8cc-633c-d950-ab33-d79d6f82907d" href="c822d8cc-633c-d950-ab33-d79d6f82907d.htm">Fail<wbr />If<wbr />False</a>
+    </li>
+    <li>
+      <a id="4d3e7916-dc0b-fad8-f5b6-458ead70df27" class="has-submenu" href="4d3e7916-dc0b-fad8-f5b6-458ead70df27.htm">
+        <span data-tocFile="../toc/IDEAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fail<wbr />If<wbr />Zero</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="74b861de-b9bf-3afa-c7ae-8ad1aaf881a8" href="74b861de-b9bf-3afa-c7ae-8ad1aaf881a8.htm">Get<wbr />Hi<wbr />Byte</a>
+    </li>
+    <li>
+      <a id="99bfddd3-98a8-8607-3e7f-bc5888373c5a" href="99bfddd3-98a8-8607-3e7f-bc5888373c5a.htm">Get<wbr />Hi<wbr />DWord</a>
+    </li>
+    <li>
+      <a id="c6ef148d-2386-b856-be54-3f85a1c344c6" class="has-submenu" href="c6ef148d-2386-b856-be54-3f85a1c344c6.htm">
+        <span data-tocFile="../toc/IDHAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Hi<wbr />Word</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b964306f-bef6-19cf-2456-42ae70b5beff" href="b964306f-bef6-19cf-2456-42ae70b5beff.htm">Get<wbr />Lo<wbr />Byte</a>
+    </li>
+    <li>
+      <a id="1dc8a062-1f0a-1dfb-3be4-46963b461307" href="1dc8a062-1f0a-1dfb-3be4-46963b461307.htm">Get<wbr />Lo<wbr />DWord</a>
+    </li>
+    <li>
+      <a id="ef5c7674-839f-ffa1-cfda-c708fd82c63f" class="has-submenu" href="ef5c7674-839f-ffa1-cfda-c708fd82c63f.htm">
+        <span data-tocFile="../toc/IDKAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Lo<wbr />Word</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fd5feb19-2a9c-4936-b843-650a3d4ae553" href="fd5feb19-2a9c-4936-b843-650a3d4ae553.htm">Get<wbr />Native<wbr />Function&lt;TDelegate&gt;</a>
+    </li>
+    <li>
+      <a id="ca64699b-b804-c92d-c740-b0eae00b768c" href="ca64699b-b804-c92d-c740-b0eae00b768c.htm">Make<wbr />DWord</a>
+    </li>
+    <li>
+      <a id="5b497aa3-f787-62ea-6582-92d8efdd991d" href="5b497aa3-f787-62ea-6582-92d8efdd991d.htm">Make<wbr />DWord<wbr />Long</a>
+    </li>
+    <li>
+      <a id="1e0b2678-29a5-0818-2dc5-fb3b9ad389b2" class="has-submenu" href="1e0b2678-29a5-0818-2dc5-fb3b9ad389b2.htm">
+        <span data-tocFile="../toc/IDOAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Make<wbr />LParam</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fc11a599-a1b1-1713-c69d-3825a56e79ae" href="fc11a599-a1b1-1713-c69d-3825a56e79ae.htm">Make<wbr />Word</a>
+    </li>
+    <li>
+      <a id="1f471a45-f057-1150-42b0-1ba6b3829447" class="has-submenu" href="1f471a45-f057-1150-42b0-1ba6b3829447.htm">
+        <span data-tocFile="../toc/IDQAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Make<wbr />WParam</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ceeac181-fbd7-5cc0-94d5-114b76e0f781" class="has-submenu" href="ceeac181-fbd7-5cc0-94d5-114b76e0f781.htm">
+        <span data-tocFile="../toc/IDRAAAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Safe<wbr />PInvoke</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dc9332e0-2b9b-09d1-79e8-aeb712e34ad6" href="dc9332e0-2b9b-09d1-79e8-aeb712e34ad6.htm">Set<wbr />Hi<wbr />Byte</a>
+    </li>
+    <li>
+      <a id="9808e3a5-4fa4-d5fe-fe1c-394043c62b4f" href="9808e3a5-4fa4-d5fe-fe1c-394043c62b4f.htm">Set<wbr />Hi<wbr />Dword</a>
+    </li>
+    <li>
+      <a id="1e4f11bb-b28b-0de5-5a8e-5434aaf4cef6" href="1e4f11bb-b28b-0de5-5a8e-5434aaf4cef6.htm">Set<wbr />Hi<wbr />Word</a>
+    </li>
+    <li>
+      <a id="53059acf-5c5d-68e9-fe54-bd64bde0a6a4" href="53059acf-5c5d-68e9-fe54-bd64bde0a6a4.htm">Set<wbr />Lo<wbr />Byte</a>
+    </li>
+    <li>
+      <a id="5c1c47cd-c14a-0642-336b-1e1ae4a577b4" href="5c1c47cd-c14a-0642-336b-1e1ae4a577b4.htm">Set<wbr />Lo<wbr />Dword</a>
+    </li>
+    <li>
+      <a id="aa2c493e-6ba0-aa97-9b9e-08f45f237577" href="aa2c493e-6ba0-aa97-9b9e-08f45f237577.htm">Set<wbr />Lo<wbr />Word</a>
+    </li>
+    <li>
+      <a id="386203e4-6022-fe12-afc1-5eaee840520d" href="386203e4-6022-fe12-afc1-5eaee840520d.htm">Unmanaged<wbr />Type<wbr />To<wbr />Managed<wbr />Type</a>
+    </li>
+    <li>
+      <a id="34082a6f-f87b-799b-73c9-18550fe9ec52" href="34082a6f-f87b-799b-73c9-18550fe9ec52.htm">Windows<wbr />Guid<wbr />To<wbr />Managed<wbr />Guid</a>
+    </li>
+  </tocItems>
+</toc>

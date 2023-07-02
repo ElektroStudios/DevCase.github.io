@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="2e1c4d50-f238-1c6b-517a-fa7ff8040227.htm">Amount</a>
+    </li>
+    <li>
+      <a href="66c78601-f411-be7f-dd06-e790472e971c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c712cd5f-0e78-54ec-e0bb-2103039ed8a3" href="c712cd5f-0e78-54ec-e0bb-2103039ed8a3.htm">Add</a>
+    </li>
+    <li>
+      <a id="6ca9c261-0c05-e616-843b-583418aeed43" href="6ca9c261-0c05-e616-843b-583418aeed43.htm">Clone</a>
+    </li>
+    <li>
+      <a id="be84a1d1-c767-da15-11b1-0c946a8bd7e8" class="has-submenu" href="be84a1d1-c767-da15-11b1-0c946a8bd7e8.htm">
+        <span data-tocFile="../toc/IDCCACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Converted<wbr />To</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3846ee1c-462c-f38b-fcb6-d9c1aff7d39f" class="has-submenu" href="3846ee1c-462c-f38b-fcb6-d9c1aff7d39f.htm">
+        <span data-tocFile="../toc/IDDCACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Divide<wbr />By</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9b39bdb2-9a42-7ab3-cd72-75a8df5dc06c" class="has-submenu" href="9b39bdb2-9a42-7ab3-cd72-75a8df5dc06c.htm">
+        <span data-tocFile="../toc/IDECACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9c57d245-041b-e714-d8c8-5dc308377cc3" href="9c57d245-041b-e714-d8c8-5dc308377cc3.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="c6c14be0-537b-e767-5b87-bf2a46487d17" href="c6c14be0-537b-e767-5b87-bf2a46487d17.htm">Inverse</a>
+    </li>
+    <li>
+      <a id="708af9d7-7769-f6ac-6ea8-1e11915b66dd" class="has-submenu" href="708af9d7-7769-f6ac-6ea8-1e11915b66dd.htm">
+        <span data-tocFile="../toc/IDHCACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Multiply</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="99977e56-b5d6-8125-fb7f-2daabc0b3157" href="99977e56-b5d6-8125-fb7f-2daabc0b3157.htm">Negate</a>
+    </li>
+    <li>
+      <a id="05c876a5-4730-2a2d-650d-34bf4709504f" href="05c876a5-4730-2a2d-650d-34bf4709504f.htm">Power</a>
+    </li>
+    <li>
+      <a id="f70f3aa5-f6c9-ed3c-787d-fb2f06fcad65" class="has-submenu" href="f70f3aa5-f6c9-ed3c-787d-fb2f06fcad65.htm">
+        <span data-tocFile="../toc/IDKCACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f7c70edb-4def-8558-96f9-209bf7431708" href="f7c70edb-4def-8558-96f9-209bf7431708.htm">Zero</a>
+    </li>
+  </tocItems>
+</toc>

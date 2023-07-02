@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="4dc64b9e-2378-3406-1283-9b8f6945adf0.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Battle<wbr />Net</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1fe1fedc-cd72-a7fa-841d-fcd33e74fa2d" class="has-submenu" href="1fe1fedc-cd72-a7fa-841d-fcd33e74fa2d.htm">
+        <span data-tocFile="../toc/IDAFDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Battle<wbr />Net</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="98ab718b-110b-d68a-c627-061b5d6ef03b.htm">Text<wbr />Metric<wbr />A</a>
+    </li>
+    <li>
+      <a href="b5e36624-9337-dc1a-d510-5ba63c78233b.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fd92b1d2-91c7-1961-cc28-76fe9511d3b1" href="fd92b1d2-91c7-1961-cc28-76fe9511d3b1.htm">Ascent</a>
+    </li>
+    <li>
+      <a id="602cfcc8-442f-89d0-c336-edb6a3d59c4b" href="602cfcc8-442f-89d0-c336-edb6a3d59c4b.htm">Ave<wbr />Char<wbr />Width</a>
+    </li>
+    <li>
+      <a id="a219c775-2e5e-f57c-594d-4200a404a7e7" href="a219c775-2e5e-f57c-594d-4200a404a7e7.htm">Break<wbr />Char</a>
+    </li>
+    <li>
+      <a id="eff70175-ee7c-fc3f-1c6f-383424627ed5" href="eff70175-ee7c-fc3f-1c6f-383424627ed5.htm">Char<wbr />Set</a>
+    </li>
+    <li>
+      <a id="6dc934a0-c2ad-c2c0-2db3-1c38d2670bde" href="6dc934a0-c2ad-c2c0-2db3-1c38d2670bde.htm">Default<wbr />Char</a>
+    </li>
+    <li>
+      <a id="5828e143-e65c-1b21-435e-4d4d48597ceb" href="5828e143-e65c-1b21-435e-4d4d48597ceb.htm">Descent</a>
+    </li>
+    <li>
+      <a id="dda6208e-9535-3f96-86f6-6408a92afa14" href="dda6208e-9535-3f96-86f6-6408a92afa14.htm">Digitized<wbr />Aspect<wbr />X</a>
+    </li>
+    <li>
+      <a id="817c13c2-b2f5-f188-b8d4-54b30fa87341" href="817c13c2-b2f5-f188-b8d4-54b30fa87341.htm">Digitized<wbr />Aspect<wbr />Y</a>
+    </li>
+    <li>
+      <a id="72a66ee6-ae7e-e79b-151f-923cf4df6caa" href="72a66ee6-ae7e-e79b-151f-923cf4df6caa.htm">External<wbr />Leading</a>
+    </li>
+    <li>
+      <a id="5010f1bb-e191-d1d2-db7c-110661d07853" href="5010f1bb-e191-d1d2-db7c-110661d07853.htm">First<wbr />Char</a>
+    </li>
+    <li>
+      <a id="e5670f59-40aa-2272-f6cd-eba7324c6b8a" href="e5670f59-40aa-2272-f6cd-eba7324c6b8a.htm">Height</a>
+    </li>
+    <li>
+      <a id="c8846823-ad19-6b79-0140-523348b4c0c8" href="c8846823-ad19-6b79-0140-523348b4c0c8.htm">Internal<wbr />Leading</a>
+    </li>
+    <li>
+      <a id="4701567c-228a-e45f-62be-8a1dac461fd5" href="4701567c-228a-e45f-62be-8a1dac461fd5.htm">Italic</a>
+    </li>
+    <li>
+      <a id="b90c2bff-40ff-fded-0735-91bd871f48a4" href="b90c2bff-40ff-fded-0735-91bd871f48a4.htm">Last<wbr />Char</a>
+    </li>
+    <li>
+      <a id="14392376-9ad4-7513-f957-a189afee254e" href="14392376-9ad4-7513-f957-a189afee254e.htm">Max<wbr />Char<wbr />Width</a>
+    </li>
+    <li>
+      <a id="5cda541b-d0d7-0859-3971-bbb2807f8955" href="5cda541b-d0d7-0859-3971-bbb2807f8955.htm">Overhang</a>
+    </li>
+    <li>
+      <a id="ab1e02f6-e90a-545e-0204-bfece7ca122a" href="ab1e02f6-e90a-545e-0204-bfece7ca122a.htm">Pitch<wbr />And<wbr />Family</a>
+    </li>
+    <li>
+      <a id="41c87bf7-194f-37ea-5ea5-5584b0e088c9" href="41c87bf7-194f-37ea-5ea5-5584b0e088c9.htm">Struck<wbr />Out</a>
+    </li>
+    <li>
+      <a id="9b8c5ff2-4c0a-cc19-cc57-24f4a111a99c" href="9b8c5ff2-4c0a-cc19-cc57-24f4a111a99c.htm">Underlined</a>
+    </li>
+    <li>
+      <a id="9e9affc7-7439-58e3-281a-c02a6318ced5" href="9e9affc7-7439-58e3-281a-c02a6318ced5.htm">Weight</a>
+    </li>
+  </tocItems>
+</toc>

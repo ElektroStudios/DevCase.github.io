@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="690d36fb-80e9-ddc3-7afb-96120fbd8241.htm">Util<wbr />File</a>
+    </li>
+    <li>
+      <a href="e9e52ac5-66cc-59ae-6558-e03afad92519.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3090a203-014d-5eb3-4de0-05b3a6a27e41" class="has-submenu" href="3090a203-014d-5eb3-4de0-05b3a6a27e41.htm">
+        <span data-tocFile="../toc/IDAAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="968d976e-0e3f-ed7f-5f04-5df980494aa2" class="has-submenu" href="968d976e-0e3f-ed7f-5f04-5df980494aa2.htm">
+        <span data-tocFile="../toc/IDBAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compare</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="726720f6-8711-3a3c-4944-3c04da6f696f" class="has-submenu" href="726720f6-8711-3a3c-4944-3c04da6f696f.htm">
+        <span data-tocFile="../toc/IDCAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Dummy<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf735e53-7045-d4d8-1929-51261d72a38c" class="has-submenu" href="bf735e53-7045-d4d8-1929-51261d72a38c.htm">
+        <span data-tocFile="../toc/IDDAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Symbolic<wbr />Link</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5e66f3aa-fcb7-b618-c6e9-a142a4a4e7a1" href="5e66f3aa-fcb7-b618-c6e9-a142a4a4e7a1.htm">File<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="f94c17b7-be18-0c8b-a6d8-2f6b3dcf2820" href="f94c17b7-be18-0c8b-a6d8-2f6b3dcf2820.htm">Get<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="ca79fb6f-5345-524d-badd-3aa03397c646" class="has-submenu" href="ca79fb6f-5345-524d-badd-3aa03397c646.htm">
+        <span data-tocFile="../toc/IDGAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />File<wbr />Paths</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1869df3c-1662-2b15-1c30-e40622bb6b8e" class="has-submenu" href="1869df3c-1662-2b15-1c30-e40622bb6b8e.htm">
+        <span data-tocFile="../toc/IDHAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Files</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bdee4b04-c9e9-8aca-1fdc-e64d37a8e3d7" href="bdee4b04-c9e9-8aca-1fdc-e64d37a8e3d7.htm">Get<wbr />Size</a>
+    </li>
+    <li>
+      <a id="7783a97a-70cf-5f62-3cca-f7bcc6d9b153" class="has-submenu" href="7783a97a-70cf-5f62-3cca-f7bcc6d9b153.htm">
+        <span data-tocFile="../toc/IDJAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Symbolic<wbr />Link<wbr />Target</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf414211-c95f-4403-76e9-430969e45e30" class="has-submenu" href="bf414211-c95f-4403-76e9-430969e45e30.htm">
+        <span data-tocFile="../toc/IDKAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Temp<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="64ae45e2-04a2-d26a-75f0-526932dd2627" class="has-submenu" href="64ae45e2-04a2-d26a-75f0-526932dd2627.htm">
+        <span data-tocFile="../toc/IDLAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Temp<wbr />File<wbr />Name</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4a112509-23ae-2d78-6228-2e709e619346" class="has-submenu" href="4a112509-23ae-2d78-6228-2e709e619346.htm">
+        <span data-tocFile="../toc/IDMAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Has<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4c1faae2-69d9-6c03-fb91-c4b166c43849" class="has-submenu" href="4c1faae2-69d9-6c03-fb91-c4b166c43849.htm">
+        <span data-tocFile="../toc/IDNAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Has<wbr />Rights</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d951a2c2-c00b-346c-dbc9-fa890b583559" class="has-submenu" href="d951a2c2-c00b-346c-dbc9-fa890b583559.htm">
+        <span data-tocFile="../toc/IDOAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Symbolic<wbr />Link</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96e00d8d-13b1-d94e-16fb-7f6d8a8cd897" class="has-submenu" href="96e00d8d-13b1-d94e-16fb-7f6d8a8cd897.htm">
+        <span data-tocFile="../toc/IDPAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />In<wbr />Explorer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96e380af-00f5-f23a-245a-c11cf07e0a86" href="96e380af-00f5-f23a-245a-c11cf07e0a86.htm">Preload<wbr />In<wbr />Thumbnail<wbr />Cache</a>
+    </li>
+    <li>
+      <a id="f4feb6ce-3759-c8cd-c860-02fbcefbd4e4" class="has-submenu" href="f4feb6ce-3759-c8cd-c860-02fbcefbd4e4.htm">
+        <span data-tocFile="../toc/IDRAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b9fdba6f-1409-1f7a-aa54-7ab1ad5b698d" href="b9fdba6f-1409-1f7a-aa54-7ab1ad5b698d.htm">Rename<wbr />Incremental</a>
+    </li>
+    <li>
+      <a id="0c4ceaa9-0d03-9072-eca1-0b6afd3e722c" class="has-submenu" href="0c4ceaa9-0d03-9072-eca1-0b6afd3e722c.htm">
+        <span data-tocFile="../toc/IDTAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="253edae0-c809-0ebc-b061-57656c4b3b2c" class="has-submenu" href="253edae0-c809-0ebc-b061-57656c4b3b2c.htm">
+        <span data-tocFile="../toc/IDUAWIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Rights</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7d4e1a68-249f-f20e-6cdd-a8b84055ef33.htm">Get<wbr />Client<wbr />Rect</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c083ab07-4687-2f44-e22e-024723cb8f7c" href="c083ab07-4687-2f44-e22e-024723cb8f7c.htm">Get<wbr />Client<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="ddbb00bd-819b-a306-7685-8cba83187aea" href="ddbb00bd-819b-a306-7685-8cba83187aea.htm">Get<wbr />Client<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle)</a>
+    </li>
+    <li>
+      <a id="f1bedce8-b09e-5b35-fd34-64aea1484f0b" href="f1bedce8-b09e-5b35-fd34-64aea1484f0b.htm">Get<wbr />Client<wbr />Rect(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="be8c8db6-9086-5b11-84e1-99adbb403ac8" href="be8c8db6-9086-5b11-84e1-99adbb403ac8.htm">Get<wbr />Client<wbr />Rect(<wbr />Safe<wbr />Handle, Rectangle)</a>
+    </li>
+  </tocItems>
+</toc>

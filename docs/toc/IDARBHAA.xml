@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="f930cfcb-ad12-19d1-7f00-0fee3634f96d.htm">Util<wbr />Image</a>
+    </li>
+    <li>
+      <a href="e4024a54-917e-6ad4-93e1-58978220cc90.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e6ea7815-6452-59d7-0fe2-f65f7ff21b5a" class="has-submenu" href="e6ea7815-6452-59d7-0fe2-f65f7ff21b5a.htm">
+        <span data-tocFile="../toc/IDAARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Capture<wbr />Cursor<wbr />Icon</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="61e9805a-d709-e903-8085-419fd25268c7" class="has-submenu" href="61e9805a-d709-e903-8085-419fd25268c7.htm">
+        <span data-tocFile="../toc/IDBARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compress<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="77097039-9a1e-0b1d-88cb-2dc0d0b80bb9" class="has-submenu" href="77097039-9a1e-0b1d-88cb-2dc0d0b80bb9.htm">
+        <span data-tocFile="../toc/IDCARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Convert<wbr />Image<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f7bad1ab-96be-cd93-e0d7-183373197991" href="f7bad1ab-96be-cd93-e0d7-183373197991.htm">Create<wbr />Solidcolor<wbr />Bitmap</a>
+    </li>
+    <li>
+      <a id="e5db7c3c-6d05-4a15-9f97-660c9696c44d" class="has-submenu" href="e5db7c3c-6d05-4a15-9f97-660c9696c44d.htm">
+        <span data-tocFile="../toc/IDEARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Extract<wbr />Icon<wbr />From<wbr />Executable<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c979569f-449b-3ef0-e595-9de3d778eb47" href="c979569f-449b-3ef0-e595-9de3d778eb47.htm">Extract<wbr />Icon<wbr />From<wbr />File</a>
+    </li>
+    <li>
+      <a id="80ceff71-360a-ada3-4129-2b79f9c88eba" href="80ceff71-360a-ada3-4129-2b79f9c88eba.htm">Extract<wbr />Icon<wbr />From<wbr />File<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="051f9d90-39a6-d145-6c64-eee46987b9e1" href="051f9d90-39a6-d145-6c64-eee46987b9e1.htm">Extract<wbr />Icon<wbr />From<wbr />File<wbr />Or<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="47f865d4-95f6-641f-e751-021eba0729d0" class="has-submenu" href="47f865d4-95f6-641f-e751-021eba0729d0.htm">
+        <span data-tocFile="../toc/IDIARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Alpha<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="914ec83d-d828-8544-7d9d-c316051af682" href="914ec83d-d828-8544-7d9d-c316051af682.htm">Get<wbr />Differences</a>
+    </li>
+    <li>
+      <a id="e997612d-ec01-d587-ba6a-f22bbed65702" href="e997612d-ec01-d587-ba6a-f22bbed65702.htm">Get<wbr />Frames<wbr />From<wbr />Image</a>
+    </li>
+    <li>
+      <a id="fc04848b-e483-db86-2edc-8e50c3ccb96b" class="has-submenu" href="fc04848b-e483-db86-2edc-8e50c3ccb96b.htm">
+        <span data-tocFile="../toc/IDLARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cf47e4f7-970a-9744-f2fd-7d6fbe18daa7" href="cf47e4f7-970a-9744-f2fd-7d6fbe18daa7.htm">Get<wbr />Icon<wbr />Count<wbr />From<wbr />Executable<wbr />File</a>
+    </li>
+    <li>
+      <a id="2e6ebe1f-5e2f-ea88-5420-e1e7afcd9711" href="2e6ebe1f-5e2f-ea88-5420-e1e7afcd9711.htm">Get<wbr />Image<wbr />Encoder</a>
+    </li>
+    <li>
+      <a id="d5c48f5d-2832-b446-800a-887d5dc444bf" class="has-submenu" href="d5c48f5d-2832-b446-800a-887d5dc444bf.htm">
+        <span data-tocFile="../toc/IDOARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Percentage<wbr />Difference</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="87529f99-aa99-65a5-41fe-ea38d371e329" class="has-submenu" href="87529f99-aa99-65a5-41fe-ea38d371e329.htm">
+        <span data-tocFile="../toc/IDPARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Pixel<wbr />Color<wbr />Percent<wbr />Of<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7cb4fa9c-fe06-ec9a-a9fb-38a5710c4f74" class="has-submenu" href="7cb4fa9c-fe06-ec9a-a9fb-38a5710c4f74.htm">
+        <span data-tocFile="../toc/IDQARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Real<wbr />Window<wbr />Rect</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7f6a696b-1efa-221d-a0f3-0e8ac791482e" href="7f6a696b-1efa-221d-a0f3-0e8ac791482e.htm">Get<wbr />System<wbr />Cursor<wbr />Id</a>
+    </li>
+    <li>
+      <a id="83b6f1c1-b3af-8416-d060-c2690292c30e" class="has-submenu" href="83b6f1c1-b3af-8416-d060-c2690292c30e.htm">
+        <span data-tocFile="../toc/IDSARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Alpha<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b41c95c3-212c-a1ae-452e-a90a29c171b2" href="b41c95c3-212c-a1ae-452e-a90a29c171b2.htm">Overlay<wbr />Images</a>
+    </li>
+    <li>
+      <a id="0046d6de-0d66-94ad-d4c8-ee106946a5cf" href="0046d6de-0d66-94ad-d4c8-ee106946a5cf.htm">System<wbr />Cursor<wbr />Id<wbr />To<wbr />Cursor</a>
+    </li>
+    <li>
+      <a id="eb69318e-03cf-c1c0-95c5-d21e4a2cea04" href="eb69318e-03cf-c1c0-95c5-d21e4a2cea04.htm">Take<wbr />Screenshot<wbr />From<wbr />Control</a>
+    </li>
+    <li>
+      <a id="296368d7-ef2a-0027-999a-16c1f7983446" href="296368d7-ef2a-0027-999a-16c1f7983446.htm">Take<wbr />Screenshot<wbr />From<wbr />Desktop</a>
+    </li>
+    <li>
+      <a id="34e88fd9-a296-85c0-c746-c424b230caef" href="34e88fd9-a296-85c0-c746-c424b230caef.htm">Take<wbr />Screenshot<wbr />From<wbr />Form</a>
+    </li>
+    <li>
+      <a id="d7f330fd-5aea-e1a6-8d43-f00e406654c3" href="d7f330fd-5aea-e1a6-8d43-f00e406654c3.htm">Take<wbr />Screenshot<wbr />From<wbr />Object</a>
+    </li>
+    <li>
+      <a id="29cfadec-bc04-85c1-aa64-02046afa2db9" class="has-submenu" href="29cfadec-bc04-85c1-aa64-02046afa2db9.htm">
+        <span data-tocFile="../toc/IDZARBHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Take<wbr />Screenshot<wbr />From<wbr />Region</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="07c52305-46d5-9faf-e577-181e358ab701" href="07c52305-46d5-9faf-e577-181e358ab701.htm">Take<wbr />Screenshot<wbr />From<wbr />Screen</a>
+    </li>
+    <li>
+      <a id="412df3f1-7f8e-fd5e-f950-b15f082ca0a6" href="412df3f1-7f8e-fd5e-f950-b15f082ca0a6.htm">Take<wbr />Screenshot<wbr />From<wbr />Wpf<wbr />Element</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="51d2657a-6b15-39aa-d8d3-803c1d89dcf0.htm">Dbg<wbr />Help</a>
+    </li>
+    <li>
+      <a href="04c0be8b-ed5c-ad59-a54a-225e626f2e8e.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="96c1b334-4544-b5bd-6f0f-6ad583e734fa" class="has-submenu" href="96c1b334-4544-b5bd-6f0f-6ad583e734fa.htm">
+        <span data-tocFile="../toc/IDAADFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mini<wbr />Dump<wbr />Write<wbr />Dump</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="63ff44e6-6b57-9190-f674-c87a52d83288" href="63ff44e6-6b57-9190-f674-c87a52d83288.htm">Sym<wbr />Cleanup</a>
+    </li>
+    <li>
+      <a id="57a061b4-2e1d-fb89-5a4c-cadf2b23ab4c" href="57a061b4-2e1d-fb89-5a4c-cadf2b23ab4c.htm">Sym<wbr />Enum<wbr />Symbols</a>
+    </li>
+    <li>
+      <a id="cf3600bb-ad74-b79c-b2cf-d6223d10c805" href="cf3600bb-ad74-b79c-b2cf-d6223d10c805.htm">Sym<wbr />Initialize</a>
+    </li>
+    <li>
+      <a id="2209243e-b6a7-eee4-50bb-50407f7d3026" href="2209243e-b6a7-eee4-50bb-50407f7d3026.htm">Sym<wbr />Load<wbr />Module<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="1879dc3d-69bd-a275-63e7-b42bd01e90a0" href="1879dc3d-69bd-a275-63e7-b42bd01e90a0.htm">Sym<wbr />Set<wbr />Options</a>
+    </li>
+  </tocItems>
+</toc>

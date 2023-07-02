@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="30793376-a554-8b77-a4d4-d1b6029357bc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Seven<wbr />Zip<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="e4cbc31b-1e49-2b82-1192-6b2b4e439d86.htm">Archiver</a>
+    </li>
+    <li>
+      <a href="d90a7b42-3237-27ac-985b-8f5691697513.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1d1aa695-3e4d-06fb-994d-e7ef421fd014.htm">Add</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="de8904db-6d14-1baa-3c4f-8a9f5967dc0e" href="de8904db-6d14-1baa-3c4f-8a9f5967dc0e.htm">Add(<wbr />IEnumerable&lt;String&gt;, String)</a>
+    </li>
+    <li>
+      <a id="9f68b9b0-26bb-0fad-413e-89c8cc89a884" href="9f68b9b0-26bb-0fad-413e-89c8cc89a884.htm">Add(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="0d1b91ec-a878-979a-c36f-00882f1edbc9" href="0d1b91ec-a878-979a-c36f-00882f1edbc9.htm">Add(<wbr />IEnumerable&lt;String&gt;, String, String)</a>
+    </li>
+    <li>
+      <a id="e58b97f1-c712-2bb4-47eb-6c1b5eb0c498" href="e58b97f1-c712-2bb4-47eb-6c1b5eb0c498.htm">Add(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="9de9c807-a879-3946-5690-7686cbf4e366" href="9de9c807-a879-3946-5690-7686cbf4e366.htm">Add(<wbr />IEnumerable&lt;String&gt;, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="7bd3186a-c9c1-00a3-ba8c-fcf7943be43c" href="7bd3186a-c9c1-00a3-ba8c-fcf7943be43c.htm">Add(<wbr />String, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="2d680e72-6038-9768-0b69-85382460d109" href="2d680e72-6038-9768-0b69-85382460d109.htm">Add(<wbr />IEnumerable&lt;String&gt;, String, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="b983e164-f394-9095-cee1-7ccdea27de67" href="b983e164-f394-9095-cee1-7ccdea27de67.htm">Add(<wbr />String, String, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="bba0bed6-5961-362a-19af-065f6909b9b5.htm">Util<wbr />Tweaking</a>
+    </li>
+    <li>
+      <a href="425e9e8e-79c2-c67b-52a2-b9b12708b19e.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="91a6c576-9719-51d9-a31f-d1d668b7da8b" href="91a6c576-9719-51d9-a31f-d1d668b7da8b.htm">Accelerator<wbr />Keys<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="0ee1dbd1-070d-400b-f183-294eb4cf348d" href="0ee1dbd1-070d-400b-f183-294eb4cf348d.htm">Active<wbr />Window<wbr />Tracking<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="a6746a7a-4b7a-1e94-3d78-3439c6d03506" href="a6746a7a-4b7a-1e94-3d78-3439c6d03506.htm">Active<wbr />Window<wbr />Tracking<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="9868b5d1-f017-5886-6991-7b3aef025f06" href="9868b5d1-f017-5886-6991-7b3aef025f06.htm">Aero<wbr />Peek<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="29b228f0-cf65-ad90-95c5-fa4231b91447" href="29b228f0-cf65-ad90-95c5-fa4231b91447.htm">Auto<wbr />End<wbr />Tasks</a>
+    </li>
+    <li>
+      <a id="e5a78a37-bcab-e69e-ecf8-4d760405a1d6" href="e5a78a37-bcab-e69e-ecf8-4d760405a1d6.htm">Automatic<wbr />Network<wbr />Discovery<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="4ec4b1b0-d63d-a9a3-08da-deca058383d1" href="4ec4b1b0-d63d-a9a3-08da-deca058383d1.htm">Beep<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="dccf231d-632f-405c-88b5-e9da9f40043e" href="dccf231d-632f-405c-88b5-e9da9f40043e.htm">Bing<wbr />Search<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="591907c5-416c-f26e-99d9-76e32e8ef65d" href="591907c5-416c-f26e-99d9-76e32e8ef65d.htm">Block<wbr />Send<wbr />Input<wbr />Resets<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="44c5cb0f-34ea-2f27-516d-722715fe4fe8" href="44c5cb0f-34ea-2f27-516d-722715fe4fe8.htm">Border<wbr />Multiplier<wbr />Factor</a>
+    </li>
+    <li>
+      <a id="340f637b-4f39-48d8-74bf-1eb4f6c8803f" href="340f637b-4f39-48d8-74bf-1eb4f6c8803f.htm">Caret<wbr />Width</a>
+    </li>
+    <li>
+      <a id="ed80c73f-7967-d641-5fc3-7a0069ec9b31" href="ed80c73f-7967-d641-5fc3-7a0069ec9b31.htm">Cleartype<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="82cad2c8-492e-8aa8-73f5-a62f68adcfe5" href="82cad2c8-492e-8aa8-73f5-a62f68adcfe5.htm">Client<wbr />Area<wbr />Animation<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="7bdf0bc4-c97c-c657-e158-832031ab5be4" href="7bdf0bc4-c97c-c657-e158-832031ab5be4.htm">Combine<wbr />System<wbr />Tray<wbr />Icons</a>
+    </li>
+    <li>
+      <a id="1578efc3-fea7-b237-8734-e8a8e2b1a846" href="1578efc3-fea7-b237-8734-e8a8e2b1a846.htm">Combine<wbr />Taskbar<wbr />Applications</a>
+    </li>
+    <li>
+      <a id="9d4c0d39-36dd-0cdc-951a-dc18d1eba119" href="9d4c0d39-36dd-0cdc-951a-dc18d1eba119.htm">Combo<wbr />Box<wbr />Animation<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e734d9ec-bc94-8542-d523-6d27a9719642" href="e734d9ec-bc94-8542-d523-6d27a9719642.htm">Computer<wbr />Name</a>
+    </li>
+    <li>
+      <a id="476c1e55-7a55-89e7-3536-a090c32e0956" href="476c1e55-7a55-89e7-3536-a090c32e0956.htm">Confirm<wbr />Recycle</a>
+    </li>
+    <li>
+      <a id="95b3e109-9458-e3fb-6972-34e2d6ae0bef" href="95b3e109-9458-e3fb-6972-34e2d6ae0bef.htm">Console<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="c0f21098-b0f5-e548-4026-01e0ff3f59e9" href="c0f21098-b0f5-e548-4026-01e0ff3f59e9.htm">Console<wbr />Buffer<wbr />Amount</a>
+    </li>
+    <li>
+      <a id="8676fbbc-36ec-57b8-2759-cfc36bfc2938" href="8676fbbc-36ec-57b8-2759-cfc36bfc2938.htm">Console<wbr />Buffer<wbr />Size</a>
+    </li>
+    <li>
+      <a id="7fd3f935-320e-bcd0-672a-07040f932b4a" href="7fd3f935-320e-bcd0-672a-07040f932b4a.htm">Console<wbr />Edit<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="1bf98bae-356a-5e43-ea83-334733e98d21" href="1bf98bae-356a-5e43-ea83-334733e98d21.htm">Console<wbr />Fore<wbr />Color</a>
+    </li>
+    <li>
+      <a id="ff058ca4-95ae-5149-d173-5f2e51ebd2fa" href="ff058ca4-95ae-5149-d173-5f2e51ebd2fa.htm">Console<wbr />Transparency</a>
+    </li>
+    <li>
+      <a id="c196cd78-b251-324b-27d3-a095302cd5fc" href="c196cd78-b251-324b-27d3-a095302cd5fc.htm">Consolev<wbr />2Enabled</a>
+    </li>
+    <li>
+      <a id="4ab18045-e0dd-6c1a-8c76-f514fc9ed80e" href="4ab18045-e0dd-6c1a-8c76-f514fc9ed80e.htm">Cortana<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="0175f5d6-65ff-bdff-81a7-6c6de858642e" href="0175f5d6-65ff-bdff-81a7-6c6de858642e.htm">Cortana<wbr />Search<wbr />Box<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="efea70fa-6775-edbf-ac8b-09a1d3f32286" href="efea70fa-6775-edbf-ac8b-09a1d3f32286.htm">Cortana<wbr />Search<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="959867be-8d47-ecce-a04c-1ee0e65b6354" href="959867be-8d47-ecce-a04c-1ee0e65b6354.htm">Cursor<wbr />Shadow<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="46bc71f3-593b-31a3-6966-abd9c1bd6a6d" href="46bc71f3-593b-31a3-6966-abd9c1bd6a6d.htm">Default<wbr />TTL</a>
+    </li>
+    <li>
+      <a id="14650f8d-458b-9ab3-2f8f-da31d30fb2b2" href="14650f8d-458b-9ab3-2f8f-da31d30fb2b2.htm">Defrag<wbr />Boot<wbr />Optimize<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="a92ad90b-5099-c9dc-4285-5561bbaa61ee" href="a92ad90b-5099-c9dc-4285-5561bbaa61ee.htm">Defrag<wbr />Optimal<wbr />Layout<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="8ecefe92-2598-8c9b-e572-8ff3ae4d0f29" href="8ecefe92-2598-8c9b-e572-8ff3ae4d0f29.htm">Desktop<wbr />Auto<wbr />Colorization<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="073325c9-5541-47e4-95f8-be85681d977f" href="073325c9-5541-47e4-95f8-be85681d977f.htm">Desktop<wbr />Live<wbr />Preview<wbr />Hover<wbr />Time</a>
+    </li>
+    <li>
+      <a id="c478e5c2-a778-8e6f-8bce-bf5a7536c917" href="c478e5c2-a778-8e6f-8bce-bf5a7536c917.htm">Double<wbr />Click<wbr />Size</a>
+    </li>
+    <li>
+      <a id="0ad72576-4c21-6a42-17ad-942751c6d857" href="0ad72576-4c21-6a42-17ad-942751c6d857.htm">Double<wbr />Click<wbr />Time</a>
+    </li>
+    <li>
+      <a id="54a3d40d-b0c7-1457-9355-c26ce305e4fa" href="54a3d40d-b0c7-1457-9355-c26ce305e4fa.htm">Drag<wbr />Full<wbr />Windows<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="04ec1321-412f-6c8c-d3c0-317743937da7" href="04ec1321-412f-6c8c-d3c0-317743937da7.htm">Drag<wbr />Size</a>
+    </li>
+    <li>
+      <a id="3466c530-f08c-97fe-596d-94e7bd3d9066" href="3466c530-f08c-97fe-596d-94e7bd3d9066.htm">Drop<wbr />Shadow<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="17128bcf-04f4-41d6-8d1e-49bc7ac124ab" href="17128bcf-04f4-41d6-8d1e-49bc7ac124ab.htm">Explorer<wbr />Navigation<wbr />Panel<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="98ad3980-d42c-2d65-56b4-fffc1793e2ff" href="98ad3980-d42c-2d65-56b4-fffc1793e2ff.htm">Extended<wbr />Paths<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="dd601648-53ec-97f0-7950-1c0ee258adbe" href="dd601648-53ec-97f0-7950-1c0ee258adbe.htm">File<wbr />Checkbox<wbr />Selection<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="85f9f889-063b-e343-3c37-f5d0656802ec" href="85f9f889-063b-e343-3c37-f5d0656802ec.htm">File<wbr />Thumbnail<wbr />Preview<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="4fea5a84-e4ec-2cc9-2dbb-cbf12c30f2dc" href="4fea5a84-e4ec-2cc9-2dbb-cbf12c30f2dc.htm">Filetype<wbr />Overlay<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="b11b9e7c-4ee1-e37d-7a2a-142112510b01" href="b11b9e7c-4ee1-e37d-7a2a-142112510b01.htm">Flat<wbr />Menu<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="bddeb9e3-15ad-946c-3c30-9b5035f156a6" href="bddeb9e3-15ad-946c-3c30-9b5035f156a6.htm">Focus<wbr />Border<wbr />Size</a>
+    </li>
+    <li>
+      <a id="88fabcb5-7ea8-38f3-10e1-01c738be800c" href="88fabcb5-7ea8-38f3-10e1-01c738be800c.htm">Folder<wbr />Merge<wbr />Conflict<wbr />Dialog<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="99bed6d8-7a2e-192e-6d16-9310d62f5297" href="99bed6d8-7a2e-192e-6d16-9310d62f5297.htm">Font<wbr />Smoothing<wbr />Contrast</a>
+    </li>
+    <li>
+      <a id="46a0bf62-4175-707f-723f-30ffb7588e69" href="46a0bf62-4175-707f-723f-30ffb7588e69.htm">Font<wbr />Smoothing<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="cd7ed047-a8e9-7801-ef3a-4a81284a2313" href="cd7ed047-a8e9-7801-ef3a-4a81284a2313.htm">Foreground<wbr />Flash<wbr />Count</a>
+    </li>
+    <li>
+      <a id="50c41b70-64fe-3a50-bf37-2c83190282a9" href="50c41b70-64fe-3a50-bf37-2c83190282a9.htm">Foreground<wbr />Lock<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="bbf5bb09-29b8-af4e-6b6e-bf434e50b6ac" href="bbf5bb09-29b8-af4e-6b6e-bf434e50b6ac.htm">Hide<wbr />Drives<wbr />With<wbr />No<wbr />Media</a>
+    </li>
+    <li>
+      <a id="cc1d193f-4733-4c58-4bc0-6caf6123fa2c" href="cc1d193f-4733-4c58-4bc0-6caf6123fa2c.htm">Hot<wbr />Corner<wbr />Top<wbr />Left<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="2737d87f-90a3-323b-6a49-ce5fd657204b" href="2737d87f-90a3-323b-6a49-ce5fd657204b.htm">Hot<wbr />Corner<wbr />Top<wbr />Right<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="c97a05cd-64eb-73a8-374f-d1c6d8d3ad18" href="c97a05cd-64eb-73a8-374f-d1c6d8d3ad18.htm">Hot<wbr />Tracking<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="4e699162-f8a2-4a86-6b29-aea06ed1e6f4" href="4e699162-f8a2-4a86-6b29-aea06ed1e6f4.htm">Hung<wbr />App<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="01033312-9939-8d4f-9dba-38eb2f821b31" href="01033312-9939-8d4f-9dba-38eb2f821b31.htm">Icon<wbr />Spacing</a>
+    </li>
+    <li>
+      <a id="c794b77e-48f2-7447-6552-95505368d669" href="c794b77e-48f2-7447-6552-95505368d669.htm">Icon<wbr />Title<wbr />Wrapping<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="504094a6-88dd-e639-fa4f-d8ca2c49529c" href="504094a6-88dd-e639-fa4f-d8ca2c49529c.htm">Info<wbr />Tip<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="5dc84d4d-1b2d-aa26-e40f-5728f23ad79a" href="5dc84d4d-1b2d-aa26-e40f-5728f23ad79a.htm">Install<wbr />Date</a>
+    </li>
+    <li>
+      <a id="bc7b4e03-b4bf-7a51-8ab2-417b87395293" href="bc7b4e03-b4bf-7a51-8ab2-417b87395293.htm">Keyboard<wbr />Delay</a>
+    </li>
+    <li>
+      <a id="af36416f-aed8-3451-44ee-f5e82d66edbc" href="af36416f-aed8-3451-44ee-f5e82d66edbc.htm">Keyboard<wbr />Speed</a>
+    </li>
+    <li>
+      <a id="5ec4bfe1-6b55-47c7-001d-7ead00e9bb6e" href="5ec4bfe1-6b55-47c7-001d-7ead00e9bb6e.htm">List<wbr />Box<wbr />Smooth<wbr />Scrolling<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="ebe99b6f-375b-91c5-4a00-38a4ea5bad63" href="ebe99b6f-375b-91c5-4a00-38a4ea5bad63.htm">Low<wbr />Disk<wbr />Free<wbr />Space<wbr />Notification<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="4d1714cf-ad1e-2e71-f9a3-0179e81103e7" href="4d1714cf-ad1e-2e71-f9a3-0179e81103e7.htm">Menu<wbr />Access<wbr />Keys<wbr />Underlined</a>
+    </li>
+    <li>
+      <a id="597fa8cd-c60f-f300-9e21-854575795f12" href="597fa8cd-c60f-f300-9e21-854575795f12.htm">Menu<wbr />Animation<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="29507a10-0557-80c7-6264-78aa0edbdaaf" href="29507a10-0557-80c7-6264-78aa0edbdaaf.htm">Menu<wbr />Fade<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="d5bff6e7-c93a-04ba-cc26-a4054812a00e" href="d5bff6e7-c93a-04ba-cc26-a4054812a00e.htm">Menu<wbr />Show<wbr />Delay</a>
+    </li>
+    <li>
+      <a id="4388066a-a0cc-4648-1eea-cfd164d8fe11" href="4388066a-a0cc-4648-1eea-cfd164d8fe11.htm">Message<wbr />Duration</a>
+    </li>
+    <li>
+      <a id="4c2364c3-796f-1a55-4df6-78e655a33711" href="4c2364c3-796f-1a55-4df6-78e655a33711.htm">Min<wbr />Animate</a>
+    </li>
+    <li>
+      <a id="f804ea89-502d-8d5f-4538-cb0857a328d8" href="f804ea89-502d-8d5f-4538-cb0857a328d8.htm">Minimum<wbr />Selected<wbr />Items<wbr />To<wbr />Invoke<wbr />Menu</a>
+    </li>
+    <li>
+      <a id="c70d4d48-3a64-e78f-0d68-209b0f74034a" href="c70d4d48-3a64-e78f-0d68-209b0f74034a.htm">Mouse<wbr />Buttons<wbr />Swap<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="d0bf7878-f3ac-1eba-44c6-cf222648c32a" href="d0bf7878-f3ac-1eba-44c6-cf222648c32a.htm">Mouse<wbr />Click<wbr />Lock<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="0ebe05d8-f5ea-ca86-4a30-04433c22f848" href="0ebe05d8-f5ea-ca86-4a30-04433c22f848.htm">Mouse<wbr />Click<wbr />Lock<wbr />Time</a>
+    </li>
+    <li>
+      <a id="bf1d28d7-5602-8804-fb64-d84a1542c5c7" href="bf1d28d7-5602-8804-fb64-d84a1542c5c7.htm">Mouse<wbr />Hover<wbr />Size</a>
+    </li>
+    <li>
+      <a id="8d4f5f29-594c-eec2-91cd-2f2fdf17ea86" href="8d4f5f29-594c-eec2-91cd-2f2fdf17ea86.htm">Mouse<wbr />Hover<wbr />Time</a>
+    </li>
+    <li>
+      <a id="a7d7bb13-bba4-5fa2-75c0-080e57e97137" href="a7d7bb13-bba4-5fa2-75c0-080e57e97137.htm">Mouse<wbr />Sonar<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="af8b6e82-b78f-4e45-e43b-345a507f4af5" href="af8b6e82-b78f-4e45-e43b-345a507f4af5.htm">Mouse<wbr />Speed</a>
+    </li>
+    <li>
+      <a id="14fc4933-fced-4db3-39a6-dd347dfb586c" href="14fc4933-fced-4db3-39a6-dd347dfb586c.htm">Mouse<wbr />Trail<wbr />Amount</a>
+    </li>
+    <li>
+      <a id="6e02273e-da17-d386-25dd-cf5b006c17dc" href="6e02273e-da17-d386-25dd-cf5b006c17dc.htm">Mouse<wbr />Trail<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e0651a87-3650-52e9-aa3d-8fce7611c542" href="e0651a87-3650-52e9-aa3d-8fce7611c542.htm">Mouse<wbr />Vanish<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e90a8dd8-1516-666c-8354-08629e8316c7" href="e90a8dd8-1516-666c-8354-08629e8316c7.htm">Mouse<wbr />Wheel<wbr />Scroll<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="48860f5e-3a02-c90a-43f3-924346c86a7f" href="48860f5e-3a02-c90a-43f3-924346c86a7f.htm">My<wbr />PCDisplay<wbr />Name</a>
+    </li>
+    <li>
+      <a id="b5d431bc-1f21-da02-935b-027cb9285060" href="b5d431bc-1f21-da02-935b-027cb9285060.htm">No<wbr />Simple<wbr />Net<wbr />IDList</a>
+    </li>
+    <li>
+      <a id="5d098bde-51e7-be63-9e39-33f880701ec9" href="5d098bde-51e7-be63-9e39-33f880701ec9.htm">Notepad<wbr />Wordwrap<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="cddecef2-8c9d-d75e-3bc2-11abe4ea8a53" href="cddecef2-8c9d-d75e-3bc2-11abe4ea8a53.htm">Notification<wbr />Center<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="60d4409b-5a3a-5b9d-457f-74e3dae709db" href="60d4409b-5a3a-5b9d-457f-74e3dae709db.htm">Oem<wbr />Logo</a>
+    </li>
+    <li>
+      <a id="2f6ff8d8-ae17-df39-0c55-1114808f1ea5" href="2f6ff8d8-ae17-df39-0c55-1114808f1ea5.htm">Oem<wbr />Manufacturer</a>
+    </li>
+    <li>
+      <a id="1a276c10-4679-13a4-9d1a-77ea6c719c49" href="1a276c10-4679-13a4-9d1a-77ea6c719c49.htm">Oem<wbr />Model</a>
+    </li>
+    <li>
+      <a id="8135ee06-9b0f-4d98-abbe-fe9fdb798089" href="8135ee06-9b0f-4d98-abbe-fe9fdb798089.htm">Oem<wbr />Support<wbr />Hours</a>
+    </li>
+    <li>
+      <a id="da692218-0f0a-85bc-40ec-15e68b0524a2" href="da692218-0f0a-85bc-40ec-15e68b0524a2.htm">Oem<wbr />Support<wbr />Phone</a>
+    </li>
+    <li>
+      <a id="819467ca-f304-ca9c-0e23-c410514692f6" href="819467ca-f304-ca9c-0e23-c410514692f6.htm">Oem<wbr />Support<wbr />Url</a>
+    </li>
+    <li>
+      <a id="3f969346-6d58-625e-4755-3482c28169b3" href="3f969346-6d58-625e-4755-3482c28169b3.htm">Overlapped<wbr />Content<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e5e9cd70-9076-0211-26bf-6bba33a74f56" href="e5e9cd70-9076-0211-26bf-6bba33a74f56.htm">Popup<wbr />Menu<wbr />Alignment</a>
+    </li>
+    <li>
+      <a id="d61341bb-a19f-d91d-9f54-cbafa86adf80" href="d61341bb-a19f-d91d-9f54-cbafa86adf80.htm">Product<wbr />Id</a>
+    </li>
+    <li>
+      <a id="7b782089-7228-5b18-c46e-365bac698cef" href="7b782089-7228-5b18-c46e-365bac698cef.htm">Product<wbr />Name</a>
+    </li>
+    <li>
+      <a id="ce989fbf-eaac-63e4-bcbc-b9d5569e1a48" href="ce989fbf-eaac-63e4-bcbc-b9d5569e1a48.htm">Registered<wbr />Organization</a>
+    </li>
+    <li>
+      <a id="e086905e-1f7c-89ef-a55f-f61746528689" href="e086905e-1f7c-89ef-a55f-f61746528689.htm">Registered<wbr />Owner</a>
+    </li>
+    <li>
+      <a id="d7f941fa-cdaa-d514-112c-5a8287b4e391" href="d7f941fa-cdaa-d514-112c-5a8287b4e391.htm">Run<wbr />Explorer<wbr />In<wbr />Separate<wbr />Process<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="fd585fb6-b9b0-91dd-ab52-dbf69593851e" href="fd585fb6-b9b0-91dd-ab52-dbf69593851e.htm">Screensaver<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="b21aac9b-4b13-324c-d668-157230919612" href="b21aac9b-4b13-324c-d668-157230919612.htm">Screensaver<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="414fe99a-5d4e-94e3-b959-d60df7e97f8a" href="414fe99a-5d4e-94e3-b959-d60df7e97f8a.htm">Screensave<wbr />Secure<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="32c72cc5-29c8-d941-dff5-cfeb94e76add" href="32c72cc5-29c8-d941-dff5-cfeb94e76add.htm">Security<wbr />Center<wbr />Notifications<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="bda7e75d-8a07-30fd-5c7d-450b1811221d" href="bda7e75d-8a07-30fd-5c7d-450b1811221d.htm">Selection<wbr />Fade<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="25e564e6-2eb5-b98d-eed4-42861bf050d5" href="25e564e6-2eb5-b98d-eed4-42861bf050d5.htm">Show<wbr />Compressed<wbr />Files<wbr />Color</a>
+    </li>
+    <li>
+      <a id="f34c1ef7-472d-5c63-67f6-1e5bea2b78b8" href="f34c1ef7-472d-5c63-67f6-1e5bea2b78b8.htm">Show<wbr />Desktop<wbr />Icons</a>
+    </li>
+    <li>
+      <a id="2ae47f90-ff88-436e-b119-e0a0b0c3552e" href="2ae47f90-ff88-436e-b119-e0a0b0c3552e.htm">Show<wbr />Filename<wbr />Extensions</a>
+    </li>
+    <li>
+      <a id="11ef7651-fc98-9bdd-f877-cfc4d3ad0599" href="11ef7651-fc98-9bdd-f877-cfc4d3ad0599.htm">Show<wbr />Frequent<wbr />Dirs<wbr />In<wbr />Quick<wbr />Access</a>
+    </li>
+    <li>
+      <a id="53398e36-1936-9ac3-058a-c9a25f52d53f" href="53398e36-1936-9ac3-058a-c9a25f52d53f.htm">Show<wbr />Full<wbr />Path<wbr />In<wbr />Explorer</a>
+    </li>
+    <li>
+      <a id="ae9ad871-1323-5aaa-1c88-964cecfb68fc" href="ae9ad871-1323-5aaa-1c88-964cecfb68fc.htm">Show<wbr />Hidden<wbr />Files</a>
+    </li>
+    <li>
+      <a id="9d259ffe-a469-c85c-b910-13454590ae4b" href="9d259ffe-a469-c85c-b910-13454590ae4b.htm">Show<wbr />One<wbr />Drive<wbr />In<wbr />Folder<wbr />Browser</a>
+    </li>
+    <li>
+      <a id="f60bac5f-3c53-b0e7-08d5-b294a17dd3ff" href="f60bac5f-3c53-b0e7-08d5-b294a17dd3ff.htm">Show<wbr />One<wbr />Drive<wbr />In<wbr />My<wbr />PC</a>
+    </li>
+    <li>
+      <a id="9068e6e7-b74d-361b-5bca-72d26d48fc1e" href="9068e6e7-b74d-361b-5bca-72d26d48fc1e.htm">Show<wbr />Quick<wbr />Access<wbr />In<wbr />Folder<wbr />Browser</a>
+    </li>
+    <li>
+      <a id="073aa552-7597-a8b4-dab6-4e79ea335ccc" href="073aa552-7597-a8b4-dab6-4e79ea335ccc.htm">Show<wbr />Quick<wbr />Access<wbr />In<wbr />My<wbr />PC</a>
+    </li>
+    <li>
+      <a id="8d5a443f-4049-ee67-b0e6-8e589bddc0f0" href="8d5a443f-4049-ee67-b0e6-8e589bddc0f0.htm">Show<wbr />Recent<wbr />Items<wbr />In<wbr />Quick<wbr />Access</a>
+    </li>
+    <li>
+      <a id="1c8678de-4e72-6eff-fde4-3b482b630cea" href="1c8678de-4e72-6eff-fde4-3b482b630cea.htm">Show<wbr />Shortcut<wbr />File<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="03c1c18f-2376-8379-3c03-55c6d5a8df9c" href="03c1c18f-2376-8379-3c03-55c6d5a8df9c.htm">Show<wbr />Shortcut<wbr />Suffix</a>
+    </li>
+    <li>
+      <a id="53721696-5e54-91bf-5bfb-26afb803dea8" href="53721696-5e54-91bf-5bfb-26afb803dea8.htm">Show<wbr />Super<wbr />Hidden<wbr />Files</a>
+    </li>
+    <li>
+      <a id="e1cf7bcf-a133-7833-9f44-7ecfb6fe184c" href="e1cf7bcf-a133-7833-9f44-7ecfb6fe184c.htm">Show<wbr />System<wbr />Files</a>
+    </li>
+    <li>
+      <a id="5321b96d-47d3-4be0-64e3-560753d5d577" href="5321b96d-47d3-4be0-64e3-560753d5d577.htm">Show<wbr />Url<wbr />File<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="42dd94ff-798f-7960-05b8-12545450a2ad" href="42dd94ff-798f-7960-05b8-12545450a2ad.htm">Show<wbr />Windows<wbr />Store<wbr />Pinned<wbr />In<wbr />Taskbar</a>
+    </li>
+    <li>
+      <a id="de91bfa2-3e2b-7d24-6e02-ceac4eeff76a" href="de91bfa2-3e2b-7d24-6e02-ceac4eeff76a.htm">Slow<wbr />Search<wbr />Notification<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="7c221218-d43b-658b-9317-10352e6ba77c" href="7c221218-d43b-658b-9317-10352e6ba77c.htm">Snap<wbr />To<wbr />Default<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e0a20640-862d-9f8d-8647-8e1a6ea3b4b5" href="e0a20640-862d-9f8d-8647-8e1a6ea3b4b5.htm">Status<wbr />Bar<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="154cb29f-e662-a224-36fc-637ab288d358" href="154cb29f-e662-a224-36fc-637ab288d358.htm">System<wbr />Date<wbr />Time</a>
+    </li>
+    <li>
+      <a id="7cfb90ca-cfcb-001c-bd0c-5cf7d7b57aef" href="7cfb90ca-cfcb-001c-bd0c-5cf7d7b57aef.htm">System<wbr />Language<wbr />Bar<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="1c07eca6-e225-a922-1ae9-9e8046c4203e" href="1c07eca6-e225-a922-1ae9-9e8046c4203e.htm">Taskbar<wbr />Animations<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="8e85a7ab-103c-0e5f-0814-f22d454790ee" href="8e85a7ab-103c-0e5f-0814-f22d454790ee.htm">Title<wbr />Bar<wbr />Gradient<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="d301faae-0e08-56d0-ebc8-b877ba153b4b" href="d301faae-0e08-56d0-ebc8-b877ba153b4b.htm">Tool<wbr />Tip<wbr />Animation<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e7f982b8-8e05-18f6-c08c-75ae79db8eb0" href="e7f982b8-8e05-18f6-c08c-75ae79db8eb0.htm">UIEffects<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e763cbe8-95c0-f201-b74e-02cf17cc62ac" href="e763cbe8-95c0-f201-b74e-02cf17cc62ac.htm">Wait<wbr />To<wbr />Kill<wbr />App<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="46a8b917-5eed-2984-d5aa-12aeb946cfa5" href="46a8b917-5eed-2984-d5aa-12aeb946cfa5.htm">Wait<wbr />To<wbr />Kill<wbr />Service<wbr />Timeout</a>
+    </li>
+    <li>
+      <a id="c13c2195-ee35-62c8-ea44-1e8e3895b45c" href="c13c2195-ee35-62c8-ea44-1e8e3895b45c.htm">Wheelscroll<wbr />Chars</a>
+    </li>
+    <li>
+      <a id="b72e2503-0d76-4347-711a-29528055acef" href="b72e2503-0d76-4347-711a-29528055acef.htm">Window<wbr />Arrangement<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="8beb89d6-e278-3c7a-22f6-6c755b2a73ab" href="8beb89d6-e278-3c7a-22f6-6c755b2a73ab.htm">Windows<wbr />Error<wbr />Reporting<wbr />Enabled</a>
+    </li>
+  </tocItems>
+</toc>

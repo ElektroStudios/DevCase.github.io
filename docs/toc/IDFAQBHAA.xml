@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="35dc9a33-9bde-f48d-1885-85c1e965928f.htm">Util<wbr />Drawing</a>
+    </li>
+    <li>
+      <a href="19f63293-2ee5-2650-b1d2-1f604014fb67.htm">Methods</a>
+    </li>
+    <li>
+      <a href="22ff5d25-be7a-cd5e-7d85-f871466db712.htm">Get<wbr />Random<wbr />Point</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e2e56efc-a3c4-fcb4-2a82-d4417ce21e44" href="e2e56efc-a3c4-fcb4-2a82-d4417ce21e44.htm">Get<wbr />Random<wbr />Point</a>
+    </li>
+    <li>
+      <a id="b79c63ba-b4d6-36a5-71e0-f320fbd62aa0" href="b79c63ba-b4d6-36a5-71e0-f320fbd62aa0.htm">Get<wbr />Random<wbr />Point(<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="4a93b6e8-6909-2a65-af01-39069268fa13" href="4a93b6e8-6909-2a65-af01-39069268fa13.htm">Get<wbr />Random<wbr />Point(<wbr />Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="71a3682c-8a97-e8cc-500c-0b0b7b5f3d1e" href="71a3682c-8a97-e8cc-500c-0b0b7b5f3d1e.htm">Get<wbr />Random<wbr />Point(<wbr />Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

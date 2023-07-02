@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly.<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="57f5d84e-f8fa-532e-5814-b61731b33fe3.htm">Util<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="566bf1e5-ee8e-dd7a-f7ce-9a19660553cc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5a5b0d94-d4ec-6bcd-10d2-98c460d7f67c.htm">Get<wbr />All<wbr />Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a260697c-4c56-5b3a-38c8-1a6674bcc254" href="a260697c-4c56-5b3a-38c8-1a6674bcc254.htm">Get<wbr />All<wbr />Constructors&lt;T&gt;(<wbr />Binding<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="f876c48b-ff1c-a153-6112-80b825e50168" href="f876c48b-ff1c-a153-6112-80b825e50168.htm">Get<wbr />All<wbr />Constructors(<wbr />Object, Binding<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="e5fe98d9-0991-1fe2-b054-0dec13787d00" href="e5fe98d9-0991-1fe2-b054-0dec13787d00.htm">Get<wbr />All<wbr />Constructors(<wbr />Type, Binding<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

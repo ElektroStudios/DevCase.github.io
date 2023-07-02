@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="32a28f89-3c1c-57ba-edac-707656aba266.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Servicing</a>
+    </li>
+    <li>
+      <a href="e0050b0b-49f2-221c-155a-593c582f2b2e.htm">Util<wbr />Servicing</a>
+    </li>
+    <li>
+      <a href="38d6f29c-dbfe-c3f2-8a10-ea3b70659138.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="15da8d58-de70-0961-fc5f-199c595b444b" href="15da8d58-de70-0961-fc5f-199c595b444b.htm">Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="209eef41-3f06-769b-901e-b4770d1d5fc6" href="209eef41-3f06-769b-901e-b4770d1d5fc6.htm">Get<wbr />Name</a>
+    </li>
+    <li>
+      <a id="1ff972bc-7d0a-4158-fc4a-89e608f30a6a" class="has-submenu" href="1ff972bc-7d0a-4158-fc4a-89e608f30a6a.htm">
+        <span data-tocFile="../toc/IDCBDGKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Start<wbr />Mode</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b4a4ea8c-0983-4657-2a41-d6c8cdd1ca7f" href="b4a4ea8c-0983-4657-2a41-d6c8cdd1ca7f.htm">Get<wbr />Status</a>
+    </li>
+    <li>
+      <a id="7e85115f-7eb9-1fe9-ac96-0d28d30fb0b2" href="7e85115f-7eb9-1fe9-ac96-0d28d30fb0b2.htm">Install<wbr />Service</a>
+    </li>
+    <li>
+      <a id="df020a9a-ba8c-fd13-bdcc-31779efca694" class="has-submenu" href="df020a9a-ba8c-fd13-bdcc-31779efca694.htm">
+        <span data-tocFile="../toc/IDFBDGKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Start<wbr />Mode</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bad48e17-c2b9-4e49-731e-3451db81a928" class="has-submenu" href="bad48e17-c2b9-4e49-731e-3451db81a928.htm">
+        <span data-tocFile="../toc/IDGBDGKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Status</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0592ec5a-e3fd-92c5-cb24-acc2df39c5ec" href="0592ec5a-e3fd-92c5-cb24-acc2df39c5ec.htm">Uninstall<wbr />Service</a>
+    </li>
+  </tocItems>
+</toc>

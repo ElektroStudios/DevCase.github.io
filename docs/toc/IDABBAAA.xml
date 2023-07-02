@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="e8bdae7e-1d72-8e13-0454-1b84298d8c8d.htm">Console<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a href="b41cff9b-ed82-a23e-e404-43e875ff8207.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2350acd7-ac4a-99eb-50c9-d401f58fae71" href="2350acd7-ac4a-99eb-50c9-d401f58fae71.htm">Console<wbr />Rectangle(<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="b46ad021-999e-3661-c414-77a42f2b0d2e" href="b46ad021-999e-3661-c414-77a42f2b0d2e.htm">Console<wbr />Rectangle(<wbr />Point, Size)</a>
+    </li>
+    <li>
+      <a id="55d439a5-6714-ea0d-fc65-410df1b56794" href="55d439a5-6714-ea0d-fc65-410df1b56794.htm">Console<wbr />Rectangle(<wbr />Rectangle, Char, Char, Char, Char)</a>
+    </li>
+    <li>
+      <a id="111cc4e6-15f6-fd8a-0bca-556c8e5bbf49" href="111cc4e6-15f6-fd8a-0bca-556c8e5bbf49.htm">Console<wbr />Rectangle(<wbr />Point, Size, Char, Char, Char, Char)</a>
+    </li>
+  </tocItems>
+</toc>

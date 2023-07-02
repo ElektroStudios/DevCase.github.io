@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="f945e44f-8017-7c96-d4ed-bd39b0091b42.htm">Audio<wbr />Player</a>
+    </li>
+    <li>
+      <a href="f4ac16c3-228c-4b29-8837-d1c439f1bd66.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0da07676-3da9-85e1-dae8-b2ca9d966790" href="0da07676-3da9-85e1-dae8-b2ca9d966790.htm">Channels</a>
+    </li>
+    <li>
+      <a id="08dbaa9e-08c9-8e92-9a50-540353626fbf" href="08dbaa9e-08c9-8e92-9a50-540353626fbf.htm">Filepath</a>
+    </li>
+    <li>
+      <a id="f06327c6-0123-46be-a4ff-99d248cc585e" href="f06327c6-0123-46be-a4ff-99d248cc585e.htm">Handle</a>
+    </li>
+    <li>
+      <a id="4770f7ef-eb4c-923a-6217-ff7d90f086f7" href="4770f7ef-eb4c-923a-6217-ff7d90f086f7.htm">Is<wbr />File<wbr />Loaded</a>
+    </li>
+    <li>
+      <a id="c8b9149b-fd4f-493f-c336-0e771474d9d5" href="c8b9149b-fd4f-493f-c336-0e771474d9d5.htm">Length</a>
+    </li>
+    <li>
+      <a id="6227498c-d553-df97-679d-98b3191c1cc2" href="6227498c-d553-df97-679d-98b3191c1cc2.htm">Playback<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="c366f92e-13b6-bde3-370c-6c2bb3fedf83" href="c366f92e-13b6-bde3-370c-6c2bb3fedf83.htm">Position</a>
+    </li>
+    <li>
+      <a id="32f9ae76-01b2-d2df-736e-dea1fa47d1a9" href="32f9ae76-01b2-d2df-736e-dea1fa47d1a9.htm">Status</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="dba4f045-fe88-1f93-c86d-eaf85300948f.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Hardware<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="7a98ba7a-6753-eaf3-82cc-24bd3038497d.htm">Disk<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="e576235b-f267-3afe-df4c-efb8003c733e.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9da66a15-c97f-a17e-fc2a-cdd6296074c7" href="9da66a15-c97f-a17e-fc2a-cdd6296074c7.htm">Filesize</a>
+    </li>
+    <li>
+      <a id="2d4dbf68-78ef-d257-de8d-ccc68b6463d7" href="2d4dbf68-78ef-d257-de8d-ccc68b6463d7.htm">Instance<wbr />Read<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="2bc37dcb-5947-0247-cac6-55884d935921" href="2bc37dcb-5947-0247-cac6-55884d935921.htm">Instance<wbr />Read<wbr />Count</a>
+    </li>
+    <li>
+      <a id="8011bdd1-4c00-cdba-a08d-d436dc973bcf" href="8011bdd1-4c00-cdba-a08d-d436dc973bcf.htm">Instance<wbr />Write<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="fd84ffa6-39c1-024b-facc-faddff64d48a" href="fd84ffa6-39c1-024b-facc-faddff64d48a.htm">Instance<wbr />Write<wbr />Count</a>
+    </li>
+    <li>
+      <a id="ee6abd43-1eba-1973-5d16-ab47f63211ea" href="ee6abd43-1eba-1973-5d16-ab47f63211ea.htm">Process<wbr />Read<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="01f76efa-332f-cc4a-b183-170d83c4caad" href="01f76efa-332f-cc4a-b183-170d83c4caad.htm">Process<wbr />Read<wbr />Count</a>
+    </li>
+    <li>
+      <a id="7c9dea71-6edc-9987-6de5-6d24df8cd20c" href="7c9dea71-6edc-9987-6de5-6d24df8cd20c.htm">Process<wbr />Write<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="5565064c-ccf6-f96e-7de7-a8379ada7476" href="5565064c-ccf6-f96e-7de7-a8379ada7476.htm">Process<wbr />Write<wbr />Count</a>
+    </li>
+  </tocItems>
+</toc>

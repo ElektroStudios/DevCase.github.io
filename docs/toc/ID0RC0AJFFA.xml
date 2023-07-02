@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f2921a5c-750b-6ace-6bcf-3070047836a5.htm">Find<wbr />Resource</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="80a7243a-1a79-a1ef-589c-87e0798bb6fd" href="80a7243a-1a79-a1ef-589c-87e0798bb6fd.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Resource<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="12d473f0-727e-1fcf-1396-fbf3629cee14" href="12d473f0-727e-1fcf-1396-fbf3629cee14.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="9f0d422b-23c6-989f-a78d-ba20766a9b91" href="9f0d422b-23c6-989f-a78d-ba20766a9b91.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, String, Resource<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="b1fc8c16-e68d-da83-9de6-8ca84f2cc4cf" href="b1fc8c16-e68d-da83-9de6-8ca84f2cc4cf.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, String, String)</a>
+    </li>
+    <li>
+      <a id="ff5e3e65-932c-0128-cd7f-b03bbcb097b8" href="ff5e3e65-932c-0128-cd7f-b03bbcb097b8.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, Int<wbr />Ptr, Resource<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="e28e800e-16ae-d967-2a4c-307237be263b" href="e28e800e-16ae-d967-2a4c-307237be263b.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="a0b2407d-a5b3-994d-2526-7af530ebf7cd" href="a0b2407d-a5b3-994d-2526-7af530ebf7cd.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, String, Resource<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="13d57a1d-f5d5-2e2f-8d2a-17cbe616a5a4" href="13d57a1d-f5d5-2e2f-8d2a-17cbe616a5a4.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

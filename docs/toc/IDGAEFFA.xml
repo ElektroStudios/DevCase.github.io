@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="254f2ca3-4603-3281-426c-087fc5b842dd.htm">Dwm<wbr />Api</a>
+    </li>
+    <li>
+      <a href="e69dacc6-39b2-843f-60ff-ba9717cc909e.htm">Methods</a>
+    </li>
+    <li>
+      <a href="4084a14c-bfc1-0936-afc6-3702226d2c3e.htm">Dwm<wbr />Get<wbr />Window<wbr />Attribute</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fc485cda-d647-c5e7-6da3-4038d6de11a3" href="fc485cda-d647-c5e7-6da3-4038d6de11a3.htm">Dwm<wbr />Get<wbr />Window<wbr />Attribute(<wbr />Int<wbr />Ptr, Dwm<wbr />Window<wbr />Attribute, Native<wbr />Rectangle, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="4c674803-d907-b702-7f48-778e7c9f0126" href="4c674803-d907-b702-7f48-778e7c9f0126.htm">Dwm<wbr />Get<wbr />Window<wbr />Attribute(<wbr />Int<wbr />Ptr, Dwm<wbr />Window<wbr />Attribute, Boolean, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="7540d30f-86d0-5f83-b397-c3219a34b2bb" href="7540d30f-86d0-5f83-b397-c3219a34b2bb.htm">Dwm<wbr />Get<wbr />Window<wbr />Attribute(<wbr />Safe<wbr />Handle, Dwm<wbr />Window<wbr />Attribute, Native<wbr />Rectangle, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="ee15b1b8-1565-9a2a-ab2d-c58644e647bd" href="ee15b1b8-1565-9a2a-ab2d-c58644e647bd.htm">Dwm<wbr />Get<wbr />Window<wbr />Attribute(<wbr />Safe<wbr />Handle, Dwm<wbr />Window<wbr />Attribute, Boolean, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

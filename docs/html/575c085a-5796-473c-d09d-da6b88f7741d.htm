@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>DwmPreviewManager.ThumbnailImage Property</title>
+    <meta name="Title" content="ThumbnailImage" />
+    <meta name="Help.Id" content="P:DevCase.Core.Application.Forms.DwmPreviewManager.ThumbnailImage" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Core.Application.Forms" />
+    <meta name="guid" content="575c085a-5796-473c-d09d-da6b88f7741d" />
+    <meta name="Description" content="Gets or sets the image that will be used to display a thumbnail preview of the current Window." />
+    <meta name="tocFile" content="../toc/IDBJCAAA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Dwm<wbr />Preview<wbr />Manager<span id="LSTE2893D0C_0" data-languageSpecificText="cpp=::|nu=."></span>Thumbnail<wbr />Image Property</h1>
+            <div class="summary">
+ Gets or sets the image that will be used to display a thumbnail preview of the current Window.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">DevCase.Core.Application.Forms</a><br /><strong>Assembly:</strong> DevCase.Core.Application.Forms (in DevCase.Core.Application.Forms.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">virtual</span> <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a> <span class="identifier">ThumbnailImage</span> { <span class="keyword">get</span>; <span class="keyword">set</span>; }</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Overridable</span> <span class="keyword">Property</span> <span class="identifier">ThumbnailImage</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a>
+	<span class="keyword">Get</span>
+	<span class="keyword">Set</span>
+
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <a href="626a3fd0-ba2d-9c16-7319-b7100b96d74e.htm">DwmPreviewManager</a>
+<span class="keyword">Dim</span> <span class="parameter">value</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a>
+
+<span class="parameter">value</span> = instance.<span class="identifier">ThumbnailImage</span>
+instance.<span class="identifier">ThumbnailImage</span> = <span class="parameter">value</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
+<span class="keyword">virtual</span> <span class="keyword">property</span> <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a>^ <span class="identifier">ThumbnailImage</span> {
+	<a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a>^ <span class="keyword">get</span> ();
+	<span class="keyword">void</span> <span class="keyword">set</span> (<a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a>^ <span class="parameter">value</span>);
+}</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">abstract</span> <span class="identifier">ThumbnailImage</span> : <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a> <span class="keyword">with</span> <span class="keyword">get</span>, <span class="keyword">set</span>
+<span class="keyword">override</span> <span class="identifier">ThumbnailImage</span> : <a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a> <span class="keyword">with</span> <span class="keyword">get</span>, <span class="keyword">set</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4>Property Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.drawing.bitmap" target="_top" rel="noopener noreferrer">Bitmap</a><br />
+ The image that will be used to display a thumbnail preview of the current Window.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="626a3fd0-ba2d-9c16-7319-b7100b96d74e.htm">DwmPreviewManager Class</a>
+              </div>
+              <div>
+                <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">DevCase.Core.Application.Forms Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+    <script>
+		$(".requestExampleLink").each(function ()
+		{
+			if(this.href.substring(0, 4).toLowerCase() === "http")
+				this.href += "?title=";
+			else
+				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+
+			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
+				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +
+				"scenario you would like to see addressed.%0D%0DHelp Topic: " + window.location.href).replace(/%250D/g, "%0D");
+		});
+	</script>
+  </body>
+</html>

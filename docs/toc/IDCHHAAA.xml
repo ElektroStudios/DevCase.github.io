@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="9bd2f8ed-89ef-b24a-df06-b97f96885e24.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="32074694-dcc2-d889-6663-ea2387fe2093.htm">Command<wbr />Line<wbr />Value<wbr />Parameter<wbr />Collection</a>
+    </li>
+    <li>
+      <a href="85f70840-4398-e1da-2257-e6445a445d54.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a50c025e-a752-0a64-6803-6a3143fef6b2" href="a50c025e-a752-0a64-6803-6a3143fef6b2.htm">Add</a>
+    </li>
+    <li>
+      <a id="3358b66a-9d28-3293-857c-2fa617f29fd7" href="3358b66a-9d28-3293-857c-2fa617f29fd7.htm">Add<wbr />Range</a>
+    </li>
+    <li>
+      <a id="44753e67-56f7-c0ea-9776-ba6f8ed4744b" class="has-submenu" href="44753e67-56f7-c0ea-9776-ba6f8ed4744b.htm">
+        <span data-tocFile="../toc/IDCCHHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Contains</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8d2330c0-8fce-e84f-8522-06f74be3e617" href="8d2330c0-8fce-e84f-8522-06f74be3e617.htm">Find</a>
+    </li>
+    <li>
+      <a id="e1ef263a-7943-71e8-6295-039a35b9d5a4" class="has-submenu" href="e1ef263a-7943-71e8-6295-039a35b9d5a4.htm">
+        <span data-tocFile="../toc/IDECHHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Index<wbr />Of</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="47c3e035-efbe-2a13-78cd-7e966ea5374c" class="has-submenu" href="47c3e035-efbe-2a13-78cd-7e966ea5374c.htm">
+        <span data-tocFile="../toc/IDFCHHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

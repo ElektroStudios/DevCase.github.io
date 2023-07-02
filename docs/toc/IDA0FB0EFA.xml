@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="3ac36e3b-e262-aaf3-9c10-0ea02c607911.htm">ITaskbar<wbr />List<wbr />4</a>
+    </li>
+    <li>
+      <a href="a81c54c7-04fd-e6b8-d888-967eb3c7289d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f3ca12de-dea0-349e-0abe-8c4f429fb1e7" href="f3ca12de-dea0-349e-0abe-8c4f429fb1e7.htm">Activate<wbr />Tab</a>
+    </li>
+    <li>
+      <a id="ca22ad2d-a4be-7099-1107-cefaba07723b" href="ca22ad2d-a4be-7099-1107-cefaba07723b.htm">Add<wbr />Tab</a>
+    </li>
+    <li>
+      <a id="bb2597db-e735-4647-d4ef-4de4ccf77128" href="bb2597db-e735-4647-d4ef-4de4ccf77128.htm">Delete<wbr />Tab</a>
+    </li>
+    <li>
+      <a id="8ea2b969-6fd6-429c-c693-5c3eec580be1" href="8ea2b969-6fd6-429c-c693-5c3eec580be1.htm">Hr<wbr />Init</a>
+    </li>
+    <li>
+      <a id="fcf1a2d7-2fbc-45a1-711c-9598c2887f66" href="fcf1a2d7-2fbc-45a1-711c-9598c2887f66.htm">Mark<wbr />Fullscreen<wbr />Window</a>
+    </li>
+    <li>
+      <a id="416a4fb6-86a7-076b-2075-ff1fb0f47201" href="416a4fb6-86a7-076b-2075-ff1fb0f47201.htm">Not<wbr />Implemented_<wbr />Set<wbr />Tab<wbr />Properties</a>
+    </li>
+    <li>
+      <a id="6cb94c3b-6e8d-42ea-796c-5036360a28ba" href="6cb94c3b-6e8d-42ea-796c-5036360a28ba.htm">Not<wbr />Implemented_<wbr />Thumb<wbr />Bar<wbr />Add<wbr />Buttons</a>
+    </li>
+    <li>
+      <a id="28452ded-c1fe-b77a-cc8e-d9123b066adf" href="28452ded-c1fe-b77a-cc8e-d9123b066adf.htm">Not<wbr />Implemented_<wbr />Thumb<wbr />Bar<wbr />Update<wbr />Buttons</a>
+    </li>
+    <li>
+      <a id="1a7e8e99-3dbc-9308-684d-0c326319ceaa" href="1a7e8e99-3dbc-9308-684d-0c326319ceaa.htm">Register<wbr />Tab</a>
+    </li>
+    <li>
+      <a id="c3fc3d8f-9d6f-2bc3-e743-1851e258a8ea" href="c3fc3d8f-9d6f-2bc3-e743-1851e258a8ea.htm">Set<wbr />Active<wbr />Alt</a>
+    </li>
+    <li>
+      <a id="20826286-b30e-6362-7db6-af7389450d12" href="20826286-b30e-6362-7db6-af7389450d12.htm">Set<wbr />Overlay<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="9fa1b03a-1008-db0b-7dd1-f9956de2b311" href="9fa1b03a-1008-db0b-7dd1-f9956de2b311.htm">Set<wbr />Progress<wbr />State</a>
+    </li>
+    <li>
+      <a id="6de984d0-0b6f-0dec-b919-310cb790ea3c" href="6de984d0-0b6f-0dec-b919-310cb790ea3c.htm">Set<wbr />Progress<wbr />Value</a>
+    </li>
+    <li>
+      <a id="01c1e3c7-bf9d-af2c-bf48-3ea735195533" href="01c1e3c7-bf9d-af2c-bf48-3ea735195533.htm">Set<wbr />Tab<wbr />Active</a>
+    </li>
+    <li>
+      <a id="16a66ffb-bf49-063b-6a78-5c1ad064fb18" href="16a66ffb-bf49-063b-6a78-5c1ad064fb18.htm">Set<wbr />Tab<wbr />Order</a>
+    </li>
+    <li>
+      <a id="9cc98f34-039d-7ecf-08d3-00b8aaf57730" href="9cc98f34-039d-7ecf-08d3-00b8aaf57730.htm">Set<wbr />Thumbnail<wbr />Clip</a>
+    </li>
+    <li>
+      <a id="33f43a8d-0cec-3c47-0254-adeba580c5cc" href="33f43a8d-0cec-3c47-0254-adeba580c5cc.htm">Set<wbr />Thumbnail<wbr />Tooltip</a>
+    </li>
+    <li>
+      <a id="36c8a4b7-c65e-3138-ecba-33a38bd37a56" href="36c8a4b7-c65e-3138-ecba-33a38bd37a56.htm">Thumb<wbr />Bar<wbr />Set<wbr />Image<wbr />List</a>
+    </li>
+    <li>
+      <a id="d025b535-a438-e814-c166-5a1a55dbb8a0" href="d025b535-a438-e814-c166-5a1a55dbb8a0.htm">Unregister<wbr />Tab</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="40133bb0-7dd9-1c64-25c8-90061305ee49.htm">Reparse<wbr />Data<wbr />Buffer</a>
+    </li>
+    <li>
+      <a href="16d887f8-7aa0-a9f2-14f1-fcfa9ba29188.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="28764ca7-65aa-7cb2-4e8a-f781ed54ff92" href="28764ca7-65aa-7cb2-4e8a-f781ed54ff92.htm">Buffer</a>
+    </li>
+    <li>
+      <a id="23a1302f-644b-34c9-3e06-4382c137f156" href="23a1302f-644b-34c9-3e06-4382c137f156.htm">Flags</a>
+    </li>
+    <li>
+      <a id="6c6d6f7e-778d-e5cf-88ae-d04c082b8a59" href="6c6d6f7e-778d-e5cf-88ae-d04c082b8a59.htm">Print<wbr />Name<wbr />Length</a>
+    </li>
+    <li>
+      <a id="48dd860d-d89a-87ed-d55d-45911e726b85" href="48dd860d-d89a-87ed-d55d-45911e726b85.htm">Print<wbr />Name<wbr />Offset</a>
+    </li>
+    <li>
+      <a id="53949607-b902-6ab0-49d1-9e1e5b698058" href="53949607-b902-6ab0-49d1-9e1e5b698058.htm">Reparse<wbr />Data<wbr />Length</a>
+    </li>
+    <li>
+      <a id="8ac5dc2e-a550-ba59-bce6-5f2b03cca61d" href="8ac5dc2e-a550-ba59-bce6-5f2b03cca61d.htm">Reparse<wbr />Tag</a>
+    </li>
+    <li>
+      <a id="d97c6815-a863-2acf-bdef-2a48f4aab8d1" href="d97c6815-a863-2acf-bdef-2a48f4aab8d1.htm">Reserved</a>
+    </li>
+    <li>
+      <a id="63c93618-bb44-2183-b933-3a849ece1b6e" href="63c93618-bb44-2183-b933-3a849ece1b6e.htm">Substitute<wbr />Name<wbr />Length</a>
+    </li>
+    <li>
+      <a id="28d2ae83-6033-718e-49c3-d3dd26d16e4f" href="28d2ae83-6033-718e-49c3-d3dd26d16e4f.htm">Substitute<wbr />Name<wbr />Offset</a>
+    </li>
+  </tocItems>
+</toc>

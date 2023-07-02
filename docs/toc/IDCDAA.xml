@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Compilation</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="49bfcc5e-48fe-a7d6-7212-c1f582c960cb" href="49bfcc5e-48fe-a7d6-7212-c1f582c960cb.htm">Assembly<wbr />Platform</a>
+    </li>
+    <li>
+      <a id="5d624f2f-6fe7-54f5-7957-7ccd2ecc79d9" href="5d624f2f-6fe7-54f5-7957-7ccd2ecc79d9.htm">Assembly<wbr />Type</a>
+    </li>
+    <li>
+      <a id="1a162c08-81b1-f4ce-1746-73fb703a0c93" class="has-submenu" href="1a162c08-81b1-f4ce-1746-73fb703a0c93.htm">
+        <span data-tocFile="../toc/IDCCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f8617aa7-e414-5a38-14a4-cfe4d8f0bc27" class="has-submenu" href="f8617aa7-e414-5a38-14a4-cfe4d8f0bc27.htm">
+        <span data-tocFile="../toc/IDDCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Error<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d4714dc5-395e-ffed-5fa5-d88e0d95d560" class="has-submenu" href="d4714dc5-395e-ffed-5fa5-d88e0d95d560.htm">
+        <span data-tocFile="../toc/IDECDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Results<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="585bf6b9-cc0b-3eff-105e-3766ee94e572" class="has-submenu" href="585bf6b9-cc0b-3eff-105e-3766ee94e572.htm">
+        <span data-tocFile="../toc/IDFCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Settings</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7ee3b873-f804-df71-4fcd-4ae17eae30c0" class="has-submenu" href="7ee3b873-f804-df71-4fcd-4ae17eae30c0.htm">
+        <span data-tocFile="../toc/IDGCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Versions</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="da3b14d6-2549-3a83-6015-854663156ce5" class="has-submenu" href="da3b14d6-2549-3a83-6015-854663156ce5.htm">
+        <span data-tocFile="../toc/IDHCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Warning</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ab3363e3-64f4-3a90-4946-ab611d459498" href="ab3363e3-64f4-3a90-4946-ab611d459498.htm">Compiler<wbr />Warning<wbr />Level</a>
+    </li>
+    <li>
+      <a id="b355a3cb-b933-2b23-18d1-90f38cb7f365" class="has-submenu" href="b355a3cb-b933-2b23-18d1-90f38cb7f365.htm">
+        <span data-tocFile="../toc/IDJCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compiler<wbr />Work<wbr />Done<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="764b084e-c0b8-a847-d62b-de58c282d53c" class="has-submenu" href="764b084e-c0b8-a847-d62b-de58c282d53c.htm">
+        <span data-tocFile="../toc/IDKCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>CSharp<wbr />Compiler</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5f03ae11-5db6-6fba-b2d7-c2e4338076b3" href="5f03ae11-5db6-6fba-b2d7-c2e4338076b3.htm">Ms<wbr />Build<wbr />Version</a>
+    </li>
+    <li>
+      <a id="8ba848b0-da87-7d43-675a-dfabef5f95de" class="has-submenu" href="8ba848b0-da87-7d43-675a-dfabef5f95de.htm">
+        <span data-tocFile="../toc/IDMCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Subsystem<wbr />Versions</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="68850dfa-41c7-f21b-3835-9a69373c0ef5" class="has-submenu" href="68850dfa-41c7-f21b-3835-9a69373c0ef5.htm">
+        <span data-tocFile="../toc/IDNCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Net<wbr />Code<wbr />Compiler</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="66518cd0-0002-a9ea-6e0f-8c0db1bd79b7" class="has-submenu" href="66518cd0-0002-a9ea-6e0f-8c0db1bd79b7.htm">
+        <span data-tocFile="../toc/IDOCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Visual<wbr />Basic<wbr />Compiler</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

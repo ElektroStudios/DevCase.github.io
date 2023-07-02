@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6c072a3f-4cf8-23db-2f9a-f9d0a753d5b0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="54908a51-0e30-6d79-bdd6-35379f36eacf.htm">Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="0a54a0a1-ec8f-0c80-8ea0-3e7c3b79ffe1.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="46b816b4-525d-2616-5f83-a6b9743daad9" class="has-submenu" href="46b816b4-525d-2616-5f83-a6b9743daad9.htm">
+        <span data-tocFile="../toc/IDAAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>For<wbr />Each<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a91917f6-38e9-9888-a84d-3a2650ca3820" href="a91917f6-38e9-9888-a84d-3a2650ca3820.htm">Get<wbr />Bounds<wbr />Relative<wbr />To<wbr />Form</a>
+    </li>
+    <li>
+      <a id="bfa51ed4-416e-f477-2b20-aae4f5070efb" href="bfa51ed4-416e-f477-2b20-aae4f5070efb.htm">Get<wbr />Control<wbr />Style</a>
+    </li>
+    <li>
+      <a id="984fa355-abd3-6182-f894-63d94b08442e" href="984fa355-abd3-6182-f894-63d94b08442e.htm">Get<wbr />Event<wbr />Handlers</a>
+    </li>
+    <li>
+      <a id="69b6df78-39bd-4567-63ea-460ef2103621" class="has-submenu" href="69b6df78-39bd-4567-63ea-460ef2103621.htm">
+        <span data-tocFile="../toc/IDEAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Next<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="950d06d4-d908-9199-0d13-a9ba8c347a89" class="has-submenu" href="950d06d4-d908-9199-0d13-a9ba8c347a89.htm">
+        <span data-tocFile="../toc/IDFAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invoke<wbr />UIType<wbr />Editor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="243adf7a-d37a-942f-2711-4ddcb9edbaca" href="243adf7a-d37a-942f-2711-4ddcb9edbaca.htm">Invoke<wbr />When<wbr />Handle<wbr />Valid</a>
+    </li>
+    <li>
+      <a id="3fa07d3d-ce19-a3a8-1cc4-40948f963e73" href="3fa07d3d-ce19-a3a8-1cc4-40948f963e73.htm">Is<wbr />In<wbr />Design<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="62e7e8d8-5cd8-050b-3ce2-ce3cc911ef1f" href="62e7e8d8-5cd8-050b-3ce2-ce3cc911ef1f.htm">Is<wbr />In<wbr />Runtime<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="58725a71-edbd-cedc-1dbb-d8200a5e9dc5" class="has-submenu" href="58725a71-edbd-cedc-1dbb-d8200a5e9dc5.htm">
+        <span data-tocFile="../toc/IDJAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resume<wbr />Drawing</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="19b8b7b2-a3c5-0c41-b7be-2073e34e0f03" class="has-submenu" href="19b8b7b2-a3c5-0c41-b7be-2073e34e0f03.htm">
+        <span data-tocFile="../toc/IDKAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="09339b9c-20c1-2a41-5c2f-741f73601722" class="has-submenu" href="09339b9c-20c1-2a41-5c2f-741f73601722.htm">
+        <span data-tocFile="../toc/IDLAAOBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Mouse<wbr />Button</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="400affe2-15d5-5d8a-eca5-27d76151dde2" href="400affe2-15d5-5d8a-eca5-27d76151dde2.htm">Set<wbr />Control<wbr />Style</a>
+    </li>
+    <li>
+      <a id="e958ae42-c0b2-0f56-4ed2-7725b45cb979" href="e958ae42-c0b2-0f56-4ed2-7725b45cb979.htm">Set<wbr />Double<wbr />Buffer</a>
+    </li>
+    <li>
+      <a id="282cab0d-8cf6-36fc-379a-73d46b72bd64" href="282cab0d-8cf6-36fc-379a-73d46b72bd64.htm">Set<wbr />Visual<wbr />Style</a>
+    </li>
+    <li>
+      <a id="fb2dbc3b-1a44-b4f0-bede-85f4cedafcca" href="fb2dbc3b-1a44-b4f0-bede-85f4cedafcca.htm">Suspend<wbr />Drawing</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="27af49c6-6f52-664b-ee2e-d9a1b271c6f4.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Power<wbr />Shell</a>
+    </li>
+    <li>
+      <a href="68a8e197-d4c1-e114-0bd5-a65ec66452fe.htm">Util<wbr />Power<wbr />Shell</a>
+    </li>
+    <li>
+      <a href="7bcb0b1b-b741-31fc-c184-0ba1e98fcda2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="58c3a37c-4977-b802-5e98-86b4cc2f8873" href="58c3a37c-4977-b802-5e98-86b4cc2f8873.htm">Execute<wbr />Power<wbr />Shell<wbr />Action</a>
+    </li>
+    <li>
+      <a id="3671bd18-336e-d581-8535-aebfd6688a9f" class="has-submenu" href="3671bd18-336e-d581-8535-aebfd6688a9f.htm">
+        <span data-tocFile="../toc/IDBAALDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Execute<wbr />Power<wbr />Shell<wbr />Command</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="631301b0-699f-e51f-2b1c-1dc76156dc38" href="631301b0-699f-e51f-2b1c-1dc76156dc38.htm">Execute<wbr />Power<wbr />Shell<wbr />Script</a>
+    </li>
+  </tocItems>
+</toc>

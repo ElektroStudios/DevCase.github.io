@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="669dcae0-0a76-2bec-4552-b9d2108d617f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Python</a>
+    </li>
+    <li>
+      <a href="725fee10-f69c-074e-6133-cf93b9d744fe.htm">Python<wbr />Installed<wbr />Version</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1164bb9e-2841-3bda-2971-5636d81d9beb" href="1164bb9e-2841-3bda-2971-5636d81d9beb.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="315e796a-5abc-507f-8ab6-b6a96569ec05" class="has-submenu" href="315e796a-5abc-507f-8ab6-b6a96569ec05.htm">
+        <span data-tocFile="../toc/IDBAODAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8d6e8d31-9eea-0d12-f7b2-bcf0ed3aebd0" class="has-submenu" href="8d6e8d31-9eea-0d12-f7b2-bcf0ed3aebd0.htm">
+        <span data-tocFile="../toc/IDCAODAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

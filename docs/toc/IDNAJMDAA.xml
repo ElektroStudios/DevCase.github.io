@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+    <li>
+      <a href="6446123c-cb6a-93a1-698b-9de4f80e7bcc.htm">Write<wbr />String<wbr />At</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="46a19923-d70f-e676-9ac3-5e8dae143468" href="46a19923-d70f-e676-9ac3-5e8dae143468.htm">Write<wbr />String<wbr />At(<wbr />Memory<wbr />Mapped<wbr />File, String, Int<wbr />64, Encoding)</a>
+    </li>
+    <li>
+      <a id="64637622-1d2f-3334-49bc-2f4c751c15ea" href="64637622-1d2f-3334-49bc-2f4c751c15ea.htm">Write<wbr />String<wbr />At(<wbr />String, String, Int<wbr />64, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="394e48a5-8068-adc6-8c1a-8cab179a0371.htm">File<wbr />Type</a>
+    </li>
+    <li>
+      <a href="e02f2799-a3ad-020c-b300-c917e3ea9324.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f47d31cd-50ed-4ccb-471a-aa13841cbbbd" class="has-submenu" href="f47d31cd-50ed-4ccb-471a-aa13841cbbbd.htm">
+        <span data-tocFile="../toc/IDACPIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="154cdb51-a4ca-e192-30ea-27e031869ccb" href="154cdb51-a4ca-e192-30ea-27e031869ccb.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="b16ae793-1a0f-5dd6-7d3a-83c80fa4d4d3" href="b16ae793-1a0f-5dd6-7d3a-83c80fa4d4d3.htm">To<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

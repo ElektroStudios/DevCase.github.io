@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3bf8d804-977a-715b-c12c-fdfc8e48ecd8.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="00022218-e7ce-30f2-7c3d-779ac72aa7f9" href="00022218-e7ce-30f2-7c3d-779ac72aa7f9.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, Edit<wbr />Control<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="204ae56a-e323-9458-35a7-e14010233bf7" href="204ae56a-e323-9458-35a7-e14010233bf7.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, List<wbr />Box<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="794dc3f6-3cda-5464-9ddd-4847fa82b864" href="794dc3f6-3cda-5464-9ddd-4847fa82b864.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, List<wbr />View<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="db0a9c1e-9cfe-e44e-99b4-7bf3b42b8125" href="db0a9c1e-9cfe-e44e-99b4-7bf3b42b8125.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, Progress<wbr />Bar<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="e7690d93-c628-0cc2-b7ba-1dafa541872f" href="e7690d93-c628-0cc2-b7ba-1dafa541872f.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, Toolbar<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="275b9ea8-15a9-df87-5899-7dc4d07d03a6" href="275b9ea8-15a9-df87-5899-7dc4d07d03a6.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="4fbfe403-b930-03cc-d0ac-c75c4711bd04" href="4fbfe403-b930-03cc-d0ac-c75c4711bd04.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />32, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="6b0f10aa-d88e-0d5b-0cbc-7deecc07e1bc" href="6b0f10aa-d88e-0d5b-0cbc-7deecc07e1bc.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, Edit<wbr />Control<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="b87c287b-9880-6f34-dca5-772411c1b049" href="b87c287b-9880-6f34-dca5-772411c1b049.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, List<wbr />Box<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="1466c69a-71cc-95ef-03c6-ee80a191263f" href="1466c69a-71cc-95ef-03c6-ee80a191263f.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, List<wbr />View<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="69af00e4-6588-18c8-052b-3003f4efba01" href="69af00e4-6588-18c8-052b-3003f4efba01.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, Progress<wbr />Bar<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="222ba745-98d3-baed-9588-93e8e3648e8d" href="222ba745-98d3-baed-9588-93e8e3648e8d.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, Toolbar<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="756696f6-68f1-3cd0-df46-45be52b55ea9" href="756696f6-68f1-3cd0-df46-45be52b55ea9.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+    <li>
+      <a id="1ec7dfde-950c-898b-c4ec-8a291e92091c" href="1ec7dfde-950c-898b-c4ec-8a291e92091c.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex(<wbr />Safe<wbr />Handle, UInt<wbr />32, Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action, Change<wbr />Filter)</a>
+    </li>
+  </tocItems>
+</toc>

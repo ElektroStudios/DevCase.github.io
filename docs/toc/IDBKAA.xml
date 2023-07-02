@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="225ed925-90c7-0891-14e6-8b8f7e0c96fa" class="has-submenu" href="225ed925-90c7-0891-14e6-8b8f7e0c96fa.htm">
+        <span data-tocFile="../toc/IDABKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Environment<wbr />Folders</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c3f85434-b3c3-325e-fc78-cc9e83f39218" class="has-submenu" href="c3f85434-b3c3-325e-fc78-cc9e83f39218.htm">
+        <span data-tocFile="../toc/IDBBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Environment<wbr />Variable<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1b44cb01-f1b6-8bc1-e68c-2d9db46b82ca" href="1b44cb01-f1b6-8bc1-e68c-2d9db46b82ca.htm">Os<wbr />Architecture</a>
+    </li>
+    <li>
+      <a id="022581e9-2c3e-67be-f277-61223f1e5f33" class="has-submenu" href="022581e9-2c3e-67be-f277-61223f1e5f33.htm">
+        <span data-tocFile="../toc/IDDBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Clipboard</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cc0a9fc8-dc95-2a60-534d-a3042e521032" class="has-submenu" href="cc0a9fc8-dc95-2a60-534d-a3042e521032.htm">
+        <span data-tocFile="../toc/IDEBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Environment<wbr />Variable</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="71278ee7-49d1-3410-232e-ef7a16d9d672" class="has-submenu" href="71278ee7-49d1-3410-232e-ef7a16d9d672.htm">
+        <span data-tocFile="../toc/IDFBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Explorer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cbcb4fe0-bcac-6037-5d8b-1edc72ee8e08" class="has-submenu" href="cbcb4fe0-bcac-6037-5d8b-1edc72ee8e08.htm">
+        <span data-tocFile="../toc/IDGBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />System<wbr />Notification</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bba0bed6-5961-362a-19af-065f6909b9b5" class="has-submenu" href="bba0bed6-5961-362a-19af-065f6909b9b5.htm">
+        <span data-tocFile="../toc/IDHBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Tweaking</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9d2fc824-7b23-afd3-a709-febaa3597c90" class="has-submenu" href="9d2fc824-7b23-afd3-a709-febaa3597c90.htm">
+        <span data-tocFile="../toc/IDIBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Windows</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="b89c12d3-2ca8-043e-744b-9a29e2a0a213.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Conversion</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="953bb4a3-f062-04ac-f8d3-ad2a4e3ae1b9" href="953bb4a3-f062-04ac-f8d3-ad2a4e3ae1b9.htm">Cmd<wbr />Command<wbr />Redirection</a>
+    </li>
+    <li>
+      <a id="4d7bb3c4-c717-c4f8-93fb-25b645185c52" href="4d7bb3c4-c717-c4f8-93fb-25b645185c52.htm">Registry<wbr />Value<wbr />Type</a>
+    </li>
+    <li>
+      <a id="1a4badf6-e479-4d4c-09c9-161cec79c96c" href="1a4badf6-e479-4d4c-09c9-161cec79c96c.htm">Telerik<wbr />Code<wbr />Converter<wbr />Method</a>
+    </li>
+    <li>
+      <a id="d4150e84-06cd-3fac-8d83-fb8d0e20de93" class="has-submenu" href="d4150e84-06cd-3fac-8d83-fb8d0e20de93.htm">
+        <span data-tocFile="../toc/IDDDDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Net<wbr />Code<wbr />Converter</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c3002135-76cb-6a80-496e-3cc75c972d18" class="has-submenu" href="c3002135-76cb-6a80-496e-3cc75c972d18.htm">
+        <span data-tocFile="../toc/IDEDDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Registry<wbr />Script<wbr />Code<wbr />Converter</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

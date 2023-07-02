@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="3ba91054-a687-7062-55d2-848e5d401451.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="1bfad87e-195d-484a-8717-7a48f66129e8.htm">Util<wbr />Numerics</a>
+    </li>
+    <li>
+      <a href="b8ed1e46-5670-c94a-1cba-0d656072df7b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a84c9fed-47a9-f013-082a-c5f96246e4f6.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="eb86e000-2d18-8513-f5ad-fe9422954df5" href="eb86e000-2d18-8513-f5ad-fe9422954df5.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Byte[])</a>
+    </li>
+    <li>
+      <a id="a2c6c2f0-9eef-9e7a-cc8e-24a576e97f13" href="a2c6c2f0-9eef-9e7a-cc8e-24a576e97f13.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Decimal[])</a>
+    </li>
+    <li>
+      <a id="6031e2bf-f645-bd63-9fe6-50b33a667a33" href="6031e2bf-f645-bd63-9fe6-50b33a667a33.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Double[])</a>
+    </li>
+    <li>
+      <a id="51bef2ae-d65c-b99e-e137-af4c9ae1098a" href="51bef2ae-d65c-b99e-e137-af4c9ae1098a.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Int<wbr />16[])</a>
+    </li>
+    <li>
+      <a id="c32edde9-3e7f-ecb5-f4e0-b72fb325c6b2" href="c32edde9-3e7f-ecb5-f4e0-b72fb325c6b2.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Int<wbr />32[])</a>
+    </li>
+    <li>
+      <a id="506f8427-5621-e4dc-9a26-22abfac01b14" href="506f8427-5621-e4dc-9a26-22abfac01b14.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Int<wbr />64[])</a>
+    </li>
+    <li>
+      <a id="908d0b15-c7d5-f238-8017-88fb0fa88da5" href="908d0b15-c7d5-f238-8017-88fb0fa88da5.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />SByte[])</a>
+    </li>
+    <li>
+      <a id="4bcfbba3-b33f-cb0e-26c9-29d345aebadc" href="4bcfbba3-b33f-cb0e-26c9-29d345aebadc.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />Single[])</a>
+    </li>
+    <li>
+      <a id="b0dc735d-ff11-1680-d851-3ebaba1c3517" href="b0dc735d-ff11-1680-d851-3ebaba1c3517.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />UInt<wbr />16[])</a>
+    </li>
+    <li>
+      <a id="baa859c8-07df-7da1-50c0-b282e23c2638" href="baa859c8-07df-7da1-50c0-b282e23c2638.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />UInt<wbr />32[])</a>
+    </li>
+    <li>
+      <a id="c6f18aea-d49c-ec16-94a6-fbbc927cc6e1" href="c6f18aea-d49c-ec16-94a6-fbbc927cc6e1.htm">Get<wbr />Greatest<wbr />Common<wbr />Divisor(<wbr />UInt<wbr />64[])</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="ac2f36df-28ac-877e-07ae-ae41f70e3608.htm">Graphics<wbr />Quality<wbr />Container</a>
+    </li>
+    <li>
+      <a href="e83b801a-731f-da37-9f98-13e0639b4547.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="81182724-5c88-684f-f9dc-b511feabc7b9" href="81182724-5c88-684f-f9dc-b511feabc7b9.htm">Compositing<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="91c56cb1-c600-0507-b2a8-079fe6c083b4" href="91c56cb1-c600-0507-b2a8-079fe6c083b4.htm">Default<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="e7d64967-f03a-bc7d-9622-755a608c467c" href="e7d64967-f03a-bc7d-9622-755a608c467c.htm">Highest<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="61878f17-75af-4901-086f-eaf2f703ce39" href="61878f17-75af-4901-086f-eaf2f703ce39.htm">High<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="5643c830-f9f9-74f8-0fbb-8c3e62ee4833" href="5643c830-f9f9-74f8-0fbb-8c3e62ee4833.htm">Interpolation<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="db3f430d-a03c-c398-b6b8-53a929f14dc2" href="db3f430d-a03c-c398-b6b8-53a929f14dc2.htm">Lowest<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="a352a669-c5a1-3f8d-2ae7-fb2ad26ced57" href="a352a669-c5a1-3f8d-2ae7-fb2ad26ced57.htm">Low<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="58875b54-dbc8-d082-b0b6-de8ef6756b43" href="58875b54-dbc8-d082-b0b6-de8ef6756b43.htm">Medium<wbr />Quality</a>
+    </li>
+    <li>
+      <a id="4e27ff1c-8dd4-2e70-efee-9dbc6ef57f42" href="4e27ff1c-8dd4-2e70-efee-9dbc6ef57f42.htm">Pixel<wbr />Offset<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="6695907f-4469-71d0-cb2d-90d3dd7b8754" href="6695907f-4469-71d0-cb2d-90d3dd7b8754.htm">Quality<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="a960b951-dd6d-a55a-5c46-48c4423d220c" href="a960b951-dd6d-a55a-5c46-48c4423d220c.htm">Smoothing<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="515f947e-ad9d-c096-058d-00348faf3b02" href="515f947e-ad9d-c096-058d-00348faf3b02.htm">Text<wbr />Rendering<wbr />Hint</a>
+    </li>
+  </tocItems>
+</toc>

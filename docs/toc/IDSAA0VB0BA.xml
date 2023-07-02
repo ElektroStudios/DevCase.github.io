@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e407e225-bc1e-fe39-b21c-7aa83e1fc108.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9c7733d2-9fca-d14e-3ed8-9e250aa0a477.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a47425a6-1068-c4b3-1f50-2bfb368a02b5.htm">Replace<wbr />Sequence</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="51d75001-93c1-1080-c79d-fb0f6ed06a70" href="51d75001-93c1-1080-c79d-fb0f6ed06a70.htm">Replace<wbr />Sequence&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="08382dcc-a46f-3a9b-ab4a-ce8d13c9db83" href="08382dcc-a46f-3a9b-ab4a-ce8d13c9db83.htm">Replace<wbr />Sequence&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="c86f15f8-05b3-3801-c3f4-a0555e304fd1" href="c86f15f8-05b3-3801-c3f4-a0555e304fd1.htm">Replace<wbr />Sequence&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, IEnumerable&lt;T&gt;, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

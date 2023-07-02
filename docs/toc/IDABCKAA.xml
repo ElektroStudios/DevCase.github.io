@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="d3218015-d32d-702d-9dd3-56a71687f248.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Control<wbr />Panel</a>
+    </li>
+    <li>
+      <a href="51ba6734-ba3f-92cc-9b45-a1e84d17963b.htm">Util<wbr />Applets</a>
+    </li>
+    <li>
+      <a href="2af53386-b946-cd8f-a334-f9aa8dac9fc4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1996218f-6d69-d765-dfad-7d1feafd96ee" href="1996218f-6d69-d765-dfad-7d1feafd96ee.htm">Run<wbr />Date<wbr />Time</a>
+    </li>
+    <li>
+      <a id="868d5ff9-d600-2e7f-2042-211474855e8f" href="868d5ff9-d600-2e7f-2042-211474855e8f.htm">Run<wbr />Execute<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="096e3a14-483d-309e-7033-0ff2430d5661" href="096e3a14-483d-309e-7033-0ff2430d5661.htm">Run<wbr />Find<wbr />Computer</a>
+    </li>
+    <li>
+      <a id="397a03d8-0e18-cfe5-6a15-ed67fbf6e291" href="397a03d8-0e18-cfe5-6a15-ed67fbf6e291.htm">Run<wbr />Find<wbr />Files</a>
+    </li>
+    <li>
+      <a id="61953369-21d8-a3bb-422d-e458da4d1589" href="61953369-21d8-a3bb-422d-e458da4d1589.htm">Run<wbr />Find<wbr />Printer</a>
+    </li>
+    <li>
+      <a id="cfbf8945-6154-a73b-7ef8-223f63301708" href="cfbf8945-6154-a73b-7ef8-223f63301708.htm">Run<wbr />Help<wbr />Center</a>
+    </li>
+    <li>
+      <a id="65c52462-aad7-5a0e-d51b-aa5717e483b1" href="65c52462-aad7-5a0e-d51b-aa5717e483b1.htm">Run<wbr />Search<wbr />Command</a>
+    </li>
+    <li>
+      <a id="a67e9450-b46e-d480-ad82-2610170556d2" href="a67e9450-b46e-d480-ad82-2610170556d2.htm">Run<wbr />Tray<wbr />Properties</a>
+    </li>
+    <li>
+      <a id="6d9e451f-aa14-b032-eba3-5c0b5801b672" href="6d9e451f-aa14-b032-eba3-5c0b5801b672.htm">Run<wbr />Windows<wbr />Security</a>
+    </li>
+    <li>
+      <a id="7f301bb2-5ab9-92e4-65b4-baa636631d31" href="7f301bb2-5ab9-92e4-65b4-baa636631d31.htm">Run<wbr />Window<wbr />Switcher</a>
+    </li>
+    <li>
+      <a id="1454712a-1204-1624-04af-186dcaa6326b" class="has-submenu" href="1454712a-1204-1624-04af-186dcaa6326b.htm">
+        <span data-tocFile="../toc/IDKABCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Shell<wbr />About<wbr />Dialog</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

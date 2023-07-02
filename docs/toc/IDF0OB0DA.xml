@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="30793376-a554-8b77-a4d4-d1b6029357bc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Seven<wbr />Zip<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="687b2d63-3f0b-51d8-f275-7cbaa9b7fc77.htm">Seven<wbr />Zip<wbr />Archiver</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4c544a09-f1e8-58e8-db64-bbaaf933721f" class="has-submenu" href="4c544a09-f1e8-58e8-db64-bbaaf933721f.htm">
+        <span data-tocFile="../toc/IDAF0OB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c887f7fb-8812-0842-f4b4-4a22c52bae57" class="has-submenu" href="c887f7fb-8812-0842-f4b4-4a22c52bae57.htm">
+        <span data-tocFile="../toc/IDBF0OB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="04833433-bfb2-d793-7078-65265ff19316" href="04833433-bfb2-d793-7078-65265ff19316.htm">Events</a>
+    </li>
+  </tocItems>
+</toc>

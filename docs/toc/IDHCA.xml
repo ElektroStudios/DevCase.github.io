@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="c17d5ab0-1588-86cc-a16f-ab5938124500.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Comparers</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="155fbd57-8bb9-ccc9-ff3b-04cbdcf76d5d" href="155fbd57-8bb9-ccc9-ff3b-04cbdcf76d5d.htm">Comparer<wbr />Result</a>
+    </li>
+    <li>
+      <a id="c4c5d7da-2f01-0d73-24d2-1de0049b3ec7" class="has-submenu" href="c4c5d7da-2f01-0d73-24d2-1de0049b3ec7.htm">
+        <span data-tocFile="../toc/IDBHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Date<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="29b6f674-6c90-2366-6199-73ba79bb2906" class="has-submenu" href="29b6f674-6c90-2366-6199-73ba79bb2906.htm">
+        <span data-tocFile="../toc/IDCHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Directory<wbr />Info<wbr />Natural<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dee30008-258f-2f1f-1540-22ca5bc30444" class="has-submenu" href="dee30008-258f-2f1f-1540-22ca5bc30444.htm">
+        <span data-tocFile="../toc/IDDHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>File<wbr />Info<wbr />Natural<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="657df5ae-b615-3376-835c-2af221a4cae8" class="has-submenu" href="657df5ae-b615-3376-835c-2af221a4cae8.htm">
+        <span data-tocFile="../toc/IDEHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>File<wbr />System<wbr />Info<wbr />Equality<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="63a2a984-9672-fe94-577c-b87da9c60568" class="has-submenu" href="63a2a984-9672-fe94-577c-b87da9c60568.htm">
+        <span data-tocFile="../toc/IDFHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>List<wbr />View<wbr />Column<wbr />Sorter</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a97e0c88-2e03-1484-a167-0ffd94b139cf" class="has-submenu" href="a97e0c88-2e03-1484-a167-0ffd94b139cf.htm">
+        <span data-tocFile="../toc/IDGHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Numeric<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3f5ee263-11f5-1427-59c4-20c1ae367493" href="3f5ee263-11f5-1427-59c4-20c1ae367493.htm">Sort<wbr />Modifiers</a>
+    </li>
+    <li>
+      <a id="72e3e878-1eb9-2018-5ebd-cd12bbc559c2" class="has-submenu" href="72e3e878-1eb9-2018-5ebd-cd12bbc559c2.htm">
+        <span data-tocFile="../toc/IDIHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>String<wbr />Length<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6fec4617-fb2f-fc99-11f2-cf3c6e9c8b72" class="has-submenu" href="6fec4617-fb2f-fc99-11f2-cf3c6e9c8b72.htm">
+        <span data-tocFile="../toc/IDJHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>String<wbr />Natural<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ffadbc8f-9c8b-297b-1ed6-6520abe23da2" class="has-submenu" href="ffadbc8f-9c8b-297b-1ed6-6520abe23da2.htm">
+        <span data-tocFile="../toc/IDKHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Text<wbr />Comparer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+    </li>
+    <li>
+      <a href="b2a06e73-5b12-751d-6862-1a6c9cdd438b.htm">Util<wbr />Mail</a>
+    </li>
+    <li>
+      <a href="6351292b-2511-cc31-04e9-fc4f4befb73b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9645e633-73bd-74f2-252d-5032502d5960.htm">Mail<wbr />To</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f27df19d-2c85-dce3-718f-fe43819a6b60" href="f27df19d-2c85-dce3-718f-fe43819a6b60.htm">Mail<wbr />To(<wbr />Mail<wbr />Message)</a>
+    </li>
+    <li>
+      <a id="0964b558-4cc2-3c73-5d81-f2b2f701aee6" href="0964b558-4cc2-3c73-5d81-f2b2f701aee6.htm">Mail<wbr />To(<wbr />Mail<wbr />Address, String, String)</a>
+    </li>
+    <li>
+      <a id="5dcddbc1-0472-d3dd-a40e-d94dfff8d986" href="5dcddbc1-0472-d3dd-a40e-d94dfff8d986.htm">Mail<wbr />To(<wbr />Mail<wbr />Address<wbr />Collection, String, String)</a>
+    </li>
+    <li>
+      <a id="ada1aa62-0f1f-715b-2f47-717c3a36e484" href="ada1aa62-0f1f-715b-2f47-717c3a36e484.htm">Mail<wbr />To(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="6a3bba6d-b7d9-d066-e0af-02327dca6dfd" href="6a3bba6d-b7d9-d066-e0af-02327dca6dfd.htm">Mail<wbr />To(<wbr />String[], String, String)</a>
+    </li>
+  </tocItems>
+</toc>

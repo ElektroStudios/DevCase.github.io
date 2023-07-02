@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fa7a633d-1b6c-c94e-cc5c-8b410c947ce1.htm">Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="85677cba-57e6-6a77-fdaa-ddc1fbfb110e" href="85677cba-57e6-6a77-fdaa-ddc1fbfb110e.htm">Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char(<wbr />Code<wbr />Page, Multi<wbr />Byte<wbr />Char<wbr />Conversion<wbr />Type, Byte[], Int<wbr />32, Char[], Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="096e44ad-dc27-42d1-0a05-b1085515c547" href="096e44ad-dc27-42d1-0a05-b1085515c547.htm">Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char(<wbr />Code<wbr />Page, Multi<wbr />Byte<wbr />Char<wbr />Conversion<wbr />Type, String, Int<wbr />32, String<wbr />Builder, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="3385ef36-a407-f91e-3d52-8392dcf031be" href="3385ef36-a407-f91e-3d52-8392dcf031be.htm">Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char(<wbr />UInt<wbr />32, Multi<wbr />Byte<wbr />Char<wbr />Conversion<wbr />Type, Byte[], Int<wbr />32, Char[], Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="ba7a80ee-be04-fd61-f05a-bed4c9b69fad" href="ba7a80ee-be04-fd61-f05a-bed4c9b69fad.htm">Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char(<wbr />UInt<wbr />32, Multi<wbr />Byte<wbr />Char<wbr />Conversion<wbr />Type, String, Int<wbr />32, String<wbr />Builder, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

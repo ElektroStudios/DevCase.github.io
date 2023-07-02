@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="254f2ca3-4603-3281-426c-087fc5b842dd.htm">Dwm<wbr />Api</a>
+    </li>
+    <li>
+      <a href="e69dacc6-39b2-843f-60ff-ba9717cc909e.htm">Methods</a>
+    </li>
+    <li>
+      <a href="daf7333b-bcb8-eacc-9113-3ed849b853cb.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Thumbnail</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a75b476e-598a-7e3f-304c-b45f43dc235c" href="a75b476e-598a-7e3f-304c-b45f43dc235c.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Thumbnail(<wbr />Int<wbr />Ptr, Safe<wbr />Bitmap<wbr />Handle, Dwm<wbr />Iconic<wbr />Thumbnail<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="289330d3-6f81-3389-07fb-cbfe17d54ef9" href="289330d3-6f81-3389-07fb-cbfe17d54ef9.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Thumbnail(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Thumbnail<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="7551451c-56ce-b103-df42-178f4492668b" href="7551451c-56ce-b103-df42-178f4492668b.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Thumbnail(<wbr />Safe<wbr />Handle, Safe<wbr />Bitmap<wbr />Handle, Dwm<wbr />Iconic<wbr />Thumbnail<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="295a823e-ea4d-e639-dbe6-4495a19a7ef9" href="295a823e-ea4d-e639-dbe6-4495a19a7ef9.htm">Dwm<wbr />Set<wbr />Iconic<wbr />Thumbnail(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Dwm<wbr />Iconic<wbr />Thumbnail<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

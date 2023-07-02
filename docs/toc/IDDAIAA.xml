@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="0b3991cb-4ee1-bc37-2f1f-389ffc97fab3.htm">Network<wbr />Status<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5ed08a41-1780-35fb-ab7e-832486bf3f38" href="5ed08a41-1780-35fb-ab7e-832486bf3f38.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="875d8a4c-1c82-8d6f-ceeb-6652d5f61a75" class="has-submenu" href="875d8a4c-1c82-8d6f-ceeb-6652d5f61a75.htm">
+        <span data-tocFile="../toc/IDBDAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="225b82d2-1169-0f61-fff6-10d6ade630f9" href="225b82d2-1169-0f61-fff6-10d6ade630f9.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1e894792-2347-5da0-0143-05d1b1a87f2e" class="has-submenu" href="1e894792-2347-5da0-0143-05d1b1a87f2e.htm">
+        <span data-tocFile="../toc/IDAGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Background<wbr />Worker</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f99651f4-4bb5-887e-e3d0-8bfb5b1cbf7f" href="f99651f4-4bb5-887e-e3d0-8bfb5b1cbf7f.htm">Dev<wbr />Background<wbr />Worker<wbr />State</a>
+    </li>
+    <li>
+      <a id="66eae762-f2a4-814b-76fb-4af18acf41eb" class="has-submenu" href="66eae762-f2a4-814b-76fb-4af18acf41eb.htm">
+        <span data-tocFile="../toc/IDCGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Progress<wbr />Changed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1f8de777-14c7-01c9-3b12-d43566792e55" class="has-submenu" href="1f8de777-14c7-01c9-3b12-d43566792e55.htm">
+        <span data-tocFile="../toc/IDDGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Lazy<wbr />Async&lt;T&gt;</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

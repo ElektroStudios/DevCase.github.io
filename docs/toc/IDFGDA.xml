@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="678c3b97-29a3-bbe4-e4ee-1599d12c3b9c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />DBpoweramp</a>
+    </li>
+    <li>
+      <a href="c00fb865-6d85-c4b2-3098-059eb36e3170.htm">Core<wbr />Converter<wbr />Started<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f0a5ef47-3a9a-1b91-9024-25b0ebe1144b" href="f0a5ef47-3a9a-1b91-9024-25b0ebe1144b.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="643f4698-08e7-b283-291e-6feac5535872" class="has-submenu" href="643f4698-08e7-b283-291e-6feac5535872.htm">
+        <span data-tocFile="../toc/IDBFGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7eac76d0-fe08-ecdf-0efa-ec2937199a3e" href="7eac76d0-fe08-ecdf-0efa-ec2937199a3e.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

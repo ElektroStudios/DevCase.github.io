@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="950758f4-c394-c0dc-a7b4-f31721b4d2d6" class="has-submenu" href="950758f4-c394-c0dc-a7b4-f31721b4d2d6.htm">
+        <span data-tocFile="../toc/IDAAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Web<wbr />Client</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cc2f69f6-462c-3626-793b-2dac3e697380" class="has-submenu" href="cc2f69f6-462c-3626-793b-2dac3e697380.htm">
+        <span data-tocFile="../toc/IDBAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Geo<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="120aa75f-f443-78c7-c342-75f0b29587b3" href="120aa75f-f443-78c7-c342-75f0b29587b3.htm">IEBrowser<wbr />Emulation<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="0b3991cb-4ee1-bc37-2f1f-389ffc97fab3" class="has-submenu" href="0b3991cb-4ee1-bc37-2f1f-389ffc97fab3.htm">
+        <span data-tocFile="../toc/IDDAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Network<wbr />Status<wbr />Changed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="12f6b6bd-7f49-d01d-1f48-6be6f24abac2" href="12f6b6bd-7f49-d01d-1f48-6be6f24abac2.htm">Network<wbr />Status<wbr />Changed<wbr />Event<wbr />Args.<wbr />Network<wbr />Status<wbr />Changed<wbr />Delegate</a>
+    </li>
+    <li>
+      <a id="1c5e95a7-14b3-6586-5192-e4fcf1ac5e2b" class="has-submenu" href="1c5e95a7-14b3-6586-5192-e4fcf1ac5e2b.htm">
+        <span data-tocFile="../toc/IDFAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Ftp</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="697c7f0c-30cc-3ff9-60cc-bb34456d6ae3" class="has-submenu" href="697c7f0c-30cc-3ff9-60cc-bb34456d6ae3.htm">
+        <span data-tocFile="../toc/IDGAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Network</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="70e50d94-9e13-beee-17f5-c02b2cb2d202" class="has-submenu" href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">
+        <span data-tocFile="../toc/IDHAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Web</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cdb86e6b-2b7c-8e0a-5e48-ea5d22141cc9" class="has-submenu" href="cdb86e6b-2b7c-8e0a-5e48-ea5d22141cc9.htm">
+        <span data-tocFile="../toc/IDIAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Website<wbr />Login<wbr />Request</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fb69583e-032c-ed3e-3d20-20d640083a87" class="has-submenu" href="fb69583e-032c-ed3e-3d20-20d640083a87.htm">
+        <span data-tocFile="../toc/IDJAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Website<wbr />Login<wbr />Response</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

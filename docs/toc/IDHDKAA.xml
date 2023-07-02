@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="6f3a1913-9649-2e3a-bcc1-8d75e67a4299.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Desktop</a>
+    </li>
+    <li>
+      <a href="0bdf2ce2-c239-5eca-63e6-43b50170627b.htm">Util<wbr />System<wbr />Tray</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="597dedcc-51f1-89f1-5285-2561797a7864" class="has-submenu" href="597dedcc-51f1-89f1-5285-2561797a7864.htm">
+        <span data-tocFile="../toc/IDAHDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a55475c2-6b67-5528-da9f-1e19c95a39b6" href="a55475c2-6b67-5528-da9f-1e19c95a39b6.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+    <li>
+      <a href="16aed5bc-3799-5980-5614-ba7b2f1943a1.htm">Caret<wbr />Create</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c9537cf8-ce98-55ba-879b-5d53cad886fa" href="c9537cf8-ce98-55ba-879b-5d53cad886fa.htm">Caret<wbr />Create(<wbr />Control, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="f3a648c3-5781-8922-91a1-78ed3fc15951" href="f3a648c3-5781-8922-91a1-78ed3fc15951.htm">Caret<wbr />Create(<wbr />IWin<wbr />32Window, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="65241c91-cb5c-bb25-2c5c-8b53563a37c1" href="65241c91-cb5c-bb25-2c5c-8b53563a37c1.htm">Caret<wbr />Create(<wbr />Control, Bitmap, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="89a8b76a-7d05-a0ee-b487-aaebc094ad4a" href="89a8b76a-7d05-a0ee-b487-aaebc094ad4a.htm">Caret<wbr />Create(<wbr />IWin<wbr />32Window, Bitmap, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

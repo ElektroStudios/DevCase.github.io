@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+    </li>
+    <li>
+      <a href="d685b97f-b9e6-ca3c-9d21-e12b1b119729.htm">Util<wbr />Assembly<wbr />Registration</a>
+    </li>
+    <li>
+      <a href="90379158-f529-c7ba-8f75-c5d9815cec72.htm">Methods</a>
+    </li>
+    <li>
+      <a href="72701e14-3795-5dac-4416-b73fad0987eb.htm">Unregister<wbr />Managed<wbr />Assembly</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9ea198f5-8096-301b-e445-abc7def9a635" href="9ea198f5-8096-301b-e445-abc7def9a635.htm">Unregister<wbr />Managed<wbr />Assembly(<wbr />Assembly)</a>
+    </li>
+    <li>
+      <a id="ab51a513-c458-fdfa-f54a-23374194ae2d" href="ab51a513-c458-fdfa-f54a-23374194ae2d.htm">Unregister<wbr />Managed<wbr />Assembly(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="4e98c290-60dc-280e-a893-e4c9dc3e36b0" href="4e98c290-60dc-280e-a893-e4c9dc3e36b0.htm">Unregister<wbr />Managed<wbr />Assembly(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

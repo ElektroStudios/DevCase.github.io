@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a1af1b0f-240f-681f-856c-b31cc0399f79.htm">Move<wbr />Value</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="666bd27a-e575-e339-b003-b4f2fcb94f22" href="666bd27a-e575-e339-b003-b4f2fcb94f22.htm">Move<wbr />Value(<wbr />Registry<wbr />View, String, String, Registry<wbr />View, String, String)</a>
+    </li>
+    <li>
+      <a id="e9d9b8e1-4dcf-fdbf-5c97-7db078849d65" href="e9d9b8e1-4dcf-fdbf-5c97-7db078849d65.htm">Move<wbr />Value(<wbr />Registry<wbr />View, String, String, String, Registry<wbr />View, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

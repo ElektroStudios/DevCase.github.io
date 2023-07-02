@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="16d4f123-0e57-d08a-1a80-1c3e5dd843a3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Security</a>
+    </li>
+    <li>
+      <a href="7675b178-5c81-8e45-b06b-7b560a8fdff6.htm">Util<wbr />Hosts</a>
+    </li>
+    <li>
+      <a href="0fcc2b54-36b6-fa2f-d765-2288c03a94f6.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="36a3d2c2-ef35-a39e-fc23-dfd3a4566981" class="has-submenu" href="36a3d2c2-ef35-a39e-fc23-dfd3a4566981.htm">
+        <span data-tocFile="../toc/IDABHEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="185368b7-eb99-4215-7780-9a0c0604167f" class="has-submenu" href="185368b7-eb99-4215-7780-9a0c0604167f.htm">
+        <span data-tocFile="../toc/IDBBHEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Disable</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf063803-ccec-266d-92ac-7b7bc20f0470" href="bf063803-ccec-266d-92ac-7b7bc20f0470.htm">File<wbr />Clear</a>
+    </li>
+    <li>
+      <a id="4ed705a9-da42-e73f-55ea-7d898f568154" href="4ed705a9-da42-e73f-55ea-7d898f568154.htm">File<wbr />Create</a>
+    </li>
+    <li>
+      <a id="6b6c66b6-fe09-13aa-0aa9-955e0828f9c2" href="6b6c66b6-fe09-13aa-0aa9-955e0828f9c2.htm">File<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="5e44427a-5e13-30cc-fdad-d0dacbabc40d" href="5e44427a-5e13-30cc-fdad-d0dacbabc40d.htm">File<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="e94bdd52-6f56-1fc3-a47b-435cee18bf3c" href="e94bdd52-6f56-1fc3-a47b-435cee18bf3c.htm">Get<wbr />Mapping<wbr />From<wbr />Hostname</a>
+    </li>
+    <li>
+      <a id="34748e6b-9741-7c5b-3bd1-2e3e80cb623f" href="34748e6b-9741-7c5b-3bd1-2e3e80cb623f.htm">Get<wbr />Mappings<wbr />From<wbr />IP</a>
+    </li>
+    <li>
+      <a id="3b98e8be-76b5-134c-efb5-35afb00a0821" class="has-submenu" href="3b98e8be-76b5-134c-efb5-35afb00a0821.htm">
+        <span data-tocFile="../toc/IDIBHEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Disabled</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="82f9286d-957e-6f17-babc-9b911eca30c5" class="has-submenu" href="82f9286d-957e-6f17-babc-9b911eca30c5.htm">
+        <span data-tocFile="../toc/IDJBHEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Mapped</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="508c8df6-f069-e2bb-06b9-2a5af821ab06" class="has-submenu" href="508c8df6-f069-e2bb-06b9-2a5af821ab06.htm">
+        <span data-tocFile="../toc/IDKBHEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

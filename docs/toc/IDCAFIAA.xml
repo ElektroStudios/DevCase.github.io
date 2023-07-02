@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="1df54db7-d139-8773-45ee-3fcfd25bf171.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Traffic<wbr />Monitoring</a>
+    </li>
+    <li>
+      <a href="a84c8b28-3ce7-9b73-73eb-93cb4cb0f9c2.htm">Network<wbr />Traffic<wbr />Monitor</a>
+    </li>
+    <li>
+      <a href="10081173-2a69-0a01-493e-584b441141b8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="93b84b15-ae9f-f038-04ea-a342d2fe2b96" href="93b84b15-ae9f-f038-04ea-a342d2fe2b96.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="b7a12bd4-cba2-9fbe-1e86-3565b49d532f" href="b7a12bd4-cba2-9fbe-1e86-3565b49d532f.htm">Get<wbr />Available<wbr />Interface<wbr />Names</a>
+    </li>
+    <li>
+      <a id="e2c059cb-6085-d8d6-913e-371a86a2808c" href="e2c059cb-6085-d8d6-913e-371a86a2808c.htm">Get<wbr />Bytes<wbr />Received</a>
+    </li>
+    <li>
+      <a id="65501b8a-b61e-9409-dee7-dd007844550b" href="65501b8a-b61e-9409-dee7-dd007844550b.htm">Get<wbr />Bytes<wbr />Sent</a>
+    </li>
+    <li>
+      <a id="c567f737-b3fe-a9be-f4f2-907964e236d6" href="c567f737-b3fe-a9be-f4f2-907964e236d6.htm">Start</a>
+    </li>
+    <li>
+      <a id="f7b169c1-4bf2-9884-067e-3cec7050b557" href="f7b169c1-4bf2-9884-067e-3cec7050b557.htm">Stop</a>
+    </li>
+  </tocItems>
+</toc>

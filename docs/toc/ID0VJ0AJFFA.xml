@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="272b10bc-1b41-cd8f-e84f-072960f4e7fe.htm">Virtual<wbr />Free</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ca923fb7-df28-8f9b-2f18-156370d7cfa1" href="ca923fb7-df28-8f9b-2f18-156370d7cfa1.htm">Virtual<wbr />Free(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="31614e56-4522-2ba8-b96d-d3f2452bb64b" href="31614e56-4522-2ba8-b96d-d3f2452bb64b.htm">Virtual<wbr />Free(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="add0e6b0-ecbe-9bf3-8ab0-66e53f83af42" href="add0e6b0-ecbe-9bf3-8ab0-66e53f83af42.htm">Virtual<wbr />Free(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="000c0ddd-e88a-28cf-8e44-97ba9702cbb4.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Free<wbr />Image</a>
+    </li>
+    <li>
+      <a href="f6eb4688-46c2-a6e0-cd2a-d8612ef75ff3.htm">Util<wbr />Free<wbr />Image</a>
+    </li>
+    <li>
+      <a href="425093e1-b5b8-26a1-706e-cddaeff3cfaa.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ab4a5bc0-fc5c-91f1-fc69-10b819646c68.htm">Convert</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="81ebdcbe-c117-0f38-4296-c2fffff2c584" href="81ebdcbe-c117-0f38-4296-c2fffff2c584.htm">Convert(<wbr />Bitmap, String, FREE_<wbr />IMAGE_<wbr />FORMAT, FREE_<wbr />IMAGE_<wbr />SAVE_<wbr />FLAGS)</a>
+    </li>
+    <li>
+      <a id="c7c503e0-9f47-a1f5-ac53-12d8efb895a6" href="c7c503e0-9f47-a1f5-ac53-12d8efb895a6.htm">Convert(<wbr />String, String, FREE_<wbr />IMAGE_<wbr />FORMAT, FREE_<wbr />IMAGE_<wbr />SAVE_<wbr />FLAGS)</a>
+    </li>
+  </tocItems>
+</toc>

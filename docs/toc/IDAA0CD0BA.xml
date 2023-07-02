@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="fd8009ca-bcdf-872d-865e-c95cb25dde93.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="14cccf94-271f-5bed-c566-25e99432d90d.htm">String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="31cd5657-750b-26da-25a4-c5b2998dcdaf.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="87f51e8b-115c-ff32-3eb3-adf50a4f14e3" class="has-submenu" href="87f51e8b-115c-ff32-3eb3-adf50a4f14e3.htm">
+        <span data-tocFile="../toc/IDAAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Append<wbr />Format<wbr />Line</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5299d81-883e-f676-5818-433010603f11" href="b5299d81-883e-f676-5818-433010603f11.htm">Remove<wbr />End</a>
+    </li>
+    <li>
+      <a id="e4609cbe-b135-8200-2d85-9becfb188cc8" href="e4609cbe-b135-8200-2d85-9becfb188cc8.htm">Word<wbr />Wrap</a>
+    </li>
+  </tocItems>
+</toc>

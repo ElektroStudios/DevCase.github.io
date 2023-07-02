@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="af70b02f-e51a-3285-7ed1-a7b733c7aaff.htm">Pss<wbr />Performance<wbr />Counters</a>
+    </li>
+    <li>
+      <a href="99151ddd-78fc-7fb2-244b-49ad9fa8aa92.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="55ff816d-dafe-eba5-1297-0065ae07bfa3" href="55ff816d-dafe-eba5-1297-0065ae07bfa3.htm">Aux<wbr />Pages<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="872973ba-bfe0-3734-457a-d101cc2bc21b" href="872973ba-bfe0-3734-457a-d101cc2bc21b.htm">Aux<wbr />Pages<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+    <li>
+      <a id="fd686c48-cda2-828c-2076-d8b6c66ee9ba" href="fd686c48-cda2-828c-2076-d8b6c66ee9ba.htm">Handles<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="f43eb7a4-4f46-f800-bd66-732de2c21ec3" href="f43eb7a4-4f46-f800-bd66-732de2c21ec3.htm">Handles<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+    <li>
+      <a id="5d4d036d-3c0f-77ce-0103-150656cdfe1a" href="5d4d036d-3c0f-77ce-0103-150656cdfe1a.htm">Threads<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="61f5c15a-ec8c-ae80-09e7-968775b101f4" href="61f5c15a-ec8c-ae80-09e7-968775b101f4.htm">Threads<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+    <li>
+      <a id="c769b463-7bbd-9e37-b38d-a4e9a4ab8b25" href="c769b463-7bbd-9e37-b38d-a4e9a4ab8b25.htm">Total<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="99ef93cd-c786-ebcf-3e6d-79de288a3963" href="99ef93cd-c786-ebcf-3e6d-79de288a3963.htm">Total<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+    <li>
+      <a id="ba90364b-961a-7969-7525-b3f18eb1138a" href="ba90364b-961a-7969-7525-b3f18eb1138a.htm">Virtual<wbr />Address<wbr />Clone<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="b638e546-d6c8-a842-05ed-20eefacd8ec6" href="b638e546-d6c8-a842-05ed-20eefacd8ec6.htm">Virtual<wbr />Address<wbr />Clone<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+    <li>
+      <a id="31847a71-a522-8566-0445-70f2969aee02" href="31847a71-a522-8566-0445-70f2969aee02.htm">Virtual<wbr />Address<wbr />Space<wbr />Cycle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="080c4b41-de04-56ce-6c3a-602e7ff33f38" href="080c4b41-de04-56ce-6c3a-602e7ff33f38.htm">Virtual<wbr />Address<wbr />Space<wbr />Wall<wbr />Clock<wbr />Period</a>
+    </li>
+  </tocItems>
+</toc>

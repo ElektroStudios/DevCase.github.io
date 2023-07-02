@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e407e225-bc1e-fe39-b21c-7aa83e1fc108.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9c7733d2-9fca-d14e-3ed8-9e250aa0a477.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1fcef48e-4bbf-8b60-6f25-11e17e70f107" href="1fcef48e-4bbf-8b60-6f25-11e17e70f107.htm">Append&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="bcb9d9ba-3fbd-9584-d214-d6fe0c420636" href="bcb9d9ba-3fbd-9584-d214-d6fe0c420636.htm">As<wbr />Read<wbr />Only&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="fa6348aa-7123-91f6-1e51-1be36e2d81b6" href="fa6348aa-7123-91f6-1e51-1be36e2d81b6.htm">Concat<wbr />Multiple&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="72b48c60-fd57-e7d8-fdac-e1fc7e9ba39e" href="72b48c60-fd57-e7d8-fdac-e1fc7e9ba39e.htm">Count<wbr />Empty<wbr />Items&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="50f5b043-3b85-dfb0-e0c2-4c9fd5c7eefe" href="50f5b043-3b85-dfb0-e0c2-4c9fd5c7eefe.htm">Count<wbr />Non<wbr />Empty<wbr />Items&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="f121ac0a-335f-97cc-215b-45de75937878" class="has-submenu" href="f121ac0a-335f-97cc-215b-45de75937878.htm">
+        <span data-tocFile="../toc/IDFAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Distinct<wbr />By</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e87cce2f-54b5-42af-15a9-e417bc6b525c" href="e87cce2f-54b5-42af-15a9-e417bc6b525c.htm">Duplicates&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="4b041d73-2cd1-faea-6223-d237eed36443" href="4b041d73-2cd1-faea-6223-d237eed36443.htm">For<wbr />Each&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="06444eab-6425-55c8-e5bd-b5a556326aac" href="06444eab-6425-55c8-e5bd-b5a556326aac.htm">Get<wbr />Random<wbr />Item&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="c40ff35f-b316-8b49-adbf-3cf709e43189" href="c40ff35f-b316-8b49-adbf-3cf709e43189.htm">Group<wbr />By<wbr />Into<wbr />First<wbr />Element&lt;T, TKey&gt;</a>
+    </li>
+    <li>
+      <a id="f7e586ea-78ca-f3d4-7d63-4ab93661f7b7" href="f7e586ea-78ca-f3d4-7d63-4ab93661f7b7.htm">Group<wbr />By<wbr />Into<wbr />Item<wbr />Count&lt;T, TKey&gt;</a>
+    </li>
+    <li>
+      <a id="c5fc6c05-4c66-3ded-bbad-e26d5464ec00" href="c5fc6c05-4c66-3ded-bbad-e26d5464ec00.htm">Group<wbr />By<wbr />Into<wbr />Max<wbr />Number<wbr />Of<wbr />Elements&lt;T, TKey&gt;</a>
+    </li>
+    <li>
+      <a id="918411ae-29ca-7f5f-04be-b85baed8e036" class="has-submenu" href="918411ae-29ca-7f5f-04be-b85baed8e036.htm">
+        <span data-tocFile="../toc/IDMAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Index<wbr />Of</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bd27e561-70b3-9a88-cfaf-f9c927350ad2" class="has-submenu" href="bd27e561-70b3-9a88-cfaf-f9c927350ad2.htm">
+        <span data-tocFile="../toc/IDNAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Index<wbr />Of<wbr />All</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="40597ea8-9d04-590c-557d-eb72feb2db95" href="40597ea8-9d04-590c-557d-eb72feb2db95.htm">Prepend&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="ff064d29-6ce5-3da5-8884-c1f26b81d20e" href="ff064d29-6ce5-3da5-8884-c1f26b81d20e.htm">Randomize&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="eb64e5f9-77cc-1936-1c57-4c001ef6d926" class="has-submenu" href="eb64e5f9-77cc-1936-1c57-4c001ef6d926.htm">
+        <span data-tocFile="../toc/IDQAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Duplicates</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9963516a-529a-3535-b66e-aaa530136aa5" class="has-submenu" href="9963516a-529a-3535-b66e-aaa530136aa5.htm">
+        <span data-tocFile="../toc/IDRAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Sequence</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a47425a6-1068-c4b3-1f50-2bfb368a02b5" class="has-submenu" href="a47425a6-1068-c4b3-1f50-2bfb368a02b5.htm">
+        <span data-tocFile="../toc/IDSAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Replace<wbr />Sequence</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cfd9db4f-28dd-545c-3eff-474a6a6fb2d4" class="has-submenu" href="cfd9db4f-28dd-545c-3eff-474a6a6fb2d4.htm">
+        <span data-tocFile="../toc/IDTAA0VB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Split<wbr />Into<wbr />Number<wbr />Of<wbr />Elements</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="97ecf732-4587-f14b-e5ef-779e01be120d" href="97ecf732-4587-f14b-e5ef-779e01be120d.htm">Split<wbr />Into<wbr />Parts&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="c4c89868-b7d0-c467-be45-05e75b3a33e6" href="c4c89868-b7d0-c467-be45-05e75b3a33e6.htm">String<wbr />Join&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="15045ebe-73ec-73ad-53a8-83d4b2888336" href="15045ebe-73ec-73ad-53a8-83d4b2888336.htm">To<wbr />Array&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="7c991fb6-6875-f2f9-bc17-6e973ba29e5e" href="7c991fb6-6875-f2f9-bc17-6e973ba29e5e.htm">To<wbr />List&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="d0b1b7fb-850b-1ff5-6169-8e867f0a2b18" href="d0b1b7fb-850b-1ff5-6169-8e867f0a2b18.htm">To<wbr />Tree<wbr />String&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="10baf16a-43b5-6606-0f6c-f2da334061d1" href="10baf16a-43b5-6606-0f6c-f2da334061d1.htm">Unique<wbr />Duplicates&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="06fabc02-8f33-09c4-0077-4efd54bb148a" href="06fabc02-8f33-09c4-0077-4efd54bb148a.htm">Uniques&lt;T&gt;</a>
+    </li>
+  </tocItems>
+</toc>

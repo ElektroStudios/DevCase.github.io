@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="bdfa5896-7ba6-55fd-69ae-6f61a85aed20.htm">Wave<wbr />Recorder</a>
+    </li>
+    <li>
+      <a href="616ed2e6-84ab-9aca-7cc7-31963c9751ee.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2f21f0ed-5fb7-538c-70cf-347c6004e7ce" href="2f21f0ed-5fb7-538c-70cf-347c6004e7ce.htm">Delete</a>
+    </li>
+    <li>
+      <a id="53a0879c-e6ae-a858-e67a-cba51c125e30" href="53a0879c-e6ae-a858-e67a-cba51c125e30.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="57f8799e-7775-2a8e-b345-2b6f3b6dd0d5" href="57f8799e-7775-2a8e-b345-2b6f3b6dd0d5.htm">Play</a>
+    </li>
+    <li>
+      <a id="25e6ee03-2d3c-71ef-b377-eff78b71764d" href="25e6ee03-2d3c-71ef-b377-eff78b71764d.htm">Record</a>
+    </li>
+    <li>
+      <a id="bed227e6-22d5-9ff9-29b8-533d172ed742" href="bed227e6-22d5-9ff9-29b8-533d172ed742.htm">Save</a>
+    </li>
+    <li>
+      <a id="620fab9e-8c64-8616-4158-febaba512aae" href="620fab9e-8c64-8616-4158-febaba512aae.htm">Stop</a>
+    </li>
+  </tocItems>
+</toc>

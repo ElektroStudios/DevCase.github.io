@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="80c6dccb-e0cb-a6bb-492b-b7a553b7627c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Media<wbr />Info</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fe56b421-9c5b-6ac9-6d66-c984f8f93eeb" href="fe56b421-9c5b-6ac9-6d66-c984f8f93eeb.htm">Field<wbr />Info</a>
+    </li>
+    <li>
+      <a id="df0f2afc-c244-34d4-6b42-b5d648892295" href="df0f2afc-c244-34d4-6b42-b5d648892295.htm">Fields</a>
+    </li>
+    <li>
+      <a id="d10b9c9d-061c-31a6-da4f-345ba25477ee" class="has-submenu" href="d10b9c9d-061c-31a6-da4f-345ba25477ee.htm">
+        <span data-tocFile="../toc/IDC5DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Media<wbr />Info<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7c9716ad-7008-0ad8-36ef-8064b69f661e" href="7c9716ad-7008-0ad8-36ef-8064b69f661e.htm">Stream<wbr />Type</a>
+    </li>
+    <li>
+      <a id="c1d52a0c-c8e7-afad-d819-6f9c433f4634" class="has-submenu" href="c1d52a0c-c8e7-afad-d819-6f9c433f4634.htm">
+        <span data-tocFile="../toc/IDE5DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Media<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

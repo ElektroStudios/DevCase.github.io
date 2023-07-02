@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="41a79afa-943b-b3f1-3b6e-c194cbf24c4c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Resources</a>
+    </li>
+    <li>
+      <a href="0aea8d5b-c481-61c4-a2fe-c04dd55105e6.htm">Res<wbr />XManager</a>
+    </li>
+    <li>
+      <a href="9d044c64-9c89-4aca-df18-ddb57df8acb2.htm">Methods</a>
+    </li>
+    <li>
+      <a href="54e5a927-33d3-2d5f-7282-be083ffd2c54.htm">Add<wbr />Resource</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ffa6bf0c-a58d-5afc-45f6-ea04dabb2e93" href="ffa6bf0c-a58d-5afc-45f6-ea04dabb2e93.htm">Add<wbr />Resource&lt;T&gt;(<wbr />Resource&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="c3d54287-50a8-54e4-ae53-86ed02128e8e" href="c3d54287-50a8-54e4-ae53-86ed02128e8e.htm">Add<wbr />Resource(<wbr />String, Object, String)</a>
+    </li>
+    <li>
+      <a id="14eec653-c202-8132-6c89-83ab10755754" href="14eec653-c202-8132-6c89-83ab10755754.htm">Add<wbr />Resource&lt;T&gt;(<wbr />String, T, String)</a>
+    </li>
+  </tocItems>
+</toc>

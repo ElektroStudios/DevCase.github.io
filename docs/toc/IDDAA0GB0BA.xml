@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="6e2dce38-2a11-4f99-70de-405be2740be7.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />File<wbr />Info<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="d3d5efad-e00b-9c1a-7dd8-ae5fe74656f5.htm">File<wbr />Info<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="b679d244-e734-94ad-9118-85ecd581cd21.htm">Methods</a>
+    </li>
+    <li>
+      <a href="6029e53b-c62a-b308-9d40-bc473c37e699.htm">Create<wbr />Zip<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5813d94e-72e2-4efe-e032-46a0e9d28509" href="5813d94e-72e2-4efe-e032-46a0e9d28509.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="4c198863-ad54-568b-a070-45956046ef45" href="4c198863-ad54-568b-a070-45956046ef45.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="f8e5bc6e-1fb0-2a5e-a300-fd062bc962eb" href="f8e5bc6e-1fb0-2a5e-a300-fd062bc962eb.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="17c1e363-5756-36f1-8c8f-39d7eb786b1a" href="17c1e363-5756-36f1-8c8f-39d7eb786b1a.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="026be09d-38bc-6c5b-92af-2cc9ad8938e1" href="026be09d-38bc-6c5b-92af-2cc9ad8938e1.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info, File<wbr />Info, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="894ab1a1-3b0d-6219-25b2-c4f93a7c7348" href="894ab1a1-3b0d-6219-25b2-c4f93a7c7348.htm">Create<wbr />Zip<wbr />File(<wbr />File<wbr />Info, String, Compression<wbr />Level)</a>
+    </li>
+  </tocItems>
+</toc>

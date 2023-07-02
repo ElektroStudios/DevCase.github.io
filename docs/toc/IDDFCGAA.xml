@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">Unit</a>
+    </li>
+    <li>
+      <a href="3373bb87-620e-aead-f6f9-1dd2999c37fd.htm">Operators</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f0382f39-a754-b40a-78d3-8acb35a4d574" class="has-submenu" href="f0382f39-a754-b40a-78d3-8acb35a4d574.htm">
+        <span data-tocFile="../toc/IDADFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Division</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4a4a5c4b-5446-6ad2-f2e8-bfc8e24d222e" href="4a4a5c4b-5446-6ad2-f2e8-bfc8e24d222e.htm">Equality Operator</a>
+    </li>
+    <li>
+      <a id="e8b0fe0d-0c25-982f-a53a-c75e233f2b87" class="has-submenu" href="e8b0fe0d-0c25-982f-a53a-c75e233f2b87.htm">
+        <span data-tocFile="../toc/IDCDFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Exponent</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf191fb3-ec29-c1c0-4f31-8941894b91db" href="bf191fb3-ec29-c1c0-4f31-8941894b91db.htm">Inequality Operator</a>
+    </li>
+    <li>
+      <a id="c2e9a4ca-e1df-2e87-cf89-36a321ccbf46" class="has-submenu" href="c2e9a4ca-e1df-2e87-cf89-36a321ccbf46.htm">
+        <span data-tocFile="../toc/IDEDFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Multiply</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

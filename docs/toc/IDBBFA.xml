@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58d11375-7881-6c5b-e408-2fb0e3f945c2.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b7d9145a-a2d9-6553-bfb8-beecccb43daa" class="has-submenu" href="b7d9145a-a2d9-6553-bfb8-beecccb43daa.htm">
+        <span data-tocFile="../toc/IDABBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="74d1e6ec-6084-32b7-f8c9-de1bf5e7101b" class="has-submenu" href="74d1e6ec-6084-32b7-f8c9-de1bf5e7101b.htm">
+        <span data-tocFile="../toc/IDBBBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e62e3dba-38b0-45c5-7e0b-d09a8c1cd16d" class="has-submenu" href="e62e3dba-38b0-45c5-7e0b-d09a8c1cd16d.htm">
+        <span data-tocFile="../toc/IDCBBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c17981b1-2427-56a1-6621-ad70ffa65545" class="has-submenu" href="c17981b1-2427-56a1-6621-ad70ffa65545.htm">
+        <span data-tocFile="../toc/IDDBBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Operators</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

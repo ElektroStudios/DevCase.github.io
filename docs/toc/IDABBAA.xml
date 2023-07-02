@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+    </li>
+    <li>
+      <a href="10a19bdd-c28a-d398-b62b-d4e4df8512e4.htm">BBCode<wbr />Document</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6972ac7a-af24-7e07-b467-67c0b1f6df01" href="6972ac7a-af24-7e07-b467-67c0b1f6df01.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="3f8492f5-6fe5-b887-3ed9-81b28ac4f5db" href="3f8492f5-6fe5-b887-3ed9-81b28ac4f5db.htm">Properties</a>
+    </li>
+    <li>
+      <a id="7717c9a3-689c-927d-6925-a54670b815b9" class="has-submenu" href="7717c9a3-689c-927d-6925-a54670b815b9.htm">
+        <span data-tocFile="../toc/IDCABBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

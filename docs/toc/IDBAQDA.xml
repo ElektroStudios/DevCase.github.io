@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="1b3bd275-3bb6-9253-8c37-5c98f7c27616.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Fluent<wbr />FTP</a>
+    </li>
+    <li>
+      <a href="6d81774c-7786-c7a8-7f26-0ba49710259e.htm">Client</a>
+    </li>
+    <li>
+      <a href="0b21dfab-de63-9ad9-7724-839e78fdee09.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6e81df83-8392-167c-e10f-d3773a711d45" href="6e81df83-8392-167c-e10f-d3773a711d45.htm">Connect</a>
+    </li>
+    <li>
+      <a id="8692ae96-f6cd-edce-94d7-16d43a35ff3b" href="8692ae96-f6cd-edce-94d7-16d43a35ff3b.htm">Create<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="054f88b2-048b-0294-15f7-675b1c637919" href="054f88b2-048b-0294-15f7-675b1c637919.htm">Delete<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="3f86e347-ae01-4195-90c1-ea421d3132bc" href="3f86e347-ae01-4195-90c1-ea421d3132bc.htm">Delete<wbr />File</a>
+    </li>
+    <li>
+      <a id="dfc27020-be6d-42a0-5bc7-7e617f20215f" href="dfc27020-be6d-42a0-5bc7-7e617f20215f.htm">Directory<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="b56e2732-c511-004c-5a45-bdb054e66507" href="b56e2732-c511-004c-5a45-bdb054e66507.htm">Disconnect</a>
+    </li>
+    <li>
+      <a id="1fb0c3e7-dc30-9115-580f-01265ce5b282" href="1fb0c3e7-dc30-9115-580f-01265ce5b282.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="498d683a-1083-8e10-b09c-0a7f2195e8fb" href="498d683a-1083-8e10-b09c-0a7f2195e8fb.htm">Download<wbr />File</a>
+    </li>
+    <li>
+      <a id="99047520-3877-612d-1cda-eb91784065d3" href="99047520-3877-612d-1cda-eb91784065d3.htm">Execute</a>
+    </li>
+    <li>
+      <a id="f8f1b23a-7c9b-10b9-3c92-a2f1f2f51c32" href="f8f1b23a-7c9b-10b9-3c92-a2f1f2f51c32.htm">File<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="689d6ce6-b02f-a28c-afec-094769a735ae" href="689d6ce6-b02f-a28c-afec-094769a735ae.htm">Get<wbr />Directories</a>
+    </li>
+    <li>
+      <a id="52a81847-40f0-6e1c-be0b-a68712414471" href="52a81847-40f0-6e1c-be0b-a68712414471.htm">Get<wbr />Files</a>
+    </li>
+    <li>
+      <a id="5f7e9051-167b-398f-f693-788e6e431a12" href="5f7e9051-167b-398f-f693-788e6e431a12.htm">Get<wbr />File<wbr />Size</a>
+    </li>
+    <li>
+      <a id="f5405ccc-b465-9b88-9449-5ce8f7f3b9fd" href="f5405ccc-b465-9b88-9449-5ce8f7f3b9fd.htm">Get<wbr />Hash<wbr />Algorithms</a>
+    </li>
+    <li>
+      <a id="05311b07-6d05-1ae5-9c88-56783fead8ef" href="05311b07-6d05-1ae5-9c88-56783fead8ef.htm">Get<wbr />Links</a>
+    </li>
+    <li>
+      <a id="935bab05-7221-985a-1539-9c92f8d1c816" href="935bab05-7221-985a-1539-9c92f8d1c816.htm">Get<wbr />Listing</a>
+    </li>
+    <li>
+      <a id="a80a3430-2738-88be-d5eb-a6276d64a2ed" href="a80a3430-2738-88be-d5eb-a6276d64a2ed.htm">Get<wbr />Modified<wbr />Time</a>
+    </li>
+    <li>
+      <a id="d10b8546-f759-1a74-e60a-2d996990fa19" href="d10b8546-f759-1a74-e60a-2d996990fa19.htm">Get<wbr />Name<wbr />Listing</a>
+    </li>
+    <li>
+      <a id="132ba8ab-db0d-69a4-4ece-ebf0b40b85d5" href="132ba8ab-db0d-69a4-4ece-ebf0b40b85d5.htm">Get<wbr />Working<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="37594ae9-7f32-a77e-86c2-010fb826bdac" href="37594ae9-7f32-a77e-86c2-010fb826bdac.htm">Open<wbr />Append</a>
+    </li>
+    <li>
+      <a id="d00ac941-bb6b-d731-4d79-40820578388d" href="d00ac941-bb6b-d731-4d79-40820578388d.htm">Open<wbr />Read</a>
+    </li>
+    <li>
+      <a id="e18bdd3c-25dc-25b6-b520-b275211de0a5" href="e18bdd3c-25dc-25b6-b520-b275211de0a5.htm">Open<wbr />Write</a>
+    </li>
+    <li>
+      <a id="b00d8f56-784b-9779-a61f-89acc5e91414" href="b00d8f56-784b-9779-a61f-89acc5e91414.htm">Rename<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="d18b4c8b-bfa5-4a15-ce04-9cc72984de5e" href="d18b4c8b-bfa5-4a15-ce04-9cc72984de5e.htm">Rename<wbr />File</a>
+    </li>
+    <li>
+      <a id="6ad8bc04-2ce0-a00c-be5a-be998d6fc0c9" href="6ad8bc04-2ce0-a00c-be5a-be998d6fc0c9.htm">Set<wbr />Working<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="cb79a429-d461-5e36-5c71-16eeeb4865cd" href="cb79a429-d461-5e36-5c71-16eeeb4865cd.htm">Try<wbr />Execute</a>
+    </li>
+    <li>
+      <a id="62cdfc4b-57f2-ef11-61d7-a078e18e97f1" href="62cdfc4b-57f2-ef11-61d7-a078e18e97f1.htm">Upload<wbr />File</a>
+    </li>
+  </tocItems>
+</toc>

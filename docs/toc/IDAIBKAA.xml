@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="9d2fc824-7b23-afd3-a709-febaa3597c90.htm">Util<wbr />Windows</a>
+    </li>
+    <li>
+      <a href="c8772e52-4b06-294d-730f-ce4745e01308.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="70b27350-7e0c-2f1f-d2bc-0659d9159cbc" href="70b27350-7e0c-2f1f-d2bc-0659d9159cbc.htm">Current<wbr />Architecture</a>
+    </li>
+    <li>
+      <a id="0c2516c0-66bf-60ef-40d7-4ffda8b61d6d" href="0c2516c0-66bf-60ef-40d7-4ffda8b61d6d.htm">Is<wbr />Virtual<wbr />Machine</a>
+    </li>
+    <li>
+      <a id="5b6a62e2-ab70-7683-5a95-b2588bdcf57d" href="5b6a62e2-ab70-7683-5a95-b2588bdcf57d.htm">Is<wbr />Win<wbr />10</a>
+    </li>
+    <li>
+      <a id="8134222a-a636-1fc4-13b2-a1f4484e95a9" href="8134222a-a636-1fc4-13b2-a1f4484e95a9.htm">Is<wbr />Win<wbr />10Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="e2bed98b-0ad4-e09d-ec81-cd046191048d" href="e2bed98b-0ad4-e09d-ec81-cd046191048d.htm">Is<wbr />Win<wbr />11</a>
+    </li>
+    <li>
+      <a id="2f09e8eb-ae55-4f90-853a-fdd9882dd4c6" href="2f09e8eb-ae55-4f90-853a-fdd9882dd4c6.htm">Is<wbr />Win<wbr />11Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="be7d7c16-11cb-ffbb-5200-65342463937c" href="be7d7c16-11cb-ffbb-5200-65342463937c.htm">Is<wbr />Win<wbr />7</a>
+    </li>
+    <li>
+      <a id="6caca24f-1e5e-1704-7caf-13d32003f001" href="6caca24f-1e5e-1704-7caf-13d32003f001.htm">Is<wbr />Win<wbr />7Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="95ad44dd-7ffe-63cd-9139-33fd0f1a7156" href="95ad44dd-7ffe-63cd-9139-33fd0f1a7156.htm">Is<wbr />Win<wbr />8</a>
+    </li>
+    <li>
+      <a id="d6481aab-3006-5146-11ec-d614b45f444b" href="d6481aab-3006-5146-11ec-d614b45f444b.htm">Is<wbr />Win<wbr />81</a>
+    </li>
+    <li>
+      <a id="2bdaa5ad-f021-0ada-db05-e91f68b1e2d5" href="2bdaa5ad-f021-0ada-db05-e91f68b1e2d5.htm">Is<wbr />Win<wbr />81Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="9478909b-b091-4a35-9681-f75a9a25767e" href="9478909b-b091-4a35-9681-f75a9a25767e.htm">Is<wbr />Win<wbr />8Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="d23d4209-f8c5-61ff-5da6-f75a93d6dc34" href="d23d4209-f8c5-61ff-5da6-f75a93d6dc34.htm">Is<wbr />Win<wbr />Vista</a>
+    </li>
+    <li>
+      <a id="7a8fa40b-b034-7564-3319-f80267a2d953" href="7a8fa40b-b034-7564-3319-f80267a2d953.htm">Is<wbr />Win<wbr />Vista<wbr />Or<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="31fe6bb9-9d1a-c29b-1939-4156a0153e68" href="31fe6bb9-9d1a-c29b-1939-4156a0153e68.htm">Is<wbr />Win<wbr />XP</a>
+    </li>
+    <li>
+      <a id="af0a5fbd-b907-fe2e-f35c-dc9f7a9f89f7" href="af0a5fbd-b907-fe2e-f35c-dc9f7a9f89f7.htm">Is<wbr />Win<wbr />XPOr<wbr />Greater</a>
+    </li>
+    <li>
+      <a id="270740d5-76bd-bb98-673f-1961f9c18da8" href="270740d5-76bd-bb98-673f-1961f9c18da8.htm">Most<wbr />Recent<wbr />Installed<wbr />Framework<wbr />Version</a>
+    </li>
+    <li>
+      <a id="b507d268-8630-5ff1-145c-a471ac011954" href="b507d268-8630-5ff1-145c-a471ac011954.htm">Os<wbr />Name</a>
+    </li>
+    <li>
+      <a id="2f9d3d75-d020-1fec-2c1c-4b74ae840c58" href="2f9d3d75-d020-1fec-2c1c-4b74ae840c58.htm">System<wbr />Idle<wbr />Time</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Combinatorics</a>
+    </li>
+    <li>
+      <a href="75d74e73-a817-5ed2-ac9e-2d1b299d93c9.htm">Permutation<wbr />Collection&lt;T&gt;</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c9b59aba-9307-e830-8ad2-7c14f582fd44" class="has-submenu" href="c9b59aba-9307-e830-8ad2-7c14f582fd44.htm">
+        <span data-tocFile="../toc/IDADAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="de905a7a-c161-0116-65ef-6e2161e0a5e3" class="has-submenu" href="de905a7a-c161-0116-65ef-6e2161e0a5e3.htm">
+        <span data-tocFile="../toc/IDBDAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d880191f-5da0-694c-0f33-44d5919792a2" class="has-submenu" href="d880191f-5da0-694c-0f33-44d5919792a2.htm">
+        <span data-tocFile="../toc/IDCDAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

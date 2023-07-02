@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Combinatorics</a>
+    </li>
+    <li>
+      <a href="75d74e73-a817-5ed2-ac9e-2d1b299d93c9.htm">Permutation<wbr />Collection&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="c9b59aba-9307-e830-8ad2-7c14f582fd44.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1e81a4e2-9da3-a52e-22bd-de31ccec3ba4" href="1e81a4e2-9da3-a52e-22bd-de31ccec3ba4.htm">Permutation<wbr />Collection&lt;T&gt;(<wbr />IList&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="e679d8f8-0ee6-3811-3428-aa3c2f57db7d" href="e679d8f8-0ee6-3811-3428-aa3c2f57db7d.htm">Permutation<wbr />Collection&lt;T&gt;(<wbr />IList&lt;T&gt;, Meta<wbr />Collection<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="596a53f1-a01d-553e-1fae-1600794c75cf" href="596a53f1-a01d-553e-1fae-1600794c75cf.htm">Permutation<wbr />Collection&lt;T&gt;(<wbr />IList&lt;T&gt;, IComparer&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

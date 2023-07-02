@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="53adcf36-efd9-04e7-95b7-cc9943e9d215.htm">Set<wbr />Cookies</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2372b4ad-409d-fb0b-6c85-d10eee964e32" href="2372b4ad-409d-fb0b-6c85-d10eee964e32.htm">Set<wbr />Cookies(<wbr />String, Boolean, Cookie[])</a>
+    </li>
+    <li>
+      <a id="b7bf6df4-beae-cc63-0c82-00fd004bccb5" href="b7bf6df4-beae-cc63-0c82-00fd004bccb5.htm">Set<wbr />Cookies(<wbr />String, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="d6c1aeb4-cf36-baba-d636-35ac6739bdc6" href="d6c1aeb4-cf36-baba-d636-35ac6739bdc6.htm">Set<wbr />Cookies(<wbr />Uri, Boolean, Cookie[])</a>
+    </li>
+    <li>
+      <a id="23d05bd3-9199-8c82-2d34-939de5abfa14" href="23d05bd3-9199-8c82-2d34-939de5abfa14.htm">Set<wbr />Cookies(<wbr />Uri, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+  </tocItems>
+</toc>

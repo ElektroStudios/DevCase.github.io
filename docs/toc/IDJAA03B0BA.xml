@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e2ceadad-dcad-19a3-b7a6-e6cc63791e13.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="f84c9d02-0e5f-1438-addc-e44f0a5176b4.htm">List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="6c3cdc3e-0eb2-d085-333c-18da4ae40eb4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5af0b59f-e8b6-8b13-e119-74023896d60d.htm">Remove<wbr />Duplicates</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3dc7a49f-c650-b61a-406d-45f2b82c83d3" href="3dc7a49f-c650-b61a-406d-45f2b82c83d3.htm">Remove<wbr />Duplicates(<wbr />List<wbr />Box)</a>
+    </li>
+    <li>
+      <a id="3a5eb035-5b9d-0177-1046-874f086940ac" href="3a5eb035-5b9d-0177-1046-874f086940ac.htm">Remove<wbr />Duplicates&lt;T&gt;(<wbr />List<wbr />Box)</a>
+    </li>
+    <li>
+      <a id="d901e856-64fa-7fc7-ab32-c7fa8a3d1530" href="d901e856-64fa-7fc7-ab32-c7fa8a3d1530.htm">Remove<wbr />Duplicates&lt;T&gt;(<wbr />List<wbr />Box, IEquality<wbr />Comparer&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

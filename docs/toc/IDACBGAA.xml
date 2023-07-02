@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="3ba91054-a687-7062-55d2-848e5d401451.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="1bfad87e-195d-484a-8717-7a48f66129e8.htm">Util<wbr />Numerics</a>
+    </li>
+    <li>
+      <a href="b8ed1e46-5670-c94a-1cba-0d656072df7b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c6cd688e-e809-aa90-eee0-f361af9fe9db" href="c6cd688e-e809-aa90-eee0-f361af9fe9db.htm">Calculate<wbr />Distance<wbr />2D</a>
+    </li>
+    <li>
+      <a id="52d5b64a-6741-d960-d744-98aba3a0d9c5" class="has-submenu" href="52d5b64a-6741-d960-d744-98aba3a0d9c5.htm">
+        <span data-tocFile="../toc/IDBACBGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Convert<wbr />To<wbr />Fraction</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a7615270-d2f4-0009-f240-39fbdc88d049" href="a7615270-d2f4-0009-f240-39fbdc88d049.htm">Degrees<wbr />To<wbr />Point</a>
+    </li>
+    <li>
+      <a id="a84c9fed-47a9-f013-082a-c5f96246e4f6" class="has-submenu" href="a84c9fed-47a9-f013-082a-c5f96246e4f6.htm">
+        <span data-tocFile="../toc/IDDACBGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Greatest<wbr />Common<wbr />Divisor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6697cc78-c53a-f5b8-be03-edb36af786c0" href="6697cc78-c53a-f5b8-be03-edb36af786c0.htm">Point<wbr />To<wbr />Degrees</a>
+    </li>
+  </tocItems>
+</toc>

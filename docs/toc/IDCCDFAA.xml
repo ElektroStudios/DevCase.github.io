@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="dba4f045-fe88-1f93-c86d-eaf85300948f.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Hardware<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="f1c93946-b663-002b-ef8a-46ebd08d7371.htm">Memory<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="f9e3e337-f93f-a07e-916b-85c9e7457a2f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3b83c363-9025-b070-1994-7589ee7af572" class="has-submenu" href="3b83c363-9025-b070-1994-7589ee7af572.htm">
+        <span data-tocFile="../toc/IDACCDFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Allocate</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="93a13c0c-13a5-43d0-d274-3c2acb213235" href="93a13c0c-13a5-43d0-d274-3c2acb213235.htm">Deallocate</a>
+    </li>
+    <li>
+      <a id="66fd655a-a1d9-dd13-2c34-36f82c761ca4" href="66fd655a-a1d9-dd13-2c34-36f82c761ca4.htm">Dispose</a>
+    </li>
+  </tocItems>
+</toc>

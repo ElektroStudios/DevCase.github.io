@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="9361f3bf-be4e-beb6-0bf9-1dc35a2a9c97.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Gaming.<wbr />Rom<wbr />Hacking.<wbr />SNES</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bd2f29d9-f9fe-308a-06cf-088bc2a2053a" class="has-submenu" href="bd2f29d9-f9fe-308a-06cf-088bc2a2053a.htm">
+        <span data-tocFile="../toc/IDAAHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invalid<wbr />Snes<wbr />Rom<wbr />Format<wbr />Exception</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6e1e574e-ca8e-f372-0eb2-5bad04f93666" href="6e1e574e-ca8e-f372-0eb2-5bad04f93666.htm">Snes<wbr />Bank<wbr />Type<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="9130a02f-a804-ee8f-f244-b993977cb749" href="9130a02f-a804-ee8f-f244-b993977cb749.htm">Snes<wbr />Cartridge<wbr />Type<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="eab05085-7f2d-e42a-6cc3-6658c8a70dad" href="eab05085-7f2d-e42a-6cc3-6658c8a70dad.htm">Snes<wbr />Header<wbr />Type<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="9ab9c796-ac17-c17d-7033-ac4677745509" href="9ab9c796-ac17-c17d-7033-ac4677745509.htm">Snes<wbr />License<wbr />Code<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="73e834a1-7943-c52f-8471-d15f6d49b310" href="73e834a1-7943-c52f-8471-d15f6d49b310.htm">Snes<wbr />Region<wbr />Type<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="638d3a37-c7ea-7eae-6da5-5443792782f3" class="has-submenu" href="638d3a37-c7ea-7eae-6da5-5443792782f3.htm">
+        <span data-tocFile="../toc/IDGAHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Snes<wbr />Rom</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a9d0f647-6a4c-fe86-c96a-94f1e9f77fba" class="has-submenu" href="a9d0f647-6a4c-fe86-c96a-94f1e9f77fba.htm">
+        <span data-tocFile="../toc/IDHAHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Snes<wbr />Rom<wbr />Country</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="acaf7593-79ae-b3ce-a642-867c686eb114" href="acaf7593-79ae-b3ce-a642-867c686eb114.htm">Snes<wbr />Rom<wbr />Size<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="cdb0c1e3-9d82-9bfd-766d-edebcf0191dd" href="cdb0c1e3-9d82-9bfd-766d-edebcf0191dd.htm">Snes<wbr />Sram<wbr />Size<wbr />Enum</a>
+    </li>
+  </tocItems>
+</toc>

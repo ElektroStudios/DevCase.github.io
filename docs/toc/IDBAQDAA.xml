@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="8d06edb1-fe6b-6091-17fd-b568a90cbd99.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Visual<wbr />Studio.<wbr />IDE</a>
+    </li>
+    <li>
+      <a href="1614a39a-3cab-5a78-1961-e86c020982f0.htm">Util<wbr />Visual<wbr />Studio<wbr />IDE</a>
+    </li>
+    <li>
+      <a href="5670ae3e-5819-d35b-230f-1bb0342d1bdb.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="62ee2395-dea9-5207-1476-beaa957398e5" href="62ee2395-dea9-5207-1476-beaa957398e5.htm">Clear<wbr />Build<wbr />Output<wbr />Window</a>
+    </li>
+    <li>
+      <a id="f15a4098-009b-bc81-dab4-e65145d15bad" href="f15a4098-009b-bc81-dab4-e65145d15bad.htm">Clear<wbr />Debug<wbr />Output<wbr />Window</a>
+    </li>
+    <li>
+      <a id="14d5a62b-efd3-799d-59fb-0dcbae698a97" href="14d5a62b-efd3-799d-59fb-0dcbae698a97.htm">Clear<wbr />Immediate<wbr />Window</a>
+    </li>
+    <li>
+      <a id="9eb45b2b-288e-df0a-059a-f9fad81bfd50" class="has-submenu" href="9eb45b2b-288e-df0a-059a-f9fad81bfd50.htm">
+        <span data-tocFile="../toc/IDDBAQDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Visual<wbr />Studio<wbr />Installed</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

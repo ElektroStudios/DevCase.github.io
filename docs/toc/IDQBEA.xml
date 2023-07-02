@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
+    </li>
+    <li>
+      <a href="44018fbc-1f6d-44f5-c73f-07b1aaaa4e38.htm">Dev<wbr />Panel</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="72a0bae4-f238-550b-662d-1a200d2a29ad" href="72a0bae4-f238-550b-662d-1a200d2a29ad.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="d0132174-1ac6-f9c3-cbaf-9371ab9240f6" class="has-submenu" href="d0132174-1ac6-f9c3-cbaf-9371ab9240f6.htm">
+        <span data-tocFile="../toc/IDBQBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8fbec23c-c4fe-2ade-dcf5-157be09f6222" href="8fbec23c-c4fe-2ade-dcf5-157be09f6222.htm">Methods</a>
+    </li>
+    <li>
+      <a id="7b8e3bb3-c38d-20db-f805-001299c0b82b" href="7b8e3bb3-c38d-20db-f805-001299c0b82b.htm">Events</a>
+    </li>
+  </tocItems>
+</toc>

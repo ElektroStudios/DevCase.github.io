@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="17815bb6-d240-9e28-2d92-969758f029d9.htm">Util<wbr />Environment<wbr />Path</a>
+    </li>
+    <li>
+      <a href="e342aadd-4dd1-a34c-6cca-90659a180bcd.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4d79ca10-b43d-9c6e-f900-9442b13e50e4" href="4d79ca10-b43d-9c6e-f900-9442b13e50e4.htm">Add<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="58a8526b-4f25-4ee1-cf58-648ba8ee4e68" href="58a8526b-4f25-4ee1-cf58-648ba8ee4e68.htm">Add<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="a414b9b5-6756-be1a-e8c2-8c84304bfd3c" href="a414b9b5-6756-be1a-e8c2-8c84304bfd3c.htm">Contains<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="6c00d944-204a-c6ea-06da-2805874a3386" href="6c00d944-204a-c6ea-06da-2805874a3386.htm">Contains<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="27d45ce3-d4f6-f49c-d4f5-aa66112a5987" href="27d45ce3-d4f6-f49c-d4f5-aa66112a5987.htm">Create<wbr />Path</a>
+    </li>
+    <li>
+      <a id="5a09a307-baef-afd3-28da-2a38e61d8592" href="5a09a307-baef-afd3-28da-2a38e61d8592.htm">Create<wbr />Path<wbr />Ext</a>
+    </li>
+    <li>
+      <a id="d91135a4-0386-24b4-6aec-3a339f059115" href="d91135a4-0386-24b4-6aec-3a339f059115.htm">Export</a>
+    </li>
+    <li>
+      <a id="f7d7a9f5-b2a1-0b9d-8807-c299634400b8" href="f7d7a9f5-b2a1-0b9d-8807-c299634400b8.htm">Get<wbr />Default<wbr />Path<wbr />Data</a>
+    </li>
+    <li>
+      <a id="3482c4d5-3a91-501a-1d30-76f3fca02994" href="3482c4d5-3a91-501a-1d30-76f3fca02994.htm">Get<wbr />Path<wbr />Data</a>
+    </li>
+    <li>
+      <a id="ea7c591b-8f78-f947-14d8-2561a4437b60" href="ea7c591b-8f78-f947-14d8-2561a4437b60.htm">Get<wbr />Path<wbr />Ext<wbr />Data</a>
+    </li>
+    <li>
+      <a id="3cb46dd2-8cd1-0b79-8049-ce6b4ce079e4" href="3cb46dd2-8cd1-0b79-8049-ce6b4ce079e4.htm">Path<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="e061d6e9-8d29-454e-e87e-44b8a799f9c5" href="e061d6e9-8d29-454e-e87e-44b8a799f9c5.htm">Path<wbr />Ext<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="d26f0d11-4ea0-076e-fbfc-a392db085de7" class="has-submenu" href="d26f0d11-4ea0-076e-fbfc-a392db085de7.htm">
+        <span data-tocFile="../toc/IDMBDFKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Directory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="283ea497-a852-d028-365d-0abaa3d80bbf" class="has-submenu" href="283ea497-a852-d028-365d-0abaa3d80bbf.htm">
+        <span data-tocFile="../toc/IDNBDFKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Extension</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

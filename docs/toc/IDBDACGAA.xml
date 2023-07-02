@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="2e1c4d50-f238-1c6b-517a-fa7ff8040227.htm">Amount</a>
+    </li>
+    <li>
+      <a href="85d066d1-0eba-6f14-6839-df15e7632102.htm">Operators</a>
+    </li>
+    <li>
+      <a href="711491fa-76e2-596a-bbfb-eab75d16b53e.htm">Division</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="849957a8-20b1-6c20-733b-8814f792e4e6" href="849957a8-20b1-6c20-733b-8814f792e4e6.htm">Division(<wbr />Amount, Amount) Operator</a>
+    </li>
+    <li>
+      <a id="971cd06b-f31f-87ca-6d10-c782c679de33" href="971cd06b-f31f-87ca-6d10-c782c679de33.htm">Division(<wbr />Amount, Double) Operator</a>
+    </li>
+    <li>
+      <a id="433ed1ec-6744-3b9d-aa97-2528e6ad0da0" href="433ed1ec-6744-3b9d-aa97-2528e6ad0da0.htm">Division(<wbr />Double, Amount) Operator</a>
+    </li>
+  </tocItems>
+</toc>

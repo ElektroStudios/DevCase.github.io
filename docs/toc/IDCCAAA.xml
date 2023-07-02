@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="f0059c29-1665-aea4-12e1-2e4dabc3ebca.htm">Control<wbr />Dragger</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="401d4511-3fc5-bf2b-48c9-b2faa1ec2076" class="has-submenu" href="401d4511-3fc5-bf2b-48c9-b2faa1ec2076.htm">
+        <span data-tocFile="../toc/IDACCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d488e8e7-3ee1-5d49-7740-44dd17445607" class="has-submenu" href="d488e8e7-3ee1-5d49-7740-44dd17445607.htm">
+        <span data-tocFile="../toc/IDBCCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bcae077a-5e1a-c8c4-a52e-9f933c96a3f1" class="has-submenu" href="bcae077a-5e1a-c8c4-a52e-9f933c96a3f1.htm">
+        <span data-tocFile="../toc/IDCCCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

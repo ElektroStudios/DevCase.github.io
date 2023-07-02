@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="d3218015-d32d-702d-9dd3-56a71687f248.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Control<wbr />Panel</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5a7773c3-6f4d-49df-811b-dcae4f59139e" href="5a7773c3-6f4d-49df-811b-dcae4f59139e.htm">Control<wbr />Panel<wbr />Items</a>
+    </li>
+    <li>
+      <a id="51ba6734-ba3f-92cc-9b45-a1e84d17963b" class="has-submenu" href="51ba6734-ba3f-92cc-9b45-a1e84d17963b.htm">
+        <span data-tocFile="../toc/IDBCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Applets</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="aae766c9-7b60-9ed0-0c00-0a338b2bfc64" class="has-submenu" href="aae766c9-7b60-9ed0-0c00-0a338b2bfc64.htm">
+        <span data-tocFile="../toc/IDCCKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Control<wbr />Panel</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

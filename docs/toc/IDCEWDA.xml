@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="c6992124-05a1-dfec-c571-c83fc8931605.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Search</a>
+    </li>
+    <li>
+      <a href="50490acb-c043-8dab-f27f-efc91c9b3dcc.htm">Google<wbr />Search<wbr />Result</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="466350f9-07fe-ebc9-a7a1-aa98e391b86e" class="has-submenu" href="466350f9-07fe-ebc9-a7a1-aa98e391b86e.htm">
+        <span data-tocFile="../toc/IDACEWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8d03d4b8-7ed5-bc96-d6f8-098f620305f0" class="has-submenu" href="8d03d4b8-7ed5-bc96-d6f8-098f620305f0.htm">
+        <span data-tocFile="../toc/IDBCEWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c36bf8d4-a7b3-8c2c-415b-a2ea18abd690" class="has-submenu" href="c36bf8d4-a7b3-8c2c-415b-a2ea18abd690.htm">
+        <span data-tocFile="../toc/IDCCEWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

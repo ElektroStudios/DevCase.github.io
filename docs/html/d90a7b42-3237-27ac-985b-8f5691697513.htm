@@ -1,0 +1,470 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>Archiver Methods</title>
+    <meta name="Title" content="Methods" />
+    <meta name="Help.Id" content="Methods.T:DevCase.ThirdParty.SevenZipSharp.Archiver" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.ThirdParty.SevenZipSharp" />
+    <meta name="guid" content="d90a7b42-3237-27ac-985b-8f5691697513" />
+    <meta name="tocFile" content="../toc/IDB0OB0DA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Archiver Methods</h1>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDIDASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="de8904db-6d14-1baa-3c4f-8a9f5967dc0e.htm">Add(IEnumerable<span id="LST157E20C9_0" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_1" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9f68b9b0-26bb-0fad-413e-89c8cc89a884.htm">Add(String, String)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0d1b91ec-a878-979a-c36f-00882f1edbc9.htm">Add(IEnumerable<span id="LST157E20C9_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive, with a password, using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e58b97f1-c712-2bb4-47eb-6c1b5eb0c498.htm">Add(String, String, String)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive, with a password, using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9de9c807-a879-3946-5690-7686cbf4e366.htm">Add(IEnumerable<span id="LST157E20C9_4" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_5" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7bd3186a-c9c1-00a3-ba8c-fcf7943be43c.htm">Add(String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="2d680e72-6038-9768-0b69-85382460d109.htm">Add(IEnumerable<span id="LST157E20C9_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive, with a password, using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b983e164-f394-9095-cee1-7ccdea27de67.htm">Add(String, String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Appends the source file or directory into the specified compressed archive, with a password, using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="045a3142-2545-4cac-d5c7-5523d6f51c14.htm">Build(IEnumerable<span id="LST157E20C9_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="09395567-7c7c-3697-5abd-a6ffc1c105fa.htm">Build(String, String)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="ca97c7c8-7a27-6fb9-d179-ff7b2e8986c6.htm">Build(IEnumerable<span id="LST157E20C9_10" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_11" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive, with a password, containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="cd12d8b6-d005-60ba-f6c1-b109ca7fe13f.htm">Build(String, String, String)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive, with a password, containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0372ea44-273c-5904-17cf-c05fa821a04a.htm">Build(IEnumerable<span id="LST157E20C9_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="96322075-43cf-737b-5268-bc2496815a63.htm">Build(String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c45052ba-52b2-a7aa-61b3-73af8849aaa6.htm">Build(IEnumerable<span id="LST157E20C9_14" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_15" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive, with a password, containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="fd399916-5f57-f3fa-bc34-c46689454f72.htm">Build(String, String, String, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a compressed archive, with a password, containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9fa0b161-3fd1-52cc-b37d-33f98c54cc58.htm">BuildSfx(IEnumerable<span id="LST157E20C9_16" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_17" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, SevenZipSharpSfxModule)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX) containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="94dc7830-b7a9-eb96-ce5c-3507f81fe57e.htm">BuildSfx(String, String, SevenZipSharpSfxModule)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX) containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d8a976ce-424d-a6f7-3289-c98c74974d8c.htm">BuildSfx(IEnumerable<span id="LST157E20C9_18" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_19" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String, SevenZipSharpSfxModule)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX), with a password, containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="5e7f26ea-b88e-f83d-0dc8-3931be6acf3e.htm">BuildSfx(String, String, String, SevenZipSharpSfxModule)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX), with a password, containing the source file or directory using the default compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f4c7c626-14a8-1fb9-c3c7-e640b9247a9f.htm">BuildSfx(IEnumerable<span id="LST157E20C9_20" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_21" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, SevenZipSharpSfxModule, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX) containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0cfa8394-3b02-e2df-6460-423e62150090.htm">BuildSfx(String, String, SevenZipSharpSfxModule, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX) containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d7da3f70-eba1-3993-d36d-cbc8f9fedd86.htm">BuildSfx(IEnumerable<span id="LST157E20C9_22" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>String<span id="LST157E20C9_23" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span>, String, String, SevenZipSharpSfxModule, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX), with a password, containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="735665b6-666a-07a4-9965-c1e33c0bd7b0.htm">BuildSfx(String, String, String, SevenZipSharpSfxModule, CompressionMethod, CompressionLevel)</a>
+                  </td>
+                  <td>
+ Builds a self-extracting archive (SFX), with a password, containing the source file or directory using the specified compression parameters.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f282a0a8-4110-1b16-e527-a6258715cfdb.htm">Dispose</a>
+                  </td>
+                  <td>
+ Releases all the resources used by this instance.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_top" rel="noopener noreferrer">Equals</a>
+                  </td>
+                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9ec2acd8-7304-a27d-6905-a9015dc8df95.htm">Extract(String, String)</a>
+                  </td>
+                  <td>
+ Extracts the contents of the source compressed archive to the specified diretory.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="6962c0cf-bff9-a92c-6eaa-3c65a1ab1383.htm">Extract(String, String, String)</a>
+                  </td>
+                  <td>
+ Extracts the contents of the source compressed archive encrypted with a password, to the specified diretory.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode" target="_top" rel="noopener noreferrer">GetHashCode</a>
+                  </td>
+                  <td>Serves as the default hash function.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype" target="_top" rel="noopener noreferrer">GetType</a>
+                  </td>
+                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_top" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring" target="_top" rel="noopener noreferrer">ToString</a>
+                  </td>
+                  <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Extension Methods</h2>
+            <div id="IDADASection">
+              <table id="ExtensionList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="4fc2bde6-7e68-b4f7-8406-9f998fc4201d.htm">CanConvertTo</a>
+                  </td>
+                  <td>
+ Determines whether the source object can be converted to the specified target type.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d438a76e-0b10-2e5a-19bb-33849b67af0e.htm">CanConvertTo<span id="LST157E20C9_24" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST157E20C9_25" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Determines whether the source object can be converted to the specified target type.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="be81447a-a248-2281-1117-bfc740d6232c.htm">ConvertTo<span id="LST157E20C9_26" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST157E20C9_27" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, an exception is thrown.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8021acba-836d-7ab5-0827-131cef22840b.htm">ConvertTo<span id="LST157E20C9_28" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST157E20C9_29" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, returns the specified default value.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">IsDisposable</a>
+                  </td>
+                  <td>
+ Determines whether the specified object is disposable.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="e4cbc31b-1e49-2b82-1192-6b2b4e439d86.htm">Archiver Class</a>
+              </div>
+              <div>
+                <a href="30793376-a554-8b77-a4d4-d1b6029357bc.htm">DevCase.ThirdParty.SevenZipSharp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">Extension Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script>
+  </body>
+</html>

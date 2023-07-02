@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="f0ac26bc-0810-3312-da41-6b1e480d937d.htm">Mouse<wbr />Hook</a>
+    </li>
+    <li>
+      <a href="5fdcb68b-3f48-c041-d335-4d897ceaf783.htm">Events</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="08f84756-7141-bc02-3054-21ac51778454" href="08f84756-7141-bc02-3054-21ac51778454.htm">Mouse<wbr />Button<wbr />Click</a>
+    </li>
+    <li>
+      <a id="df9b5d70-fbc4-e563-fba6-b4a0ac744994" href="df9b5d70-fbc4-e563-fba6-b4a0ac744994.htm">Mouse<wbr />Button<wbr />Double<wbr />Click</a>
+    </li>
+    <li>
+      <a id="609e27d2-1a1a-5835-613c-5cb514d8ef41" href="609e27d2-1a1a-5835-613c-5cb514d8ef41.htm">Mouse<wbr />Move</a>
+    </li>
+    <li>
+      <a id="75d1a923-80c5-3d80-1d3c-29227903e0be" href="75d1a923-80c5-3d80-1d3c-29227903e0be.htm">Mouse<wbr />Wheel</a>
+    </li>
+  </tocItems>
+</toc>

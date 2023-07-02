@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="10a2f573-319c-b589-d537-ff92fd330047.htm">Unit<wbr />Conversion</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9938a454-ee3f-e3a5-0107-bac23ec444e9" href="9938a454-ee3f-e3a5-0107-bac23ec444e9.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="d423ce0e-18c7-2415-c344-4723f6161e6b" class="has-submenu" href="d423ce0e-18c7-2415-c344-4723f6161e6b.htm">
+        <span data-tocFile="../toc/IDBGCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d2324c58-bbe8-0b3a-552d-835611ac4f6c" class="has-submenu" href="d2324c58-bbe8-0b3a-552d-835611ac4f6c.htm">
+        <span data-tocFile="../toc/IDCGCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

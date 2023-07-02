@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="53489cf3-720b-f345-d30d-b520e76da7ed.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Form<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="98ea0b8f-54d4-ea94-e119-aff4f4515f92.htm">Form<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="c8a0a839-cd2e-83a4-491e-6e4403d5af9f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ec0b0e2e-4746-7e20-1b2f-89929759f606" class="has-submenu" href="ec0b0e2e-4746-7e20-1b2f-89929759f606.htm">
+        <span data-tocFile="../toc/IDAAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>For<wbr />Each<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="697e8917-97d5-ca2c-6706-81de6ad4475c" href="697e8917-97d5-ca2c-6706-81de6ad4475c.htm">Get<wbr />Event<wbr />Handlers</a>
+    </li>
+    <li>
+      <a id="20e15c39-4ff7-300f-01c6-33b942ace104" href="20e15c39-4ff7-300f-01c6-33b942ace104.htm">Get<wbr />Horizontal<wbr />Border<wbr />Size</a>
+    </li>
+    <li>
+      <a id="3811ebb3-5bc8-7f7b-b393-e6e1b2f33053" class="has-submenu" href="3811ebb3-5bc8-7f7b-b393-e6e1b2f33053.htm">
+        <span data-tocFile="../toc/IDDAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Next<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3e7fba46-9224-1df9-ef33-f550d4189632" href="3e7fba46-9224-1df9-ef33-f550d4189632.htm">Get<wbr />Title<wbr />Bar<wbr />Bounds</a>
+    </li>
+    <li>
+      <a id="30e5ae57-4167-dbbf-5b07-09a1e048adda" href="30e5ae57-4167-dbbf-5b07-09a1e048adda.htm">Get<wbr />Vertical<wbr />Border<wbr />Size</a>
+    </li>
+    <li>
+      <a id="964f7c9b-780a-f51a-aac6-98b7968f300e" class="has-submenu" href="964f7c9b-780a-f51a-aac6-98b7968f300e.htm">
+        <span data-tocFile="../toc/IDGAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invoke<wbr />UIType<wbr />Editor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="100f6d12-53f6-0760-6126-fb12c15e207e" class="has-submenu" href="100f6d12-53f6-0760-6126-fb12c15e207e.htm">
+        <span data-tocFile="../toc/IDHAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Lock<wbr />Form<wbr />Region<wbr />To<wbr />Controls</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="84f96d9c-fcbc-400f-c2d2-9162701ddbca" class="has-submenu" href="84f96d9c-fcbc-400f-c2d2-9162701ddbca.htm">
+        <span data-tocFile="../toc/IDIAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resume<wbr />Drawing</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fecca465-b595-4efc-3ad5-b82ac9205e57" href="fecca465-b595-4efc-3ad5-b82ac9205e57.htm">Set<wbr />Visual<wbr />Style</a>
+    </li>
+    <li>
+      <a id="78f2334c-c65e-f7bc-2d77-4399e7f79e83" href="78f2334c-c65e-f7bc-2d77-4399e7f79e83.htm">Suspend<wbr />Drawing</a>
+    </li>
+  </tocItems>
+</toc>

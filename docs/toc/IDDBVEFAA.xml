@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="6c3b2e39-edb2-c1e8-5108-c5e5863c7fd4.htm">Util<wbr />Keyboard</a>
+    </li>
+    <li>
+      <a href="b0e31f1d-41cd-713f-8699-74084217c501.htm">Methods</a>
+    </li>
+    <li>
+      <a href="e40c3078-e0a0-fcf8-17a6-43de4a063d1e.htm">Send<wbr />Key</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4b8fff1f-2c48-0da5-b485-0fc7102fac19" href="4b8fff1f-2c48-0da5-b485-0fc7102fac19.htm">Send<wbr />Key(<wbr />Keys, Key<wbr />Behavior)</a>
+    </li>
+    <li>
+      <a id="014c00d9-4ee4-d7f1-1318-fee2c874330c" href="014c00d9-4ee4-d7f1-1318-fee2c874330c.htm">Send<wbr />Key(<wbr />Virtual<wbr />Keys, Key<wbr />Behavior)</a>
+    </li>
+    <li>
+      <a id="2bba41a4-1f70-b14f-1e2a-fd59072e2504" href="2bba41a4-1f70-b14f-1e2a-fd59072e2504.htm">Send<wbr />Key(<wbr />Int<wbr />Ptr, Virtual<wbr />Keys, Key<wbr />Behavior)</a>
+    </li>
+    <li>
+      <a id="a6e49b4b-69be-77a8-467d-c5219459c88d" href="a6e49b4b-69be-77a8-467d-c5219459c88d.htm">Send<wbr />Key(<wbr />Int<wbr />Ptr, Keys, Key<wbr />Behavior)</a>
+    </li>
+  </tocItems>
+</toc>

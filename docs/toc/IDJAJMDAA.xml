@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8d1d8657-d018-081b-bc3d-40b95fb4061e.htm">Write</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cace238c-c397-c793-ece9-ad0250c36b23" href="cace238c-c397-c793-ece9-ad0250c36b23.htm">Write(<wbr />Memory<wbr />Mapped<wbr />File, Byte[])</a>
+    </li>
+    <li>
+      <a id="ec474692-336f-9de1-97e2-1f2b2ff69c41" href="ec474692-336f-9de1-97e2-1f2b2ff69c41.htm">Write&lt;T&gt;(<wbr />Memory<wbr />Mapped<wbr />File, T)</a>
+    </li>
+    <li>
+      <a id="1ecc4913-26d1-3bcf-7543-16f5f75ec61f" href="1ecc4913-26d1-3bcf-7543-16f5f75ec61f.htm">Write(<wbr />String, Byte[])</a>
+    </li>
+    <li>
+      <a id="32406418-c602-0f74-108b-2879de17117a" href="32406418-c602-0f74-108b-2879de17117a.htm">Write&lt;T&gt;(<wbr />String, T)</a>
+    </li>
+  </tocItems>
+</toc>

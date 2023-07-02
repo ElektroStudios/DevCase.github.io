@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="9d06959b-44ff-e9bd-0aca-38d4255b6062.htm">IClr<wbr />Strong<wbr />Name</a>
+    </li>
+    <li>
+      <a href="5e0e93ef-3e33-2f19-3ede-da988ab9b6a1.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="74a3638a-3196-3a71-b3c1-0972e96b33fd" href="74a3638a-3196-3a71-b3c1-0972e96b33fd.htm">Get<wbr />Hash<wbr />From<wbr />Assembly<wbr />File</a>
+    </li>
+    <li>
+      <a id="9ac0bc71-5b63-2f74-6ee1-7957e117ece3" href="9ac0bc71-5b63-2f74-6ee1-7957e117ece3.htm">Get<wbr />Hash<wbr />From<wbr />Assembly<wbr />File<wbr />W</a>
+    </li>
+    <li>
+      <a id="b0433018-153c-06b0-4218-8882473f7801" href="b0433018-153c-06b0-4218-8882473f7801.htm">Get<wbr />Hash<wbr />From<wbr />Blob</a>
+    </li>
+    <li>
+      <a id="1dc2afad-e025-0d54-c632-908b75547ed4" href="1dc2afad-e025-0d54-c632-908b75547ed4.htm">Get<wbr />Hash<wbr />From<wbr />File</a>
+    </li>
+    <li>
+      <a id="e420ec58-9d32-a8a9-00b4-1633d2c806b7" href="e420ec58-9d32-a8a9-00b4-1633d2c806b7.htm">Get<wbr />Hash<wbr />From<wbr />File<wbr />W</a>
+    </li>
+    <li>
+      <a id="6e5e4de2-2753-2017-3d04-00021a9c90c8" href="6e5e4de2-2753-2017-3d04-00021a9c90c8.htm">Get<wbr />Hash<wbr />From<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="ea4cd7b8-e4c5-5b74-2004-4885b2ef3d40" href="ea4cd7b8-e4c5-5b74-2004-4885b2ef3d40.htm">Strong<wbr />Name<wbr />Compare<wbr />Assemblies</a>
+    </li>
+    <li>
+      <a id="55a1e8a0-11fa-c0ad-128f-2d96a0afc2de" href="55a1e8a0-11fa-c0ad-128f-2d96a0afc2de.htm">Strong<wbr />Name<wbr />Free<wbr />Buffer</a>
+    </li>
+    <li>
+      <a id="77a454a5-7cd8-849e-2624-22b845902e27" href="77a454a5-7cd8-849e-2624-22b845902e27.htm">Strong<wbr />Name<wbr />Get<wbr />Blob</a>
+    </li>
+    <li>
+      <a id="3002a4c6-e6cc-5218-e2b3-343352ab85af" href="3002a4c6-e6cc-5218-e2b3-343352ab85af.htm">Strong<wbr />Name<wbr />Get<wbr />Blob<wbr />From<wbr />Image</a>
+    </li>
+    <li>
+      <a id="6d05d7d0-b4bd-fed5-f38d-51f9f737d23f" href="6d05d7d0-b4bd-fed5-f38d-51f9f737d23f.htm">Strong<wbr />Name<wbr />Get<wbr />Public<wbr />Key</a>
+    </li>
+    <li>
+      <a id="a82df8fc-9ef8-0058-298e-fe978a6c6f72" href="a82df8fc-9ef8-0058-298e-fe978a6c6f72.htm">Strong<wbr />Name<wbr />Hash<wbr />Size</a>
+    </li>
+    <li>
+      <a id="1d15ef8f-188c-a0f0-7b5e-6629c89e721a" href="1d15ef8f-188c-a0f0-7b5e-6629c89e721a.htm">Strong<wbr />Name<wbr />Key<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="d7ff13c5-3fc4-e59e-e6a8-f7e3ab2ec2b2" href="d7ff13c5-3fc4-e59e-e6a8-f7e3ab2ec2b2.htm">Strong<wbr />Name<wbr />Key<wbr />Gen</a>
+    </li>
+    <li>
+      <a id="1b36674c-a606-c216-de5e-ff5ea4a77e3e" href="1b36674c-a606-c216-de5e-ff5ea4a77e3e.htm">Strong<wbr />Name<wbr />Key<wbr />Gen<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="f714a469-ba66-0786-47b1-0a2701d8d8cb" href="f714a469-ba66-0786-47b1-0a2701d8d8cb.htm">Strong<wbr />Name<wbr />Key<wbr />Install</a>
+    </li>
+    <li>
+      <a id="b0530320-dba2-0e1f-099d-109a004d13b1" href="b0530320-dba2-0e1f-099d-109a004d13b1.htm">Strong<wbr />Name<wbr />Signature<wbr />Generation</a>
+    </li>
+    <li>
+      <a id="5b755aa7-bf48-7b9b-516c-510c988c6c6f" href="5b755aa7-bf48-7b9b-516c-510c988c6c6f.htm">Strong<wbr />Name<wbr />Signature<wbr />Generation<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="bd0670cb-3a04-070b-b034-d63ef8f1c571" href="bd0670cb-3a04-070b-b034-d63ef8f1c571.htm">Strong<wbr />Name<wbr />Signature<wbr />Size</a>
+    </li>
+    <li>
+      <a id="7943d862-b917-d082-957c-8cc685f6f2c5" href="7943d862-b917-d082-957c-8cc685f6f2c5.htm">Strong<wbr />Name<wbr />Signature<wbr />Verification</a>
+    </li>
+    <li>
+      <a id="bb76a07e-f8ef-300d-150b-88803c3b5e1c" href="bb76a07e-f8ef-300d-150b-88803c3b5e1c.htm">Strong<wbr />Name<wbr />Signature<wbr />Verification<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="b7a1da53-948f-8dbb-66a3-de2584357ee8" href="b7a1da53-948f-8dbb-66a3-de2584357ee8.htm">Strong<wbr />Name<wbr />Signature<wbr />Verification<wbr />From<wbr />Image</a>
+    </li>
+    <li>
+      <a id="a280eda3-e96d-a676-2cd2-02d2ae2cf326" href="a280eda3-e96d-a676-2cd2-02d2ae2cf326.htm">Strong<wbr />Name<wbr />Token<wbr />From<wbr />Assembly</a>
+    </li>
+    <li>
+      <a id="40784d40-6710-72a0-4742-ad02d89988fb" href="40784d40-6710-72a0-4742-ad02d89988fb.htm">Strong<wbr />Name<wbr />Token<wbr />From<wbr />Assembly<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="8e12b545-b42e-4d08-547e-1c7584acbbf1" href="8e12b545-b42e-4d08-547e-1c7584acbbf1.htm">Strong<wbr />Name<wbr />Token<wbr />From<wbr />Public<wbr />Key</a>
+    </li>
+  </tocItems>
+</toc>

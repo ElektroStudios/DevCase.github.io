@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2b350cb7-9ae1-be8c-fbf9-32c06a6c26b3.htm">Get<wbr />Value<wbr />Data</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a33c314a-b45a-a6bf-b1be-2aeedc2b5ea7" href="a33c314a-b45a-a6bf-b1be-2aeedc2b5ea7.htm">Get<wbr />Value<wbr />Data(<wbr />Reg<wbr />Info, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="8d06c509-e4c2-abe5-0ef3-7b1821c2e3ae" href="8d06c509-e4c2-abe5-0ef3-7b1821c2e3ae.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Reg<wbr />Info&lt;T&gt;, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="83fe92cb-59e3-8737-492a-895dc3be0a13" href="83fe92cb-59e3-8737-492a-895dc3be0a13.htm">Get<wbr />Value<wbr />Data(<wbr />Reg<wbr />Info, Object, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="7f37b05a-f250-aea0-1c31-f70c046a5ac2" href="7f37b05a-f250-aea0-1c31-f70c046a5ac2.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Reg<wbr />Info&lt;T&gt;, T, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="eea56572-f1f3-3b45-5140-5e9ea75ab8d6" href="eea56572-f1f3-3b45-5140-5e9ea75ab8d6.htm">Get<wbr />Value<wbr />Data(<wbr />Registry<wbr />View, String, String, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="f0a37759-a39e-f433-78af-0ee488661834" href="f0a37759-a39e-f433-78af-0ee488661834.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Registry<wbr />View, String, String, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="113d7852-d1ed-0b4a-0051-29883dd3e0e1" href="113d7852-d1ed-0b4a-0051-29883dd3e0e1.htm">Get<wbr />Value<wbr />Data(<wbr />Registry<wbr />View, String, String, Object, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="9364fb3a-79d3-94d0-dcac-9b5392a5a8a6" href="9364fb3a-79d3-94d0-dcac-9b5392a5a8a6.htm">Get<wbr />Value<wbr />Data(<wbr />Registry<wbr />View, String, String, String, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="376af55d-49f9-19ba-9261-afbb9acf3d0f" href="376af55d-49f9-19ba-9261-afbb9acf3d0f.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Registry<wbr />View, String, String, T, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="6a9df6b9-a420-744a-7c48-9287e1783006" href="6a9df6b9-a420-744a-7c48-9287e1783006.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Registry<wbr />View, String, String, String, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="c8ae5317-a1ae-a9d6-adf0-2c67d7402991" href="c8ae5317-a1ae-a9d6-adf0-2c67d7402991.htm">Get<wbr />Value<wbr />Data(<wbr />Registry<wbr />View, String, String, String, Object, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="ff7b9e0f-f070-4194-2a8f-c167a138cf0d" href="ff7b9e0f-f070-4194-2a8f-c167a138cf0d.htm">Get<wbr />Value<wbr />Data&lt;T&gt;(<wbr />Registry<wbr />View, String, String, String, T, Registry<wbr />Value<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

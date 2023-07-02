@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="76f9fc20-05fe-7396-1343-12989d0992f8.htm">Win<wbr />MM</a>
+    </li>
+    <li>
+      <a href="c9be7ee9-2d6c-eed4-8709-2cb6da8c6f21.htm">Methods</a>
+    </li>
+    <li>
+      <a href="cfee07cd-b80b-c8c3-d674-faac7d822275.htm">Mci<wbr />Send<wbr />Command</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c0816894-a4ec-bd60-239d-b582f90dfac3" href="c0816894-a4ec-bd60-239d-b582f90dfac3.htm">Mci<wbr />Send<wbr />Command(<wbr />Int<wbr />32, MCICommands, Int<wbr />Ptr, Mci<wbr />Open<wbr />Parms)</a>
+    </li>
+    <li>
+      <a id="03379dc8-9eeb-9c96-e636-2052ab8cf26c" href="03379dc8-9eeb-9c96-e636-2052ab8cf26c.htm">Mci<wbr />Send<wbr />Command(<wbr />Int<wbr />32, MCICommands, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

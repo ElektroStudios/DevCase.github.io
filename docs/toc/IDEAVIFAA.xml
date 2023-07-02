@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9fc5916c-d6b0-26f6-5ec9-fa509fcb31f9.htm">Util<wbr />Directory</a>
+    </li>
+    <li>
+      <a href="f8e3af76-556f-b30f-3556-4875695a1be5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="759bd404-e516-c9f1-616a-2882fce55cf4.htm">Get<wbr />Dir<wbr />Paths</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9e4ad0bd-cd71-cf7c-c4e3-98e93f26fcea" href="9e4ad0bd-cd71-cf7c-c4e3-98e93f26fcea.htm">Get<wbr />Dir<wbr />Paths(<wbr />Directory<wbr />Info, Search<wbr />Option, IEnumerable&lt;String&gt;, IEnumerable&lt;String&gt;, Boolean, Boolean)</a>
+    </li>
+    <li>
+      <a id="aa79d34f-8167-ce5c-4ac7-16eb61bbf6f1" href="aa79d34f-8167-ce5c-4ac7-16eb61bbf6f1.htm">Get<wbr />Dir<wbr />Paths(<wbr />String, Search<wbr />Option, IEnumerable&lt;String&gt;, IEnumerable&lt;String&gt;, Boolean, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

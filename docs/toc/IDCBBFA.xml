@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58d11375-7881-6c5b-e408-2fb0e3f945c2.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>
+    </li>
+    <li>
+      <a href="e62e3dba-38b0-45c5-7e0b-d09a8c1cd16d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="154c1df5-defd-1d1e-e1dd-061cca272763" href="154c1df5-defd-1d1e-e1dd-061cca272763.htm">Append</a>
+    </li>
+    <li>
+      <a id="43ec7a16-6f4f-748a-7877-ece15f767d86" href="43ec7a16-6f4f-748a-7877-ece15f767d86.htm">Combine</a>
+    </li>
+    <li>
+      <a id="9b495300-ec43-eb9a-3415-6c3abca9017c" class="has-submenu" href="9b495300-ec43-eb9a-3415-6c3abca9017c.htm">
+        <span data-tocFile="../toc/IDCCBBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9a0d5d08-5dca-f422-459a-8cc184e40e8f" href="9a0d5d08-5dca-f422-459a-8cc184e40e8f.htm">Get<wbr />Enumerator</a>
+    </li>
+    <li>
+      <a id="30628f15-77dc-f95c-61b3-e74b73c6819c" href="30628f15-77dc-f95c-61b3-e74b73c6819c.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="c8a40157-eab5-d221-68d6-61b4b14e7828" href="c8a40157-eab5-d221-68d6-61b4b14e7828.htm">Insert</a>
+    </li>
+    <li>
+      <a id="33b3fbfc-4600-bc6a-4244-a15d1b06cd76" href="33b3fbfc-4600-bc6a-4244-a15d1b06cd76.htm">Is<wbr />Parent<wbr />Of</a>
+    </li>
+    <li>
+      <a id="331f4ac5-a9ed-df12-eb72-8e1fb690535e" href="331f4ac5-a9ed-df12-eb72-8e1fb690535e.htm">Remove<wbr />Last<wbr />Id</a>
+    </li>
+    <li>
+      <a id="e868b635-b017-087b-fc6d-52ef0c95f81d" class="has-submenu" href="e868b635-b017-087b-fc6d-52ef0c95f81d.htm">
+        <span data-tocFile="../toc/IDICBBFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

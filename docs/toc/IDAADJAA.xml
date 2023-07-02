@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="13e6216d-ade8-0ed1-f4a0-95d16ad60a32.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Data<wbr />Integrity.<wbr />Checksum</a>
+    </li>
+    <li>
+      <a href="6e69b60a-6f32-0644-bbfa-d9be22e946bf.htm">Util<wbr />Checksum</a>
+    </li>
+    <li>
+      <a href="fa7930d0-e12a-a26d-156c-07b97cfade78.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b109e9f3-372f-ebe1-c705-33b169eed7e9" href="b109e9f3-372f-ebe1-c705-33b169eed7e9.htm">Compute<wbr />CRC<wbr />32Of<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="54914589-7a3f-b155-b7a1-f61aaf5f5a06" class="has-submenu" href="54914589-7a3f-b155-b7a1-f61aaf5f5a06.htm">
+        <span data-tocFile="../toc/IDBAADJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compute<wbr />CRC<wbr />32Of<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a2423f9c-ec1b-7086-6bcf-93d4477b2dfd" class="has-submenu" href="a2423f9c-ec1b-7086-6bcf-93d4477b2dfd.htm">
+        <span data-tocFile="../toc/IDCAADJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compute<wbr />CRC<wbr />32Of<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="85cc2354-5b22-b6ae-b42f-978c7f02ed33" href="85cc2354-5b22-b6ae-b42f-978c7f02ed33.htm">Compute<wbr />CRC<wbr />64Of<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="0b3ed8a0-a398-709d-1c8c-ede33ae9d060" class="has-submenu" href="0b3ed8a0-a398-709d-1c8c-ede33ae9d060.htm">
+        <span data-tocFile="../toc/IDEAADJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compute<wbr />CRC<wbr />64Of<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="aa3026ab-918b-eb6c-bde0-667880ca6a3a" class="has-submenu" href="aa3026ab-918b-eb6c-bde0-667880ca6a3a.htm">
+        <span data-tocFile="../toc/IDFAADJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Compute<wbr />CRC<wbr />64Of<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="2e1c4d50-f238-1c6b-517a-fa7ff8040227.htm">Amount</a>
+    </li>
+    <li>
+      <a href="66c78601-f411-be7f-dd06-e790472e971c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f70f3aa5-f6c9-ed3c-787d-fb2f06fcad65.htm">To<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bf14f2f6-f473-c12e-b62d-171f1959eb41" href="bf14f2f6-f473-c12e-b62d-171f1959eb41.htm">To<wbr />String</a>
+    </li>
+    <li>
+      <a id="01cebe3a-4c16-8229-f999-575087b29378" href="01cebe3a-4c16-8229-f999-575087b29378.htm">To<wbr />String(<wbr />Amount)</a>
+    </li>
+    <li>
+      <a id="51b9fd57-3610-1937-b14f-68f57afdc06c" href="51b9fd57-3610-1937-b14f-68f57afdc06c.htm">To<wbr />String(<wbr />IFormat<wbr />Provider)</a>
+    </li>
+    <li>
+      <a id="932eaae0-10b2-71d7-f431-1e767ac931de" href="932eaae0-10b2-71d7-f431-1e767ac931de.htm">To<wbr />String(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="4d9d649a-236e-eec9-9606-6edbfe6c1c77" href="4d9d649a-236e-eec9-9606-6edbfe6c1c77.htm">To<wbr />String(<wbr />Amount, IFormat<wbr />Provider)</a>
+    </li>
+    <li>
+      <a id="8845297c-4dbc-86e4-efe8-ae12c6ee9070" href="8845297c-4dbc-86e4-efe8-ae12c6ee9070.htm">To<wbr />String(<wbr />Amount, String)</a>
+    </li>
+    <li>
+      <a id="625feeeb-80ea-a107-3038-2e202ed7e4fa" href="625feeeb-80ea-a107-3038-2e202ed7e4fa.htm">To<wbr />String(<wbr />String, IFormat<wbr />Provider)</a>
+    </li>
+    <li>
+      <a id="70acc965-21fa-4a34-82b8-40ab9ecc44d4" href="70acc965-21fa-4a34-82b8-40ab9ecc44d4.htm">To<wbr />String(<wbr />Amount, String, IFormat<wbr />Provider)</a>
+    </li>
+  </tocItems>
+</toc>

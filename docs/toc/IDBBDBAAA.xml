@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="0b6d1361-1698-8e02-99cf-0ead0f20ad0b.htm">Util<wbr />Console</a>
+    </li>
+    <li>
+      <a href="cdff5c9e-9c25-7457-6edb-0d6d2e8c02ee.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ffd379bc-9a25-b1e0-0b43-ee0d49dd66c7.htm">Console<wbr />Choice</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="58932029-1c51-9375-bc9b-437f248c2d35" href="58932029-1c51-9375-bc9b-437f248c2d35.htm">Console<wbr />Choice(<wbr />String, Char[])</a>
+    </li>
+    <li>
+      <a id="1851bad8-97b2-d927-dc00-2578b8b6fe1e" href="1851bad8-97b2-d927-dc00-2578b8b6fe1e.htm">Console<wbr />Choice(<wbr />String, Console<wbr />Key[])</a>
+    </li>
+  </tocItems>
+</toc>

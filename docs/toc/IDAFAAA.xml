@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="7a7b0a71-d9dc-2cfe-1daa-8be108fb237e.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Globalization</a>
+    </li>
+    <li>
+      <a href="f01d02d3-6e25-0227-22d3-d880e0f8b4ed.htm">Util<wbr />Culture</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e239509f-ac1d-b1c0-92d2-e16adba8507f" class="has-submenu" href="e239509f-ac1d-b1c0-92d2-e16adba8507f.htm">
+        <span data-tocFile="../toc/IDAAFAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2d3d604-0fe9-c1b4-9992-8bd92cd5da6c" class="has-submenu" href="b2d3d604-0fe9-c1b4-9992-8bd92cd5da6c.htm">
+        <span data-tocFile="../toc/IDBAFAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

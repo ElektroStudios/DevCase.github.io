@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="c427e163-23f1-f237-878d-196ac4a7aa47.htm">File<wbr />Splitter<wbr />Progress<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+    <li>
+      <a href="25c8da9b-5c3c-9fbe-d222-5d7f919ed2c0.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9790275d-f5fe-60bc-c6e8-d47856c69471" href="9790275d-f5fe-60bc-c6e8-d47856c69471.htm">Chunk<wbr />Progress</a>
+    </li>
+    <li>
+      <a id="8d2300bc-9585-10d6-afa6-d0e0ca908f0b" href="8d2300bc-9585-10d6-afa6-d0e0ca908f0b.htm">Chunks<wbr />Created<wbr />Or<wbr />Merged</a>
+    </li>
+    <li>
+      <a id="76f1c656-be37-47f5-f54d-3d0191605b15" href="76f1c656-be37-47f5-f54d-3d0191605b15.htm">Chunks<wbr />To<wbr />Create<wbr />Or<wbr />Merge</a>
+    </li>
+    <li>
+      <a id="3e478a9c-5723-a422-1145-c9a861dd60f2" href="3e478a9c-5723-a422-1145-c9a861dd60f2.htm">Total<wbr />Progress</a>
+    </li>
+  </tocItems>
+</toc>

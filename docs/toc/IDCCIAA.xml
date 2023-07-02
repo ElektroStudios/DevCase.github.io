@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+    </li>
+    <li>
+      <a href="b5242776-620c-4235-f1cc-3abe03ec1fa7.htm">Mail<wbr />Account</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="743be864-21cf-7098-1136-1d9f502063aa" href="743be864-21cf-7098-1136-1d9f502063aa.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="f7f96f77-2efb-ad1b-3da2-9c7fed089f17" class="has-submenu" href="f7f96f77-2efb-ad1b-3da2-9c7fed089f17.htm">
+        <span data-tocFile="../toc/IDBCCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="604cca64-6090-b59a-1d33-4d38b1b77142" class="has-submenu" href="604cca64-6090-b59a-1d33-4d38b1b77142.htm">
+        <span data-tocFile="../toc/IDCCCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

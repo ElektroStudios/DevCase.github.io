@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">Nt<wbr />Dll</a>
+    </li>
+    <li>
+      <a href="2dde2e15-8c5e-a9ef-c692-d8fc8177e7bb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5261052b-1a7f-f0fd-7beb-170a84bd37d7.htm">Nt<wbr />Create<wbr />Section</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fb3d27ef-a0e9-8cbd-9e1a-21d834d7c6aa" href="fb3d27ef-a0e9-8cbd-9e1a-21d834d7c6aa.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="b24ba1be-35cd-12a8-df37-46dc305a8f39" href="b24ba1be-35cd-12a8-df37-46dc305a8f39.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="bff88d7c-5ad3-8c3d-f0d3-7072c3fb836c" href="bff88d7c-5ad3-8c3d-f0d3-7072c3fb836c.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="f648df48-21c8-f519-8bb9-39d16621862f" href="f648df48-21c8-f519-8bb9-39d16621862f.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="90cfcbd9-5284-560c-6737-c81e1226bbcd" href="90cfcbd9-5284-560c-6737-c81e1226bbcd.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Section<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="5e598008-f5ef-1b7d-d9ce-96aee626d5a0" href="5e598008-f5ef-1b7d-d9ce-96aee626d5a0.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Section<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="20179f59-a159-65c7-017a-182b9a8d4e43" href="20179f59-a159-65c7-017a-182b9a8d4e43.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Section<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="65d6eb9c-ceaf-9264-8959-0a057daceae1" href="65d6eb9c-ceaf-9264-8959-0a057daceae1.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Section<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="19ddf86e-4d56-5b72-1061-3b57619614b1" href="19ddf86e-4d56-5b72-1061-3b57619614b1.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="ed4c021e-0008-ad01-2a58-f700a9a2b197" href="ed4c021e-0008-ad01-2a58-f700a9a2b197.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3343297d-f19c-d872-03bb-9ee96a9d69dc" href="3343297d-f19c-d872-03bb-9ee96a9d69dc.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="b8117210-65a7-ec5d-427f-77aa0c1fe703" href="b8117210-65a7-ec5d-427f-77aa0c1fe703.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e15455f2-9be2-3bd3-2410-4970ebea9c43" href="e15455f2-9be2-3bd3-2410-4970ebea9c43.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, UInt<wbr />32, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="848eef0d-dcb2-53b4-1776-6dd0f67049ab" href="848eef0d-dcb2-53b4-1776-6dd0f67049ab.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, UInt<wbr />32, Object<wbr />Attributes, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="b8ac7c38-4056-32bd-658b-67fd2f961b83" href="b8ac7c38-4056-32bd-658b-67fd2f961b83.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, UInt<wbr />32, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Safe<wbr />File<wbr />Handle)</a>
+    </li>
+    <li>
+      <a id="6a8cf58f-17ee-3b9d-6980-ad73c0b82c08" href="6a8cf58f-17ee-3b9d-6980-ad73c0b82c08.htm">Nt<wbr />Create<wbr />Section(<wbr />Int<wbr />Ptr, UInt<wbr />32, Int<wbr />Ptr, UInt<wbr />64, Memory<wbr />Protection<wbr />Options, Section<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

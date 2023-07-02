@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="2394d5e5-2732-590e-4d6e-4141e4d6efb3.htm">Type<wbr />Writter</a>
+    </li>
+    <li>
+      <a href="7701b849-064c-15d4-6ada-d12debb93660.htm">Methods</a>
+    </li>
+    <li>
+      <a href="30fc7d2b-0d4c-1ae1-c4bc-e281f8e1adbf.htm">Write<wbr />Color<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="85ee5470-de77-6309-391e-dbc06890a4fb" href="85ee5470-de77-6309-391e-dbc06890a4fb.htm">Write<wbr />Color<wbr />Async(<wbr />Cancellation<wbr />Token, String, Char[], Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="53d42f9a-a9d7-0e19-9b62-d0b5b06eb3f7" href="53d42f9a-a9d7-0e19-9b62-d0b5b06eb3f7.htm">Write<wbr />Color<wbr />Async(<wbr />Cancellation<wbr />Token, String, Console<wbr />Color, Console<wbr />Color, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

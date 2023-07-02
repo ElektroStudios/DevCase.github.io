@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="7dbe7c26-a2c2-ce4b-e299-2db4bf388c18.htm">Symbol<wbr />Info</a>
+    </li>
+    <li>
+      <a href="df981e20-8df3-3ccc-2361-24d12f294452.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9b851dfa-c862-16af-7645-90e9acd9085c" href="9b851dfa-c862-16af-7645-90e9acd9085c.htm">Address</a>
+    </li>
+    <li>
+      <a id="95f2e29e-1e01-b771-5b8f-e0d7be80ab36" href="95f2e29e-1e01-b771-5b8f-e0d7be80ab36.htm">Flags</a>
+    </li>
+    <li>
+      <a id="039d71d7-197c-635e-6adf-4bef2533f7d4" href="039d71d7-197c-635e-6adf-4bef2533f7d4.htm">Index</a>
+    </li>
+    <li>
+      <a id="7465f9cf-9645-8400-dd66-0f787de4503c" href="7465f9cf-9645-8400-dd66-0f787de4503c.htm">Max<wbr />Name<wbr />Len</a>
+    </li>
+    <li>
+      <a id="c2c1b8a2-5820-4a8f-556f-466a7fa75538" href="c2c1b8a2-5820-4a8f-556f-466a7fa75538.htm">Mod<wbr />Base</a>
+    </li>
+    <li>
+      <a id="cbeb0979-1ce5-16da-936e-1c0b263c43fc" href="cbeb0979-1ce5-16da-936e-1c0b263c43fc.htm">Name</a>
+    </li>
+    <li>
+      <a id="f1a1adb4-9c49-fcf4-e54c-51cac76942b7" href="f1a1adb4-9c49-fcf4-e54c-51cac76942b7.htm">Name<wbr />Len</a>
+    </li>
+    <li>
+      <a id="3bef902f-b9bc-6895-9a33-a9b5ae57ad76" href="3bef902f-b9bc-6895-9a33-a9b5ae57ad76.htm">Register</a>
+    </li>
+    <li>
+      <a id="2b1a25cb-ae6d-8f05-cb05-b209bc43ad80" href="2b1a25cb-ae6d-8f05-cb05-b209bc43ad80.htm">Reserved<wbr />1</a>
+    </li>
+    <li>
+      <a id="18730d3d-d119-cf5a-5383-dfeb50cef6a5" href="18730d3d-d119-cf5a-5383-dfeb50cef6a5.htm">Reserved<wbr />2</a>
+    </li>
+    <li>
+      <a id="fc2691b8-a49b-61d2-d3e8-0953d81a4b4a" href="fc2691b8-a49b-61d2-d3e8-0953d81a4b4a.htm">Scope</a>
+    </li>
+    <li>
+      <a id="4d5f5de9-206f-9a63-f4a3-1409232d0ed9" href="4d5f5de9-206f-9a63-f4a3-1409232d0ed9.htm">Size</a>
+    </li>
+    <li>
+      <a id="deb62c56-9fa0-98e6-c6a7-d02b6031a2a6" href="deb62c56-9fa0-98e6-c6a7-d02b6031a2a6.htm">Size<wbr />Of<wbr />Struct</a>
+    </li>
+    <li>
+      <a id="8fe726fd-6563-ce43-74fa-7f566e2ae53b" href="8fe726fd-6563-ce43-74fa-7f566e2ae53b.htm">Tag</a>
+    </li>
+    <li>
+      <a id="4f6033a0-a1b7-7766-915c-85b337ba64d6" href="4f6033a0-a1b7-7766-915c-85b337ba64d6.htm">Type<wbr />Index</a>
+    </li>
+    <li>
+      <a id="1adba7cb-a1c0-3294-83ae-c0838d792add" href="1adba7cb-a1c0-3294-83ae-c0838d792add.htm">Value</a>
+    </li>
+  </tocItems>
+</toc>

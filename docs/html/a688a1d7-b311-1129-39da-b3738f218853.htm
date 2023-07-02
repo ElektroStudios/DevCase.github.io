@@ -1,0 +1,624 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>FileOperation Class</title>
+    <meta name="Title" content="FileOperation" />
+    <meta name="Help.Id" content="T:DevCase.Core.IO.FileSystem.FileOperation" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Core.IO.FileSystem" />
+    <meta name="guid" content="a688a1d7-b311-1129-39da-b3738f218853" />
+    <meta name="Description" content="Exposes methods to copy, move, rename, create, and delete single or multiple shell items at once." />
+    <meta name="tocFile" content="../toc/IDIFAA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>File<wbr />Operation Class</h1>
+            <div class="summary">
+ Exposes methods to copy, move, rename, create, and delete single or multiple shell items at once.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">DevCase.Core.IO.FileSystem</a><br /><strong>Assembly:</strong> DevCase.Core.IO.Common (in DevCase.Core.IO.Common.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">FileOperation</span> : <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_top" rel="noopener noreferrer">IDisposable</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Class</span> <span class="identifier">FileOperation</span>
+	<span class="keyword">Implements</span> <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_top" rel="noopener noreferrer">IDisposable</a>
+
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">FileOperation</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">FileOperation</span> : <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_top" rel="noopener noreferrer">IDisposable</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">type</span> <span class="identifier">FileOperation</span> = 
+    <span class="keyword">class</span>
+        <span class="keyword">interface</span> <a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_top" rel="noopener noreferrer">IDisposable</a>
+    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">FileOperation</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.idisposable" target="_top" rel="noopener noreferrer">IDisposable</a></dd></dl></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDCCSection">
+              <a href="https://github.com/misterhaan/au.Shared/tree/master/IO/Files.FileOperation" target="_blank" rel="noopener noreferrer">https://github.com/misterhaan/au.Shared/tree/master/IO/Files.FileOperation</a>
+              <p />
+              <a href="https://github.com/mlaily/MSDNMagazine2007-.NET-Matters-IFileOperation-in-Windows-Vista" target="_blank" rel="noopener noreferrer">https://github.com/mlaily/MSDNMagazine2007-.NET-Matters-IFileOperation-in-Windows-Vista</a>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Example</h2>
+            <div id="IDBCSection"> This is a code example.
+ <div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-VB.NET">' Declare and create the test source directory.
+Dim srcDir As New DirectoryInfo("C:\Test_Source_Directory")
+srcDir.Create()
+
+Dim fsOperation As New FileOperation(DirectCast(Me, IWin32Window)) With {
+    .OperationFlags = FileOperationFlags.AddUndoRecord Or
+                      FileOperationFlags.NoConfirmMakeDir Or
+                      FileOperationFlags.RecycleOnDelete Or
+                      FileOperationFlags.RenameCollision Or
+                      FileOperationFlags.PreserveFileExtensions
+}
+
+' Queue a copy of test directory into its own directory.
+fsOperation.QueueCopy(srcDir)
+
+' Queue a copy of test directory the temp directory.
+fsOperation.QueueCopy(srcDir, New DirectoryInfo(Path.GetTempPath), "NewDirName")
+
+' Perform the queued copy operations.
+Dim result As HResult = fsOperation.PerformOperations()
+If result &lt;&gt; HResult.S_OK Then
+    Throw Marshal.GetExceptionForHR(result)
+End If
+
+Dim isAborted As Boolean = fsOperation.IsOperationAborted()
+If isAborted Then
+    Console.WriteLine("Operation was aborted by the user.")
+Else
+    Console.WriteLine("Operation was completed.")
+End If</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="xaml"><div class="codeHeader"><span class="codeHeaderTitle">XAML</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Constructors</h2>
+            <div id="IDAFFASection">
+              <table id="ConstructorList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="fa6de547-62ad-9b43-3224-f59b01d7fae6.htm">FileOperation<span id="LST714DFE5F_0" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>
+ Initializes a new instance of the <span class="selflink">FileOperation</span> class.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7b3481d3-09d9-873c-087c-97cead1055cc.htm">FileOperation(FileOperationProgressSink)</a>
+                  </td>
+                  <td>
+ Initializes a new instance of the <span class="selflink">FileOperation</span> class.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="54152eb4-8c04-c062-6164-2140c9f99865.htm">FileOperation(IWin32Window)</a>
+                  </td>
+                  <td>
+ Initializes a new instance of the <span class="selflink">FileOperation</span> class.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7c5a2887-041b-e6a8-3ded-fecdfe3b573f.htm">FileOperation(FileOperationProgressSink, IWin32Window)</a>
+                  </td>
+                  <td>
+ Initializes a new instance of the <span class="selflink">FileOperation</span> class.
+ </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Properties</h2>
+            <div id="IDSFASection">
+              <table id="PropertyList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="6f05eb8a-714f-ed30-08a5-8568dad8d442.htm">OperationFlags</a>
+                  </td>
+                  <td>
+ Gets or sets the flags that control the file operation 
+ when calling <a href="49784605-b5c3-e3dc-9c0c-8bca4012d7f0.htm">PerformOperations<span id="LST714DFE5F_1" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> function.
+ </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDGFASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="2d04d374-06f1-be16-3ccc-7ee34e96532b.htm">Dispose</a>
+                  </td>
+                  <td>
+ Releases all the resources used by this instance.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_top" rel="noopener noreferrer">Equals</a>
+                  </td>
+                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode" target="_top" rel="noopener noreferrer">GetHashCode</a>
+                  </td>
+                  <td>Serves as the default hash function.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype" target="_top" rel="noopener noreferrer">GetType</a>
+                  </td>
+                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_top" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="51521272-98da-2402-26f1-ac464778e59d.htm">IsOperationAborted</a>
+                  </td>
+                  <td>
+ Gets a value that states whether any file operations initiated 
+ by a call to <a href="49784605-b5c3-e3dc-9c0c-8bca4012d7f0.htm">PerformOperations<span id="LST714DFE5F_2" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> were stopped before they were complete. 
+ <p />
+ The operations could be stopped either by user action or silently by the system.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="49784605-b5c3-e3dc-9c0c-8bca4012d7f0.htm">PerformOperations</a>
+                  </td>
+                  <td>
+ Executes all the queued operations.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9625a59f-117a-9f34-8a90-477d14d2aa6d.htm">QueueCopy(DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source directory into its own directory. 
+ <p /></td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0f85e94f-8d07-c5df-99b1-3a1a57ce1421.htm">QueueCopy(FileInfo, FileInfo)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file to a destination file. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="18ddfffb-86f1-bd2d-f966-57beb3c0e93f.htm">QueueCopy(FileInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file into its own directory.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a309dfbe-2e4e-4858-0ac6-f6e4b32b7455.htm">QueueCopy(DirectoryInfo, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="2150b270-55f7-a437-8a44-2b9f7836ea66.htm">QueueCopy(DirectoryInfo, String, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="bc1db719-3bda-84c6-f633-b46b8f713071.htm">QueueCopy(FileInfo, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="eb9b8036-97ad-863f-e944-00c87aa4a301.htm">QueueCopy(FileInfo, String, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="06c3549f-2ead-682c-1c54-7bf52223a81a.htm">QueueCopy(String, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file or directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0754ddec-8533-a369-d87c-79d6d8cfcf99.htm">QueueCopy(String, String, String)</a>
+                  </td>
+                  <td>
+ Queues a copy operation of a source file or directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7519b17c-2dc5-95a2-96ac-04d2391b117e.htm">QueueCreate(DirectoryInfo, FileAttributes)</a>
+                  </td>
+                  <td>
+ Queues a create operation for a directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7dee38f7-3c30-8c53-a8e8-f5eb59b6048d.htm">QueueCreate(FileInfo, FileAttributes)</a>
+                  </td>
+                  <td>
+ Queues a create operation for a file. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1f8de063-cd02-9bc3-e29e-fef4b9503cf0.htm">QueueCreate(String, String, FileAttributes)</a>
+                  </td>
+                  <td>
+ Queues a create operation for a file or directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e41f8cbd-defa-c3a2-2d15-d9e4f079261a.htm">QueueDelete(DirectoryInfo)</a>
+                  </td>
+                  <td>
+ Queues a delete operation for a directory. 
+ <p /></td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="2a8fd406-c59c-ec87-20bd-26cbf4c4ac18.htm">QueueDelete(FileInfo)</a>
+                  </td>
+                  <td>
+ Queues a delete operation for a file. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="df9060a7-324a-9db6-d1fc-66ba83cde508.htm">QueueDelete(String)</a>
+                  </td>
+                  <td>
+ Queues a delete operation for a file or directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="ccbd9a6f-b431-584b-3010-b19708ba443e.htm">QueueMove(FileInfo, FileInfo)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source file to a destination file. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="451491cd-80c2-f7d9-743a-e84ee7dafc56.htm">QueueMove(DirectoryInfo, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a73fbb69-38a0-8f14-aafe-7c4d5274faef.htm">QueueMove(DirectoryInfo, String, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9ddcf50f-32e6-dd08-4f80-63fb4dd45e2d.htm">QueueMove(FileInfo, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source file to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f1a9d47a-0599-cdc5-65a6-f0d2a4da7c8b.htm">QueueMove(FileInfo, String, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source file to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f66bbea6-f107-86a4-66bd-21cb3282cf4d.htm">QueueMove(String, DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source file or directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f2eaa4c0-e8ae-7cca-3cd0-006a37ed2af8.htm">QueueMove(String, String, String)</a>
+                  </td>
+                  <td>
+ Queues a move operation of a source file or directory to a destination directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b8614b0f-0106-bc95-e8b8-6bc3173961ac.htm">QueueRename(DirectoryInfo, String)</a>
+                  </td>
+                  <td>
+ Queues a rename operation for a directory. 
+ <p /></td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="210efb71-b60e-6ac5-58a4-0b6abfc8c13f.htm">QueueRename(FileInfo, String, String)</a>
+                  </td>
+                  <td>
+ Queues a rename operation for a file. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="240bf54d-dd61-a329-39ef-4c4c13ca30ca.htm">QueueRename(String, String, String)</a>
+                  </td>
+                  <td>
+ Queues a rename operation for a file or directory. 
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring" target="_top" rel="noopener noreferrer">ToString</a>
+                  </td>
+                  <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Extension Methods</h2>
+            <div id="IDAFASection">
+              <table id="ExtensionList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="4fc2bde6-7e68-b4f7-8406-9f998fc4201d.htm">CanConvertTo</a>
+                  </td>
+                  <td>
+ Determines whether the source object can be converted to the specified target type.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d438a76e-0b10-2e5a-19bb-33849b67af0e.htm">CanConvertTo<span id="LST714DFE5F_3" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST714DFE5F_4" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Determines whether the source object can be converted to the specified target type.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="be81447a-a248-2281-1117-bfc740d6232c.htm">ConvertTo<span id="LST714DFE5F_5" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST714DFE5F_6" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, an exception is thrown.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8021acba-836d-7ab5-0827-131cef22840b.htm">ConvertTo<span id="LST714DFE5F_7" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST714DFE5F_8" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Converts an object to the specified target type.
+ <p />
+ If the conversion fails, returns the specified default value.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">IsDisposable</a>
+                  </td>
+                  <td>
+ Determines whether the specified object is disposable.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">DevCase.Core.IO.FileSystem Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
+                  <a class="quickLink">Example</a>
+                </li>
+                <li>
+                  <a class="quickLink">Constructors</a>
+                </li>
+                <li>
+                  <a class="quickLink">Properties</a>
+                </li>
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">Extension Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+    <script>
+		$(".requestExampleLink").each(function ()
+		{
+			if(this.href.substring(0, 4).toLowerCase() === "http")
+				this.href += "?title=";
+			else
+				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+
+			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
+				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +
+				"scenario you would like to see addressed.%0D%0DHelp Topic: " + window.location.href).replace(/%250D/g, "%0D");
+		});
+	</script>
+  </body>
+</html>

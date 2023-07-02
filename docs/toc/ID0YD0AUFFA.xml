@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f45d0baf-952c-3e1d-2b99-bf203f36536d.htm">Get<wbr />Parent</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ea5ef08e-1681-043b-d529-f2d93bd3099f" href="ea5ef08e-1681-043b-d529-f2d93bd3099f.htm">Get<wbr />Parent(<wbr />Handle<wbr />Ref)</a>
+    </li>
+    <li>
+      <a id="244d1edd-c63f-529e-b9ba-bd461e688b13" href="244d1edd-c63f-529e-b9ba-bd461e688b13.htm">Get<wbr />Parent(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="ad9d1d9a-f601-a47b-cf68-abd8f40d988d" href="ad9d1d9a-f601-a47b-cf68-abd8f40d988d.htm">Get<wbr />Parent(<wbr />Safe<wbr />Handle)</a>
+    </li>
+  </tocItems>
+</toc>

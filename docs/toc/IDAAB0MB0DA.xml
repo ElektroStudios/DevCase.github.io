@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="1970015f-2f04-9051-fff2-8dc6ea7aad09.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium Namespaces</a>
+    </li>
+    <li>
+      <a href="8347b1ac-3612-4321-f413-e4b2efa84015.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium.<wbr />Extensions.<wbr />IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="82420d6c-2485-e661-a83c-7166d0367993.htm">IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="04d8fd32-3b61-cac7-bfc4-844a48146659.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f068840e-30b4-ee0f-8783-7da63f2c710f" href="f068840e-30b4-ee0f-8783-7da63f2c710f.htm">Close<wbr />Alert</a>
+    </li>
+    <li>
+      <a id="4b3f67b6-25a8-eac1-dbc3-f21cc69e3643" class="has-submenu" href="4b3f67b6-25a8-eac1-dbc3-f21cc69e3643.htm">
+        <span data-tocFile="../toc/IDBAAB0MB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Elements<wbr />By<wbr />Partial<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5b7fccb9-988e-558c-86fd-15a0165ec7f6" class="has-submenu" href="5b7fccb9-988e-558c-86fd-15a0165ec7f6.htm">
+        <span data-tocFile="../toc/IDCAAB0MB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Elements<wbr />By<wbr />Reg<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1d35ca31-571a-f617-0e3a-b764606e2fbf" class="has-submenu" href="1d35ca31-571a-f617-0e3a-b764606e2fbf.htm">
+        <span data-tocFile="../toc/IDDAAB0MB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Elements<wbr />By<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="615b65d1-ecf2-bd41-7c03-26084bbf93c5" href="615b65d1-ecf2-bd41-7c03-26084bbf93c5.htm">Get<wbr />Plain<wbr />Text</a>
+    </li>
+    <li>
+      <a id="14305ea2-4f7c-0d03-4fee-7b5384045d59" href="14305ea2-4f7c-0d03-4fee-7b5384045d59.htm">Is<wbr />Alert<wbr />Present</a>
+    </li>
+    <li>
+      <a id="ef569945-cb35-3800-5881-e7b4c68e73cc" href="ef569945-cb35-3800-5881-e7b4c68e73cc.htm">Is<wbr />Element<wbr />Present</a>
+    </li>
+    <li>
+      <a id="030b4a43-4a53-5ebf-8960-adba5f754b37" class="has-submenu" href="030b4a43-4a53-5ebf-8960-adba5f754b37.htm">
+        <span data-tocFile="../toc/IDHAAB0MB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Restore<wbr />Cookies</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6255ba49-f9f6-de9f-f821-c06f177c2be5" href="6255ba49-f9f6-de9f-f821-c06f177c2be5.htm">Restore<wbr />Cookies<wbr />Of<wbr />Current<wbr />Domain</a>
+    </li>
+    <li>
+      <a id="1f1e3ba9-a2f1-bb39-4810-2c6d8929efed" class="has-submenu" href="1f1e3ba9-a2f1-bb39-4810-2c6d8929efed.htm">
+        <span data-tocFile="../toc/IDJAAB0MB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Save<wbr />Cookies</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6e567032-ac7d-511e-e635-acb8ef2b665d" href="6e567032-ac7d-511e-e635-acb8ef2b665d.htm">Save<wbr />Cookies<wbr />Of<wbr />Current<wbr />Domain</a>
+    </li>
+    <li>
+      <a id="586bc552-e3c4-0127-32ce-d71e8de6b106" href="586bc552-e3c4-0127-32ce-d71e8de6b106.htm">Wait<wbr />For<wbr />Page<wbr />To<wbr />Load</a>
+    </li>
+  </tocItems>
+</toc>

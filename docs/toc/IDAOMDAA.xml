@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="2aebed82-4f6f-239b-953b-770b50c77954.htm">Window<wbr />Parenting</a>
+    </li>
+    <li>
+      <a href="fc3c98ad-7d96-34b0-fc96-65491725eda7.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="832b7eb7-b52a-1042-4257-149c742dc480" href="832b7eb7-b52a-1042-4257-149c742dc480.htm">Window<wbr />Parenting(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e63cb507-82ef-0ef1-a276-10c8f85a443b" href="e63cb507-82ef-0ef1-a276-10c8f85a443b.htm">Window<wbr />Parenting(<wbr />IWin<wbr />32Window)</a>
+    </li>
+    <li>
+      <a id="ae354000-45f7-79fb-cc89-f4b886bac06c" href="ae354000-45f7-79fb-cc89-f4b886bac06c.htm">Window<wbr />Parenting(<wbr />Native<wbr />Window)</a>
+    </li>
+    <li>
+      <a id="57c48754-7693-c2df-a119-af2a444319dd" href="57c48754-7693-c2df-a119-af2a444319dd.htm">Window<wbr />Parenting(<wbr />Safe<wbr />Handle)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="16d4f123-0e57-d08a-1a80-1c3e5dd843a3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Security</a>
+    </li>
+    <li>
+      <a href="e5e47404-e9dd-80d3-09a0-2c341aa7f075.htm">Firewall<wbr />Rule</a>
+    </li>
+    <li>
+      <a href="90c4031c-0a7c-c54e-5883-29f2fe00d6f8.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="553e77fd-0b4f-9310-e146-c503cd8510cc" href="553e77fd-0b4f-9310-e146-c503cd8510cc.htm">Action</a>
+    </li>
+    <li>
+      <a id="ba6c4f67-c01c-b75c-d76c-2de8f76e621e" href="ba6c4f67-c01c-b75c-d76c-2de8f76e621e.htm">Application<wbr />Name</a>
+    </li>
+    <li>
+      <a id="bd075356-0a06-9308-1b48-4ce9be1abd13" href="bd075356-0a06-9308-1b48-4ce9be1abd13.htm">Description</a>
+    </li>
+    <li>
+      <a id="1077af94-c27e-f0d8-e013-c72f4b0a07c7" href="1077af94-c27e-f0d8-e013-c72f4b0a07c7.htm">Direction</a>
+    </li>
+    <li>
+      <a id="eacc10cd-7553-0b2d-72ec-58a819ac1006" href="eacc10cd-7553-0b2d-72ec-58a819ac1006.htm">Edge<wbr />Traversal</a>
+    </li>
+    <li>
+      <a id="66128bdc-2484-1e28-9480-e569ad5e6edd" href="66128bdc-2484-1e28-9480-e569ad5e6edd.htm">Enabled</a>
+    </li>
+    <li>
+      <a id="6b163eb7-d1fb-f65f-312f-442ca5f7e85c" href="6b163eb7-d1fb-f65f-312f-442ca5f7e85c.htm">Grouping</a>
+    </li>
+    <li>
+      <a id="dea7ab62-7c8c-7312-bad5-69343ca63677" href="dea7ab62-7c8c-7312-bad5-69343ca63677.htm">Icmp<wbr />Types<wbr />And<wbr />Codes</a>
+    </li>
+    <li>
+      <a id="809ff3f9-b34f-2584-9699-01f154fcdcb5" href="809ff3f9-b34f-2584-9699-01f154fcdcb5.htm">Interfaces</a>
+    </li>
+    <li>
+      <a id="a9114c0e-0367-65d4-e1e2-907476a12e50" href="a9114c0e-0367-65d4-e1e2-907476a12e50.htm">Interface<wbr />Types</a>
+    </li>
+    <li>
+      <a id="9332a06f-8efc-f76a-fc2b-088cca940b34" href="9332a06f-8efc-f76a-fc2b-088cca940b34.htm">Local<wbr />Addresses</a>
+    </li>
+    <li>
+      <a id="e21b0e0d-81eb-5bc7-2006-073751ae4807" href="e21b0e0d-81eb-5bc7-2006-073751ae4807.htm">Local<wbr />Ports</a>
+    </li>
+    <li>
+      <a id="d729a0a3-77d4-dd37-218b-c2d201178965" href="d729a0a3-77d4-dd37-218b-c2d201178965.htm">Name</a>
+    </li>
+    <li>
+      <a id="6f7ee5f4-a10b-4a1d-060d-a6c563dc330c" href="6f7ee5f4-a10b-4a1d-060d-a6c563dc330c.htm">Profiles</a>
+    </li>
+    <li>
+      <a id="f0038440-6705-3507-bac3-7b5c33ffb811" href="f0038440-6705-3507-bac3-7b5c33ffb811.htm">Protocol</a>
+    </li>
+    <li>
+      <a id="c3c671ff-4c6d-9dee-f3d8-2e7321e4a2c5" href="c3c671ff-4c6d-9dee-f3d8-2e7321e4a2c5.htm">Remote<wbr />Addresses</a>
+    </li>
+    <li>
+      <a id="67109da9-750c-812b-697a-275671f19c29" href="67109da9-750c-812b-697a-275671f19c29.htm">Remote<wbr />Ports</a>
+    </li>
+    <li>
+      <a id="65291c00-aea0-d017-3759-e8dbccaf309b" href="65291c00-aea0-d017-3759-e8dbccaf309b.htm">Service<wbr />Name</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="e6698bed-46b7-1a78-f001-a92951cf0e80.htm">IShell<wbr />Link<wbr />W</a>
+    </li>
+    <li>
+      <a href="0e02d642-0d66-bb77-5cab-5cb241e7bcd8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="16650cc6-39c8-9bde-bcee-666be3b0ad97" href="16650cc6-39c8-9bde-bcee-666be3b0ad97.htm">Get<wbr />Arguments</a>
+    </li>
+    <li>
+      <a id="f22a733a-8b82-653a-bcef-17ecd2f53e51" href="f22a733a-8b82-653a-bcef-17ecd2f53e51.htm">Get<wbr />Description</a>
+    </li>
+    <li>
+      <a id="9bd67568-9850-1fc4-9794-d10ca27202a5" href="9bd67568-9850-1fc4-9794-d10ca27202a5.htm">Get<wbr />Hotkey</a>
+    </li>
+    <li>
+      <a id="dc1cd57c-9df0-5c77-a63a-c7df443ae686" href="dc1cd57c-9df0-5c77-a63a-c7df443ae686.htm">Get<wbr />Icon<wbr />Location</a>
+    </li>
+    <li>
+      <a id="3e9987d2-7266-e5d5-3446-8639ba71c08d" href="3e9987d2-7266-e5d5-3446-8639ba71c08d.htm">Get<wbr />IDList</a>
+    </li>
+    <li>
+      <a id="0a9d06e4-4361-8ce2-59c3-f49b81b37cc2" href="0a9d06e4-4361-8ce2-59c3-f49b81b37cc2.htm">Get<wbr />Path</a>
+    </li>
+    <li>
+      <a id="8f3a61a9-1845-a83d-1fc4-a713f4966ec4" href="8f3a61a9-1845-a83d-1fc4-a713f4966ec4.htm">Get<wbr />Show<wbr />Cmd</a>
+    </li>
+    <li>
+      <a id="9bce0fe4-eaf8-3553-1424-89963e768fbb" href="9bce0fe4-eaf8-3553-1424-89963e768fbb.htm">Get<wbr />Working<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="2c8a2c3c-e280-09d7-da7c-b6f737179bf0" href="2c8a2c3c-e280-09d7-da7c-b6f737179bf0.htm">Resolve</a>
+    </li>
+    <li>
+      <a id="d9cc0449-6173-520e-af42-6ec8589fa830" href="d9cc0449-6173-520e-af42-6ec8589fa830.htm">Set<wbr />Arguments</a>
+    </li>
+    <li>
+      <a id="f27902a7-a03d-140a-c1d8-cb32a6263699" href="f27902a7-a03d-140a-c1d8-cb32a6263699.htm">Set<wbr />Description</a>
+    </li>
+    <li>
+      <a id="59a93507-dbf8-7471-854f-1e0653eb8599" href="59a93507-dbf8-7471-854f-1e0653eb8599.htm">Set<wbr />Hotkey</a>
+    </li>
+    <li>
+      <a id="befac3a7-cace-573d-da5f-c8751b5b13c4" href="befac3a7-cace-573d-da5f-c8751b5b13c4.htm">Set<wbr />Icon<wbr />Location</a>
+    </li>
+    <li>
+      <a id="7941a997-dbc3-493e-1f2b-c6afe4da8f45" href="7941a997-dbc3-493e-1f2b-c6afe4da8f45.htm">Set<wbr />IDList</a>
+    </li>
+    <li>
+      <a id="3bd9fb5b-a254-78c5-7250-85d91e7ca28f" href="3bd9fb5b-a254-78c5-7250-85d91e7ca28f.htm">Set<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d20e039b-2afd-7683-ff70-3fa2ad3b9ddf" href="d20e039b-2afd-7683-ff70-3fa2ad3b9ddf.htm">Set<wbr />Relative<wbr />Path</a>
+    </li>
+    <li>
+      <a id="bd9d3f40-cc54-1281-cbc3-422cac35636a" href="bd9d3f40-cc54-1281-cbc3-422cac35636a.htm">Set<wbr />Show<wbr />Cmd</a>
+    </li>
+    <li>
+      <a id="2a93e4b6-c1fa-7bb5-fc0a-c8ff79b50a9d" href="2a93e4b6-c1fa-7bb5-fc0a-c8ff79b50a9d.htm">Set<wbr />Working<wbr />Directory</a>
+    </li>
+  </tocItems>
+</toc>

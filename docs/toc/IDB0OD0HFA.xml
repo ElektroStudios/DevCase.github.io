@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="c219048c-7069-89dd-b440-1190f489240b.htm">System<wbr />Info</a>
+    </li>
+    <li>
+      <a href="c158d407-7583-d5e4-24bd-4745cd7bb96b.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ea579789-bf43-524e-937b-62b4baad3685" href="ea579789-bf43-524e-937b-62b4baad3685.htm">Active<wbr />Processor<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="d23ad809-6035-2566-e566-7a2d6019ae8d" href="d23ad809-6035-2566-e566-7a2d6019ae8d.htm">Allocation<wbr />Granularity</a>
+    </li>
+    <li>
+      <a id="a97b56d0-afe2-2b69-6b6f-15178ac383a9" href="a97b56d0-afe2-2b69-6b6f-15178ac383a9.htm">Maximum<wbr />Application<wbr />Address</a>
+    </li>
+    <li>
+      <a id="a8b2f34e-2c3f-6d2f-e0f1-07da4b014daf" href="a8b2f34e-2c3f-6d2f-e0f1-07da4b014daf.htm">Minimum<wbr />Application<wbr />Address</a>
+    </li>
+    <li>
+      <a id="44ddbfe5-d6e2-cb4a-34a1-5143782fd802" href="44ddbfe5-d6e2-cb4a-34a1-5143782fd802.htm">Number<wbr />Of<wbr />Processors</a>
+    </li>
+    <li>
+      <a id="8a660c12-8872-9260-acd9-75a5d9f7ad06" href="8a660c12-8872-9260-acd9-75a5d9f7ad06.htm">Page<wbr />Size</a>
+    </li>
+    <li>
+      <a id="64e8e763-292e-26b3-4cfc-5cba83a7f4f6" href="64e8e763-292e-26b3-4cfc-5cba83a7f4f6.htm">Processor<wbr />Architecture</a>
+    </li>
+    <li>
+      <a id="c9c261d3-b516-7b84-e075-18e4f4fb714f" href="c9c261d3-b516-7b84-e075-18e4f4fb714f.htm">Processor<wbr />Level</a>
+    </li>
+    <li>
+      <a id="79d253da-6d46-0402-19c5-f0f80a9a4bf4" href="79d253da-6d46-0402-19c5-f0f80a9a4bf4.htm">Processor<wbr />Revision</a>
+    </li>
+    <li>
+      <a id="ed1aa6d7-80b5-c6c8-ef15-809d1ef4607c" href="ed1aa6d7-80b5-c6c8-ef15-809d1ef4607c.htm">Processor<wbr />Type</a>
+    </li>
+  </tocItems>
+</toc>

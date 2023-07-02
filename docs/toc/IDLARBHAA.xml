@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="f930cfcb-ad12-19d1-7f00-0fee3634f96d.htm">Util<wbr />Image</a>
+    </li>
+    <li>
+      <a href="e4024a54-917e-6ad4-93e1-58978220cc90.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fc04848b-e483-db86-2edc-8e50c3ccb96b.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f8843f99-9bb2-bd2d-00a3-0680d7b86443" href="f8843f99-9bb2-bd2d-00a3-0680d7b86443.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="a18d5e55-714a-41cb-7193-a9739be0212d" href="a18d5e55-714a-41cb-7193-a9739be0212d.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />Image)</a>
+    </li>
+    <li>
+      <a id="10cf8bab-a3bd-04a9-cebc-40a465e231ae" href="10cf8bab-a3bd-04a9-cebc-40a465e231ae.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="2d4c07ae-bf6d-200d-90fd-c3a1aacf9c6c" href="2d4c07ae-bf6d-200d-90fd-c3a1aacf9c6c.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />File<wbr />Info, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="9141e9cf-d64b-bd39-a620-131291d35c60" href="9141e9cf-d64b-bd39-a620-131291d35c60.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />Image, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="29341cee-2cb6-b4a1-5916-368518d5b0b8" href="29341cee-2cb6-b4a1-5916-368518d5b0b8.htm">Get<wbr />Gray<wbr />Scale<wbr />Pixel<wbr />Percent<wbr />Of<wbr />Image(<wbr />String, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="93df4bf0-0470-fa4e-5b83-e5da1f88f418.htm">Async<wbr />Disable</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bef9bdaa-c61f-1482-492c-c500c7ee70cd" href="bef9bdaa-c61f-1482-492c-c500c7ee70cd.htm">Async<wbr />Disable(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="1eb1da51-1434-da78-7689-f38af91e72b1" href="1eb1da51-1434-da78-7689-f38af91e72b1.htm">Async<wbr />Disable(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="7bee72b0-f339-03c1-1485-fcaad6018d57" href="7bee72b0-f339-03c1-1485-fcaad6018d57.htm">Async<wbr />Disable&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="41552135-afd5-ba34-7d13-7d65ae31fb0b" href="41552135-afd5-ba34-7d13-7d65ae31fb0b.htm">Async<wbr />Disable&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="3b38532e-e1fa-6562-26ef-c2ef80994e39" href="3b38532e-e1fa-6562-26ef-c2ef80994e39.htm">Async<wbr />Disable&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Compilation</a>
+    </li>
+    <li>
+      <a href="1a162c08-81b1-f4ce-1746-73fb703a0c93.htm">Compiler</a>
+    </li>
+    <li>
+      <a href="744e56c5-0b8f-efdd-6f64-169f366b08aa.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="aa2b2912-da4e-f63b-bba2-4b6afdee0533" href="aa2b2912-da4e-f63b-bba2-4b6afdee0533.htm">Compile<wbr />From<wbr />File</a>
+    </li>
+    <li>
+      <a id="8edd8280-8906-f9fd-ce54-af73b2844e11" href="8edd8280-8906-f9fd-ce54-af73b2844e11.htm">Compile<wbr />From<wbr />String</a>
+    </li>
+    <li>
+      <a id="0c1a0288-4357-1acb-b2b5-336938669507" href="0c1a0288-4357-1acb-b2b5-336938669507.htm">Dispose</a>
+    </li>
+  </tocItems>
+</toc>

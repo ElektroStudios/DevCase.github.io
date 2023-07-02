@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="08d7da04-1b08-6d4e-4451-1bd372b3e65e.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Hashing</a>
+    </li>
+    <li>
+      <a href="36bcdc28-a21f-292b-63f3-47039ffb196f.htm">Util<wbr />Hashing</a>
+    </li>
+    <li>
+      <a href="07b01eac-0940-72fd-bcea-c74b0deabc68.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bbb1da28-b3a5-4277-4ed6-847fdf62b249.htm">Compute<wbr />Hash<wbr />Of<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9b068260-8f5e-4dbe-5020-688d55528b22" href="9b068260-8f5e-4dbe-5020-688d55528b22.htm">Compute<wbr />Hash<wbr />Of<wbr />File&lt;T&gt;(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="b0347463-e3db-d102-6aa6-84881ec3e334" href="b0347463-e3db-d102-6aa6-84881ec3e334.htm">Compute<wbr />Hash<wbr />Of<wbr />File&lt;T&gt;(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

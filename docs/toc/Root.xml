@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d" class="has-submenu" href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">
+        <span data-tocFile="../toc/IDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

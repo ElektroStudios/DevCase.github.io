@@ -1,0 +1,1329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="76308d98-8ff4-3f81-924f-1a0b6710d2f3" href="76308d98-8ff4-3f81-924f-1a0b6710d2f3.htm">Add<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="74b40f5b-fb8f-ce1a-611f-a814d7900006" href="74b40f5b-fb8f-ce1a-611f-a814d7900006.htm">Add<wbr />Dll<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="5972a9f7-680d-53d1-69dc-437866a50d9b" href="5972a9f7-680d-53d1-69dc-437866a50d9b.htm">Add<wbr />SIDTo<wbr />Boundary<wbr />Descriptor</a>
+    </li>
+    <li>
+      <a id="a8960886-6039-95e1-10f8-bc6fcb8379a8" class="has-submenu" href="a8960886-6039-95e1-10f8-bc6fcb8379a8.htm">
+        <span data-tocFile="../toc/IDDAJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Allocate<wbr />User<wbr />Physical<wbr />Pages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7c420c86-8ed5-321d-e52f-2765afeb9b4c" class="has-submenu" href="7c420c86-8ed5-321d-e52f-2765afeb9b4c.htm">
+        <span data-tocFile="../toc/IDEAJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Allocate<wbr />User<wbr />Physical<wbr />Pages<wbr />Numa</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5c07af4c-7227-e8b2-4e36-5b88b160647c" href="5c07af4c-7227-e8b2-4e36-5b88b160647c.htm">Alloc<wbr />Console</a>
+    </li>
+    <li>
+      <a id="37d23802-25ae-c5e2-6dd6-5e6d3eb527d0" href="37d23802-25ae-c5e2-6dd6-5e6d3eb527d0.htm">Application<wbr />Recovery<wbr />Finished</a>
+    </li>
+    <li>
+      <a id="10b7283d-bc59-05cc-1038-76fb4af58c28" href="10b7283d-bc59-05cc-1038-76fb4af58c28.htm">Application<wbr />Recovery<wbr />In<wbr />Progress</a>
+    </li>
+    <li>
+      <a id="b4437ae1-eed5-a7c9-7125-f09687410a89" href="b4437ae1-eed5-a7c9-7125-f09687410a89.htm">App<wbr />Policy<wbr />Get<wbr />Create<wbr />File<wbr />Access</a>
+    </li>
+    <li>
+      <a id="8e370e8f-8021-125e-ce73-1fc6df029808" href="8e370e8f-8021-125e-ce73-1fc6df029808.htm">App<wbr />Policy<wbr />Get<wbr />Process<wbr />Termination<wbr />Method</a>
+    </li>
+    <li>
+      <a id="faca48f1-2d0b-d46c-b5c3-38e04ffaccfe" href="faca48f1-2d0b-d46c-b5c3-38e04ffaccfe.htm">App<wbr />Policy<wbr />Get<wbr />Show<wbr />Developer<wbr />Diagnostic</a>
+    </li>
+    <li>
+      <a id="0b363839-3798-c21a-334a-058bebcf4905" href="0b363839-3798-c21a-334a-058bebcf4905.htm">App<wbr />Policy<wbr />Get<wbr />Thread<wbr />Initialization<wbr />Type</a>
+    </li>
+    <li>
+      <a id="82c188cd-d8af-3f86-83ef-5827fc397e8d" href="82c188cd-d8af-3f86-83ef-5827fc397e8d.htm">Are<wbr />File<wbr />Apis<wbr />ANSI</a>
+    </li>
+    <li>
+      <a id="6d2973b1-4a4e-0b74-1f2a-3b6047485e2e" href="6d2973b1-4a4e-0b74-1f2a-3b6047485e2e.htm">Attach<wbr />Console</a>
+    </li>
+    <li>
+      <a id="5bf199b4-753f-0ddd-8eee-ab40c6b22c94" href="5bf199b4-753f-0ddd-8eee-ab40c6b22c94.htm">Backup<wbr />Read</a>
+    </li>
+    <li>
+      <a id="3358eb12-273d-2803-7e9d-7ff46ffa34e9" href="3358eb12-273d-2803-7e9d-7ff46ffa34e9.htm">Backup<wbr />Seek</a>
+    </li>
+    <li>
+      <a id="db8e0b2e-a6ae-31af-6753-be631733acc3" href="db8e0b2e-a6ae-31af-6753-be631733acc3.htm">Base<wbr />Flush<wbr />Appcompat<wbr />Cache</a>
+    </li>
+    <li>
+      <a id="e4f600e6-6518-cfb8-ee25-985ccd78fd62" href="e4f600e6-6518-cfb8-ee25-985ccd78fd62.htm">Beep</a>
+    </li>
+    <li>
+      <a id="a1a21ee0-6d79-48ac-1107-48878eeeccb1" href="a1a21ee0-6d79-48ac-1107-48878eeeccb1.htm">Begin<wbr />Update<wbr />Resource</a>
+    </li>
+    <li>
+      <a id="5fb44331-c530-54fc-1144-8dc08e3dd031" href="5fb44331-c530-54fc-1144-8dc08e3dd031.htm">Cancel<wbr />Io</a>
+    </li>
+    <li>
+      <a id="5ddd570a-7833-9c7f-7d09-6f18a1246ea0" href="5ddd570a-7833-9c7f-7d09-6f18a1246ea0.htm">Ceip<wbr />Is<wbr />Opted<wbr />In</a>
+    </li>
+    <li>
+      <a id="1431d080-3871-2f62-3bf5-ed34af4966c7" href="1431d080-3871-2f62-3bf5-ed34af4966c7.htm">Check<wbr />Remote<wbr />Debugger<wbr />Present</a>
+    </li>
+    <li>
+      <a id="f4a475dc-99d7-d9fa-e637-1187ef988bb8" href="f4a475dc-99d7-d9fa-e637-1187ef988bb8.htm">Clear<wbr />Comm<wbr />Break</a>
+    </li>
+    <li>
+      <a id="4aaeca8c-230e-be2f-7d09-f22dd392c403" class="has-submenu" href="4aaeca8c-230e-be2f-7d09-f22dd392c403.htm">
+        <span data-tocFile="../toc/IDXAJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Close<wbr />Handle</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d29a8223-2f07-f926-9213-bbdebc34cd9b" href="d29a8223-2f07-f926-9213-bbdebc34cd9b.htm">Close<wbr />Private<wbr />Namespace</a>
+    </li>
+    <li>
+      <a id="46da37c6-9586-cb2f-dad2-ccc0eb007e37" href="46da37c6-9586-cb2f-dad2-ccc0eb007e37.htm">Continue<wbr />Debug<wbr />Event</a>
+    </li>
+    <li>
+      <a id="54a38609-1cae-c51a-10e1-f9bb5ddee3bd" href="54a38609-1cae-c51a-10e1-f9bb5ddee3bd.htm">Convert<wbr />Fiber<wbr />To<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="de52c724-6e60-3591-dc67-56e1d2765934" href="de52c724-6e60-3591-dc67-56e1d2765934.htm">Convert<wbr />Thread<wbr />To<wbr />Fiber</a>
+    </li>
+    <li>
+      <a id="c98d44c7-77cb-dc37-e86d-836cde2b9925" href="c98d44c7-77cb-dc37-e86d-836cde2b9925.htm">Convert<wbr />Thread<wbr />To<wbr />Fiber<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="2203129d-9515-d573-a6d7-1c64bf3875ea" href="2203129d-9515-d573-a6d7-1c64bf3875ea.htm">Copy<wbr />File<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="1c78a6fd-5c3b-381f-e368-cf7a77bb6b3e" href="1c78a6fd-5c3b-381f-e368-cf7a77bb6b3e.htm">Create<wbr />Boundary<wbr />Descriptor</a>
+    </li>
+    <li>
+      <a id="30571637-735d-aa86-422b-47a8b0adbdb3" href="30571637-735d-aa86-422b-47a8b0adbdb3.htm">Create<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="cec83bdf-080a-ffe9-022e-85715fcb1e40" href="cec83bdf-080a-ffe9-022e-85715fcb1e40.htm">Create<wbr />Directory<wbr />A</a>
+    </li>
+    <li>
+      <a id="5caa92b8-d808-cbe3-df87-2e668280eaca" href="5caa92b8-d808-cbe3-df87-2e668280eaca.htm">Create<wbr />Directory<wbr />W</a>
+    </li>
+    <li>
+      <a id="c70bc9cd-175f-0653-915f-a08c05876517" class="has-submenu" href="c70bc9cd-175f-0653-915f-a08c05876517.htm">
+        <span data-tocFile="../toc/ID0CB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0ad5a9a6-5940-c290-b28c-6f142eb13e3d" class="has-submenu" href="0ad5a9a6-5940-c290-b28c-6f142eb13e3d.htm">
+        <span data-tocFile="../toc/ID0DB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />File<wbr />A</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="44d47141-30cc-13a6-a2e1-8b0ef5f37a26" class="has-submenu" href="44d47141-30cc-13a6-a2e1-8b0ef5f37a26.htm">
+        <span data-tocFile="../toc/ID0EB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />File<wbr />W</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="282a55d7-1531-7d8f-f96f-02ffd609bc77" class="has-submenu" href="282a55d7-1531-7d8f-f96f-02ffd609bc77.htm">
+        <span data-tocFile="../toc/ID0FB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Hard<wbr />Link</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="857b124a-48cf-0f7b-88d9-28b7213250d1" href="857b124a-48cf-0f7b-88d9-28b7213250d1.htm">Create<wbr />Memory<wbr />Resource<wbr />Notification</a>
+    </li>
+    <li>
+      <a id="c294b6a3-65ce-9318-1498-a8ca11bd4d21" href="c294b6a3-65ce-9318-1498-a8ca11bd4d21.htm">Create<wbr />Mutex</a>
+    </li>
+    <li>
+      <a id="5d6f4029-b5db-f5cb-8300-7646639b5277" class="has-submenu" href="5d6f4029-b5db-f5cb-8300-7646639b5277.htm">
+        <span data-tocFile="../toc/ID0IB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Mutex<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1c97def6-5dcb-048f-87f5-6f8943407c40" href="1c97def6-5dcb-048f-87f5-6f8943407c40.htm">Create<wbr />Private<wbr />Namespace</a>
+    </li>
+    <li>
+      <a id="173b25c5-d2e7-6176-5865-71b81b36bc3a" class="has-submenu" href="173b25c5-d2e7-6176-5865-71b81b36bc3a.htm">
+        <span data-tocFile="../toc/ID0KB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Process</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="91b1a059-1eb9-1d73-93e7-4aba70444454" class="has-submenu" href="91b1a059-1eb9-1d73-93e7-4aba70444454.htm">
+        <span data-tocFile="../toc/ID0LB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Remote<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="94070b4f-1237-0cc2-11b3-2f73bca4f637" class="has-submenu" href="94070b4f-1237-0cc2-11b3-2f73bca4f637.htm">
+        <span data-tocFile="../toc/ID0MB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Remote<wbr />Thread<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bfe05edf-54a7-9b4b-1fe4-43a403b68889" href="bfe05edf-54a7-9b4b-1fe4-43a403b68889.htm">Create<wbr />Symbolic<wbr />Link</a>
+    </li>
+    <li>
+      <a id="f91095d0-417d-62a2-ed3f-cadfb326f584" class="has-submenu" href="f91095d0-417d-62a2-ed3f-cadfb326f584.htm">
+        <span data-tocFile="../toc/ID0OB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="deb64433-8373-56ce-6a1b-d0cbe5f3577a" href="deb64433-8373-56ce-6a1b-d0cbe5f3577a.htm">Debug<wbr />Active<wbr />Process</a>
+    </li>
+    <li>
+      <a id="a9b036d0-6356-2b2e-b181-e98f2e020081" href="a9b036d0-6356-2b2e-b181-e98f2e020081.htm">Debug<wbr />Active<wbr />Process<wbr />Stop</a>
+    </li>
+    <li>
+      <a id="4f3cbc89-e9ef-ab78-c555-6dbce7b25656" href="4f3cbc89-e9ef-ab78-c555-6dbce7b25656.htm">Debug<wbr />Break</a>
+    </li>
+    <li>
+      <a id="846d8f79-2068-80ec-7bdc-db944e8a21de" href="846d8f79-2068-80ec-7bdc-db944e8a21de.htm">Debug<wbr />Break<wbr />Process</a>
+    </li>
+    <li>
+      <a id="56ef5ca8-58c6-489c-c7fe-b39180f0f3df" href="56ef5ca8-58c6-489c-c7fe-b39180f0f3df.htm">Debug<wbr />Set<wbr />Process<wbr />Kill<wbr />On<wbr />Exit</a>
+    </li>
+    <li>
+      <a id="919ce6bc-790d-e0ea-ab9f-8df1010bb9bd" class="has-submenu" href="919ce6bc-790d-e0ea-ab9f-8df1010bb9bd.htm">
+        <span data-tocFile="../toc/ID0UB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Decode<wbr />Pointer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4b309aeb-d7b8-41c1-1dd6-deeb66aa64ec" class="has-submenu" href="4b309aeb-d7b8-41c1-1dd6-deeb66aa64ec.htm">
+        <span data-tocFile="../toc/ID0VB0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Decode<wbr />System<wbr />Pointer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0cb72734-efaf-eacb-f785-cb42f8cd5e6a" href="0cb72734-efaf-eacb-f785-cb42f8cd5e6a.htm">Define<wbr />Dos<wbr />Device</a>
+    </li>
+    <li>
+      <a id="ceb3fef6-9653-1ba7-cf47-18b9cfffcc61" href="ceb3fef6-9653-1ba7-cf47-18b9cfffcc61.htm">Delete<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="d742a29c-5b54-e594-76bf-d1d5c5210a8d" href="d742a29c-5b54-e594-76bf-d1d5c5210a8d.htm">Delete<wbr />Boundary<wbr />Descriptor</a>
+    </li>
+    <li>
+      <a id="acf74fef-a58b-cb38-b8a2-d0309a4c3ad9" href="acf74fef-a58b-cb38-b8a2-d0309a4c3ad9.htm">Delete<wbr />File</a>
+    </li>
+    <li>
+      <a id="71d3521a-208d-9f73-4d29-c650c1517b60" href="71d3521a-208d-9f73-4d29-c650c1517b60.htm">Delete<wbr />Volume<wbr />Mount<wbr />Point</a>
+    </li>
+    <li>
+      <a id="fa703739-87d0-6398-b515-b4acc8fe7624" class="has-submenu" href="fa703739-87d0-6398-b515-b4acc8fe7624.htm">
+        <span data-tocFile="../toc/ID02B0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Device<wbr />Io<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="12a51f5f-7689-9274-bdd8-50ecbf0dcdba" href="12a51f5f-7689-9274-bdd8-50ecbf0dcdba.htm">Disable<wbr />Thread<wbr />Library<wbr />Calls</a>
+    </li>
+    <li>
+      <a id="fd94df30-050b-6aa0-bfdc-4e919ac32e42" class="has-submenu" href="fd94df30-050b-6aa0-bfdc-4e919ac32e42.htm">
+        <span data-tocFile="../toc/ID04B0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Discard<wbr />Virtual<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fc07e584-20c3-945e-fcc5-78b9146511e1" class="has-submenu" href="fc07e584-20c3-945e-fcc5-78b9146511e1.htm">
+        <span data-tocFile="../toc/ID05B0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Duplicate<wbr />Handle</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="eb6072e9-178c-7fa8-d833-20b1160b9a50" class="has-submenu" href="eb6072e9-178c-7fa8-d833-20b1160b9a50.htm">
+        <span data-tocFile="../toc/ID06B0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Encode<wbr />Pointer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6d28d491-0b1e-7f9c-720c-05cf79ecd04a" class="has-submenu" href="6d28d491-0b1e-7f9c-720c-05cf79ecd04a.htm">
+        <span data-tocFile="../toc/ID0AC0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Encode<wbr />System<wbr />Pointer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="43f50b45-8506-b064-ea72-7a4230a96bab" class="has-submenu" href="43f50b45-8506-b064-ea72-7a4230a96bab.htm">
+        <span data-tocFile="../toc/ID0BC0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>End<wbr />Update<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a48029c0-f2dd-c8c4-1837-a8dedb584564" href="a48029c0-f2dd-c8c4-1837-a8dedb584564.htm">Enum<wbr />System<wbr />Code<wbr />Pages</a>
+    </li>
+    <li>
+      <a id="72e36cd1-001e-75cd-a1bb-a44ccbff7b40" href="72e36cd1-001e-75cd-a1bb-a44ccbff7b40.htm">Enum<wbr />System<wbr />Locales</a>
+    </li>
+    <li>
+      <a id="db22a13a-cea9-0b1b-fa40-ab9e680d001d" href="db22a13a-cea9-0b1b-fa40-ab9e680d001d.htm">Enum<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="6bd46c0d-078a-e930-4777-2a212cfd3a64" href="6bd46c0d-078a-e930-4777-2a212cfd3a64.htm">Exit<wbr />Process</a>
+    </li>
+    <li>
+      <a id="bec83a8c-fe18-6aae-131d-214907d6f63e" href="bec83a8c-fe18-6aae-131d-214907d6f63e.htm">Exit<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="1a2347a4-8460-c1d4-87f9-b6d0c90caa60" href="1a2347a4-8460-c1d4-87f9-b6d0c90caa60.htm">Fatal<wbr />App<wbr />Exit</a>
+    </li>
+    <li>
+      <a id="41f3bc14-d1f0-c622-5113-75037fd340f1" href="41f3bc14-d1f0-c622-5113-75037fd340f1.htm">Fatal<wbr />Exit</a>
+    </li>
+    <li>
+      <a id="3f2ff857-f3ac-b7ba-f1d6-5cd4f01f09ee" href="3f2ff857-f3ac-b7ba-f1d6-5cd4f01f09ee.htm">File<wbr />Time<wbr />To<wbr />System<wbr />Time</a>
+    </li>
+    <li>
+      <a id="b83b94a9-6105-afc6-2907-29c341156eff" href="b83b94a9-6105-afc6-2907-29c341156eff.htm">Fill<wbr />Console<wbr />Output<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="609e67c7-0d99-4c21-d55a-55909fed2961" href="609e67c7-0d99-4c21-d55a-55909fed2961.htm">Fill<wbr />Console<wbr />Output<wbr />Character</a>
+    </li>
+    <li>
+      <a id="82b8d6f7-01b9-3011-6bc2-d148a58ee55e" href="82b8d6f7-01b9-3011-6bc2-d148a58ee55e.htm">Fill<wbr />Memory</a>
+    </li>
+    <li>
+      <a id="9b6aeb42-40b5-9152-a821-0e42ee875e0d" href="9b6aeb42-40b5-9152-a821-0e42ee875e0d.htm">Find<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="8a9b6223-19a0-0461-aaa1-c68027d82f37" href="8a9b6223-19a0-0461-aaa1-c68027d82f37.htm">Find<wbr />Close</a>
+    </li>
+    <li>
+      <a id="2243abd9-978c-2641-69e7-132461188033" href="2243abd9-978c-2641-69e7-132461188033.htm">Find<wbr />First<wbr />Stream<wbr />W</a>
+    </li>
+    <li>
+      <a id="dd58d74a-3e5a-9bbb-28a8-5ddd1199f5a1" href="dd58d74a-3e5a-9bbb-28a8-5ddd1199f5a1.htm">Find<wbr />Next<wbr />Stream<wbr />W</a>
+    </li>
+    <li>
+      <a id="f2921a5c-750b-6ace-6bcf-3070047836a5" class="has-submenu" href="f2921a5c-750b-6ace-6bcf-3070047836a5.htm">
+        <span data-tocFile="../toc/ID0RC0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8515bcbc-f61c-a3fa-401a-ea9739dadcd1" class="has-submenu" href="8515bcbc-f61c-a3fa-401a-ea9739dadcd1.htm">
+        <span data-tocFile="../toc/ID0SC0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Resource<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b6c3a199-d7b1-bef8-d68a-2f4fa4a2042d" href="b6c3a199-d7b1-bef8-d68a-2f4fa4a2042d.htm">Flush<wbr />Console<wbr />Input<wbr />Buffer</a>
+    </li>
+    <li>
+      <a id="158fb38c-36f0-f605-b1a2-e39bc5cdab1e" href="158fb38c-36f0-f605-b1a2-e39bc5cdab1e.htm">Flush<wbr />File<wbr />Buffers</a>
+    </li>
+    <li>
+      <a id="b02bed8b-779a-1091-810d-4172c9348253" href="b02bed8b-779a-1091-810d-4172c9348253.htm">Flush<wbr />Process<wbr />Write<wbr />Buffers</a>
+    </li>
+    <li>
+      <a id="7343a710-688f-9105-0023-795b5e56c8c5" href="7343a710-688f-9105-0023-795b5e56c8c5.htm">Format<wbr />Message</a>
+    </li>
+    <li>
+      <a id="b583472d-4017-adb2-ff06-dd399ed947a8" href="b583472d-4017-adb2-ff06-dd399ed947a8.htm">Free<wbr />Console</a>
+    </li>
+    <li>
+      <a id="b30fcdad-c4e7-aa53-555e-dce753c32648" class="has-submenu" href="b30fcdad-c4e7-aa53-555e-dce753c32648.htm">
+        <span data-tocFile="../toc/ID0YC0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Free<wbr />Library</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6cf6bef0-18fa-877f-8ed6-d96daa8d8b9b" href="6cf6bef0-18fa-877f-8ed6-d96daa8d8b9b.htm">Free<wbr />Library<wbr />And<wbr />Exit<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="dd790500-801b-b7ee-db4f-be45510cab4b" class="has-submenu" href="dd790500-801b-b7ee-db4f-be45510cab4b.htm">
+        <span data-tocFile="../toc/ID01C0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Free<wbr />User<wbr />Physical<wbr />Pages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fbc77bb3-2a66-b020-0f76-0ac1a8954171" href="fbc77bb3-2a66-b020-0f76-0ac1a8954171.htm">Get<wbr />Active<wbr />Processor<wbr />Group<wbr />Count</a>
+    </li>
+    <li>
+      <a id="5bd0565b-270b-25b0-5980-22031fc1f1af" href="5bd0565b-270b-25b0-5980-22031fc1f1af.htm">Get<wbr />Ansi<wbr />Code<wbr />Page</a>
+    </li>
+    <li>
+      <a id="ab12e11a-1d95-dff4-4d38-9222a65b5356" href="ab12e11a-1d95-dff4-4d38-9222a65b5356.htm">Get<wbr />Application<wbr />Recovery<wbr />Callback</a>
+    </li>
+    <li>
+      <a id="7d7ce7f6-d7bc-2633-21d4-41ed93f290a5" href="7d7ce7f6-d7bc-2633-21d4-41ed93f290a5.htm">Get<wbr />Application<wbr />Restart<wbr />Settings</a>
+    </li>
+    <li>
+      <a id="e5edd73b-56e5-8c05-abda-0174666758a3" href="e5edd73b-56e5-8c05-abda-0174666758a3.htm">Get<wbr />Atom<wbr />Name</a>
+    </li>
+    <li>
+      <a id="60005685-84e0-c7e0-376a-3209f308aa5a" href="60005685-84e0-c7e0-376a-3209f308aa5a.htm">Get<wbr />Binary<wbr />Type</a>
+    </li>
+    <li>
+      <a id="401760a3-25c6-f613-fe09-4faf29dce1e3" href="401760a3-25c6-f613-fe09-4faf29dce1e3.htm">Get<wbr />Command<wbr />Line</a>
+    </li>
+    <li>
+      <a id="392ae3fe-5398-e189-92ca-773462298461" href="392ae3fe-5398-e189-92ca-773462298461.htm">Get<wbr />Compressed<wbr />File<wbr />Size</a>
+    </li>
+    <li>
+      <a id="2669be7c-8518-adbe-e38a-068b1b3172d2" href="2669be7c-8518-adbe-e38a-068b1b3172d2.htm">Get<wbr />Console<wbr />Codepage</a>
+    </li>
+    <li>
+      <a id="0aecd89a-6929-aa1d-87c1-c0560769d931" href="0aecd89a-6929-aa1d-87c1-c0560769d931.htm">Get<wbr />Console<wbr />Display<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="de504213-01cd-2a98-ee94-7ab682e6bf60" href="de504213-01cd-2a98-ee94-7ab682e6bf60.htm">Get<wbr />Console<wbr />Font<wbr />Size</a>
+    </li>
+    <li>
+      <a id="cfcbfe64-b969-7b6d-a3f7-3fd71966964a" href="cfcbfe64-b969-7b6d-a3f7-3fd71966964a.htm">Get<wbr />Console<wbr />Original<wbr />Title</a>
+    </li>
+    <li>
+      <a id="f877bf82-6565-f2d1-1f8d-9806b04ecc59" href="f877bf82-6565-f2d1-1f8d-9806b04ecc59.htm">Get<wbr />Console<wbr />Output<wbr />Codepage</a>
+    </li>
+    <li>
+      <a id="7c2112c3-43d2-c154-64c6-82fed5d35059" href="7c2112c3-43d2-c154-64c6-82fed5d35059.htm">Get<wbr />Console<wbr />Title</a>
+    </li>
+    <li>
+      <a id="672eadf7-b926-ec28-1140-c84db6864599" href="672eadf7-b926-ec28-1140-c84db6864599.htm">Get<wbr />Console<wbr />Window</a>
+    </li>
+    <li>
+      <a id="088f280c-3daf-fe48-862a-0a6909c1fa4c" href="088f280c-3daf-fe48-862a-0a6909c1fa4c.htm">Get<wbr />Current<wbr />Console<wbr />Font</a>
+    </li>
+    <li>
+      <a id="aecdd480-693b-d0b3-59fc-ce9cad9b5547" href="aecdd480-693b-d0b3-59fc-ce9cad9b5547.htm">Get<wbr />Current<wbr />Console<wbr />Font<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="7258eb39-6b7f-598f-5c29-e8154334e607" href="7258eb39-6b7f-598f-5c29-e8154334e607.htm">Get<wbr />Current<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="03c58658-c638-f950-a4e4-7f0da31bb92b" href="03c58658-c638-f950-a4e4-7f0da31bb92b.htm">Get<wbr />Current<wbr />Process</a>
+    </li>
+    <li>
+      <a id="90cec9ce-00ee-fc2e-1e22-7b7b4074933e" href="90cec9ce-00ee-fc2e-1e22-7b7b4074933e.htm">Get<wbr />Current<wbr />Process<wbr />Id</a>
+    </li>
+    <li>
+      <a id="e2f0c135-8faf-2269-5f03-bbad88807b65" href="e2f0c135-8faf-2269-5f03-bbad88807b65.htm">Get<wbr />Current<wbr />Processor<wbr />Number</a>
+    </li>
+    <li>
+      <a id="7208d431-e3d2-96d0-2722-7868a563803d" href="7208d431-e3d2-96d0-2722-7868a563803d.htm">Get<wbr />Current<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="6315d581-7922-7ab3-c531-b95d8587510f" href="6315d581-7922-7ab3-c531-b95d8587510f.htm">Get<wbr />Current<wbr />Thread<wbr />Id</a>
+    </li>
+    <li>
+      <a id="638c39a2-dcba-c0e8-5d62-0499fa102b2a" href="638c39a2-dcba-c0e8-5d62-0499fa102b2a.htm">Get<wbr />Current<wbr />Thread<wbr />Stack<wbr />Limits</a>
+    </li>
+    <li>
+      <a id="2eb49fc1-c260-1baa-2ba4-a2693c79ced8" href="2eb49fc1-c260-1baa-2ba4-a2693c79ced8.htm">Get<wbr />Device<wbr />Power<wbr />State</a>
+    </li>
+    <li>
+      <a id="edafbd11-6d3f-93d9-0e7f-efdfbc5ea1d6" class="has-submenu" href="edafbd11-6d3f-93d9-0e7f-efdfbc5ea1d6.htm">
+        <span data-tocFile="../toc/ID0UD0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Dll<wbr />Directory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d1837364-59cd-bae8-5b21-8ba27e1dea35" href="d1837364-59cd-bae8-5b21-8ba27e1dea35.htm">Get<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="ba3deb52-ae88-fe25-dc87-b10aa9a6f367" href="ba3deb52-ae88-fe25-dc87-b10aa9a6f367.htm">Get<wbr />Exit<wbr />Code<wbr />Process</a>
+    </li>
+    <li>
+      <a id="4264393a-a529-0f7a-78eb-c023edde0b28" href="4264393a-a529-0f7a-78eb-c023edde0b28.htm">Get<wbr />Exit<wbr />Code<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="048933a4-2109-c35a-c110-4cf2c349dda1" class="has-submenu" href="048933a4-2109-c35a-c110-4cf2c349dda1.htm">
+        <span data-tocFile="../toc/ID0YD0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />File<wbr />Size</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6de4bb7d-1b98-9d5d-2ba8-6b55edc9ac8e" class="has-submenu" href="6de4bb7d-1b98-9d5d-2ba8-6b55edc9ac8e.htm">
+        <span data-tocFile="../toc/ID0ZD0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />File<wbr />Size<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5fb88ac-41b0-339a-6a56-baf44ac3ab02" href="b5fb88ac-41b0-339a-6a56-baf44ac3ab02.htm">Get<wbr />Firmware<wbr />Environment<wbr />Variable</a>
+    </li>
+    <li>
+      <a id="0033048c-8e42-ec32-4e2d-7d92148377c6" href="0033048c-8e42-ec32-4e2d-7d92148377c6.htm">Get<wbr />Handle<wbr />Information</a>
+    </li>
+    <li>
+      <a id="7719c517-0202-1c6e-4676-206c8899b67b" href="7719c517-0202-1c6e-4676-206c8899b67b.htm">Get<wbr />Integrated<wbr />Display<wbr />Size</a>
+    </li>
+    <li>
+      <a id="f395f133-a796-2927-f2d7-6b6f5e428603" href="f395f133-a796-2927-f2d7-6b6f5e428603.htm">Get<wbr />Large<wbr />Page<wbr />Minimum</a>
+    </li>
+    <li>
+      <a id="87cea479-67a7-fb15-0516-f10bcef1bf2a" href="87cea479-67a7-fb15-0516-f10bcef1bf2a.htm">Get<wbr />Last<wbr />Error</a>
+    </li>
+    <li>
+      <a id="a7add20d-3081-cabf-8316-e1430946bfbe" href="a7add20d-3081-cabf-8316-e1430946bfbe.htm">Get<wbr />Local<wbr />Time</a>
+    </li>
+    <li>
+      <a id="443b68ff-211e-d1cd-8aea-edc7475a6c3a" href="443b68ff-211e-d1cd-8aea-edc7475a6c3a.htm">Get<wbr />Logical<wbr />Drives</a>
+    </li>
+    <li>
+      <a id="45869459-a2db-3016-5bfb-094ef6e6b6c2" href="45869459-a2db-3016-5bfb-094ef6e6b6c2.htm">Get<wbr />Logical<wbr />Drive<wbr />Strings</a>
+    </li>
+    <li>
+      <a id="32deb9c5-e307-0e42-8f9c-8e282894ae9b" href="32deb9c5-e307-0e42-8f9c-8e282894ae9b.htm">Get<wbr />Long<wbr />Path<wbr />Name</a>
+    </li>
+    <li>
+      <a id="1cfecb01-6623-61aa-a43b-c2a2d7d40bf3" href="1cfecb01-6623-61aa-a43b-c2a2d7d40bf3.htm">Get<wbr />Maximum<wbr />Processor<wbr />Count</a>
+    </li>
+    <li>
+      <a id="a2807ba6-f02d-79e4-3c57-d143c4606cb1" href="a2807ba6-f02d-79e4-3c57-d143c4606cb1.htm">Get<wbr />Maximum<wbr />Processor<wbr />Group<wbr />Count</a>
+    </li>
+    <li>
+      <a id="d83a0ef9-776e-7033-2bd4-4546c50d255f" href="d83a0ef9-776e-7033-2bd4-4546c50d255f.htm">Get<wbr />Module<wbr />File<wbr />Name</a>
+    </li>
+    <li>
+      <a id="f5c6293e-a2d3-ace8-916b-876164741de4" href="f5c6293e-a2d3-ace8-916b-876164741de4.htm">Get<wbr />Module<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="175bd525-9ce5-d5fe-83df-eb89114d491a" href="175bd525-9ce5-d5fe-83df-eb89114d491a.htm">Get<wbr />Module<wbr />Handle<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="62d82d7d-5321-6955-4522-d733ac0d35f0" href="62d82d7d-5321-6955-4522-d733ac0d35f0.htm">Get<wbr />OEMCode<wbr />Page</a>
+    </li>
+    <li>
+      <a id="249eec9a-479d-d098-944d-7b8cdf238b64" href="249eec9a-479d-d098-944d-7b8cdf238b64.htm">Get<wbr />Os<wbr />Manufacturing<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="de9895c0-8709-3f99-55d8-2f342d887dd8" href="de9895c0-8709-3f99-55d8-2f342d887dd8.htm">Get<wbr />Physically<wbr />Installed<wbr />System<wbr />Memory</a>
+    </li>
+    <li>
+      <a id="3cbd50cc-d181-0cb0-1636-19521904e901" href="3cbd50cc-d181-0cb0-1636-19521904e901.htm">Get<wbr />Priority<wbr />Class</a>
+    </li>
+    <li>
+      <a id="f25e13b1-d5c5-d7dd-6b5a-1cccab5f8666" class="has-submenu" href="f25e13b1-d5c5-d7dd-6b5a-1cccab5f8666.htm">
+        <span data-tocFile="../toc/ID0ME0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Proc<wbr />Address</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ea1997ca-2f43-0baa-a33d-75f4725d9b47" href="ea1997ca-2f43-0baa-a33d-75f4725d9b47.htm">Get<wbr />Process<wbr />Handle<wbr />Count</a>
+    </li>
+    <li>
+      <a id="a7f2ac8c-025b-876d-84be-55eb206f6b7d" href="a7f2ac8c-025b-876d-84be-55eb206f6b7d.htm">Get<wbr />Process<wbr />Heap</a>
+    </li>
+    <li>
+      <a id="d0338809-d65b-ce01-6ac0-a2cddf7bfcba" href="d0338809-d65b-ce01-6ac0-a2cddf7bfcba.htm">Get<wbr />Process<wbr />Heaps</a>
+    </li>
+    <li>
+      <a id="a61ac3bc-6f1f-c296-8e49-531a9b51e89b" href="a61ac3bc-6f1f-c296-8e49-531a9b51e89b.htm">Get<wbr />Process<wbr />Id</a>
+    </li>
+    <li>
+      <a id="51f8a1aa-9d3d-c66b-b43e-b65e9131ca1b" href="51f8a1aa-9d3d-c66b-b43e-b65e9131ca1b.htm">Get<wbr />Process<wbr />Id<wbr />Of<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="86a399a1-87a7-acaf-a9a8-b4360b223c9c" href="86a399a1-87a7-acaf-a9a8-b4360b223c9c.htm">Get<wbr />Process<wbr />Io<wbr />Counters</a>
+    </li>
+    <li>
+      <a id="c3548201-c66a-c4ad-b13c-ddd70340b5a3" href="c3548201-c66a-c4ad-b13c-ddd70340b5a3.htm">Get<wbr />Process<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="c81a009d-7a2a-d843-b337-07def036f998" href="c81a009d-7a2a-d843-b337-07def036f998.htm">Get<wbr />Process<wbr />Priority<wbr />Boost</a>
+    </li>
+    <li>
+      <a id="5f9e9003-ff49-9b2b-ac4a-6a44f610b673" href="5f9e9003-ff49-9b2b-ac4a-6a44f610b673.htm">Get<wbr />Process<wbr />Times</a>
+    </li>
+    <li>
+      <a id="6397d122-e053-43e3-7a90-f6d62e3578bb" href="6397d122-e053-43e3-7a90-f6d62e3578bb.htm">Get<wbr />Process<wbr />Version</a>
+    </li>
+    <li>
+      <a id="aabccb4d-5dae-5e6a-96b0-87f731581951" href="aabccb4d-5dae-5e6a-96b0-87f731581951.htm">Get<wbr />Process<wbr />Working<wbr />Set<wbr />Size</a>
+    </li>
+    <li>
+      <a id="a3c4a53f-bc96-beca-eba8-4794f7fde2e9" href="a3c4a53f-bc96-beca-eba8-4794f7fde2e9.htm">Get<wbr />Short<wbr />Path<wbr />Name</a>
+    </li>
+    <li>
+      <a id="d67bdb40-2453-f350-8461-6cdcd527a322" href="d67bdb40-2453-f350-8461-6cdcd527a322.htm">Get<wbr />Std<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="bba4622d-ecbf-8c01-f60c-94f1efa10cee" href="bba4622d-ecbf-8c01-f60c-94f1efa10cee.htm">Get<wbr />System<wbr />Default<wbr />Lang<wbr />ID</a>
+    </li>
+    <li>
+      <a id="3ef01133-84b0-030a-b030-3670fc588a61" href="3ef01133-84b0-030a-b030-3670fc588a61.htm">Get<wbr />System<wbr />Default<wbr />LCID</a>
+    </li>
+    <li>
+      <a id="128877a2-256f-c14a-91e2-a6b363186174" href="128877a2-256f-c14a-91e2-a6b363186174.htm">Get<wbr />System<wbr />Default<wbr />Locale<wbr />Name</a>
+    </li>
+    <li>
+      <a id="a10f8816-6c03-e50b-b22e-3a5cb7b65d1f" href="a10f8816-6c03-e50b-b22e-3a5cb7b65d1f.htm">Get<wbr />System<wbr />Default<wbr />UILanguage</a>
+    </li>
+    <li>
+      <a id="9938fafe-03ca-8a5e-ecae-1edb317a981b" href="9938fafe-03ca-8a5e-ecae-1edb317a981b.htm">Get<wbr />System<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="bd0853bf-ddf8-d949-5006-20b9278a4f18" href="bd0853bf-ddf8-d949-5006-20b9278a4f18.htm">Get<wbr />System<wbr />Time</a>
+    </li>
+    <li>
+      <a id="1986129e-71a3-08ed-815a-908dd87f5653" href="1986129e-71a3-08ed-815a-908dd87f5653.htm">Get<wbr />System<wbr />Time<wbr />As<wbr />File<wbr />Time</a>
+    </li>
+    <li>
+      <a id="81b3cd46-d0ec-161c-5eb6-7ce17bd4c8e8" class="has-submenu" href="81b3cd46-d0ec-161c-5eb6-7ce17bd4c8e8.htm">
+        <span data-tocFile="../toc/ID0BF0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />System<wbr />Time<wbr />Precise<wbr />As<wbr />File<wbr />Time</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="342242cd-194f-9b21-f8a6-01d95c690486" href="342242cd-194f-9b21-f8a6-01d95c690486.htm">Get<wbr />System<wbr />Times</a>
+    </li>
+    <li>
+      <a id="46b9dcf3-df89-97ac-f94c-c16acba3d04b" href="46b9dcf3-df89-97ac-f94c-c16acba3d04b.htm">Get<wbr />System<wbr />Wow<wbr />64Directory</a>
+    </li>
+    <li>
+      <a id="6d89c556-f983-8bd6-cb37-f1779094f2b5" href="6d89c556-f983-8bd6-cb37-f1779094f2b5.htm">Get<wbr />Thread<wbr />Description</a>
+    </li>
+    <li>
+      <a id="5b3538c5-2205-93f1-5940-090537de457f" href="5b3538c5-2205-93f1-5940-090537de457f.htm">Get<wbr />Thread<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="4318831f-d1ae-3575-b399-cda08baf97f3" href="4318831f-d1ae-3575-b399-cda08baf97f3.htm">Get<wbr />Thread<wbr />Id</a>
+    </li>
+    <li>
+      <a id="902e2fd7-eda4-1ae3-af60-cd415ef4eb6e" href="902e2fd7-eda4-1ae3-af60-cd415ef4eb6e.htm">Get<wbr />Thread<wbr />IOPending<wbr />Flag</a>
+    </li>
+    <li>
+      <a id="53ce0582-20c1-a305-9122-a642e7cea78f" class="has-submenu" href="53ce0582-20c1-a305-9122-a642e7cea78f.htm">
+        <span data-tocFile="../toc/ID0IF0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Thread<wbr />Preferred<wbr />UILanguages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ea2de53c-18d6-a505-1157-f77b54331b3d" href="ea2de53c-18d6-a505-1157-f77b54331b3d.htm">Get<wbr />Thread<wbr />Priority</a>
+    </li>
+    <li>
+      <a id="f22b82c0-3d49-ae1f-78d5-8b4758cb2e4a" href="f22b82c0-3d49-ae1f-78d5-8b4758cb2e4a.htm">Get<wbr />Thread<wbr />Times</a>
+    </li>
+    <li>
+      <a id="d0732d6b-7b82-bf99-a4b2-f71a45c6e042" href="d0732d6b-7b82-bf99-a4b2-f71a45c6e042.htm">Get<wbr />Thread<wbr />UILanguage</a>
+    </li>
+    <li>
+      <a id="68c1fe51-31e5-0b17-308c-b8356f793546" href="68c1fe51-31e5-0b17-308c-b8356f793546.htm">Get<wbr />Tick<wbr />Count<wbr />64</a>
+    </li>
+    <li>
+      <a id="7e11c9a7-aba1-e229-fc18-675ba183198c" href="7e11c9a7-aba1-e229-fc18-675ba183198c.htm">Get<wbr />User<wbr />Default<wbr />Geo<wbr />Name</a>
+    </li>
+    <li>
+      <a id="d5b02abd-3e1b-397c-c86d-381932077385" href="d5b02abd-3e1b-397c-c86d-381932077385.htm">Get<wbr />User<wbr />Default<wbr />Lang<wbr />ID</a>
+    </li>
+    <li>
+      <a id="b1ff1a47-28fb-984e-e288-2d2c38b45839" href="b1ff1a47-28fb-984e-e288-2d2c38b45839.htm">Get<wbr />User<wbr />Default<wbr />LCID</a>
+    </li>
+    <li>
+      <a id="fe537cdb-2ba7-f495-3a65-91e9bbc16c14" href="fe537cdb-2ba7-f495-3a65-91e9bbc16c14.htm">Get<wbr />User<wbr />Default<wbr />Locale<wbr />Name</a>
+    </li>
+    <li>
+      <a id="394baf1f-39bb-d6e4-7789-805c3703c53a" href="394baf1f-39bb-d6e4-7789-805c3703c53a.htm">Get<wbr />User<wbr />Default<wbr />UILanguage</a>
+    </li>
+    <li>
+      <a id="88f5102d-cac5-2490-e6cf-f5c4c042a66b" href="88f5102d-cac5-2490-e6cf-f5c4c042a66b.htm">Get<wbr />User<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="3be01617-230d-3a17-1324-931cdaeb4c9d" href="3be01617-230d-3a17-1324-931cdaeb4c9d.htm">Get<wbr />Version<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="4e863d0d-4fd9-11ec-089c-8036df672c45" href="4e863d0d-4fd9-11ec-089c-8036df672c45.htm">Get<wbr />Volume<wbr />Information</a>
+    </li>
+    <li>
+      <a id="35d0dd01-0977-c044-eee8-b0178bd73f4d" href="35d0dd01-0977-c044-eee8-b0178bd73f4d.htm">Get<wbr />Volume<wbr />Name<wbr />For<wbr />Volume<wbr />Mount<wbr />Point</a>
+    </li>
+    <li>
+      <a id="c63bafe8-3889-a0c6-821f-55779eadd413" href="c63bafe8-3889-a0c6-821f-55779eadd413.htm">Get<wbr />Volume<wbr />Path<wbr />Name</a>
+    </li>
+    <li>
+      <a id="c75fba05-2a5c-20a5-3908-5aed253bb653" href="c75fba05-2a5c-20a5-3908-5aed253bb653.htm">Get<wbr />Volume<wbr />Path<wbr />Names<wbr />For<wbr />Volume<wbr />Name</a>
+    </li>
+    <li>
+      <a id="8c81b401-58fc-2e35-c855-76e424f924e3" href="8c81b401-58fc-2e35-c855-76e424f924e3.htm">Global<wbr />Add<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="bce64689-f6de-521d-4fd6-ff955907da88" href="bce64689-f6de-521d-4fd6-ff955907da88.htm">Global<wbr />Add<wbr />Atom<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="df78e9d0-dcdc-efa2-da3d-f1f89040b86a" href="df78e9d0-dcdc-efa2-da3d-f1f89040b86a.htm">Global<wbr />Delete<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="993a5a83-7ef4-6f82-d757-5ac243257105" href="993a5a83-7ef4-6f82-d757-5ac243257105.htm">Global<wbr />Find<wbr />Atom</a>
+    </li>
+    <li>
+      <a id="d5eac991-4bf4-7088-536c-f4296ce3e90c" href="d5eac991-4bf4-7088-536c-f4296ce3e90c.htm">Global<wbr />Get<wbr />Atom<wbr />Name</a>
+    </li>
+    <li>
+      <a id="d64be8da-4314-69df-7da3-df516fa2ddff" href="d64be8da-4314-69df-7da3-df516fa2ddff.htm">Global<wbr />Memory<wbr />Status<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="a9f6e8dd-b45d-b8d5-0b84-12d5bc21370b" href="a9f6e8dd-b45d-b8d5-0b84-12d5bc21370b.htm">Heap<wbr />Alloc</a>
+    </li>
+    <li>
+      <a id="6561c53c-3b67-e6b0-1047-aa4a56f789fd" href="6561c53c-3b67-e6b0-1047-aa4a56f789fd.htm">Heap<wbr />Compact</a>
+    </li>
+    <li>
+      <a id="3868568b-81cc-3b7a-b8f3-4eec4dce70b3" href="3868568b-81cc-3b7a-b8f3-4eec4dce70b3.htm">Heap<wbr />Create</a>
+    </li>
+    <li>
+      <a id="afd5c6ac-09c6-2188-2c44-6d955601830e" href="afd5c6ac-09c6-2188-2c44-6d955601830e.htm">Heap<wbr />Destroy</a>
+    </li>
+    <li>
+      <a id="10fdf4e0-8ba8-cff0-ff86-2e3d7d0d9d14" href="10fdf4e0-8ba8-cff0-ff86-2e3d7d0d9d14.htm">Heap<wbr />Free</a>
+    </li>
+    <li>
+      <a id="5b26afbb-4427-5e30-bd0a-199ff9dfb152" href="5b26afbb-4427-5e30-bd0a-199ff9dfb152.htm">Heap<wbr />Lock</a>
+    </li>
+    <li>
+      <a id="c7bb033b-96f6-a2e4-3530-7af6fcde613c" href="c7bb033b-96f6-a2e4-3530-7af6fcde613c.htm">Heap<wbr />Query<wbr />Information</a>
+    </li>
+    <li>
+      <a id="1f715a6b-6792-9c71-08a0-6f10161df6c3" href="1f715a6b-6792-9c71-08a0-6f10161df6c3.htm">Heap<wbr />Re<wbr />Alloc</a>
+    </li>
+    <li>
+      <a id="36018a09-e7a0-4162-dce6-865c4b2c4263" href="36018a09-e7a0-4162-dce6-865c4b2c4263.htm">Heap<wbr />Set<wbr />Information</a>
+    </li>
+    <li>
+      <a id="70638c62-19ab-3dcb-ab26-6ee30de2422a" href="70638c62-19ab-3dcb-ab26-6ee30de2422a.htm">Heap<wbr />Size</a>
+    </li>
+    <li>
+      <a id="d57ce133-33b1-3560-854b-0c3bf38a5444" href="d57ce133-33b1-3560-854b-0c3bf38a5444.htm">Heap<wbr />Unlock</a>
+    </li>
+    <li>
+      <a id="54f297be-4592-ac0a-8140-317b93f97b0b" href="54f297be-4592-ac0a-8140-317b93f97b0b.htm">Heap<wbr />Validate</a>
+    </li>
+    <li>
+      <a id="363f24a6-576a-97e9-c0dd-47aa3d7bbcad" href="363f24a6-576a-97e9-c0dd-47aa3d7bbcad.htm">Init<wbr />Atom<wbr />Table</a>
+    </li>
+    <li>
+      <a id="0846750d-036d-c674-ec52-d74584e9b07a" href="0846750d-036d-c674-ec52-d74584e9b07a.htm">Is<wbr />Debugger<wbr />Present</a>
+    </li>
+    <li>
+      <a id="e5ca15e5-3c00-6f2e-56bd-6c9304cc6e11" href="e5ca15e5-3c00-6f2e-56bd-6c9304cc6e11.htm">Is<wbr />Native<wbr />Vhd<wbr />Boot</a>
+    </li>
+    <li>
+      <a id="d549834c-6689-af5a-7cd3-a74cd39cece3" class="has-submenu" href="d549834c-6689-af5a-7cd3-a74cd39cece3.htm">
+        <span data-tocFile="../toc/ID0NG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Process<wbr />Critical</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="87334c7e-daec-cb3b-2eb7-1af37725a0de" href="87334c7e-daec-cb3b-2eb7-1af37725a0de.htm">Is<wbr />Processor<wbr />Feature<wbr />Present</a>
+    </li>
+    <li>
+      <a id="9fbff2c4-eb31-9788-eced-3e4dcee9453c" href="9fbff2c4-eb31-9788-eced-3e4dcee9453c.htm">Is<wbr />System<wbr />Resume<wbr />Automatic</a>
+    </li>
+    <li>
+      <a id="a54d07a6-6320-a1c7-1a51-1ef5388c50ec" href="a54d07a6-6320-a1c7-1a51-1ef5388c50ec.htm">Is<wbr />Thread<wbr />AFiber</a>
+    </li>
+    <li>
+      <a id="f33bedf1-4a33-cb6f-6edc-1e2a56b9aaa4" href="f33bedf1-4a33-cb6f-6edc-1e2a56b9aaa4.htm">Is<wbr />Valid<wbr />Code<wbr />Page</a>
+    </li>
+    <li>
+      <a id="cdc2fd93-7c02-6c0b-5b88-16cb28a16322" class="has-submenu" href="cdc2fd93-7c02-6c0b-5b88-16cb28a16322.htm">
+        <span data-tocFile="../toc/ID0SG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Wow<wbr />64Process</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="864a0216-d636-8e67-cc51-5d3f2f14bbe2" href="864a0216-d636-8e67-cc51-5d3f2f14bbe2.htm">Load<wbr />Library</a>
+    </li>
+    <li>
+      <a id="cbcb637a-2f4a-c3bb-c1c6-d03cc6a92c63" href="cbcb637a-2f4a-c3bb-c1c6-d03cc6a92c63.htm">Load<wbr />Library<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="01a042b9-b675-bf1e-1793-667e2dda653d" class="has-submenu" href="01a042b9-b675-bf1e-1793-667e2dda653d.htm">
+        <span data-tocFile="../toc/ID0VG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Load<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2acfc5eb-ecda-1694-fbef-70e9b51ced98" href="2acfc5eb-ecda-1694-fbef-70e9b51ced98.htm">Local<wbr />Free</a>
+    </li>
+    <li>
+      <a id="813e1831-b1bf-c746-d983-2cadd6ffe54d" class="has-submenu" href="813e1831-b1bf-c746-d983-2cadd6ffe54d.htm">
+        <span data-tocFile="../toc/ID0XG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Map<wbr />User<wbr />Physical<wbr />Pages</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cb5ac160-c78f-374d-c9fe-4820bbca4809" class="has-submenu" href="cb5ac160-c78f-374d-c9fe-4820bbca4809.htm">
+        <span data-tocFile="../toc/ID0YG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fa7a633d-1b6c-c94e-cc5c-8b410c947ce1" class="has-submenu" href="fa7a633d-1b6c-c94e-cc5c-8b410c947ce1.htm">
+        <span data-tocFile="../toc/ID0ZG0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Multi<wbr />Byte<wbr />To<wbr />Wide<wbr />Char</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7d1af70a-3fe9-b273-956c-cb9020c2a79b" class="has-submenu" href="7d1af70a-3fe9-b273-956c-cb9020c2a79b.htm">
+        <span data-tocFile="../toc/ID01G0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Offer<wbr />Virtual<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="94941137-5ad0-3c7b-6e2b-59522878f6b7" href="94941137-5ad0-3c7b-6e2b-59522878f6b7.htm">Open<wbr />Mutex</a>
+    </li>
+    <li>
+      <a id="cc2061d0-6444-a2b7-8423-13dcd0468a49" href="cc2061d0-6444-a2b7-8423-13dcd0468a49.htm">Open<wbr />Private<wbr />Namespace</a>
+    </li>
+    <li>
+      <a id="a524d061-cff0-6738-81fa-9c8568f4bfd0" class="has-submenu" href="a524d061-cff0-6738-81fa-9c8568f4bfd0.htm">
+        <span data-tocFile="../toc/ID04G0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />Process</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5d6f5312-67bb-ece2-6725-13bc321f2ab6" class="has-submenu" href="5d6f5312-67bb-ece2-6725-13bc321f2ab6.htm">
+        <span data-tocFile="../toc/ID05G0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="441b72ea-9a9b-c908-8493-a7a2550a60fe" href="441b72ea-9a9b-c908-8493-a7a2550a60fe.htm">Output<wbr />Debug<wbr />String</a>
+    </li>
+    <li>
+      <a id="fd9bb8bd-8dcf-f500-e375-6620b718f667" href="fd9bb8bd-8dcf-f500-e375-6620b718f667.htm">Prefetch<wbr />Virtual<wbr />Memory</a>
+    </li>
+    <li>
+      <a id="a56c6a7d-8469-1c72-47ba-5fc481251b3e" href="a56c6a7d-8469-1c72-47ba-5fc481251b3e.htm">Process<wbr />Id<wbr />To<wbr />Session<wbr />Id</a>
+    </li>
+    <li>
+      <a id="79d9942e-d314-9085-272b-735847ec88d9" href="79d9942e-d314-9085-272b-735847ec88d9.htm">Pss<wbr />Capture<wbr />Snapshot</a>
+    </li>
+    <li>
+      <a id="48baeba7-a495-6852-bc92-c211bfbca856" href="48baeba7-a495-6852-bc92-c211bfbca856.htm">Pss<wbr />Duplicate<wbr />Snapshot</a>
+    </li>
+    <li>
+      <a id="c4e8cb9e-07f4-43e4-8a85-5d32e292ecaf" href="c4e8cb9e-07f4-43e4-8a85-5d32e292ecaf.htm">Pss<wbr />Free<wbr />Snapshot</a>
+    </li>
+    <li>
+      <a id="4b6da694-99a1-7f63-ec63-696f44161dfb" href="4b6da694-99a1-7f63-ec63-696f44161dfb.htm">Pss<wbr />Query<wbr />Snapshot</a>
+    </li>
+    <li>
+      <a id="f1224513-cbc0-b9dc-d808-609b9d04fea1" class="has-submenu" href="f1224513-cbc0-b9dc-d808-609b9d04fea1.htm">
+        <span data-tocFile="../toc/ID0GH0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Query<wbr />Dos<wbr />Device</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="964949f5-2918-09e5-e3d2-30d6c59f5466" href="964949f5-2918-09e5-e3d2-30d6c59f5466.htm">Query<wbr />Full<wbr />Process<wbr />Image<wbr />Name</a>
+    </li>
+    <li>
+      <a id="54baff66-1815-8b1d-f77e-9e4efc0ea706" href="54baff66-1815-8b1d-f77e-9e4efc0ea706.htm">Query<wbr />Idle<wbr />Processor<wbr />Cycle<wbr />Time</a>
+    </li>
+    <li>
+      <a id="5aac76f5-a847-e7fc-d830-7ae34fd532b5" href="5aac76f5-a847-e7fc-d830-7ae34fd532b5.htm">Query<wbr />Idle<wbr />Processor<wbr />Cycle<wbr />Time<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="431b3fd4-4b85-89cb-7233-2e76e7c96f93" href="431b3fd4-4b85-89cb-7233-2e76e7c96f93.htm">Query<wbr />Memory<wbr />Resource<wbr />Notification</a>
+    </li>
+    <li>
+      <a id="751bc069-437d-04e1-e38d-766c66e9dd18" href="751bc069-437d-04e1-e38d-766c66e9dd18.htm">Query<wbr />Process<wbr />Cycle<wbr />Time</a>
+    </li>
+    <li>
+      <a id="0ef2b742-b522-8560-74de-34dd2635d656" href="0ef2b742-b522-8560-74de-34dd2635d656.htm">Query<wbr />Thread<wbr />Cycle<wbr />Time</a>
+    </li>
+    <li>
+      <a id="c855793a-6988-5608-c2be-67a387720a06" href="c855793a-6988-5608-c2be-67a387720a06.htm">Raise<wbr />Exception</a>
+    </li>
+    <li>
+      <a id="cbe94677-4bc2-ed85-f0f8-c7e7f45bb989" href="cbe94677-4bc2-ed85-f0f8-c7e7f45bb989.htm">Read<wbr />Console<wbr />Output</a>
+    </li>
+    <li>
+      <a id="865100f7-dffa-67f7-ae5e-c384d50d945a" href="865100f7-dffa-67f7-ae5e-c384d50d945a.htm">Read<wbr />Console<wbr />Output<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="d72a6ef5-53dc-a3d2-1529-958806ef361c" href="d72a6ef5-53dc-a3d2-1529-958806ef361c.htm">Read<wbr />Console<wbr />Output<wbr />Character</a>
+    </li>
+    <li>
+      <a id="68b216e0-912d-955d-2d98-f19c0d7dd42a" class="has-submenu" href="68b216e0-912d-955d-2d98-f19c0d7dd42a.htm">
+        <span data-tocFile="../toc/ID0RH0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c961516a-50e2-9ad1-ee3c-23a21cdd37f8" class="has-submenu" href="c961516a-50e2-9ad1-ee3c-23a21cdd37f8.htm">
+        <span data-tocFile="../toc/ID0SH0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />Process<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9cee5b0d-c884-a9fd-c463-9c37ce2d7930" class="has-submenu" href="9cee5b0d-c884-a9fd-c463-9c37ce2d7930.htm">
+        <span data-tocFile="../toc/ID0TH0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reclaim<wbr />Virtual<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="922cc305-f8c0-e6bf-58ba-5e35bc48edd4" href="922cc305-f8c0-e6bf-58ba-5e35bc48edd4.htm">Register<wbr />Application<wbr />Recovery<wbr />Callback</a>
+    </li>
+    <li>
+      <a id="e606f72d-b124-94d6-cd13-fc0b45f16b85" href="e606f72d-b124-94d6-cd13-fc0b45f16b85.htm">Register<wbr />Application<wbr />Restart</a>
+    </li>
+    <li>
+      <a id="b1a6a87c-d4a5-37a7-e832-e2dc5978c16b" href="b1a6a87c-d4a5-37a7-e832-e2dc5978c16b.htm">Release<wbr />Mutex</a>
+    </li>
+    <li>
+      <a id="a7fd8e93-2173-be05-306f-108986f5fc90" href="a7fd8e93-2173-be05-306f-108986f5fc90.htm">Remove<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="fb116497-efb6-97de-9a38-86cf01c5539f" href="fb116497-efb6-97de-9a38-86cf01c5539f.htm">Remove<wbr />Dll<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="4120e052-0d79-19b9-f133-648701c9cd78" href="4120e052-0d79-19b9-f133-648701c9cd78.htm">Restore<wbr />Last<wbr />Error</a>
+    </li>
+    <li>
+      <a id="56f52aa5-2026-7858-e584-5b800ddd3221" class="has-submenu" href="56f52aa5-2026-7858-e584-5b800ddd3221.htm">
+        <span data-tocFile="../toc/ID01H0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resume<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8ffa36d2-387a-a4cb-4bde-7f8d28df69fe" href="8ffa36d2-387a-a4cb-4bde-7f8d28df69fe.htm">Set<wbr />Comm<wbr />Break</a>
+    </li>
+    <li>
+      <a id="68b5c0d0-9d1e-3e60-f24b-239bc6d20d64" href="68b5c0d0-9d1e-3e60-f24b-239bc6d20d64.htm">Set<wbr />Computer<wbr />Name</a>
+    </li>
+    <li>
+      <a id="460c904e-10de-a826-1c94-f5ebb9013c32" href="460c904e-10de-a826-1c94-f5ebb9013c32.htm">Set<wbr />Computer<wbr />Name<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="5aab3e4b-c3f0-b5f5-d74c-6cec5d4c3e8b" href="5aab3e4b-c3f0-b5f5-d74c-6cec5d4c3e8b.htm">Set<wbr />Console<wbr />Codepage</a>
+    </li>
+    <li>
+      <a id="3d240fbf-0a11-ee00-0e62-361ebcd77fd7" href="3d240fbf-0a11-ee00-0e62-361ebcd77fd7.htm">Set<wbr />Console<wbr />Display<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="20f3af9f-277a-28fb-3f5f-9b3ed176a287" href="20f3af9f-277a-28fb-3f5f-9b3ed176a287.htm">Set<wbr />Console<wbr />Output<wbr />Codepage</a>
+    </li>
+    <li>
+      <a id="26c2ffc1-e3ac-9e9e-ac5c-c1ac8e8a8abb" href="26c2ffc1-e3ac-9e9e-ac5c-c1ac8e8a8abb.htm">Set<wbr />Console<wbr />Text<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="b564c41e-f76e-7520-12a9-0361fd0024cd" href="b564c41e-f76e-7520-12a9-0361fd0024cd.htm">Set<wbr />Console<wbr />Title</a>
+    </li>
+    <li>
+      <a id="3b524fae-8f4b-47a6-969d-2b188f0c96f4" href="3b524fae-8f4b-47a6-969d-2b188f0c96f4.htm">Set<wbr />Current<wbr />Console<wbr />Font<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="a1fe78ce-8d95-6c0b-cf93-0a42c662f727" href="a1fe78ce-8d95-6c0b-cf93-0a42c662f727.htm">Set<wbr />Current<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="5c29b16a-367e-c35b-fe77-d63b093b69bb" href="5c29b16a-367e-c35b-fe77-d63b093b69bb.htm">Set<wbr />Dll<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="1053d014-7015-6dab-42df-404866990ef8" href="1053d014-7015-6dab-42df-404866990ef8.htm">Set<wbr />End<wbr />Of<wbr />File</a>
+    </li>
+    <li>
+      <a id="bf581ca9-52ba-82f9-1015-00dad7b9f1e5" href="bf581ca9-52ba-82f9-1015-00dad7b9f1e5.htm">Set<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="20f4db06-a7b4-cc95-019f-194eb8a9be2a" href="20f4db06-a7b4-cc95-019f-194eb8a9be2a.htm">Set<wbr />File<wbr />Apis<wbr />To<wbr />ANSI</a>
+    </li>
+    <li>
+      <a id="49dd5a15-20e0-a709-9d90-ca080526818e" href="49dd5a15-20e0-a709-9d90-ca080526818e.htm">Set<wbr />File<wbr />Apis<wbr />To<wbr />OEM</a>
+    </li>
+    <li>
+      <a id="c9c3f622-e71c-adb5-e1ea-78af0985b723" href="c9c3f622-e71c-adb5-e1ea-78af0985b723.htm">Set<wbr />Handle<wbr />Information</a>
+    </li>
+    <li>
+      <a id="c5b4ddff-387a-c9f6-7072-64782bbfd14e" class="has-submenu" href="c5b4ddff-387a-c9f6-7072-64782bbfd14e.htm">
+        <span data-tocFile="../toc/ID0LI0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Last<wbr />Error</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3c1da0a6-b37d-cec0-0dc9-a67a8530a254" href="3c1da0a6-b37d-cec0-0dc9-a67a8530a254.htm">Set<wbr />Local<wbr />Time</a>
+    </li>
+    <li>
+      <a id="1a84bbb4-7467-8f8b-ea85-26b5b2482e9a" href="1a84bbb4-7467-8f8b-ea85-26b5b2482e9a.htm">Set<wbr />Priority<wbr />Class</a>
+    </li>
+    <li>
+      <a id="c231f82b-5275-bb27-4637-2fb958715089" href="c231f82b-5275-bb27-4637-2fb958715089.htm">Set<wbr />Process<wbr />Default<wbr />Cpu<wbr />Sets</a>
+    </li>
+    <li>
+      <a id="c26ec4a1-bb72-16cc-b80d-4dc1b3c97629" href="c26ec4a1-bb72-16cc-b80d-4dc1b3c97629.htm">Set<wbr />Process<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="0352adaf-b432-beb3-880b-9c2810342942" href="0352adaf-b432-beb3-880b-9c2810342942.htm">Set<wbr />Process<wbr />Priority<wbr />Boost</a>
+    </li>
+    <li>
+      <a id="fef7e4df-b10f-3e0a-19c6-6d6c8bffd483" href="fef7e4df-b10f-3e0a-19c6-6d6c8bffd483.htm">Set<wbr />Process<wbr />Working<wbr />Set<wbr />Size</a>
+    </li>
+    <li>
+      <a id="022bb2bc-3ee6-129d-ecc0-81a7f492493d" href="022bb2bc-3ee6-129d-ecc0-81a7f492493d.htm">Set<wbr />Process<wbr />Working<wbr />Set<wbr />Size<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="f408d61d-a4e1-df56-f29e-56e77d783195" href="f408d61d-a4e1-df56-f29e-56e77d783195.htm">Set<wbr />Std<wbr />Handle</a>
+    </li>
+    <li>
+      <a id="d27b9d8c-6a0e-6cc8-560c-71a99aaccb20" href="d27b9d8c-6a0e-6cc8-560c-71a99aaccb20.htm">Set<wbr />Std<wbr />Handle<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="8cd10cde-a73e-317c-b960-5468d7d99344" href="8cd10cde-a73e-317c-b960-5468d7d99344.htm">Set<wbr />System<wbr />Time</a>
+    </li>
+    <li>
+      <a id="44c0e441-3828-f66b-4deb-0eade3e02f00" href="44c0e441-3828-f66b-4deb-0eade3e02f00.htm">Set<wbr />Thread<wbr />Description</a>
+    </li>
+    <li>
+      <a id="db11b191-23c6-d453-fa08-afd00405013b" href="db11b191-23c6-d453-fa08-afd00405013b.htm">Set<wbr />Thread<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="dc1f9686-cae7-db0d-cc73-54ece969c80f" href="dc1f9686-cae7-db0d-cc73-54ece969c80f.htm">Set<wbr />Thread<wbr />Execution<wbr />State</a>
+    </li>
+    <li>
+      <a id="b556025c-febb-c588-45ce-8b6d48ea9f04" href="b556025c-febb-c588-45ce-8b6d48ea9f04.htm">Set<wbr />Thread<wbr />Preferred<wbr />UILanguages</a>
+    </li>
+    <li>
+      <a id="9a68bc59-3950-baab-caf3-1a51bc73fe15" href="9a68bc59-3950-baab-caf3-1a51bc73fe15.htm">Set<wbr />Thread<wbr />Priority</a>
+    </li>
+    <li>
+      <a id="3f7a187a-0691-a2fb-5156-d95bf0921077" href="3f7a187a-0691-a2fb-5156-d95bf0921077.htm">Set<wbr />Thread<wbr />Selected<wbr />Cpu<wbr />Sets</a>
+    </li>
+    <li>
+      <a id="a04b495a-8601-b26d-24bb-20c5c91396a3" href="a04b495a-8601-b26d-24bb-20c5c91396a3.htm">Set<wbr />Thread<wbr />Stack<wbr />Guarantee</a>
+    </li>
+    <li>
+      <a id="04489d66-b75f-11bd-54f9-12c82f2dd728" href="04489d66-b75f-11bd-54f9-12c82f2dd728.htm">Set<wbr />Thread<wbr />UILanguage</a>
+    </li>
+    <li>
+      <a id="a1361211-4872-6eb7-4185-7d5c3cf6c2ec" href="a1361211-4872-6eb7-4185-7d5c3cf6c2ec.htm">Set<wbr />Volume<wbr />Label</a>
+    </li>
+    <li>
+      <a id="ae179b67-a248-850f-cc83-e80b6046cfb5" href="ae179b67-a248-850f-cc83-e80b6046cfb5.htm">Set<wbr />Volume<wbr />Mount<wbr />Point</a>
+    </li>
+    <li>
+      <a id="3ae06d27-176d-0b1e-b371-66aaa03d05db" class="has-submenu" href="3ae06d27-176d-0b1e-b371-66aaa03d05db.htm">
+        <span data-tocFile="../toc/ID0AJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Sizeof<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e23c936a-daca-fc96-d990-010d2b95411d" href="e23c936a-daca-fc96-d990-010d2b95411d.htm">Sleep</a>
+    </li>
+    <li>
+      <a id="be60e0a7-b5b6-1fbd-846c-c6c1eb3adb21" href="be60e0a7-b5b6-1fbd-846c-c6c1eb3adb21.htm">Sleep<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="293deb1e-7f06-5b85-d21a-f36d554ac9c8" class="has-submenu" href="293deb1e-7f06-5b85-d21a-f36d554ac9c8.htm">
+        <span data-tocFile="../toc/ID0DJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Suspend<wbr />Thread<wbr />32</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d3886d71-95a0-1f39-2ece-10a7948f065e" class="has-submenu" href="d3886d71-95a0-1f39-2ece-10a7948f065e.htm">
+        <span data-tocFile="../toc/ID0EJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Suspend<wbr />Thread<wbr />64</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5de3b6ae-bfd6-b169-c0fc-98cd2f278f1c" href="5de3b6ae-bfd6-b169-c0fc-98cd2f278f1c.htm">Switch<wbr />To<wbr />Fiber</a>
+    </li>
+    <li>
+      <a id="f1f63192-c417-bfbd-1f93-0e6463e2e9ce" href="f1f63192-c417-bfbd-1f93-0e6463e2e9ce.htm">Switch<wbr />To<wbr />Thread</a>
+    </li>
+    <li>
+      <a id="b303c07d-ae27-97a1-6052-4f2d65efa135" href="b303c07d-ae27-97a1-6052-4f2d65efa135.htm">System<wbr />Time<wbr />To<wbr />File<wbr />Time</a>
+    </li>
+    <li>
+      <a id="4f318995-2348-1dea-8631-a2049723075a" href="4f318995-2348-1dea-8631-a2049723075a.htm">Terminate<wbr />Process</a>
+    </li>
+    <li>
+      <a id="681b6791-5384-3661-dcbc-78ebf8854089" class="has-submenu" href="681b6791-5384-3661-dcbc-78ebf8854089.htm">
+        <span data-tocFile="../toc/ID0JJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Terminate<wbr />Thread</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3da39b5d-7224-5dd7-37bd-dddc4ca2aab3" href="3da39b5d-7224-5dd7-37bd-dddc4ca2aab3.htm">Tls<wbr />Alloc</a>
+    </li>
+    <li>
+      <a id="c08fc5b8-f9ba-c8bd-ce10-51a3097e5046" href="c08fc5b8-f9ba-c8bd-ce10-51a3097e5046.htm">Tls<wbr />Free</a>
+    </li>
+    <li>
+      <a id="ef126c2e-6028-c0b0-5ee0-00569f7ebf3e" href="ef126c2e-6028-c0b0-5ee0-00569f7ebf3e.htm">Tls<wbr />Get<wbr />Value</a>
+    </li>
+    <li>
+      <a id="85c41949-a920-63db-3ef9-d5475ffb0b08" href="85c41949-a920-63db-3ef9-d5475ffb0b08.htm">Tls<wbr />Set<wbr />Value</a>
+    </li>
+    <li>
+      <a id="4babe188-7ae2-f696-107a-b0959d6cad54" href="4babe188-7ae2-f696-107a-b0959d6cad54.htm">Transmit<wbr />Comm<wbr />Char</a>
+    </li>
+    <li>
+      <a id="7b78e867-0fe8-4796-dfa3-ef3892f8caf9" href="7b78e867-0fe8-4796-dfa3-ef3892f8caf9.htm">Unregister<wbr />Application<wbr />Recovery<wbr />Callback</a>
+    </li>
+    <li>
+      <a id="120edeec-4251-cc5b-9399-2ac39f985659" href="120edeec-4251-cc5b-9399-2ac39f985659.htm">Unregister<wbr />Application<wbr />Restart</a>
+    </li>
+    <li>
+      <a id="cda1323b-c040-92ef-5752-202688c702e3" class="has-submenu" href="cda1323b-c040-92ef-5752-202688c702e3.htm">
+        <span data-tocFile="../toc/ID0RJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Update<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f31566aa-110b-4278-5d87-f2c6a730e9e3" class="has-submenu" href="f31566aa-110b-4278-5d87-f2c6a730e9e3.htm">
+        <span data-tocFile="../toc/ID0SJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Alloc</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6aeb49fe-3327-e3d9-5d4d-a984a1b15f39" class="has-submenu" href="6aeb49fe-3327-e3d9-5d4d-a984a1b15f39.htm">
+        <span data-tocFile="../toc/ID0TJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Alloc<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bcc938f7-8d56-463d-c0a9-a1a984d31b99" class="has-submenu" href="bcc938f7-8d56-463d-c0a9-a1a984d31b99.htm">
+        <span data-tocFile="../toc/ID0UJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Alloc<wbr />Ex<wbr />Numa</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="272b10bc-1b41-cd8f-e84f-072960f4e7fe" class="has-submenu" href="272b10bc-1b41-cd8f-e84f-072960f4e7fe.htm">
+        <span data-tocFile="../toc/ID0VJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Free</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ffd65931-563a-0d97-bac3-9d7658328fd2" class="has-submenu" href="ffd65931-563a-0d97-bac3-9d7658328fd2.htm">
+        <span data-tocFile="../toc/ID0WJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Free<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d5a1edba-1837-aa56-fc3d-b2d542978e93" class="has-submenu" href="d5a1edba-1837-aa56-fc3d-b2d542978e93.htm">
+        <span data-tocFile="../toc/ID0XJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Lock</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d12e6f57-ed2a-f528-63f2-f9d426862885" class="has-submenu" href="d12e6f57-ed2a-f528-63f2-f9d426862885.htm">
+        <span data-tocFile="../toc/ID0YJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Protect</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="839432da-c8c3-2057-8259-bc1951222337" class="has-submenu" href="839432da-c8c3-2057-8259-bc1951222337.htm">
+        <span data-tocFile="../toc/ID0ZJ0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Protect<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2177892-ba9c-7917-59b5-74e9efd75df5" class="has-submenu" href="b2177892-ba9c-7917-59b5-74e9efd75df5.htm">
+        <span data-tocFile="../toc/ID01J0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Query</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="861c1384-ff2d-366a-ff05-b59aeb6cb4a8" class="has-submenu" href="861c1384-ff2d-366a-ff05-b59aeb6cb4a8.htm">
+        <span data-tocFile="../toc/ID02J0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Query<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1ffe9e6a-b212-7081-2a8e-c1dbceb148f9" class="has-submenu" href="1ffe9e6a-b212-7081-2a8e-c1dbceb148f9.htm">
+        <span data-tocFile="../toc/ID03J0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Virtual<wbr />Unlock</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6475d693-8fb5-722b-b188-c5706b8bdcae" href="6475d693-8fb5-722b-b188-c5706b8bdcae.htm">Wait<wbr />For<wbr />Single<wbr />Object</a>
+    </li>
+    <li>
+      <a id="b99e79a7-05b7-1556-4aad-a67f55acd067" href="b99e79a7-05b7-1556-4aad-a67f55acd067.htm">Wait<wbr />For<wbr />Single<wbr />Object<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="eb62a8e1-d71c-5d98-1a20-b39755ccc635" href="eb62a8e1-d71c-5d98-1a20-b39755ccc635.htm">Wer<wbr />Get<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="e89762f0-6b4e-a088-ed5a-cc473604b1da" href="e89762f0-6b4e-a088-ed5a-cc473604b1da.htm">Wer<wbr />Register<wbr />Additional<wbr />Process</a>
+    </li>
+    <li>
+      <a id="8e54e92b-6372-fd7e-f29f-29c9e0055b86" href="8e54e92b-6372-fd7e-f29f-29c9e0055b86.htm">Wer<wbr />Register<wbr />App<wbr />Local<wbr />Dump</a>
+    </li>
+    <li>
+      <a id="06f32335-95d9-df87-5198-e25f67928aa9" href="06f32335-95d9-df87-5198-e25f67928aa9.htm">Wer<wbr />Register<wbr />Custom<wbr />Metadata</a>
+    </li>
+    <li>
+      <a id="9f13ac1b-0543-cce8-3200-efef4eb524c5" href="9f13ac1b-0543-cce8-3200-efef4eb524c5.htm">Wer<wbr />Register<wbr />Excluded<wbr />Memory<wbr />Block</a>
+    </li>
+    <li>
+      <a id="44417f5e-9195-358d-c9fd-0f65b7ac8982" href="44417f5e-9195-358d-c9fd-0f65b7ac8982.htm">Wer<wbr />Register<wbr />File</a>
+    </li>
+    <li>
+      <a id="c459ccfb-dae9-9522-3b3a-f2798e8a1cfe" href="c459ccfb-dae9-9522-3b3a-f2798e8a1cfe.htm">Wer<wbr />Register<wbr />Memory<wbr />Block</a>
+    </li>
+    <li>
+      <a id="a6596f53-03ea-29c6-b6b3-79688bd1824a" href="a6596f53-03ea-29c6-b6b3-79688bd1824a.htm">Wer<wbr />Register<wbr />Runtime<wbr />Exception<wbr />Module</a>
+    </li>
+    <li>
+      <a id="70c531fe-da0f-5c85-85a2-df37e1223fb5" href="70c531fe-da0f-5c85-85a2-df37e1223fb5.htm">Wer<wbr />Set<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="062cd222-dc08-8f13-b993-e40bf9ebf2a5" href="062cd222-dc08-8f13-b993-e40bf9ebf2a5.htm">Wer<wbr />Unregister<wbr />Additional<wbr />Process</a>
+    </li>
+    <li>
+      <a id="0222ca8e-1465-8d26-2cba-f9f761d6e777" href="0222ca8e-1465-8d26-2cba-f9f761d6e777.htm">Wer<wbr />Unregister<wbr />App<wbr />Local<wbr />Dump</a>
+    </li>
+    <li>
+      <a id="9732c9f7-d6b9-562e-c6b3-d2dc97d563ba" href="9732c9f7-d6b9-562e-c6b3-d2dc97d563ba.htm">Wer<wbr />Unregister<wbr />Custom<wbr />Metadata</a>
+    </li>
+    <li>
+      <a id="fd06fba0-6be2-0463-9e78-e12a8fddbb1e" href="fd06fba0-6be2-0463-9e78-e12a8fddbb1e.htm">Wer<wbr />Unregister<wbr />Excluded<wbr />Memory<wbr />Block</a>
+    </li>
+    <li>
+      <a id="4d875e03-2f8c-9638-7123-b851210c3a4b" href="4d875e03-2f8c-9638-7123-b851210c3a4b.htm">Wer<wbr />Unregister<wbr />File</a>
+    </li>
+    <li>
+      <a id="79b5188e-6176-9127-9449-eab1eaf158a1" href="79b5188e-6176-9127-9449-eab1eaf158a1.htm">Wer<wbr />Unregister<wbr />Memory<wbr />Block</a>
+    </li>
+    <li>
+      <a id="1a150c93-b2d8-491f-b40a-21e9307eb963" href="1a150c93-b2d8-491f-b40a-21e9307eb963.htm">Wer<wbr />Unregister<wbr />Runtime<wbr />Exception<wbr />Module</a>
+    </li>
+    <li>
+      <a id="5b70c3a4-30b9-8d7f-cbf3-610a0f7b9057" class="has-submenu" href="5b70c3a4-30b9-8d7f-cbf3-610a0f7b9057.htm">
+        <span data-tocFile="../toc/ID0PK0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Wide<wbr />Char<wbr />To<wbr />Multi<wbr />Byte</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="515a9b63-4037-a460-8c1b-76ffcad20864" href="515a9b63-4037-a460-8c1b-76ffcad20864.htm">Win<wbr />Exec</a>
+    </li>
+    <li>
+      <a id="22763c31-f310-20fe-2c12-c63a25c0ffbc" href="22763c31-f310-20fe-2c12-c63a25c0ffbc.htm">Wow<wbr />64Disable<wbr />Wow<wbr />64Fs<wbr />Redirection</a>
+    </li>
+    <li>
+      <a id="80a6687b-4213-6126-b5ae-b59f783ba558" href="80a6687b-4213-6126-b5ae-b59f783ba558.htm">Wow<wbr />64Enable<wbr />Wow<wbr />64Fs<wbr />Redirection</a>
+    </li>
+    <li>
+      <a id="956afdb8-6377-4fdb-4386-7714116b55de" href="956afdb8-6377-4fdb-4386-7714116b55de.htm">Wow<wbr />64Revert<wbr />Wow<wbr />64Fs<wbr />Redirection</a>
+    </li>
+    <li>
+      <a id="8739dc1c-8e23-0511-34b8-8bb72a556401" href="8739dc1c-8e23-0511-34b8-8bb72a556401.htm">Write<wbr />Console</a>
+    </li>
+    <li>
+      <a id="00f4e2ad-6730-69a6-4a3c-f40d47fa1106" href="00f4e2ad-6730-69a6-4a3c-f40d47fa1106.htm">Write<wbr />Console<wbr />Output</a>
+    </li>
+    <li>
+      <a id="c3328a1d-b9ee-ee6c-b0b7-6aeb943ac94c" href="c3328a1d-b9ee-ee6c-b0b7-6aeb943ac94c.htm">Write<wbr />Console<wbr />Output<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="367bea52-374c-e1b2-3974-abeaad4eb2c1" href="367bea52-374c-e1b2-3974-abeaad4eb2c1.htm">Write<wbr />Console<wbr />Output<wbr />Character</a>
+    </li>
+    <li>
+      <a id="d638719b-58bf-015e-656c-a176df217ac5" class="has-submenu" href="d638719b-58bf-015e-656c-a176df217ac5.htm">
+        <span data-tocFile="../toc/ID0YK0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="19d8e3a7-3eff-ec52-54d0-88f08946cff1" class="has-submenu" href="19d8e3a7-3eff-ec52-54d0-88f08946cff1.htm">
+        <span data-tocFile="../toc/ID0ZK0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />Process<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c73c0930-cab3-061e-a866-ab203d88e772" href="c73c0930-cab3-061e-a866-ab203d88e772.htm">WTSGet<wbr />Active<wbr />Console<wbr />Session<wbr />Id</a>
+    </li>
+    <li>
+      <a id="9fb34bd9-8541-e676-fec0-a703ec8fc6bd" class="has-submenu" href="9fb34bd9-8541-e676-fec0-a703ec8fc6bd.htm">
+        <span data-tocFile="../toc/ID02K0AJFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Zero<wbr />Memory</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

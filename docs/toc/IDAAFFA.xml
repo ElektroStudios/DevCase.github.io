@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="0c9cf0b2-e68c-4e8e-a29f-671d3e33008b.htm">Adv<wbr />Api<wbr />32</a>
+    </li>
+    <li>
+      <a href="678df720-3716-b901-209f-044995eff263.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="630e67da-4559-68e3-41e8-ceaf8855db5d" href="630e67da-4559-68e3-41e8-ceaf8855db5d.htm">Abort<wbr />System<wbr />Shutdown</a>
+    </li>
+    <li>
+      <a id="375462e0-d387-39f0-7538-71128002c0bc" href="375462e0-d387-39f0-7538-71128002c0bc.htm">Adjust<wbr />Token<wbr />Privileges</a>
+    </li>
+    <li>
+      <a id="2daf336b-e8c6-7906-692d-8c06f04488d4" href="2daf336b-e8c6-7906-692d-8c06f04488d4.htm">Create<wbr />Process<wbr />As<wbr />User</a>
+    </li>
+    <li>
+      <a id="45dbbe61-9b6b-f424-c6ac-ad5a30eff052" href="45dbbe61-9b6b-f424-c6ac-ad5a30eff052.htm">Create<wbr />Process<wbr />With<wbr />Logon</a>
+    </li>
+    <li>
+      <a id="76c7cbdd-6b10-ec22-40d5-82b730c1272f" href="76c7cbdd-6b10-ec22-40d5-82b730c1272f.htm">Create<wbr />Process<wbr />With<wbr />Token</a>
+    </li>
+    <li>
+      <a id="725876bf-4ef8-670f-2959-e525b11221ac" href="725876bf-4ef8-670f-2959-e525b11221ac.htm">Create<wbr />Well<wbr />Known<wbr />Sid</a>
+    </li>
+    <li>
+      <a id="fad22a42-44a7-a1e4-5a88-daba96cff963" href="fad22a42-44a7-a1e4-5a88-daba96cff963.htm">Duplicate<wbr />Token</a>
+    </li>
+    <li>
+      <a id="10ddf60f-2d7b-8832-eef6-1ef0b740a63c" href="10ddf60f-2d7b-8832-eef6-1ef0b740a63c.htm">Duplicate<wbr />Token<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="63c6ca30-772d-f78d-244d-64f8df1a3501" href="63c6ca30-772d-f78d-244d-64f8df1a3501.htm">Get<wbr />Kernel<wbr />Object<wbr />Security</a>
+    </li>
+    <li>
+      <a id="c41f0ab6-a234-9d34-7215-6a6ff9738752" href="c41f0ab6-a234-9d34-7215-6a6ff9738752.htm">Get<wbr />Token<wbr />Information</a>
+    </li>
+    <li>
+      <a id="d6ebc1e0-e586-dca4-43a3-98ad1be09cc2" href="d6ebc1e0-e586-dca4-43a3-98ad1be09cc2.htm">Impersonate<wbr />Anonymous<wbr />Token</a>
+    </li>
+    <li>
+      <a id="6e274c65-9862-5dda-a95f-e89991b8c8de" href="6e274c65-9862-5dda-a95f-e89991b8c8de.htm">Impersonate<wbr />Logged<wbr />On<wbr />User</a>
+    </li>
+    <li>
+      <a id="df9ed71d-50bb-e610-0977-89a1094d5e43" href="df9ed71d-50bb-e610-0977-89a1094d5e43.htm">Impersonate<wbr />Self</a>
+    </li>
+    <li>
+      <a id="861ace3f-57b0-55c8-d872-dd6f6054b304" href="861ace3f-57b0-55c8-d872-dd6f6054b304.htm">Initiate<wbr />Shutdown</a>
+    </li>
+    <li>
+      <a id="252ee4c7-ba55-6268-8413-e3705cc2ce99" href="252ee4c7-ba55-6268-8413-e3705cc2ce99.htm">Lookup<wbr />Privilege<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="c390f4fd-052d-10ed-0edc-c8ef9c55ed9f" href="c390f4fd-052d-10ed-0edc-c8ef9c55ed9f.htm">Lookup<wbr />Privilege<wbr />Name</a>
+    </li>
+    <li>
+      <a id="b5d7597b-a87f-cf36-0a8f-6a6ea73c366d" href="b5d7597b-a87f-cf36-0a8f-6a6ea73c366d.htm">Lookup<wbr />Privilege<wbr />Value</a>
+    </li>
+    <li>
+      <a id="07be698d-02a9-789a-2dca-9598fafc77ea" href="07be698d-02a9-789a-2dca-9598fafc77ea.htm">Lsa<wbr />Nt<wbr />Status<wbr />To<wbr />Win<wbr />Error</a>
+    </li>
+    <li>
+      <a id="634a8c6a-5705-5f43-2b0b-3a50033270a8" class="has-submenu" href="634a8c6a-5705-5f43-2b0b-3a50033270a8.htm">
+        <span data-tocFile="../toc/IDSAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />Process<wbr />Token</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="10152c90-7f5c-4667-7e99-291d5b25ac44" class="has-submenu" href="10152c90-7f5c-4667-7e99-291d5b25ac44.htm">
+        <span data-tocFile="../toc/IDTAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open<wbr />Thread<wbr />Token</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1ea6a14a-e616-f76e-e01e-09669fd9d4c9" href="1ea6a14a-e616-f76e-e01e-09669fd9d4c9.htm">Privilege<wbr />Check</a>
+    </li>
+    <li>
+      <a id="dce6f928-5071-1983-5ee1-c8f0736e6fcf" class="has-submenu" href="dce6f928-5071-1983-5ee1-c8f0736e6fcf.htm">
+        <span data-tocFile="../toc/IDVAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Close<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b77f41af-b929-3346-6dc2-abdd9dec6294" class="has-submenu" href="b77f41af-b929-3346-6dc2-abdd9dec6294.htm">
+        <span data-tocFile="../toc/IDWAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Load<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="69984133-3b06-aa21-3bae-0ff88dec45d0" class="has-submenu" href="69984133-3b06-aa21-3bae-0ff88dec45d0.htm">
+        <span data-tocFile="../toc/IDXAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Notify<wbr />Change<wbr />Key<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="eefc01f3-62a8-c79a-903e-36c00adeb0ec" class="has-submenu" href="eefc01f3-62a8-c79a-903e-36c00adeb0ec.htm">
+        <span data-tocFile="../toc/IDYAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Open<wbr />Key<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e0158f94-b9a8-9c8e-501e-c3bf5a1a2703" class="has-submenu" href="e0158f94-b9a8-9c8e-501e-c3bf5a1a2703.htm">
+        <span data-tocFile="../toc/IDZAAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Rename<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="09ed1834-3be7-fd10-a968-8aa7ab317fb1" class="has-submenu" href="09ed1834-3be7-fd10-a968-8aa7ab317fb1.htm">
+        <span data-tocFile="../toc/ID1AAFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reg<wbr />Un<wbr />Load<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e6514a97-3d05-6ed7-9dc1-6bb1d007d175" href="e6514a97-3d05-6ed7-9dc1-6bb1d007d175.htm">Revert<wbr />To<wbr />Self</a>
+    </li>
+    <li>
+      <a id="ef35a2c2-3da5-8206-40d8-77fdb36d6e6d" href="ef35a2c2-3da5-8206-40d8-77fdb36d6e6d.htm">Set<wbr />Kernel<wbr />Object<wbr />Security</a>
+    </li>
+    <li>
+      <a id="22371e08-dc55-e731-5ec9-753c290f994d" href="22371e08-dc55-e731-5ec9-753c290f994d.htm">Set<wbr />Thread<wbr />Token</a>
+    </li>
+  </tocItems>
+</toc>

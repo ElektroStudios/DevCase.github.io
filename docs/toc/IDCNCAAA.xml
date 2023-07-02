@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="f860c025-2860-715e-a8ad-04ec63e06ad1.htm">Form<wbr />Dragger</a>
+    </li>
+    <li>
+      <a href="e4fd2c25-0570-1f56-7440-154d76624551.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2d9c5a20-c0a2-940c-6275-aa3047c7df76" href="2d9c5a20-c0a2-940c-6275-aa3047c7df76.htm">Add<wbr />Control</a>
+    </li>
+    <li>
+      <a id="a1fd4516-fd83-2fb4-1022-ac17e38c41d4" href="a1fd4516-fd83-2fb4-1022-ac17e38c41d4.htm">Add<wbr />Controls</a>
+    </li>
+    <li>
+      <a id="f3aae02d-72c3-22c2-ed07-8121c575020a" href="f3aae02d-72c3-22c2-ed07-8121c575020a.htm">Add<wbr />Form</a>
+    </li>
+    <li>
+      <a id="8f0ca97f-466c-7d96-3db6-df2535c0130d" href="8f0ca97f-466c-7d96-3db6-df2535c0130d.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="75fd303d-f099-3a66-5fda-be046c7067de" class="has-submenu" href="75fd303d-f099-3a66-5fda-be046c7067de.htm">
+        <span data-tocFile="../toc/IDECNCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Form<wbr />Drag<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e16bd34d-4d04-4de9-e015-527e4f25774f" href="e16bd34d-4d04-4de9-e015-527e4f25774f.htm">Remove<wbr />Control</a>
+    </li>
+    <li>
+      <a id="9fc19dc8-da7c-05ff-b46e-00c968637e11" href="9fc19dc8-da7c-05ff-b46e-00c968637e11.htm">Remove<wbr />Controls</a>
+    </li>
+    <li>
+      <a id="6392c88f-61b5-fe84-5213-915c592b9fa8" href="6392c88f-61b5-fe84-5213-915c592b9fa8.htm">Remove<wbr />Form</a>
+    </li>
+  </tocItems>
+</toc>

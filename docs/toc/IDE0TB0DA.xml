@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="fbb0dae8-e75f-5910-6c4d-ceba82caf3cc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Tag<wbr />Lib<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="d691a064-6b94-16d7-2390-bf68306be3f9.htm">MP<wbr />3File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d6c72f56-2232-cb30-7abc-8bce0559d3af" class="has-submenu" href="d6c72f56-2232-cb30-7abc-8bce0559d3af.htm">
+        <span data-tocFile="../toc/IDAE0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c8d3b5dd-a51d-03c4-aa5c-ce9379d0aff9" class="has-submenu" href="c8d3b5dd-a51d-03c4-aa5c-ce9379d0aff9.htm">
+        <span data-tocFile="../toc/IDBE0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e6cc3ba0-ecda-9578-8608-566040fb3d05" class="has-submenu" href="e6cc3ba0-ecda-9578-8608-566040fb3d05.htm">
+        <span data-tocFile="../toc/IDCE0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

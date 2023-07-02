@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+    <li>
+      <a href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">Gmail<wbr />Client</a>
+    </li>
+    <li>
+      <a href="29877e0d-86b4-06f9-e0b0-d116d83bd0c6.htm">Methods</a>
+    </li>
+    <li>
+      <a href="10e831d9-c51c-3309-ea06-236bee46e2c4.htm">Send<wbr />Message<wbr />Text</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f7d47fc5-bdac-6fa0-1660-1a4bf5889881" href="f7d47fc5-bdac-6fa0-1660-1a4bf5889881.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address)</a>
+    </li>
+    <li>
+      <a id="1d56c977-37d7-8145-1f0c-22aa5ce68f8e" href="1d56c977-37d7-8145-1f0c-22aa5ce68f8e.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="309f1323-7fb6-76fa-3f2e-1ece5d0e2ace" href="309f1323-7fb6-76fa-3f2e-1ece5d0e2ace.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="1b86531a-4375-60bf-437b-1861df19befd" href="1b86531a-4375-60bf-437b-1861df19befd.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String[])</a>
+    </li>
+    <li>
+      <a id="05e1c59f-16f1-1d0b-24b7-3d5fb6a41dc3" href="05e1c59f-16f1-1d0b-24b7-3d5fb6a41dc3.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="e0443066-35a1-699f-d044-fbb63d781a83" href="e0443066-35a1-699f-d044-fbb63d781a83.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address, Attachment[])</a>
+    </li>
+    <li>
+      <a id="4db5d772-cf8f-8559-55de-7355c7ee299b" href="4db5d772-cf8f-8559-55de-7355c7ee299b.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address<wbr />Collection, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="18a5147a-542c-88b5-4fa0-a951fe67eb11" href="18a5147a-542c-88b5-4fa0-a951fe67eb11.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, Mail<wbr />Address<wbr />Collection, Attachment[])</a>
+    </li>
+    <li>
+      <a id="145f9326-cb71-a6f6-b5e4-f2894a947c01" href="145f9326-cb71-a6f6-b5e4-f2894a947c01.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="4b590ea9-e08f-0f4e-0af8-ee5619f22510" href="4b590ea9-e08f-0f4e-0af8-ee5619f22510.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String, Attachment[])</a>
+    </li>
+    <li>
+      <a id="6414ecfc-e3ee-d795-5afb-117b9d97786d" href="6414ecfc-e3ee-d795-5afb-117b9d97786d.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String[], ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="1addbdcd-6e5b-ae9a-36fd-a001c3f5c823" href="1addbdcd-6e5b-ae9a-36fd-a001c3f5c823.htm">Send<wbr />Message<wbr />Text(<wbr />String, String, String[], Attachment[])</a>
+    </li>
+  </tocItems>
+</toc>

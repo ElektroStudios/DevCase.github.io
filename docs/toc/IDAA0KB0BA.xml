@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="9ed3c304-a5a4-ec4f-9f52-291d0882c469.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Graphics<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="0980c506-79f7-be20-4d7f-0d7e4cf6ae34.htm">Graphics<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="ec023bb1-f066-a5d3-f80f-9cfc8c309798.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f210f9cc-76ea-641d-6f35-6ff2adfcf75d" class="has-submenu" href="f210f9cc-76ea-641d-6f35-6ff2adfcf75d.htm">
+        <span data-tocFile="../toc/IDAAA0KB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Draw<wbr />Cross</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="86ae26c2-c36a-d0e5-9491-d4236ff1619a" href="86ae26c2-c36a-d0e5-9491-d4236ff1619a.htm">Draw<wbr />Rounded<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="f04ed9db-07de-ae29-7845-a8c5e901ab10" class="has-submenu" href="f04ed9db-07de-ae29-7845-a8c5e901ab10.htm">
+        <span data-tocFile="../toc/IDCAA0KB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Draw<wbr />Triangle<wbr />2D</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f16aac06-8a18-c28e-3fcd-8b2531da6d07" href="f16aac06-8a18-c28e-3fcd-8b2531da6d07.htm">Fill<wbr />Rounded<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="69151fdb-3c21-0786-1dce-e19e0ca70deb" class="has-submenu" href="69151fdb-3c21-0786-1dce-e19e0ca70deb.htm">
+        <span data-tocFile="../toc/IDEAA0KB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fill<wbr />Triangle<wbr />2D</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ba7b1233-4496-a213-2b0c-3e345e5e77b5.htm">Write<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="08b71dc1-b117-631b-6d4a-85081982c4ae" href="08b71dc1-b117-631b-6d4a-85081982c4ae.htm">Write<wbr />String(<wbr />Memory<wbr />Mapped<wbr />File, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="cca0d976-ce8f-6d49-9fd0-d12c6fbb2f29" href="cca0d976-ce8f-6d49-9fd0-d12c6fbb2f29.htm">Write<wbr />String(<wbr />String, String, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

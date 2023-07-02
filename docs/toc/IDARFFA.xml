@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="6d29ad78-60df-2d31-b426-3dcfcd261aaa.htm">Setup<wbr />Api</a>
+    </li>
+    <li>
+      <a href="a62a7e92-8bbb-2b0d-687d-f2513c1befde.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="14305123-670d-4dd7-37c6-3ba3080b1f38" href="14305123-670d-4dd7-37c6-3ba3080b1f38.htm">Setup<wbr />Di<wbr />Destroy<wbr />Device<wbr />Info<wbr />List</a>
+    </li>
+    <li>
+      <a id="ccfa63c9-b22b-e1d3-1208-260ba3186bdd" href="ccfa63c9-b22b-e1d3-1208-260ba3186bdd.htm">Setup<wbr />Di<wbr />Enum<wbr />Device<wbr />Info</a>
+    </li>
+    <li>
+      <a id="09bb485d-db3a-b478-3a1e-27e1b8d759a4" href="09bb485d-db3a-b478-3a1e-27e1b8d759a4.htm">Setup<wbr />Di<wbr />Get<wbr />Class<wbr />Description</a>
+    </li>
+    <li>
+      <a id="531c980e-9e94-9c0a-af3c-0c4f339f6d3e" href="531c980e-9e94-9c0a-af3c-0c4f339f6d3e.htm">Setup<wbr />Di<wbr />Get<wbr />Class<wbr />Devs</a>
+    </li>
+    <li>
+      <a id="7bf12932-a322-c0ea-808c-302f0300b9ef" class="has-submenu" href="7bf12932-a322-c0ea-808c-302f0300b9ef.htm">
+        <span data-tocFile="../toc/IDEARFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Setup<wbr />Di<wbr />Get<wbr />Device<wbr />Property</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2e9c778a-8e74-5801-005c-38a800c37792" href="2e9c778a-8e74-5801-005c-38a800c37792.htm">Setup<wbr />Di<wbr />Load<wbr />Class<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="5a8947d4-80ca-036a-aa84-e5a1da85fd23" href="5a8947d4-80ca-036a-aa84-e5a1da85fd23.htm">Setup<wbr />Di<wbr />Load<wbr />Device<wbr />Icon</a>
+    </li>
+  </tocItems>
+</toc>

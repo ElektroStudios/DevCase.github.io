@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9fc5916c-d6b0-26f6-5ec9-fa509fcb31f9.htm">Util<wbr />Directory</a>
+    </li>
+    <li>
+      <a href="f8e3af76-556f-b30f-3556-4875695a1be5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8a869a58-5c0e-6fda-a881-ca3de74c7479.htm">Create<wbr />Symbolic<wbr />Link</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="aaac3dd1-fb67-a936-3c2a-2e0cdc1debef" href="aaac3dd1-fb67-a936-3c2a-2e0cdc1debef.htm">Create<wbr />Symbolic<wbr />Link(<wbr />Directory<wbr />Info, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="51c1a616-7643-06e6-0f00-cb6039f7303a" href="51c1a616-7643-06e6-0f00-cb6039f7303a.htm">Create<wbr />Symbolic<wbr />Link(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="c362ecba-466d-a3f5-5808-b5f5d7cdd217" href="c362ecba-466d-a3f5-5808-b5f5d7cdd217.htm">Create<wbr />Symbolic<wbr />Link(<wbr />String, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="7c4e700e-65d5-8d20-e1d9-c247aece1c48" href="7c4e700e-65d5-8d20-e1d9-c247aece1c48.htm">Create<wbr />Symbolic<wbr />Link(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+</toc>

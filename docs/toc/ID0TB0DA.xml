@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="fbb0dae8-e75f-5910-6c4d-ceba82caf3cc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Tag<wbr />Lib<wbr />Sharp</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7710b9d9-e904-beb4-d72b-1058bffb2bee" class="has-submenu" href="7710b9d9-e904-beb4-d72b-1058bffb2bee.htm">
+        <span data-tocFile="../toc/IDA0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>APEv<wbr />2Tag</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5b563df7-940a-02d2-85b8-071dc7f6c766" class="has-submenu" href="5b563df7-940a-02d2-85b8-071dc7f6c766.htm">
+        <span data-tocFile="../toc/IDB0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ID<wbr />3v<wbr />1Tag</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e5cf97f5-a88d-34eb-da9e-3d91c1dd0f3c" class="has-submenu" href="e5cf97f5-a88d-34eb-da9e-3d91c1dd0f3c.htm">
+        <span data-tocFile="../toc/IDC0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>ID<wbr />3v<wbr />2Tag</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="93922ee1-e70d-179f-a803-d2c4414d7ea8" class="has-submenu" href="93922ee1-e70d-179f-a803-d2c4414d7ea8.htm">
+        <span data-tocFile="../toc/IDD0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Lyrics<wbr />3Tag</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d691a064-6b94-16d7-2390-bf68306be3f9" class="has-submenu" href="d691a064-6b94-16d7-2390-bf68306be3f9.htm">
+        <span data-tocFile="../toc/IDE0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>MP<wbr />3File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7c11a12e-26fd-7b86-d689-92f9fb638511" class="has-submenu" href="7c11a12e-26fd-7b86-d689-92f9fb638511.htm">
+        <span data-tocFile="../toc/IDF0TB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>MP<wbr />3Tags</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4b1e8cd3-3f27-993e-3906-7cd9272ca6c0" href="4b1e8cd3-3f27-993e-3906-7cd9272ca6c0.htm">MP<wbr />3Tag<wbr />Types</a>
+    </li>
+  </tocItems>
+</toc>

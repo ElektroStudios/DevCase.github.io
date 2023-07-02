@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="09599c05-84b5-6ffe-805d-f5b73a385b42.htm">Perform<wbr />Action</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7d81f61e-a176-0ecd-db5a-1fe20662a1c8" href="7d81f61e-a176-0ecd-db5a-1fe20662a1c8.htm">Perform<wbr />Action(<wbr />Control, Delegate)</a>
+    </li>
+    <li>
+      <a id="50d14b1d-7dcd-b759-95ed-6b9c96468609" href="50d14b1d-7dcd-b759-95ed-6b9c96468609.htm">Perform<wbr />Action&lt;T&gt;(<wbr />Delegate, String)</a>
+    </li>
+    <li>
+      <a id="ff942f53-303a-ddda-b1d7-4bf8614aa123" href="ff942f53-303a-ddda-b1d7-4bf8614aa123.htm">Perform<wbr />Action(<wbr />IEnumerable&lt;Control&gt;, Delegate)</a>
+    </li>
+    <li>
+      <a id="b10d7985-5aeb-fac4-0ae0-5ac51af57aed" href="b10d7985-5aeb-fac4-0ae0-5ac51af57aed.htm">Perform<wbr />Action&lt;T&gt;(<wbr />Control, Delegate, String)</a>
+    </li>
+    <li>
+      <a id="966cd07f-403f-4469-5c23-c0e0eb7b4e8f" href="966cd07f-403f-4469-5c23-c0e0eb7b4e8f.htm">Perform<wbr />Action(<wbr />Control.<wbr />Control<wbr />Collection, Delegate, String)</a>
+    </li>
+    <li>
+      <a id="eb615627-57f9-adc0-c83f-5bda6f10c7c9" href="eb615627-57f9-adc0-c83f-5bda6f10c7c9.htm">Perform<wbr />Action&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, Delegate, String)</a>
+    </li>
+  </tocItems>
+</toc>

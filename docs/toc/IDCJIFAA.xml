@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="a688a1d7-b311-1129-39da-b3738f218853.htm">File<wbr />Operation</a>
+    </li>
+    <li>
+      <a href="8f5c23c5-5680-d46b-0ca6-748b04b11226.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2d04d374-06f1-be16-3ccc-7ee34e96532b" href="2d04d374-06f1-be16-3ccc-7ee34e96532b.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="51521272-98da-2402-26f1-ac464778e59d" href="51521272-98da-2402-26f1-ac464778e59d.htm">Is<wbr />Operation<wbr />Aborted</a>
+    </li>
+    <li>
+      <a id="49784605-b5c3-e3dc-9c0c-8bca4012d7f0" href="49784605-b5c3-e3dc-9c0c-8bca4012d7f0.htm">Perform<wbr />Operations</a>
+    </li>
+    <li>
+      <a id="7aae9b32-d4d2-602f-67eb-70843e791f53" class="has-submenu" href="7aae9b32-d4d2-602f-67eb-70843e791f53.htm">
+        <span data-tocFile="../toc/IDDCJIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Queue<wbr />Copy</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fef52e8e-ea15-7387-d57b-added78719c7" class="has-submenu" href="fef52e8e-ea15-7387-d57b-added78719c7.htm">
+        <span data-tocFile="../toc/IDECJIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Queue<wbr />Create</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="03780927-ac89-aeab-15bc-65ec58175992" class="has-submenu" href="03780927-ac89-aeab-15bc-65ec58175992.htm">
+        <span data-tocFile="../toc/IDFCJIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Queue<wbr />Delete</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a7f2c9b9-0be6-7dd6-69f1-36420fdd5af1" class="has-submenu" href="a7f2c9b9-0be6-7dd6-69f1-36420fdd5af1.htm">
+        <span data-tocFile="../toc/IDGCJIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Queue<wbr />Move</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="22fb719e-b6aa-bbe2-78af-6e256fe02a73" class="has-submenu" href="22fb719e-b6aa-bbe2-78af-6e256fe02a73.htm">
+        <span data-tocFile="../toc/IDHCJIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Queue<wbr />Rename</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

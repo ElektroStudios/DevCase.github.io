@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+    <li>
+      <a href="45ea5a80-dadd-e15d-c11a-9b4511f88836.htm">Slice<wbr />Window<wbr />Position</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ac44feaf-01fa-fb75-c29c-e886014f7803" href="ac44feaf-01fa-fb75-c29c-e886014f7803.htm">Slice<wbr />Window<wbr />Position(<wbr />Int<wbr />Ptr, Point)</a>
+    </li>
+    <li>
+      <a id="48569533-974c-48df-d8e4-bfa08c097ad0" href="48569533-974c-48df-d8e4-bfa08c097ad0.htm">Slice<wbr />Window<wbr />Position(<wbr />IWin<wbr />32Window, Point)</a>
+    </li>
+    <li>
+      <a id="f8db0883-d883-c42e-285d-2bf3721d43b5" href="f8db0883-d883-c42e-285d-2bf3721d43b5.htm">Slice<wbr />Window<wbr />Position(<wbr />Process, Point)</a>
+    </li>
+  </tocItems>
+</toc>

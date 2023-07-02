@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+    </li>
+    <li>
+      <a href="1e894792-2347-5da0-0143-05d1b1a87f2e.htm">Dev<wbr />Background<wbr />Worker</a>
+    </li>
+    <li>
+      <a href="10262da0-3196-8d1d-d5b3-2e7da1ad2c08.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="817500e9-7dd1-cee3-0f6e-5ad12473df6f" href="817500e9-7dd1-cee3-0f6e-5ad12473df6f.htm">Cancel</a>
+    </li>
+    <li>
+      <a id="6ae0f8c6-e1d0-d315-1b7e-75c7216e4960" href="6ae0f8c6-e1d0-d315-1b7e-75c7216e4960.htm">Cancel<wbr />Async</a>
+    </li>
+    <li>
+      <a id="6691292a-0c3a-3de9-b3c4-744d99c74978" href="6691292a-0c3a-3de9-b3c4-744d99c74978.htm">Pause</a>
+    </li>
+    <li>
+      <a id="9692a993-00f0-9092-d67b-9ae1600d3845" href="9692a993-00f0-9092-d67b-9ae1600d3845.htm">Request<wbr />Pause</a>
+    </li>
+    <li>
+      <a id="7342d827-a861-d735-ea89-635f00585e20" href="7342d827-a861-d735-ea89-635f00585e20.htm">Resume</a>
+    </li>
+    <li>
+      <a id="d858e6f0-998f-840e-8034-4aa4cac229a7" href="d858e6f0-998f-840e-8034-4aa4cac229a7.htm">Run</a>
+    </li>
+    <li>
+      <a id="89b83bf4-2acd-dc86-606e-0ea29bda5df0" href="89b83bf4-2acd-dc86-606e-0ea29bda5df0.htm">Run<wbr />Async</a>
+    </li>
+  </tocItems>
+</toc>

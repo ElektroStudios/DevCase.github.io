@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="6c3b2e39-edb2-c1e8-5108-c5e5863c7fd4.htm">Util<wbr />Keyboard</a>
+    </li>
+    <li>
+      <a href="b0e31f1d-41cd-713f-8699-74084217c501.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fe8f17df-89f7-326a-2dfa-b1daf23bf506.htm">Get<wbr />Keyboard<wbr />Layout</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ae4e0b80-c47e-5ec6-342f-e161aeb37afb" href="ae4e0b80-c47e-5ec6-342f-e161aeb37afb.htm">Get<wbr />Keyboard<wbr />Layout(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="a41f4e20-cdb9-f8a3-fadf-8b88226ff140" href="a41f4e20-cdb9-f8a3-fadf-8b88226ff140.htm">Get<wbr />Keyboard<wbr />Layout(<wbr />Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

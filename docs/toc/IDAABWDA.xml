@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="c5719154-8242-bd99-d566-a8f68c543474.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Drive</a>
+    </li>
+    <li>
+      <a href="2915553e-d646-86c9-e377-527cf3e86bae.htm">Drive<wbr />Client</a>
+    </li>
+    <li>
+      <a href="7db508a5-302a-dca1-1ff4-86cc9fd0db16.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="089ae6ee-3ba5-6708-ef39-2daeeed346b2" href="089ae6ee-3ba5-6708-ef39-2daeeed346b2.htm">Drive<wbr />Client(<wbr />String, Mail<wbr />Address, Drive<wbr />Scopes)</a>
+    </li>
+    <li>
+      <a id="3c61cc7c-6081-5732-c95e-cf6171e291ca" href="3c61cc7c-6081-5732-c95e-cf6171e291ca.htm">Drive<wbr />Client(<wbr />String, String, Drive<wbr />Scopes)</a>
+    </li>
+  </tocItems>
+</toc>

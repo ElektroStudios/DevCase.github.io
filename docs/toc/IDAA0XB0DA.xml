@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="623c4745-8267-24ac-21de-0678f5d4922b.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Win<wbr />Amp</a>
+    </li>
+    <li>
+      <a href="fe433a8c-6091-0c27-c000-818e648413cf.htm">Util<wbr />Win<wbr />Amp</a>
+    </li>
+    <li>
+      <a href="d8e70900-31b0-cd6d-dc36-0c10925652d1.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4c418071-f106-f8b4-511b-66bc82be3edc" href="4c418071-f106-f8b4-511b-66bc82be3edc.htm">Current<wbr />Playback<wbr />Position</a>
+    </li>
+    <li>
+      <a id="7235623c-514f-78f8-2a1a-e84fcd858b85" href="7235623c-514f-78f8-2a1a-e84fcd858b85.htm">Current<wbr />Playback<wbr />State</a>
+    </li>
+    <li>
+      <a id="7ba0977b-5801-47b8-0f1d-b3de689f2fcb" href="7ba0977b-5801-47b8-0f1d-b3de689f2fcb.htm">Current<wbr />Song<wbr />Filename</a>
+    </li>
+    <li>
+      <a id="7b2a853e-b978-cd73-5ed2-2cbb0a33e63f" href="7b2a853e-b978-cd73-5ed2-2cbb0a33e63f.htm">Current<wbr />Song<wbr />Title</a>
+    </li>
+    <li>
+      <a id="9758dbcf-ce21-ea03-c791-405e4576e3c4" href="9758dbcf-ce21-ea03-c791-405e4576e3c4.htm">Current<wbr />Track<wbr />Bitrate</a>
+    </li>
+    <li>
+      <a id="425515c7-d766-8131-0794-3d3580747539" href="425515c7-d766-8131-0794-3d3580747539.htm">Current<wbr />Track<wbr />Channels</a>
+    </li>
+    <li>
+      <a id="7ca087d6-03b8-46e3-8f30-c47c8d360d6d" href="7ca087d6-03b8-46e3-8f30-c47c8d360d6d.htm">Current<wbr />Track<wbr />Length</a>
+    </li>
+    <li>
+      <a id="e9584830-2b6a-0378-42e6-346a625023cf" href="e9584830-2b6a-0378-42e6-346a625023cf.htm">Current<wbr />Track<wbr />Sample<wbr />Rate</a>
+    </li>
+    <li>
+      <a id="c0b6c880-a207-0e74-8770-d37da611efb2" href="c0b6c880-a207-0e74-8770-d37da611efb2.htm">Current<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="b1e3a4f9-f41c-4439-cc26-aa16fc15013e" href="b1e3a4f9-f41c-4439-cc26-aa16fc15013e.htm">Executable<wbr />Path</a>
+    </li>
+    <li>
+      <a id="97964c62-75d7-a2b8-5098-e8b3c84797cb" href="97964c62-75d7-a2b8-5098-e8b3c84797cb.htm">Handle</a>
+    </li>
+    <li>
+      <a id="ea1377a7-ccd0-b980-6e6d-39659fec70b5" href="ea1377a7-ccd0-b980-6e6d-39659fec70b5.htm">Is<wbr />Running</a>
+    </li>
+  </tocItems>
+</toc>

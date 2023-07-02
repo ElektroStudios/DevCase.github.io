@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="fb69583e-032c-ed3e-3d20-20d640083a87.htm">Website<wbr />Login<wbr />Response</a>
+    </li>
+    <li>
+      <a href="be03fdcb-fdc8-1004-6119-e79511dffbc5.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a206c5fc-3238-8ddc-b143-9ae4f3a8bd02" href="a206c5fc-3238-8ddc-b143-9ae4f3a8bd02.htm">Attempt</a>
+    </li>
+    <li>
+      <a id="72bc48b2-e903-9414-03ea-f4e7b7ff6bd5" class="has-submenu" href="72bc48b2-e903-9414-03ea-f4e7b7ff6bd5.htm">
+        <span data-tocFile="../toc/IDBBJAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Response</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="675f6c6d-5a23-6117-84a7-d118660e3482" href="675f6c6d-5a23-6117-84a7-d118660e3482.htm">Response<wbr />Cookies</a>
+    </li>
+    <li>
+      <a id="31995fd2-fcbd-9827-c1af-22be9526ddbb" href="31995fd2-fcbd-9827-c1af-22be9526ddbb.htm">Success</a>
+    </li>
+  </tocItems>
+</toc>

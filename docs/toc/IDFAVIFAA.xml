@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9fc5916c-d6b0-26f6-5ec9-fa509fcb31f9.htm">Util<wbr />Directory</a>
+    </li>
+    <li>
+      <a href="f8e3af76-556f-b30f-3556-4875695a1be5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1d986f41-f4d5-6e13-52c7-0c87372ebbff.htm">Get<wbr />Dirs</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ffe3c9a0-857f-3bb9-512a-872b5a863606" href="ffe3c9a0-857f-3bb9-512a-872b5a863606.htm">Get<wbr />Dirs(<wbr />Directory<wbr />Info, Search<wbr />Option, IEnumerable&lt;String&gt;, IEnumerable&lt;String&gt;, Boolean, Boolean)</a>
+    </li>
+    <li>
+      <a id="4abf8d6f-80a9-a8dc-9677-7dd84602b3bd" href="4abf8d6f-80a9-a8dc-9677-7dd84602b3bd.htm">Get<wbr />Dirs(<wbr />String, Search<wbr />Option, IEnumerable&lt;String&gt;, IEnumerable&lt;String&gt;, Boolean, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

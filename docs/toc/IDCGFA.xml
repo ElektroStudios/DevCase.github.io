@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="2a0660d9-4e1c-8fc7-cb1a-47378d4c1d05.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Safe<wbr />Handles</a>
+    </li>
+    <li>
+      <a href="d7a1a119-456e-b0bb-5aef-26b2c90f0a9d.htm">Safe<wbr />Find<wbr />Handle</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3e7b2e38-8c3b-6275-acce-509bb19ff443" class="has-submenu" href="3e7b2e38-8c3b-6275-acce-509bb19ff443.htm">
+        <span data-tocFile="../toc/IDACGFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="585eccdd-d187-17eb-4ee9-bf7dab305505" href="585eccdd-d187-17eb-4ee9-bf7dab305505.htm">Properties</a>
+    </li>
+    <li>
+      <a id="322d02f4-3af2-81a1-8237-d1dd7add2c5a" href="322d02f4-3af2-81a1-8237-d1dd7add2c5a.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

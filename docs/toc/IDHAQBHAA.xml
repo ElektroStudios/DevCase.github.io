@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="35dc9a33-9bde-f48d-1885-85c1e965928f.htm">Util<wbr />Drawing</a>
+    </li>
+    <li>
+      <a href="19f63293-2ee5-2650-b1d2-1f604014fb67.htm">Methods</a>
+    </li>
+    <li>
+      <a href="69e2f60c-c448-6a5c-d515-08007bd41e52.htm">Get<wbr />Random<wbr />Rectangle</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bf9b9225-a7b1-858c-5386-fcf0e50f0fe0" href="bf9b9225-a7b1-858c-5386-fcf0e50f0fe0.htm">Get<wbr />Random<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="81fa3b50-79d2-dc41-b6c6-d5df93879800" href="81fa3b50-79d2-dc41-b6c6-d5df93879800.htm">Get<wbr />Random<wbr />Rectangle(<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="7d9178a0-57db-6080-4f8f-d6c893953e48" href="7d9178a0-57db-6080-4f8f-d6c893953e48.htm">Get<wbr />Random<wbr />Rectangle(<wbr />Size)</a>
+    </li>
+    <li>
+      <a id="a84fc04d-867c-d290-4219-51ba212feca2" href="a84fc04d-867c-d290-4219-51ba212feca2.htm">Get<wbr />Random<wbr />Rectangle(<wbr />Point, Size)</a>
+    </li>
+    <li>
+      <a id="288b15c1-0848-6c4a-64d4-0ad147558aab" href="288b15c1-0848-6c4a-64d4-0ad147558aab.htm">Get<wbr />Random<wbr />Rectangle(<wbr />Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="ff734583-b54a-9246-ceee-0513d542fcf6" href="ff734583-b54a-9246-ceee-0513d542fcf6.htm">Get<wbr />Random<wbr />Rectangle(<wbr />Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

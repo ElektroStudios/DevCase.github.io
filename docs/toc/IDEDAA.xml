@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="6987b3aa-7d67-3386-ac00-a5cb5894338f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Generation</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3ae43097-4659-d9f4-b4e4-f3bd8f2a6493" class="has-submenu" href="3ae43097-4659-d9f4-b4e4-f3bd8f2a6493.htm">
+        <span data-tocFile="../toc/IDAEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2d4d9c50-2757-6653-6d37-3d69e622f1d0" class="has-submenu" href="2d4d9c50-2757-6653-6d37-3d69e622f1d0.htm">
+        <span data-tocFile="../toc/IDBEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0c75ccae-e994-7484-0c8e-a65e411f711c" class="has-submenu" href="0c75ccae-e994-7484-0c8e-a65e411f711c.htm">
+        <span data-tocFile="../toc/IDCEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />CSharp</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="827fa32a-537d-86ad-b671-dc5e9bf295d8" class="has-submenu" href="827fa32a-537d-86ad-b671-dc5e9bf295d8.htm">
+        <span data-tocFile="../toc/IDDEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />DOS</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c18fb4b1-8607-e1fd-cc7b-1603548d2f4b" class="has-submenu" href="c18fb4b1-8607-e1fd-cc7b-1603548d2f4b.htm">
+        <span data-tocFile="../toc/IDEEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Java<wbr />Script</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8fd68d28-76b4-bb1a-c495-b23d039fcf60" class="has-submenu" href="8fd68d28-76b4-bb1a-c495-b23d039fcf60.htm">
+        <span data-tocFile="../toc/IDFEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Power<wbr />Shell</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0bd81d9d-f5f7-2ffc-3eab-c09d203d146b" class="has-submenu" href="0bd81d9d-f5f7-2ffc-3eab-c09d203d146b.htm">
+        <span data-tocFile="../toc/IDGEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Python</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2a0cffeb-c769-6913-05ad-9195b4c1c7f0" class="has-submenu" href="2a0cffeb-c769-6913-05ad-9195b4c1c7f0.htm">
+        <span data-tocFile="../toc/IDHEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Regedit</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0abcc9fa-f988-a889-9d01-0bc6584ab923" class="has-submenu" href="0abcc9fa-f988-a889-9d01-0bc6584ab923.htm">
+        <span data-tocFile="../toc/IDIEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Ruby</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2fa9e326-3cb5-7c61-9c45-c7fafc03c094" class="has-submenu" href="2fa9e326-3cb5-7c61-9c45-c7fafc03c094.htm">
+        <span data-tocFile="../toc/IDJEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Visual<wbr />Basic<wbr />NET</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c4d1acc6-788d-eec6-2c4f-7b4e68f1541a" class="has-submenu" href="c4d1acc6-788d-eec6-2c4f-7b4e68f1541a.htm">
+        <span data-tocFile="../toc/IDKEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Code<wbr />Templates.<wbr />Snippets.<wbr />Visual<wbr />Basic<wbr />Script</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="afb41cba-7ca1-f473-5275-2a0783c048e7" class="has-submenu" href="afb41cba-7ca1-f473-5275-2a0783c048e7.htm">
+        <span data-tocFile="../toc/IDLEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Net<wbr />Junk<wbr />Code</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

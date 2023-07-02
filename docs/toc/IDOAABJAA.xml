@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="1a52ead2-08ae-3649-a274-ce205140620b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="bb417099-54c8-4190-62f3-1236383f7a90.htm">Util<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="f77cf6cd-9354-d2de-2f0a-bca9b940cd1b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7b0f0092-a5cd-f320-cc84-8d62b4675fa7.htm">Decrypt<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c0e88a45-f914-6b8b-8408-bb1329da33a2" href="c0e88a45-f914-6b8b-8408-bb1329da33a2.htm">Decrypt<wbr />File&lt;T&gt;(<wbr />File<wbr />Info, File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="d8234c21-ef85-d1bc-7827-539ec2ca186d" href="d8234c21-ef85-d1bc-7827-539ec2ca186d.htm">Decrypt<wbr />File&lt;T&gt;(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="840ccde7-8629-afc4-582b-b7e5e2ad51ff" href="840ccde7-8629-afc4-582b-b7e5e2ad51ff.htm">Decrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, File<wbr />Info, File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="d8fb8753-ea54-432d-cd71-2a45e543e84d" href="d8fb8753-ea54-432d-cd71-2a45e543e84d.htm">Decrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

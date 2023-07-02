@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="25579260-ed7b-8b9e-3ade-458b7b8d4ef3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2dc35cb9-252d-31ce-6018-60bb33e0e49b.htm">Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="580d6816-6b63-4179-97c8-e9c6f72e4b79.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0e2d861b-8d19-22ef-703a-0005b6b93427" href="0e2d861b-8d19-22ef-703a-0005b6b93427.htm">Copy<wbr />To</a>
+    </li>
+    <li>
+      <a id="c6563c18-9c04-71d0-6ad0-fdacbaeeb0d4" class="has-submenu" href="c6563c18-9c04-71d0-6ad0-fdacbaeeb0d4.htm">
+        <span data-tocFile="../toc/IDBAA0BD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e38df1b5-2689-652f-bce9-d33785b24ee1" href="e38df1b5-2689-652f-bce9-d33785b24ee1.htm">Equals<wbr />Async</a>
+    </li>
+    <li>
+      <a id="0064d19e-7ef2-ae08-cba9-c69eb23c9e47" class="has-submenu" href="0064d19e-7ef2-ae08-cba9-c69eb23c9e47.htm">
+        <span data-tocFile="../toc/IDDAA0BD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Index<wbr />Of</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c66b199e-55e2-953d-427e-f5e94f45b41e" class="has-submenu" href="c66b199e-55e2-953d-427e-f5e94f45b41e.htm">
+        <span data-tocFile="../toc/IDEAA0BD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />To<wbr />End</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8ce9ac55-9f50-12d1-d116-f2726e524714" class="has-submenu" href="8ce9ac55-9f50-12d1-d116-f2726e524714.htm">
+        <span data-tocFile="../toc/IDFAA0BD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d5be7e2f-de5f-35a1-fb5f-72a805744eda" href="d5be7e2f-de5f-35a1-fb5f-72a805744eda.htm">Seek<wbr />To<wbr />Begin</a>
+    </li>
+    <li>
+      <a id="849c2fb4-0c3c-2eb4-2f80-5fad4d939d2d" href="849c2fb4-0c3c-2eb4-2f80-5fad4d939d2d.htm">Seek<wbr />To<wbr />End</a>
+    </li>
+    <li>
+      <a id="19cadaa3-20c9-9524-c9db-a20185a6223e" href="19cadaa3-20c9-9524-c9db-a20185a6223e.htm">To<wbr />Array</a>
+    </li>
+    <li>
+      <a id="5f802fb6-e917-ee51-68e9-e1ae20111e98" href="5f802fb6-e917-ee51-68e9-e1ae20111e98.htm">To<wbr />Memory<wbr />Stream</a>
+    </li>
+  </tocItems>
+</toc>

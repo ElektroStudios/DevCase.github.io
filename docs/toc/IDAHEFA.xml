@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="f5ec7979-eba1-1b98-ab77-be63ae1f5523.htm">IAudio<wbr />Session<wbr />Control<wbr />2</a>
+    </li>
+    <li>
+      <a href="f9550f24-053f-e409-1686-6fb810a165f4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9be4b372-efc6-f2f9-2cec-fc613452d0a6" href="9be4b372-efc6-f2f9-2cec-fc613452d0a6.htm">Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="e46b7a11-5b91-e636-dc0c-c4cefd2df3bb" href="e46b7a11-5b91-e636-dc0c-c4cefd2df3bb.htm">Get<wbr />Grouping<wbr />Param</a>
+    </li>
+    <li>
+      <a id="97c22a0c-e6e0-6e5c-e8ff-5dd2a3c7e5b4" href="97c22a0c-e6e0-6e5c-e8ff-5dd2a3c7e5b4.htm">Get<wbr />Icon<wbr />Path</a>
+    </li>
+    <li>
+      <a id="f0abca1e-c10f-5199-335a-aabcc8125650" href="f0abca1e-c10f-5199-335a-aabcc8125650.htm">Get<wbr />Process<wbr />Id</a>
+    </li>
+    <li>
+      <a id="1fa4ff73-2a9d-aea9-acbb-80006aab169d" href="1fa4ff73-2a9d-aea9-acbb-80006aab169d.htm">Get<wbr />Session<wbr />Identifier</a>
+    </li>
+    <li>
+      <a id="60b361c9-9a91-9008-7504-9078c5e7afc1" href="60b361c9-9a91-9008-7504-9078c5e7afc1.htm">Get<wbr />Session<wbr />Instance<wbr />Identifier</a>
+    </li>
+    <li>
+      <a id="d5f48310-db49-2866-0d73-d831224aba6d" href="d5f48310-db49-2866-0d73-d831224aba6d.htm">Get<wbr />State</a>
+    </li>
+    <li>
+      <a id="a377ed4d-377e-fe58-a154-efa07219fe11" href="a377ed4d-377e-fe58-a154-efa07219fe11.htm">Is<wbr />System<wbr />Sounds<wbr />Session</a>
+    </li>
+    <li>
+      <a id="86717402-389b-dbf2-412e-ce5b7d486967" href="86717402-389b-dbf2-412e-ce5b7d486967.htm">Register<wbr />Audio<wbr />Session<wbr />Notification</a>
+    </li>
+    <li>
+      <a id="48e17526-c9ae-cd3d-5980-c7c8ec4d9664" href="48e17526-c9ae-cd3d-5980-c7c8ec4d9664.htm">Set<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="bde647ce-cbd2-7cb0-016d-fb1328bbe9b8" href="bde647ce-cbd2-7cb0-016d-fb1328bbe9b8.htm">Set<wbr />Ducking<wbr />Preference</a>
+    </li>
+    <li>
+      <a id="3612d754-0017-af70-6f04-73c08bd6c4aa" href="3612d754-0017-af70-6f04-73c08bd6c4aa.htm">Set<wbr />Grouping<wbr />Param</a>
+    </li>
+    <li>
+      <a id="bd29177b-dd42-6945-16ee-2dd6c20587bd" href="bd29177b-dd42-6945-16ee-2dd6c20587bd.htm">Set<wbr />Icon<wbr />Path</a>
+    </li>
+    <li>
+      <a id="b7cfdd33-4669-67be-bcc4-9d970929dab4" href="b7cfdd33-4669-67be-bcc4-9d970929dab4.htm">Unregister<wbr />Audio<wbr />Session<wbr />Notification</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="1a52ead2-08ae-3649-a274-ce205140620b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="bb417099-54c8-4190-62f3-1236383f7a90.htm">Util<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="f77cf6cd-9354-d2de-2f0a-bca9b940cd1b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="23e0a4f6-84b3-1855-2f29-8a0b690c4b86.htm">Encrypt<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fffb0b1b-fb08-bd0e-d926-082663a2b858" href="fffb0b1b-fb08-bd0e-d926-082663a2b858.htm">Encrypt<wbr />File&lt;T&gt;(<wbr />File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="e97510f4-3f24-f841-5fcc-2dda1a2116cd" href="e97510f4-3f24-f841-5fcc-2dda1a2116cd.htm">Encrypt<wbr />File&lt;T&gt;(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="99605b70-48a9-9c2d-2209-8e2c9d94a44a" href="99605b70-48a9-9c2d-2209-8e2c9d94a44a.htm">Encrypt<wbr />File&lt;T&gt;(<wbr />File<wbr />Info, File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="94cde2bc-d859-1299-fe4b-e48a7e3f92d9" href="94cde2bc-d859-1299-fe4b-e48a7e3f92d9.htm">Encrypt<wbr />File&lt;T&gt;(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="cba62191-d598-0b3d-63ea-876ee94ce089" href="cba62191-d598-0b3d-63ea-876ee94ce089.htm">Encrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="2bab6a1a-ca9a-dab4-3d80-84a1e57b1dbe" href="2bab6a1a-ca9a-dab4-3d80-84a1e57b1dbe.htm">Encrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, String, String)</a>
+    </li>
+    <li>
+      <a id="6b48d21b-8ef7-1236-9719-fdbed204b112" href="6b48d21b-8ef7-1236-9719-fdbed204b112.htm">Encrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, File<wbr />Info, File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="147fddff-c35a-6cd3-c4c1-895ebefc5d75" href="147fddff-c35a-6cd3-c4c1-895ebefc5d75.htm">Encrypt<wbr />File(<wbr />Symmetric<wbr />Algorithm, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

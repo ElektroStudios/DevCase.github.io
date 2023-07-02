@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+    <li>
+      <a href="36ee8db3-aae3-0d99-1c6a-3e93d1d618a3.htm">Read<wbr />String<wbr />To<wbr />End</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="176fc166-984c-861b-3ff1-9a61a85cd232" href="176fc166-984c-861b-3ff1-9a61a85cd232.htm">Read<wbr />String<wbr />To<wbr />End(<wbr />Memory<wbr />Mapped<wbr />File, Encoding)</a>
+    </li>
+    <li>
+      <a id="1b528d19-e991-245f-ce58-6a41b2a49711" href="1b528d19-e991-245f-ce58-6a41b2a49711.htm">Read<wbr />String<wbr />To<wbr />End(<wbr />String, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

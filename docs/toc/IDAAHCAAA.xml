@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fc73898f-827b-6d7c-cd68-81253d592217.htm">Async<wbr />Check</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f491b8ee-350f-02ba-1e23-154d5f4af2db" href="f491b8ee-350f-02ba-1e23-154d5f4af2db.htm">Async<wbr />Check(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="f9031ce3-e5a8-5dbd-05ac-2da071bec830" href="f9031ce3-e5a8-5dbd-05ac-2da071bec830.htm">Async<wbr />Check(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="3b009cfa-d066-d3f8-b631-bb0ce44b973f" href="3b009cfa-d066-d3f8-b631-bb0ce44b973f.htm">Async<wbr />Check&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="d4a7e16f-b62a-d6dd-1302-fc53ef2a9f25" href="d4a7e16f-b62a-d6dd-1302-fc53ef2a9f25.htm">Async<wbr />Check&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="0cc6bcfa-13a0-d75b-cc0e-a6d8eaab1910" href="0cc6bcfa-13a0-d75b-cc0e-a6d8eaab1910.htm">Async<wbr />Check&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

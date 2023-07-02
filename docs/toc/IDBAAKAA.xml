@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="db9a460b-486e-88ea-b07f-ebc7d9877827.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Applications</a>
+    </li>
+    <li>
+      <a href="9d8fe083-f408-a0dc-fe22-ca3feebdad77.htm">App<wbr />Open<wbr />With<wbr />Info</a>
+    </li>
+    <li>
+      <a href="5ec5184d-d4e5-4890-3289-c283c35e9cb9.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="60a2e624-95ac-841c-88b9-da578dbf7138" href="60a2e624-95ac-841c-88b9-da578dbf7138.htm">Default<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="4685af7e-0ae3-ea3c-1e0a-656d955f8537" href="4685af7e-0ae3-ea3c-1e0a-656d955f8537.htm">Friendly<wbr />App<wbr />Name</a>
+    </li>
+    <li>
+      <a id="2a2788e7-080a-d3b1-ad54-193b59a5de1c" href="2a2788e7-080a-d3b1-ad54-193b59a5de1c.htm">Is<wbr />Host<wbr />App</a>
+    </li>
+    <li>
+      <a id="b4bb6088-00e1-86cb-1953-a3c4d03e8634" href="b4bb6088-00e1-86cb-1953-a3c4d03e8634.htm">No<wbr />Open<wbr />With</a>
+    </li>
+    <li>
+      <a id="bcfba8c0-6dfe-6e86-4941-bfed6cdf146a" href="bcfba8c0-6dfe-6e86-4941-bfed6cdf146a.htm">No<wbr />Start<wbr />Page</a>
+    </li>
+    <li>
+      <a id="1df31bec-943b-391c-6891-80cf8fdaba97" href="1df31bec-943b-391c-6891-80cf8fdaba97.htm">Supported<wbr />Types</a>
+    </li>
+    <li>
+      <a id="3421163f-7f4b-33a5-996d-4ceab7dee011" href="3421163f-7f4b-33a5-996d-4ceab7dee011.htm">Taskbar<wbr />Group<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="ee2f4bb1-4444-733c-f3ef-c927fee986a3" href="ee2f4bb1-4444-733c-f3ef-c927fee986a3.htm">Use<wbr />Executable<wbr />For<wbr />Taskbar<wbr />Group<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="f7541f40-3719-bed6-756e-9b34dec6db60" href="f7541f40-3719-bed6-756e-9b34dec6db60.htm">Verb</a>
+    </li>
+  </tocItems>
+</toc>

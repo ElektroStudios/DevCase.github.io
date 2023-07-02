@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2e1c4d50-f238-1c6b-517a-fa7ff8040227" class="has-submenu" href="2e1c4d50-f238-1c6b-517a-fa7ff8040227.htm">
+        <span data-tocFile="../toc/IDACGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Amount</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1875941a-0565-d528-ec48-9668818be12f" class="has-submenu" href="1875941a-0565-d528-ec48-9668818be12f.htm">
+        <span data-tocFile="../toc/IDBCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Chemical<wbr />Element</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="be7321d8-9d8a-6afc-4e1b-b752ec90b39c" class="has-submenu" href="be7321d8-9d8a-6afc-4e1b-b752ec90b39c.htm">
+        <span data-tocFile="../toc/IDCCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Chemical<wbr />Elements</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8835a15d-ca0c-7351-8641-fa5c8f9ac8ac" href="8835a15d-ca0c-7351-8641-fa5c8f9ac8ac.htm">Metric<wbr />Unit<wbr />Type</a>
+    </li>
+    <li>
+      <a id="40968739-a324-a93e-53e5-be6b0de25abc" class="has-submenu" href="40968739-a324-a93e-53e5-be6b0de25abc.htm">
+        <span data-tocFile="../toc/IDECGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Physics<wbr />Constant</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d0f96e90-263b-35e7-f65a-ea27cd1c48e8" class="has-submenu" href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">
+        <span data-tocFile="../toc/IDFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unit</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="10a2f573-319c-b589-d537-ff92fd330047" class="has-submenu" href="10a2f573-319c-b589-d537-ff92fd330047.htm">
+        <span data-tocFile="../toc/IDGCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unit<wbr />Conversion</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="791f38fd-fcb1-aa6d-27bf-ffa9e6944c24" class="has-submenu" href="791f38fd-fcb1-aa6d-27bf-ffa9e6944c24.htm">
+        <span data-tocFile="../toc/IDHCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unit<wbr />Conversion<wbr />Exception</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8522a920-7627-9bda-0dea-617adfa0c6c9" class="has-submenu" href="8522a920-7627-9bda-0dea-617adfa0c6c9.htm">
+        <span data-tocFile="../toc/IDICGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2d31f6d2-2393-0fe0-dc3f-d90e0246f8bf" class="has-submenu" href="2d31f6d2-2393-0fe0-dc3f-d90e0246f8bf.htm">
+        <span data-tocFile="../toc/IDJCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Amount<wbr />Of<wbr />Substance</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5cfa7f6-ccb8-4863-0087-e1a1308a9bd2" class="has-submenu" href="b5cfa7f6-ccb8-4863-0087-e1a1308a9bd2.htm">
+        <span data-tocFile="../toc/IDKCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Digital<wbr />Data<wbr />Transfer<wbr />Rate</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="939a87c7-808c-d0d6-af4b-5e09c8a56e75" class="has-submenu" href="939a87c7-808c-d0d6-af4b-5e09c8a56e75.htm">
+        <span data-tocFile="../toc/IDLCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Digital<wbr />Storage</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1fa21121-c59e-0926-666b-65f2658913ec" class="has-submenu" href="1fa21121-c59e-0926-666b-65f2658913ec.htm">
+        <span data-tocFile="../toc/IDMCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Electricity</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="29361f51-4684-ae90-5fd4-6d5c12d13a21" class="has-submenu" href="29361f51-4684-ae90-5fd4-6d5c12d13a21.htm">
+        <span data-tocFile="../toc/IDNCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Energy</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="aaa53232-c8b5-407f-c79a-c57f8e33d65e" class="has-submenu" href="aaa53232-c8b5-407f-c79a-c57f8e33d65e.htm">
+        <span data-tocFile="../toc/IDOCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Force</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0e631694-b724-79d3-d5b7-201b2be714ba" class="has-submenu" href="0e631694-b724-79d3-d5b7-201b2be714ba.htm">
+        <span data-tocFile="../toc/IDPCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Frequency</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2d75bae0-4c58-df18-82ea-1d57ee848403" class="has-submenu" href="2d75bae0-4c58-df18-82ea-1d57ee848403.htm">
+        <span data-tocFile="../toc/IDQCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Length</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c85f0c46-6868-11ed-6e29-a7f190143908" class="has-submenu" href="c85f0c46-6868-11ed-6e29-a7f190143908.htm">
+        <span data-tocFile="../toc/IDRCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Luminous<wbr />Intensity</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6d70bc07-c3c6-a292-f227-d1fc27e9935a" class="has-submenu" href="6d70bc07-c3c6-a292-f227-d1fc27e9935a.htm">
+        <span data-tocFile="../toc/IDSCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Mass</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="eba7dcff-819e-ed31-01a0-a4cde411ea05" class="has-submenu" href="eba7dcff-819e-ed31-01a0-a4cde411ea05.htm">
+        <span data-tocFile="../toc/IDTCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Pressure</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1495d383-2507-036e-14d3-702562106472" class="has-submenu" href="1495d383-2507-036e-14d3-702562106472.htm">
+        <span data-tocFile="../toc/IDUCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Speed</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c58e6fbc-6963-5107-4ebb-1e075df757c4" class="has-submenu" href="c58e6fbc-6963-5107-4ebb-1e075df757c4.htm">
+        <span data-tocFile="../toc/IDVCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Surface</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8848e81a-42cf-4f45-48a3-b6abebc0830d" class="has-submenu" href="8848e81a-42cf-4f45-48a3-b6abebc0830d.htm">
+        <span data-tocFile="../toc/IDWCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Temperature</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b9a58c14-d35c-a0b1-3946-585e31212461" class="has-submenu" href="b9a58c14-d35c-a0b1-3946-585e31212461.htm">
+        <span data-tocFile="../toc/IDXCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Time</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4fb4f416-8de6-8c89-7e62-07ea17e0d182" class="has-submenu" href="4fb4f416-8de6-8c89-7e62-07ea17e0d182.htm">
+        <span data-tocFile="../toc/IDYCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Units.<wbr />Volume</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+    <li>
+      <a href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">Gmail<wbr />Client</a>
+    </li>
+    <li>
+      <a href="29877e0d-86b4-06f9-e0b0-d116d83bd0c6.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2f4148fd-91b1-f18b-3041-0fde725adb13.htm">Send<wbr />Message<wbr />Html<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ed042d22-b6a8-72d5-4bf1-a9e4c49759a0" href="ed042d22-b6a8-72d5-4bf1-a9e4c49759a0.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address)</a>
+    </li>
+    <li>
+      <a id="86709a64-10e6-4d10-1752-a50a6a673f8c" href="86709a64-10e6-4d10-1752-a50a6a673f8c.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="f242b68b-5c5e-33dd-5e6f-54f05f4f1d86" href="f242b68b-5c5e-33dd-5e6f-54f05f4f1d86.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="c3d148f7-efa8-3280-2877-39a2be4a4c68" href="c3d148f7-efa8-3280-2877-39a2be4a4c68.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String[])</a>
+    </li>
+    <li>
+      <a id="4f653f50-1d41-12dd-8a68-8b1209bf7598" href="4f653f50-1d41-12dd-8a68-8b1209bf7598.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="f0adaae7-8de5-c4bc-937c-2fdb69c3fc91" href="f0adaae7-8de5-c4bc-937c-2fdb69c3fc91.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address, Attachment[])</a>
+    </li>
+    <li>
+      <a id="59786133-411c-5585-f0ce-73a58d1a6d2c" href="59786133-411c-5585-f0ce-73a58d1a6d2c.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address<wbr />Collection, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="77596063-cecd-efce-1c7d-0b7904001429" href="77596063-cecd-efce-1c7d-0b7904001429.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, Mail<wbr />Address<wbr />Collection, Attachment[])</a>
+    </li>
+    <li>
+      <a id="d711fbc8-d69f-7930-2d7b-0f0de43e0f95" href="d711fbc8-d69f-7930-2d7b-0f0de43e0f95.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String, ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="3ad950ef-ab1d-eee1-4e17-1e9a0696c029" href="3ad950ef-ab1d-eee1-4e17-1e9a0696c029.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String, Attachment[])</a>
+    </li>
+    <li>
+      <a id="38f57c6a-063c-f923-62ed-b881d9b5bf25" href="38f57c6a-063c-f923-62ed-b881d9b5bf25.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String[], ICollection&lt;Attachment&gt;)</a>
+    </li>
+    <li>
+      <a id="2fccfdfe-dac2-4af6-12b6-37819b79b50c" href="2fccfdfe-dac2-4af6-12b6-37819b79b50c.htm">Send<wbr />Message<wbr />Html<wbr />Async(<wbr />String, String, String[], Attachment[])</a>
+    </li>
+  </tocItems>
+</toc>

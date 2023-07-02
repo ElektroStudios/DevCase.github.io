@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="7a5b0d55-800f-3b50-4cdc-7686c0e7f789.htm">Native<wbr />Point</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8a6cd7e6-1678-8af5-e267-c191d523a447" class="has-submenu" href="8a6cd7e6-1678-8af5-e267-c191d523a447.htm">
+        <span data-tocFile="../toc/IDA0BC0HFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1e42387c-02ad-748e-48ca-b1870ccbceb2" href="1e42387c-02ad-748e-48ca-b1870ccbceb2.htm">Methods</a>
+    </li>
+    <li>
+      <a id="30425b25-447f-5264-b1eb-79c8ef8eb1f0" class="has-submenu" href="30425b25-447f-5264-b1eb-79c8ef8eb1f0.htm">
+        <span data-tocFile="../toc/IDC0BC0HFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Operators</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7c3af8e7-087d-f18b-e825-aea86a411d32" class="has-submenu" href="7c3af8e7-087d-f18b-e825-aea86a411d32.htm">
+        <span data-tocFile="../toc/IDD0BC0HFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

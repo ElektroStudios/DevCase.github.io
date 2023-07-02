@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="acf85973-1453-e67b-362c-38bf21d621bc.htm">Nt<wbr />Dll</a>
+    </li>
+    <li>
+      <a href="2dde2e15-8c5e-a9ef-c692-d8fc8177e7bb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="e03c5e8c-4f1d-40af-2af7-560c7280e405.htm">Nt<wbr />Map<wbr />View<wbr />Of<wbr />Section</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b71e6e9e-dbcb-1fd6-6a37-57a9fcc2deb7" href="b71e6e9e-dbcb-1fd6-6a37-57a9fcc2deb7.htm">Nt<wbr />Map<wbr />View<wbr />Of<wbr />Section(<wbr />Int<wbr />Ptr, Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />64, UInt<wbr />Ptr, Section<wbr />Inherit, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="7fb07581-21a8-f19e-c16e-7cf167f04041" href="7fb07581-21a8-f19e-c16e-7cf167f04041.htm">Nt<wbr />Map<wbr />View<wbr />Of<wbr />Section(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />64, UInt<wbr />Ptr, Section<wbr />Inherit, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

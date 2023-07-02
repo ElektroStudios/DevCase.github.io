@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="4679ee5f-cc6b-9902-53c3-20a1cac22baa.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Dot<wbr />Net<wbr />Zip</a>
+    </li>
+    <li>
+      <a href="697e206d-5174-806a-be60-0501b3e229e0.htm">Zip<wbr />Archiver</a>
+    </li>
+    <li>
+      <a href="0d1530b2-4ba4-1de4-fb9a-d6855488dee5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="e45db3c9-217c-31b8-e566-561b5da8fdb0.htm">Build</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1979b129-0f2c-368d-e574-9011e5a2f5fa" href="1979b129-0f2c-368d-e574-9011e5a2f5fa.htm">Build(<wbr />IEnumerable&lt;String&gt;, String)</a>
+    </li>
+    <li>
+      <a id="367b69ca-98a6-b037-6a2a-585f8e421478" href="367b69ca-98a6-b037-6a2a-585f8e421478.htm">Build(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="5b12acf9-7a79-a8c7-bded-33e8c71498bc" href="5b12acf9-7a79-a8c7-bded-33e8c71498bc.htm">Build(<wbr />IEnumerable&lt;String&gt;, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="f04ee3b3-5bd5-c8c1-175a-3a256ecf8376" href="f04ee3b3-5bd5-c8c1-175a-3a256ecf8376.htm">Build(<wbr />IEnumerable&lt;String&gt;, String, String, Encryption<wbr />Algorithm)</a>
+    </li>
+    <li>
+      <a id="5fe42430-fe35-27be-bdda-cc63607e1b8b" href="5fe42430-fe35-27be-bdda-cc63607e1b8b.htm">Build(<wbr />String, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="991985dd-3cd4-1bf5-2e48-6ef9f4fe5c32" href="991985dd-3cd4-1bf5-2e48-6ef9f4fe5c32.htm">Build(<wbr />String, String, String, Encryption<wbr />Algorithm)</a>
+    </li>
+    <li>
+      <a id="3fb3aff1-35e7-7d93-a6c2-f71f2c0a542d" href="3fb3aff1-35e7-7d93-a6c2-f71f2c0a542d.htm">Build(<wbr />IEnumerable&lt;String&gt;, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="caf202a4-886c-f558-958c-e89da8a3b446" href="caf202a4-886c-f558-958c-e89da8a3b446.htm">Build(<wbr />String, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+  </tocItems>
+</toc>

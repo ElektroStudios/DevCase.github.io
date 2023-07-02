@@ -1,0 +1,343 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>ShellExecuteInfo Fields</title>
+    <meta name="Title" content="Fields" />
+    <meta name="Help.Id" content="Fields.T:DevCase.Win32.Structures.ShellExecuteInfo" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Win32.Structures" />
+    <meta name="guid" content="1034252d-465a-219b-d628-ababb5bbc476" />
+    <meta name="tocFile" content="../toc/ID0JD0HFA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Shell<wbr />Execute<wbr />Info Fields</h1>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Fields</h2>
+            <div id="IDADASection">
+              <table id="FieldList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="63e55db1-9719-8fed-8fa0-f48e59be7332.htm">Class</a>
+                  </td>
+                  <td>
+ The address of a null-terminated string that specifies one of the following
+ A ProgId. For example, "Paint.Picture".
+ A URI protocol scheme. For example, "http".
+ A file extension. For example, ".txt".
+ A registry path under HKEY_CLASSES_ROOT that names a subkey that contains one or more Shell verbs. 
+ This key will have a subkey that conforms to the Shell verb registry schema, such as shell\verb name.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9bde31f2-5b75-79b5-cdbe-05880d8ebc9d.htm">Directory</a>
+                  </td>
+                  <td>
+ Optional. 
+ The address of a null-terminated string that specifies the name of the working directory. 
+ If this member is NULL, the current directory is used as the working directory.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="85c72ee5-212b-1e00-590f-fa0e247efaff.htm">File</a>
+                  </td>
+                  <td>
+ The address of a null-terminated string that specifies the name of the file 
+ or object on which ShellExecuteEx will perform the action specified by the lpVerb parameter. 
+ The system registry verbs that are supported by the ShellExecuteEx function include "open" 
+ for executable files and document files and "print" for document files 
+ for which a print handler has been registered. 
+ Other applications might have added Shell verbs through the system registry, 
+ such as "play" for .avi and .wav files.
+ To specify a Shell Namespace DevCase.Interop.object, pass the fully qualified parse name 
+ and set the SEE_MASK_INVOKEIDLIST flag in the fMask parameter.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="17adbbd5-9f9e-99ef-d20e-772630c45d7a.htm">HotKey</a>
+                  </td>
+                  <td>
+ A keyboard shortcut to associate with the application. 
+ The low-order word is the virtual key code, and the high-order word is a modifier flag (HOTKEYF_).
+ For a list of modifier flags, see the description of the WM_SETHOTKEY message. 
+ This member is ignored if fMask does not include SEE_MASK_HOTKEY.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4768ae62-9e77-7b77-1c8f-379c6a85503a.htm">Hwnd</a>
+                  </td>
+                  <td>
+ Optional. 
+ A handle to the parent window, 
+ used to display any message boxes that the system might produce while executing this function. 
+ This value can be NULL.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1ff19a82-3656-74ce-d93b-de2217e1560f.htm">Icon</a>
+                  </td>
+                  <td>
+ A handle to the icon for the file type. 
+ This member is ignored if fMask does not include SEE_MASK_ICON. 
+ This value is used only in Windows XP and earlier. 
+ It is ignored as of Windows Vista.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7e647470-ba80-a0fc-7eba-0bda882c9a5a.htm">IDList</a>
+                  </td>
+                  <td>
+ The address of an absolute ITEMIDLIST structure (PCIDLIST_ABSOLUTE) 
+ to contain an item identifier list that uniquely identifies the file to execute. 
+ This member is ignored if the fMask member does not include SEE_MASK_IDLIST or SEE_MASK_INVOKEIDLIST.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="ec81c032-79c4-9494-c588-ec37712d0038.htm">InstApp</a>
+                  </td>
+                  <td>
+ If SEE_MASK_NOCLOSEPROCESS is set and the ShellExecuteEx call succeeds, 
+ it sets this member to a value greater than 32. 
+ If the function fails, it is set to an SE_ERR_XXX error value that indicates the cause of the failure. 
+ Although hInstApp is declared as an HINSTANCE for compatibility with 16-bit Windows applications, 
+ it is not a true HINSTANCE. 
+ It can be cast only to an int and compared to either 32 or the following SE_ERR_XXX error codes.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8adf8e28-acac-602c-295c-f40b39531fd1.htm">keyClass</a>
+                  </td>
+                  <td>
+ A handle to the registry key for the file type. 
+ The access rights for this registry key should be set to KEY_READ. 
+ This member is ignored if fMask does not include SEE_MASK_CLASSKEY.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e8983ffa-e5fd-0419-6bb9-1338fe4051f7.htm">Mask</a>
+                  </td>
+                  <td>
+ Flags that indicate the content and validity of the other structure members.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9e1680c3-7f34-c031-bf1c-4a0c0da97fc2.htm">Parameters</a>
+                  </td>
+                  <td>
+ Optional. 
+ The address of a null-terminated string that contains the application parameters. 
+ The parameters must be separated by spaces. 
+ If the lpFile member specifies a document file, lpParameters should be NULL.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8c3cd3ac-548a-401e-4887-618e147add68.htm">Process</a>
+                  </td>
+                  <td>
+ A handle to the monitor upon which the document is to be displayed. 
+ This member is ignored if fMask does not include SEE_MASK_HMONITOR.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="80708ca8-e7d9-8f83-507c-59425b6130ec.htm">Show</a>
+                  </td>
+                  <td>
+ Required. 
+ Flags that specify how an application is to be shown when it is opened; 
+ one of the SW_ values listed for the ShellExecute function. 
+ If lpFile specifies a document file, the flag is simply passed to the associated application. 
+ It is up to the application to decide how to handle it.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1a009329-c2a4-977b-a9c5-67c22096b5a2.htm">SizeOfStruct</a>
+                  </td>
+                  <td>
+ The size of this structure, In bytes.
+ <p />
+ Set this member to <span class="code">Marshal.SizeOf(Of ShellExecuteInfo)</span> before calling any function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1b84718e-8a46-bd1a-98e4-b52aac4ec4c7.htm">Verb</a>
+                  </td>
+                  <td>
+ A string, referred to as a verb, that specifies the action to be performed. 
+ The set of available verbs depends on the particular file or folder. 
+ Generally, the actions available from an object's shortcut menu are available verbs. 
+ This parameter can be NULL, in which case the default verb is used if available. 
+ If not, the "open" verb is used. 
+ If neither verb is available, the system uses the first verb listed in the registry. 
+ </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="237fdc86-369a-e5e6-80a1-9b9d12879dad.htm">ShellExecuteInfo Structure</a>
+              </div>
+              <div>
+                <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">DevCase.Win32.Structures Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Fields</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script>
+  </body>
+</html>

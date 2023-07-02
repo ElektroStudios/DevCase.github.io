@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="c4807b44-1edb-e114-e3d9-4abbf4eab003.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Certification</a>
+    </li>
+    <li>
+      <a href="30e827ce-e8ab-bf03-2d9c-fa263da29bfe.htm">Util<wbr />Certification</a>
+    </li>
+    <li>
+      <a href="9b39c717-6b8c-85ec-fa8f-8d782b5bc090.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="69dad04f-c9c3-695e-b109-ba4f6ed63797" href="69dad04f-c9c3-695e-b109-ba4f6ed63797.htm">File<wbr />Has<wbr />Digital<wbr />Signature</a>
+    </li>
+    <li>
+      <a id="d793f52a-6126-c627-99fe-98e3c7b2c5d7" href="d793f52a-6126-c627-99fe-98e3c7b2c5d7.htm">File<wbr />Has<wbr />Valid<wbr />Digital<wbr />Signature</a>
+    </li>
+    <li>
+      <a id="6fb904cb-87a0-a832-f603-6f21b2e3fe12" href="6fb904cb-87a0-a832-f603-6f21b2e3fe12.htm">Get<wbr />File<wbr />Digital<wbr />Signature</a>
+    </li>
+    <li>
+      <a id="f71f1d2f-998c-92a7-46c9-01c3f4329496" href="f71f1d2f-998c-92a7-46c9-01c3f4329496.htm">Is<wbr />Digital<wbr />Signature<wbr />Valid</a>
+    </li>
+  </tocItems>
+</toc>

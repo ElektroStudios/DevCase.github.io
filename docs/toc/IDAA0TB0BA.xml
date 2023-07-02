@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="ababbf77-6362-9abb-0f54-8ac31e9b831e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IDictionary<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="933e6a7c-67d8-a5c0-c9c3-22789174b52a.htm">IDictionary<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="e7fb6e74-4606-5c1a-7ef6-a0b83a8d180f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="639db5f9-2711-731f-eba1-808263863ede" class="has-submenu" href="639db5f9-2711-731f-eba1-808263863ede.htm">
+        <span data-tocFile="../toc/IDAAA0TB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add<wbr />Or<wbr />Get</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2c406721-1524-e7e5-6940-f610720494c8" href="2c406721-1524-e7e5-6940-f610720494c8.htm">Add<wbr />Range&lt;TKey, TValue&gt;</a>
+    </li>
+    <li>
+      <a id="0ea0a19a-f70c-de81-d19b-0e726507410e" href="0ea0a19a-f70c-de81-d19b-0e726507410e.htm">To<wbr />Expando<wbr />Object</a>
+    </li>
+    <li>
+      <a id="7d8333f2-411b-85bd-7cba-c38dbaa4ef87" href="7d8333f2-411b-85bd-7cba-c38dbaa4ef87.htm">To<wbr />Hashtable</a>
+    </li>
+    <li>
+      <a id="4fd4dc05-edc6-9ee6-448a-a96e036ed096" href="4fd4dc05-edc6-9ee6-448a-a96e036ed096.htm">To<wbr />Name<wbr />Value<wbr />Collection</a>
+    </li>
+    <li>
+      <a id="1191e338-72b8-6d5c-3d34-f3a0d60ec145" class="has-submenu" href="1191e338-72b8-6d5c-3d34-f3a0d60ec145.htm">
+        <span data-tocFile="../toc/IDFAA0TB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Sorted<wbr />Dictionary</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

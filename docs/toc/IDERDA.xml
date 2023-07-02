@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="9c0f318c-d327-2da1-205d-fd44f8a0354c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Free<wbr />Hard<wbr />Music</a>
+    </li>
+    <li>
+      <a href="8c4e788e-bd67-2ee2-4b4b-7ffdae4bb32b.htm">Search<wbr />Query</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="77768f58-359c-39e9-ba80-aefe8aaa56ca" class="has-submenu" href="77768f58-359c-39e9-ba80-aefe8aaa56ca.htm">
+        <span data-tocFile="../toc/IDAERDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3c682ef1-4582-45ea-7bf0-3b7a5e6b199b" class="has-submenu" href="3c682ef1-4582-45ea-7bf0-3b7a5e6b199b.htm">
+        <span data-tocFile="../toc/IDBERDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="feddb5f6-6f7e-6f65-c96e-069a17e5517e" class="has-submenu" href="feddb5f6-6f7e-6f65-c96e-069a17e5517e.htm">
+        <span data-tocFile="../toc/IDCERDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

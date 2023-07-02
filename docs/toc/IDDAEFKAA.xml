@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="cdb6892f-6ec8-8397-9aeb-d903167aef09.htm">Create<wbr />Sub<wbr />Key</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5b569c63-6561-f86a-399e-8b39576c1cdf" href="5b569c63-6561-f86a-399e-8b39576c1cdf.htm">Create<wbr />Sub<wbr />Key(<wbr />Reg<wbr />Info, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="0f8b0ca8-9253-9fbf-627b-72f585568293" href="0f8b0ca8-9253-9fbf-627b-72f585568293.htm">Create<wbr />Sub<wbr />Key&lt;T&gt;(<wbr />Reg<wbr />Info&lt;T&gt;, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="002f9e55-853c-d5e2-793e-a2bf2b4a90e7" href="002f9e55-853c-d5e2-793e-a2bf2b4a90e7.htm">Create<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="222cf265-e606-3a3a-be02-7a340e92ff6e" href="222cf265-e606-3a3a-be02-7a340e92ff6e.htm">Create<wbr />Sub<wbr />Key&lt;T&gt;(<wbr />Registry<wbr />View, String, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="af4d9510-7b75-41a6-a47e-fa096b7429e2" href="af4d9510-7b75-41a6-a47e-fa096b7429e2.htm">Create<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String, String, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="cdd9143f-1ae0-27e9-2c12-c0267b52c222" href="cdd9143f-1ae0-27e9-2c12-c0267b52c222.htm">Create<wbr />Sub<wbr />Key&lt;T&gt;(<wbr />Registry<wbr />View, String, String, Registry<wbr />Key<wbr />Permission<wbr />Check, Registry<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

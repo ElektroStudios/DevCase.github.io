@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="e0369eb4-e8c9-a51a-4e41-d32f59e3eff5.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Reg<wbr />Ex</a>
+    </li>
+    <li>
+      <a href="c8810e1a-c236-43ff-52c5-3b9d3d6499aa.htm">Util<wbr />Reg<wbr />Ex.<wbr />Patterns</a>
+    </li>
+    <li>
+      <a href="6db07cdd-31de-8d6f-d22a-c154f02bf7e9.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e37befe6-21ee-e9ce-c236-bfa76d51e0b4" href="e37befe6-21ee-e9ce-c236-bfa76d51e0b4.htm">Alphabetic<wbr />Text</a>
+    </li>
+    <li>
+      <a id="7315c14d-a0f9-965d-756f-1c9be3ce887c" href="7315c14d-a0f9-965d-756f-1c9be3ce887c.htm">Alphanumeric<wbr />Text</a>
+    </li>
+    <li>
+      <a id="62ca544c-ec48-912f-10a4-8c0821f046df" href="62ca544c-ec48-912f-10a4-8c0821f046df.htm">Credit<wbr />Card</a>
+    </li>
+    <li>
+      <a id="d0e3fcfd-46ca-f2a3-d78d-c835517f8c6c" href="d0e3fcfd-46ca-f2a3-d78d-c835517f8c6c.htm">EMail</a>
+    </li>
+    <li>
+      <a id="f7cb0c3d-0d85-04ff-9b15-0c5dd2039823" href="f7cb0c3d-0d85-04ff-9b15-0c5dd2039823.htm">Exclude<wbr />Dash<wbr />In<wbr />Filename</a>
+    </li>
+    <li>
+      <a id="c39ac58b-6402-fdd0-fce5-ecd498fff9a6" href="c39ac58b-6402-fdd0-fce5-ecd498fff9a6.htm">Exclude<wbr />Dash<wbr />In<wbr />String</a>
+    </li>
+    <li>
+      <a id="fa3215db-f2f9-06c0-41ea-edca6a8a05c7" href="fa3215db-f2f9-06c0-41ea-edca6a8a05c7.htm">Exclude<wbr />Underscore<wbr />In<wbr />Filename</a>
+    </li>
+    <li>
+      <a id="66058d87-9885-76b1-6bd6-858018a772e0" href="66058d87-9885-76b1-6bd6-858018a772e0.htm">Exclude<wbr />Underscore<wbr />In<wbr />String</a>
+    </li>
+    <li>
+      <a id="89eaf0fe-50be-217c-7a3d-f66aa65961a4" href="89eaf0fe-50be-217c-7a3d-f66aa65961a4.htm">Hex</a>
+    </li>
+    <li>
+      <a id="2ee5cf93-1253-c752-a2c6-5706386aac13" href="2ee5cf93-1253-c752-a2c6-5706386aac13.htm">Html<wbr />Tag</a>
+    </li>
+    <li>
+      <a id="fd5addcf-465c-dc1a-c702-7f7ffb760809" href="fd5addcf-465c-dc1a-c702-7f7ffb760809.htm">Ipv<wbr />4</a>
+    </li>
+    <li>
+      <a id="32afe8be-3891-959e-8fcf-98d881a5199d" href="32afe8be-3891-959e-8fcf-98d881a5199d.htm">Ipv<wbr />6</a>
+    </li>
+    <li>
+      <a id="efe4e231-6953-4f84-5a6f-0767350844cb" href="efe4e231-6953-4f84-5a6f-0767350844cb.htm">Numeric<wbr />Text</a>
+    </li>
+    <li>
+      <a id="1ff6ccce-c1c2-9f56-e839-cc1117e5667d" href="1ff6ccce-c1c2-9f56-e839-cc1117e5667d.htm">Phone</a>
+    </li>
+    <li>
+      <a id="2bbff8ec-f3e4-8e50-c318-2d071a6a7963" href="2bbff8ec-f3e4-8e50-c318-2d071a6a7963.htm">Safe<wbr />Text</a>
+    </li>
+    <li>
+      <a id="9167d041-08f6-b922-97ea-abef173d5142" href="9167d041-08f6-b922-97ea-abef173d5142.htm">Url</a>
+    </li>
+    <li>
+      <a id="9f415192-9b8a-2f38-c677-24d4e6be55a9" href="9f415192-9b8a-2f38-c677-24d4e6be55a9.htm">USphone</a>
+    </li>
+    <li>
+      <a id="730a268f-0477-4179-84b7-996919528b59" href="730a268f-0477-4179-84b7-996919528b59.htm">USssn</a>
+    </li>
+    <li>
+      <a id="04a7a9d8-9054-7639-0052-f15e6e8a5b7a" href="04a7a9d8-9054-7639-0052-f15e6e8a5b7a.htm">USzip</a>
+    </li>
+    <li>
+      <a id="8f0a95b6-c1d9-f018-0056-4f74acb75ed4" href="8f0a95b6-c1d9-f018-0056-4f74acb75ed4.htm">Youtube<wbr />Url</a>
+    </li>
+  </tocItems>
+</toc>

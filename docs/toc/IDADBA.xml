@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="454dc811-2cfb-061b-b7a0-7ba8180107e3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Assembly<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="610cabaa-d0f7-bbd2-ec84-9dcd9f78ee35.htm">Assembly<wbr />Extensions</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4fd04655-8ff2-40be-8930-a1033fae398b" class="has-submenu" href="4fd04655-8ff2-40be-8930-a1033fae398b.htm">
+        <span data-tocFile="../toc/IDAADBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

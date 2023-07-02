@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="d5de77ac-9b53-042e-0974-d4419e4d1415.htm">File<wbr />Extension<wbr />Info</a>
+    </li>
+    <li>
+      <a href="62a79834-a8da-ca48-6419-b0a0961c6696.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f2747ade-e2e4-92e9-6ed6-414a91a6522f" href="f2747ade-e2e4-92e9-6ed6-414a91a6522f.htm">Command</a>
+    </li>
+    <li>
+      <a id="e1e9ef92-e079-4eed-315c-db2bacf65720" href="e1e9ef92-e079-4eed-315c-db2bacf65720.htm">Content<wbr />Type</a>
+    </li>
+    <li>
+      <a id="809d8723-2ada-5396-835a-abee28cbe495" href="809d8723-2ada-5396-835a-abee28cbe495.htm">Dde<wbr />Application</a>
+    </li>
+    <li>
+      <a id="4f36071b-4e81-1093-d3ff-dc4051911f52" href="4f36071b-4e81-1093-d3ff-dc4051911f52.htm">Dde<wbr />Command</a>
+    </li>
+    <li>
+      <a id="507602e3-4adb-3485-b5bf-60c3640ed03b" href="507602e3-4adb-3485-b5bf-60c3640ed03b.htm">Dde<wbr />If<wbr />Exec</a>
+    </li>
+    <li>
+      <a id="69a0832a-b322-6107-1764-25556d2d9841" href="69a0832a-b322-6107-1764-25556d2d9841.htm">Dde<wbr />Topic</a>
+    </li>
+    <li>
+      <a id="4c204fb6-07fa-cf3b-a916-94cfdf1fbb80" href="4c204fb6-07fa-cf3b-a916-94cfdf1fbb80.htm">Default<wbr />Icon</a>
+    </li>
+    <li>
+      <a id="b42d21fe-b443-064e-fcee-ef2d41089a1f" href="b42d21fe-b443-064e-fcee-ef2d41089a1f.htm">Delegate<wbr />Execute</a>
+    </li>
+    <li>
+      <a id="3c96a000-86cc-b1ea-1646-0b72b6230635" href="3c96a000-86cc-b1ea-1646-0b72b6230635.htm">Drop<wbr />Target</a>
+    </li>
+    <li>
+      <a id="6d2750b5-2036-2394-050a-5e2f7d19ddf9" href="6d2750b5-2036-2394-050a-5e2f7d19ddf9.htm">Executable</a>
+    </li>
+    <li>
+      <a id="d380016e-3afa-06b2-22ea-b4196d5974c8" href="d380016e-3afa-06b2-22ea-b4196d5974c8.htm">Friendly<wbr />App<wbr />Name</a>
+    </li>
+    <li>
+      <a id="57426356-59ef-109f-95b4-63947971c698" href="57426356-59ef-109f-95b4-63947971c698.htm">Friendly<wbr />Doc<wbr />Name</a>
+    </li>
+    <li>
+      <a id="71b91259-3f9b-d376-e208-6a8116801e2f" href="71b91259-3f9b-d376-e208-6a8116801e2f.htm">Info<wbr />Tip</a>
+    </li>
+    <li>
+      <a id="573005f2-3c08-a579-9f4f-942cd89f8ab0" href="573005f2-3c08-a579-9f4f-942cd89f8ab0.htm">Name</a>
+    </li>
+    <li>
+      <a id="78c5aeda-6d08-825f-9544-23b88eec664c" href="78c5aeda-6d08-825f-9544-23b88eec664c.htm">No<wbr />Open</a>
+    </li>
+    <li>
+      <a id="b218ab58-f5d2-bc20-b320-e5297df9b126" href="b218ab58-f5d2-bc20-b320-e5297df9b126.htm">Quick<wbr />Tip</a>
+    </li>
+    <li>
+      <a id="dea5c078-542e-4c28-ee88-a358fb3a1093" href="dea5c078-542e-4c28-ee88-a358fb3a1093.htm">Shell<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="2eb94852-9c92-b9c1-7170-9213b1191bf6" href="2eb94852-9c92-b9c1-7170-9213b1191bf6.htm">Shell<wbr />New<wbr />Value</a>
+    </li>
+    <li>
+      <a id="c3c9c1f5-5c62-a268-4908-84af7cb8ed89" href="c3c9c1f5-5c62-a268-4908-84af7cb8ed89.htm">Supported<wbr />Uri<wbr />Protocols</a>
+    </li>
+    <li>
+      <a id="4c1a7480-97fd-b1ee-38a7-d370a0469779" href="4c1a7480-97fd-b1ee-38a7-d370a0469779.htm">Tile<wbr />Info</a>
+    </li>
+  </tocItems>
+</toc>

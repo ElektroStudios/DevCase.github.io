@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="63405be8-826a-5c5d-1047-7713adcc5fa0.htm">System<wbr />Menu<wbr />Manager</a>
+    </li>
+    <li>
+      <a href="5ca62cd4-f249-7d3e-9249-4dee60046735.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b0c5fc22-36e2-8a9f-a6f3-0cb8520b825e" href="b0c5fc22-36e2-8a9f-a6f3-0cb8520b825e.htm">Add<wbr />Item</a>
+    </li>
+    <li>
+      <a id="1579acaf-c6cd-b34e-3bf7-0eb886c7e12e" href="1579acaf-c6cd-b34e-3bf7-0eb886c7e12e.htm">Add<wbr />Separator</a>
+    </li>
+    <li>
+      <a id="0744e819-6c85-501f-fbd6-16d667f4e9ef" href="0744e819-6c85-501f-fbd6-16d667f4e9ef.htm">Clear<wbr />Menu</a>
+    </li>
+    <li>
+      <a id="14a0055a-3fce-2664-2acd-e811eaefee50" href="14a0055a-3fce-2664-2acd-e811eaefee50.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="62b044fd-4713-a1a0-0a35-a0bcb2eb9ef6" class="has-submenu" href="62b044fd-4713-a1a0-0a35-a0bcb2eb9ef6.htm">
+        <span data-tocFile="../toc/IDECWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Item<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="390a7f85-eb5f-8427-5f46-6a8591ec15c7" href="390a7f85-eb5f-8427-5f46-6a8591ec15c7.htm">Get<wbr />Item<wbr />Count</a>
+    </li>
+    <li>
+      <a id="e7c1aca8-241f-6dbc-e4d9-0e0029c1be24" class="has-submenu" href="e7c1aca8-241f-6dbc-e4d9-0e0029c1be24.htm">
+        <span data-tocFile="../toc/IDGCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Item<wbr />ID</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ef32cc0c-b611-4f13-74b6-9b81aab77024" class="has-submenu" href="ef32cc0c-b611-4f13-74b6-9b81aab77024.htm">
+        <span data-tocFile="../toc/IDHCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Item<wbr />State</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6fb5f22f-adcb-e1fa-1266-e9938d788430" class="has-submenu" href="6fb5f22f-adcb-e1fa-1266-e9938d788430.htm">
+        <span data-tocFile="../toc/IDICWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Item<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fe18df5b-c447-82ff-0a9a-b8731bfedaf5" href="fe18df5b-c447-82ff-0a9a-b8731bfedaf5.htm">Is<wbr />Menu</a>
+    </li>
+    <li>
+      <a id="2bfeabca-4ac4-87dc-1289-e783c7a767fd" class="has-submenu" href="2bfeabca-4ac4-87dc-1289-e783c7a767fd.htm">
+        <span data-tocFile="../toc/IDKCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Item<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="592b0570-58dc-5712-2f64-3082e60aacee" href="592b0570-58dc-5712-2f64-3082e60aacee.htm">Restore<wbr />Menu</a>
+    </li>
+    <li>
+      <a id="ec0a1b86-c313-513b-5c55-355a7ffb4c5d" class="has-submenu" href="ec0a1b86-c313-513b-5c55-355a7ffb4c5d.htm">
+        <span data-tocFile="../toc/IDMCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Item<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5f9a7510-1ff7-8672-56f0-3cb06d0bd0fb" class="has-submenu" href="5f9a7510-1ff7-8672-56f0-3cb06d0bd0fb.htm">
+        <span data-tocFile="../toc/IDNCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Item<wbr />State</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d0bec6e8-327a-c681-d7a7-2d054e8292b5" class="has-submenu" href="d0bec6e8-327a-c681-d7a7-2d054e8292b5.htm">
+        <span data-tocFile="../toc/IDOCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Item<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="487474b8-e685-2f2e-3037-a1864d56f9f8" href="487474b8-e685-2f2e-3037-a1864d56f9f8.htm">Set<wbr />Menu<wbr />Back<wbr />Color</a>
+    </li>
+    <li>
+      <a id="c5dbfba6-a302-f1ec-0bbf-2481e8cfd4bf" href="c5dbfba6-a302-f1ec-0bbf-2481e8cfd4bf.htm">Set<wbr />Menu<wbr />Style</a>
+    </li>
+  </tocItems>
+</toc>

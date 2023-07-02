@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="980f6e70-e789-7657-6b58-816518a6751f.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Scintilla<wbr />Net</a>
+    </li>
+    <li>
+      <a href="fcefa6a3-cd12-4f10-27cc-2425a08ca76e.htm">Util<wbr />Scintilla<wbr />Net</a>
+    </li>
+    <li>
+      <a href="37ec0563-0e91-f0d7-d653-5233e61396fb.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="571a56db-4b2e-8b80-ddbd-c1f7c93b64de" href="571a56db-4b2e-8b80-ddbd-c1f7c93b64de.htm">Add<wbr />Line<wbr />Numbers</a>
+    </li>
+    <li>
+      <a id="7ce304b9-1998-6484-7c56-fcec5d1b35a1" href="7ce304b9-1998-6484-7c56-fcec5d1b35a1.htm">Disable<wbr />Control<wbr />Keys<wbr />Print</a>
+    </li>
+    <li>
+      <a id="0c5337a8-4394-5bb7-6b92-4533f91e6471" href="0c5337a8-4394-5bb7-6b92-4533f91e6471.htm">Enable<wbr />Control<wbr />Keys<wbr />Print</a>
+    </li>
+    <li>
+      <a id="780c5b1c-b096-b2b9-48ad-510a8949e21d" class="has-submenu" href="780c5b1c-b096-b2b9-48ad-510a8949e21d.htm">
+        <span data-tocFile="../toc/IDDAA0LB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Line<wbr />Numbers</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0426d4cb-710a-bdba-9c37-dd97c237f3ec" href="0426d4cb-710a-bdba-9c37-dd97c237f3ec.htm">Set<wbr />CSharp<wbr />Dark<wbr />Style</a>
+    </li>
+    <li>
+      <a id="2a0fb1ac-348b-4b48-07d3-94631f47f557" href="2a0fb1ac-348b-4b48-07d3-94631f47f557.htm">Set<wbr />CSharp<wbr />Light<wbr />Style</a>
+    </li>
+    <li>
+      <a id="5908dc42-fa7b-5f13-8f0d-655145a3a338" href="5908dc42-fa7b-5f13-8f0d-655145a3a338.htm">Set<wbr />CSharp<wbr />System<wbr />Style</a>
+    </li>
+    <li>
+      <a id="87516e24-341e-4f62-6d4c-e347e136a982" href="87516e24-341e-4f62-6d4c-e347e136a982.htm">Set<wbr />Python<wbr />Light<wbr />Style</a>
+    </li>
+    <li>
+      <a id="2bd92810-5d89-c427-65ac-901c4d52ae50" href="2bd92810-5d89-c427-65ac-901c4d52ae50.htm">Set<wbr />Vb<wbr />Net<wbr />Dark<wbr />Style</a>
+    </li>
+    <li>
+      <a id="c31faa82-e828-da32-c152-73d12c50824a" href="c31faa82-e828-da32-c152-73d12c50824a.htm">Set<wbr />Vb<wbr />Net<wbr />Light<wbr />Style</a>
+    </li>
+    <li>
+      <a id="9b390641-a9d8-d1b3-4003-699a6f046f3a" href="9b390641-a9d8-d1b3-4003-699a6f046f3a.htm">Set<wbr />Vb<wbr />Net<wbr />System<wbr />Style</a>
+    </li>
+    <li>
+      <a id="fab85bd1-3fba-a9e6-f63c-9f479fe1d900" href="fab85bd1-3fba-a9e6-f63c-9f479fe1d900.htm">Set<wbr />Xml<wbr />Light<wbr />Style</a>
+    </li>
+  </tocItems>
+</toc>

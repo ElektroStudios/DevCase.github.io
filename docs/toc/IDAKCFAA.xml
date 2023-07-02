@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="6b52e1f4-f3e6-ada3-c1c9-4c898276a935.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Drives</a>
+    </li>
+    <li>
+      <a href="e7958eed-599f-0cec-e282-19db4ca76296.htm">Util<wbr />Drives</a>
+    </li>
+    <li>
+      <a href="55ec8d8f-7b46-901b-0cb7-53c45bd69c7c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a78e21e4-033e-bf63-4527-79b147af71cb" href="a78e21e4-033e-bf63-4527-79b147af71cb.htm">Format<wbr />Drive</a>
+    </li>
+    <li>
+      <a id="81104e04-4274-6ef5-f7a8-5a95409be1ed" href="81104e04-4274-6ef5-f7a8-5a95409be1ed.htm">Get<wbr />Drive<wbr />Free<wbr />Space</a>
+    </li>
+    <li>
+      <a id="8edce3b2-8628-f83b-e868-ea68f00ba3bf" href="8edce3b2-8628-f83b-e868-ea68f00ba3bf.htm">Get<wbr />Drive<wbr />Info</a>
+    </li>
+    <li>
+      <a id="13ff7216-6438-b00b-30f1-f5b666f1e069" href="13ff7216-6438-b00b-30f1-f5b666f1e069.htm">Get<wbr />Drives<wbr />Info<wbr />Of</a>
+    </li>
+    <li>
+      <a id="7c358492-96fe-16f0-cdff-dc234bcf6efa" href="7c358492-96fe-16f0-cdff-dc234bcf6efa.htm">Get<wbr />Drive<wbr />Size</a>
+    </li>
+    <li>
+      <a id="7005fb01-6307-4432-e819-069fdc9fc512" class="has-submenu" href="7005fb01-6307-4432-e819-069fdc9fc512.htm">
+        <span data-tocFile="../toc/IDFAKCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Hard<wbr />Drive<wbr />Handle</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e6395a6e-2d1e-bdf2-a9ae-043cfe8f7d3b" class="has-submenu" href="e6395a6e-2d1e-bdf2-a9ae-043cfe8f7d3b.htm">
+        <span data-tocFile="../toc/IDGAKCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Win<wbr />32Disk<wbr />Drive</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1f89cf6f-df78-2151-344f-2ccb87953241" class="has-submenu" href="1f89cf6f-df78-2151-344f-2ccb87953241.htm">
+        <span data-tocFile="../toc/IDHAKCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Win<wbr />32Logical<wbr />Disk</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="97da1811-9c8a-5bc1-c442-f85a18fbea56" href="97da1811-9c8a-5bc1-c442-f85a18fbea56.htm">Try<wbr />Get<wbr />Drive<wbr />Info</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="38a22194-9a85-7923-3fb4-c682604c0ecb.htm">Get<wbr />Post<wbr />Response</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b6d39d48-5cf1-7c4b-bf3e-7d654e13feb8" href="b6d39d48-5cf1-7c4b-bf3e-7d654e13feb8.htm">Get<wbr />Post<wbr />Response(<wbr />String, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="3c5ae833-d127-932b-9bc5-e094bebeea14" href="3c5ae833-d127-932b-9bc5-e094bebeea14.htm">Get<wbr />Post<wbr />Response(<wbr />String, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="eec7002d-ebb8-8d6b-7ad0-5f8b0d1aa1ce" href="eec7002d-ebb8-8d6b-7ad0-5f8b0d1aa1ce.htm">Get<wbr />Post<wbr />Response(<wbr />Uri, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="9e352391-8a6e-89ec-ba3d-408e240862de" href="9e352391-8a6e-89ec-ba3d-408e240862de.htm">Get<wbr />Post<wbr />Response(<wbr />Uri, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="7a8ba17e-37c8-ac42-8459-1f4f5d1efedb" href="7a8ba17e-37c8-ac42-8459-1f4f5d1efedb.htm">Get<wbr />Post<wbr />Response(<wbr />String, Cookie<wbr />Container, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="12cbe79f-405d-700f-20fa-a87fa89ca943" href="12cbe79f-405d-700f-20fa-a87fa89ca943.htm">Get<wbr />Post<wbr />Response(<wbr />String, Cookie<wbr />Container, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="224f7010-f76b-7a11-7535-a9206df2eaec" href="224f7010-f76b-7a11-7535-a9206df2eaec.htm">Get<wbr />Post<wbr />Response(<wbr />Uri, Cookie<wbr />Container, Dictionary&lt;String, String&gt;)</a>
+    </li>
+    <li>
+      <a id="a3714dd8-48be-94e1-3ff1-c7da68c4b277" href="a3714dd8-48be-94e1-3ff1-c7da68c4b277.htm">Get<wbr />Post<wbr />Response(<wbr />Uri, Cookie<wbr />Container, Name<wbr />Value<wbr />Collection)</a>
+    </li>
+  </tocItems>
+</toc>

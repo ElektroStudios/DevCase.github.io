@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="596712c4-7954-e57c-26dc-268ca02f35e4.htm">Download<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b9dc7789-f3c8-8420-ef41-06f7256e6bed" href="b9dc7789-f3c8-8420-ef41-06f7256e6bed.htm">Download<wbr />File(<wbr />String, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="5616cc8f-5383-ea7e-7855-13113e821bb2" href="5616cc8f-5383-ea7e-7855-13113e821bb2.htm">Download<wbr />File(<wbr />String, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="843b00ad-9071-7d9f-0f9c-3ad7883d1490" href="843b00ad-9071-7d9f-0f9c-3ad7883d1490.htm">Download<wbr />File(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="2e4d04cd-e808-f14a-5362-6f0a74183294" href="2e4d04cd-e808-f14a-5362-6f0a74183294.htm">Download<wbr />File(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="cfaf0654-8e6d-daa4-2abe-230840529292" href="cfaf0654-8e6d-daa4-2abe-230840529292.htm">Download<wbr />File(<wbr />Web<wbr />Proxy, String, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="c237151a-4df9-6781-5dba-62cb9fb4750c" href="c237151a-4df9-6781-5dba-62cb9fb4750c.htm">Download<wbr />File(<wbr />Web<wbr />Proxy, String, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="2e1904da-0c92-4c0e-77e1-a1b72e9bab64" href="2e1904da-0c92-4c0e-77e1-a1b72e9bab64.htm">Download<wbr />File(<wbr />Web<wbr />Proxy, String, String)</a>
+    </li>
+    <li>
+      <a id="8224d66c-8374-ef6a-1995-775ee25d7aa7" href="8224d66c-8374-ef6a-1995-775ee25d7aa7.htm">Download<wbr />File(<wbr />Web<wbr />Proxy, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d755c9f5-ddc8-1207-101b-2e67dcb1eeec.htm">Crop</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a23e8a0b-4b12-f3e6-7c58-db5ffe08b6a2" href="a23e8a0b-4b12-f3e6-7c58-db5ffe08b6a2.htm">Crop(<wbr />Image, Rectangle)</a>
+    </li>
+    <li>
+      <a id="0d832da4-2846-c945-3c18-395d01eb824c" href="0d832da4-2846-c945-3c18-395d01eb824c.htm">Crop(<wbr />Image, Point, Size)</a>
+    </li>
+    <li>
+      <a id="fd8d8a62-ae16-2942-9f36-499e45cda6fa" href="fd8d8a62-ae16-2942-9f36-499e45cda6fa.htm">Crop(<wbr />Image, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

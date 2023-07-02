@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="6c3b2e39-edb2-c1e8-5108-c5e5863c7fd4.htm">Util<wbr />Keyboard</a>
+    </li>
+    <li>
+      <a href="b0e31f1d-41cd-713f-8699-74084217c501.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fe8f17df-89f7-326a-2dfa-b1daf23bf506" class="has-submenu" href="fe8f17df-89f7-326a-2dfa-b1daf23bf506.htm">
+        <span data-tocFile="../toc/IDABVEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Keyboard<wbr />Layout</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="daa374e7-9f0a-4af3-5605-4d72d962caaf" href="daa374e7-9f0a-4af3-5605-4d72d962caaf.htm">Get<wbr />Key<wbr />Code</a>
+    </li>
+    <li>
+      <a id="054e3244-bc9a-47f6-9030-cbb244f9d2c8" href="054e3244-bc9a-47f6-9030-cbb244f9d2c8.htm">Send<wbr />Char</a>
+    </li>
+    <li>
+      <a id="e40c3078-e0a0-fcf8-17a6-43de4a063d1e" class="has-submenu" href="e40c3078-e0a0-fcf8-17a6-43de4a063d1e.htm">
+        <span data-tocFile="../toc/IDDBVEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Key</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4fbd0071-62c2-1aeb-08ad-1c6a790b5995" class="has-submenu" href="4fbd0071-62c2-1aeb-08ad-1c6a790b5995.htm">
+        <span data-tocFile="../toc/IDEBVEFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Key<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d56a3ed3-c1e7-41d6-b906-4018c6395e7b" href="d56a3ed3-c1e7-41d6-b906-4018c6395e7b.htm">Send<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="f5721393-d22e-3bd3-396b-06985b913ac4.htm">Captcha<wbr />Generator</a>
+    </li>
+    <li>
+      <a href="66f46f5e-02aa-e338-e901-2d7361eddf28.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="27b9a177-d9f3-9831-d1fd-7dfc3a21b94c" href="27b9a177-d9f3-9831-d1fd-7dfc3a21b94c.htm">Background<wbr />Color<wbr />1</a>
+    </li>
+    <li>
+      <a id="7043a5a4-23b5-7e26-0a99-72a775d3999b" href="7043a5a4-23b5-7e26-0a99-72a775d3999b.htm">Background<wbr />Color<wbr />2</a>
+    </li>
+    <li>
+      <a id="0ddc3040-e7d7-9f6c-ea6a-4bfb37742bdf" href="0ddc3040-e7d7-9f6c-ea6a-4bfb37742bdf.htm">Characters</a>
+    </li>
+    <li>
+      <a id="dd55355c-fa5f-83ef-b8f9-5f1b24ee1266" href="dd55355c-fa5f-83ef-b8f9-5f1b24ee1266.htm">Curve<wbr />Color</a>
+    </li>
+    <li>
+      <a id="1d34cef3-0510-4dba-7d4f-0ca25b1fa6e0" href="1d34cef3-0510-4dba-7d4f-0ca25b1fa6e0.htm">Curve<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="ee201cf3-e8ff-4682-4d20-5a52e009eb60" href="ee201cf3-e8ff-4682-4d20-5a52e009eb60.htm">Curve<wbr />Tension</a>
+    </li>
+    <li>
+      <a id="2ac05917-f829-2183-1677-fc75247f83b6" href="2ac05917-f829-2183-1677-fc75247f83b6.htm">Curve<wbr />Width</a>
+    </li>
+    <li>
+      <a id="889c9ef2-65a1-67b5-83a9-4ef5b9c2c600" href="889c9ef2-65a1-67b5-83a9-4ef5b9c2c600.htm">Fonts</a>
+    </li>
+    <li>
+      <a id="6177ced7-790d-e0a8-361e-885925929d81" href="6177ced7-790d-e0a8-361e-885925929d81.htm">Font<wbr />Style</a>
+    </li>
+    <li>
+      <a id="188f0ff6-8d25-e081-aae0-dae5aa771de8" href="188f0ff6-8d25-e081-aae0-dae5aa771de8.htm">Grid<wbr />Color</a>
+    </li>
+    <li>
+      <a id="f7cad4d8-1035-fedf-9158-8d68c7af033e" href="f7cad4d8-1035-fedf-9158-8d68c7af033e.htm">Grid<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="7dc1e22b-46c0-1413-2cf6-b6c3e2818152" href="7dc1e22b-46c0-1413-2cf6-b6c3e2818152.htm">Grid<wbr />Spacing</a>
+    </li>
+    <li>
+      <a id="21f9d1be-ac8a-4f6b-91e2-6deda8f6358c" href="21f9d1be-ac8a-4f6b-91e2-6deda8f6358c.htm">Grid<wbr />Width</a>
+    </li>
+    <li>
+      <a id="4f06c982-eb18-5ebd-5b64-db80605f8fe1" href="4f06c982-eb18-5ebd-5b64-db80605f8fe1.htm">Size</a>
+    </li>
+    <li>
+      <a id="758f7385-a047-c7ff-bbe0-66d8448f0f6d" href="758f7385-a047-c7ff-bbe0-66d8448f0f6d.htm">Text<wbr />Alignment<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="cc563a7d-62ce-db1e-3bbd-67e07a7a841f" href="cc563a7d-62ce-db1e-3bbd-67e07a7a841f.htm">Text<wbr />Color</a>
+    </li>
+    <li>
+      <a id="2fa23a6d-4e50-2120-29fe-fb70de35e91a" href="2fa23a6d-4e50-2120-29fe-fb70de35e91a.htm">Text<wbr />Length</a>
+    </li>
+  </tocItems>
+</toc>

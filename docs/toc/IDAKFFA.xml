@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="e85f8cf5-2dd5-124d-a32a-ef8f97d4963e.htm">Kernel<wbr />Base</a>
+    </li>
+    <li>
+      <a href="296431b5-675a-299b-2130-ce7989f3972a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fda37329-a24a-e2e8-d8a5-d2ff9b2e8345" href="fda37329-a24a-e2e8-d8a5-d2ff9b2e8345.htm">Compare<wbr />Object<wbr />Handles</a>
+    </li>
+    <li>
+      <a id="221fff1a-15b6-2db6-8a67-8711422bb8c8" href="221fff1a-15b6-2db6-8a67-8711422bb8c8.htm">Path<wbr />Cch<wbr />Add<wbr />Backslash</a>
+    </li>
+    <li>
+      <a id="28967260-99bb-223f-a488-e4480fba0053" href="28967260-99bb-223f-a488-e4480fba0053.htm">Path<wbr />Cch<wbr />Add<wbr />Backslash<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="402f00f7-b687-c40d-bd27-7d75965e89ee" href="402f00f7-b687-c40d-bd27-7d75965e89ee.htm">Path<wbr />Cch<wbr />Add<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="d2f8668c-274a-8a40-04ca-a78b2acb675a" href="d2f8668c-274a-8a40-04ca-a78b2acb675a.htm">Path<wbr />Cch<wbr />Append</a>
+    </li>
+    <li>
+      <a id="d8ee2619-6457-752e-6f4a-0e6e5d7dae7f" href="d8ee2619-6457-752e-6f4a-0e6e5d7dae7f.htm">Path<wbr />Cch<wbr />Append<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="c9c89905-9220-3c3a-7054-a90f36c6c084" href="c9c89905-9220-3c3a-7054-a90f36c6c084.htm">Path<wbr />Cch<wbr />Canonicalize</a>
+    </li>
+    <li>
+      <a id="bfeb095f-971f-3a02-e6d0-6842e75e2b7a" href="bfeb095f-971f-3a02-e6d0-6842e75e2b7a.htm">Path<wbr />Cch<wbr />Canonicalize<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="a20c1ef3-c0e7-f9d3-53ec-53f5ee12759b" href="a20c1ef3-c0e7-f9d3-53ec-53f5ee12759b.htm">Path<wbr />Cch<wbr />Combine</a>
+    </li>
+    <li>
+      <a id="b4268cad-0f76-8e3d-28d6-df763e1989ad" href="b4268cad-0f76-8e3d-28d6-df763e1989ad.htm">Path<wbr />Cch<wbr />Combine<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="4a0c5c51-0b9c-5e89-7378-7fe99f40e507" href="4a0c5c51-0b9c-5e89-7378-7fe99f40e507.htm">Path<wbr />Cch<wbr />Is<wbr />Root</a>
+    </li>
+    <li>
+      <a id="d4d0dff1-1f52-889c-0a96-5a5aad8c50f8" href="d4d0dff1-1f52-889c-0a96-5a5aad8c50f8.htm">Path<wbr />Cch<wbr />Remove<wbr />Backslash</a>
+    </li>
+    <li>
+      <a id="aa9317c8-fe46-5e27-84f9-04ced67184ee" href="aa9317c8-fe46-5e27-84f9-04ced67184ee.htm">Path<wbr />Cch<wbr />Remove<wbr />Backslash<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="9321c1e9-1226-7bfe-4908-d76ad8d4a38c" href="9321c1e9-1226-7bfe-4908-d76ad8d4a38c.htm">Path<wbr />Cch<wbr />Remove<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="bee71868-dbe6-f121-523b-ffc22791c43f" href="bee71868-dbe6-f121-523b-ffc22791c43f.htm">Path<wbr />Cch<wbr />Remove<wbr />File<wbr />Spec</a>
+    </li>
+    <li>
+      <a id="75273d45-4a3a-6bf6-12cd-33d1a41508d9" href="75273d45-4a3a-6bf6-12cd-33d1a41508d9.htm">Path<wbr />Cch<wbr />Rename<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="0cbf1607-9220-873d-77e5-a2c1388acf13" href="0cbf1607-9220-873d-77e5-a2c1388acf13.htm">Path<wbr />Cch<wbr />Strip<wbr />Prefix</a>
+    </li>
+    <li>
+      <a id="a2927f48-6073-730f-9eb5-51cf7c0f4f78" href="a2927f48-6073-730f-9eb5-51cf7c0f4f78.htm">Path<wbr />Cch<wbr />Strip<wbr />To<wbr />Root</a>
+    </li>
+    <li>
+      <a id="8ae40d6d-1a19-ecde-7ea3-ab4ef2a4cdb2" href="8ae40d6d-1a19-ecde-7ea3-ab4ef2a4cdb2.htm">Path<wbr />Is<wbr />UNCEx</a>
+    </li>
+  </tocItems>
+</toc>

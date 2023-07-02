@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d12e6f57-ed2a-f528-63f2-f9d426862885.htm">Virtual<wbr />Protect</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="74bd0719-3a3b-6da8-fae1-c94fd0c4ff09" href="74bd0719-3a3b-6da8-fae1-c94fd0c4ff09.htm">Virtual<wbr />Protect(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Protection<wbr />Options, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="b03d0e8c-3a88-51da-9b3e-e1388741df5b" href="b03d0e8c-3a88-51da-9b3e-e1388741df5b.htm">Virtual<wbr />Protect(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Protection<wbr />Options, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="e3857002-f239-2cd0-1684-9de9a531d1c3" href="e3857002-f239-2cd0-1684-9de9a531d1c3.htm">Virtual<wbr />Protect(<wbr />UInt<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Protection<wbr />Options, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="41acbc0d-7ef2-8b5d-fc7e-a9b1d5e0db8e" href="41acbc0d-7ef2-8b5d-fc7e-a9b1d5e0db8e.htm">Virtual<wbr />Protect(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Protection<wbr />Options, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="e11f4f60-b821-ad8c-7f23-e1dd503067d7.htm">Util<wbr />Mru</a>
+    </li>
+    <li>
+      <a href="eb317961-c3b2-4141-0143-6f743ce34304.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ed92f1f8-c481-3db2-c057-fc6e4abe2691.htm">Save</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="792bbc85-2b16-0cd1-488b-8c4c16279bd8" href="792bbc85-2b16-0cd1-488b-8c4c16279bd8.htm">Save(<wbr />List&lt;Mru<wbr />File<wbr />Item&gt;, String)</a>
+    </li>
+    <li>
+      <a id="a73965c7-7123-6b34-2831-5e9353123626" href="a73965c7-7123-6b34-2831-5e9353123626.htm">Save&lt;T&gt;(<wbr />List&lt;Mru<wbr />Item&lt;T&gt;&gt;, String)</a>
+    </li>
+  </tocItems>
+</toc>

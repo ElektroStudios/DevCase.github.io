@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Combinatorics</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ab437de4-1a4b-31cb-d385-c492ce16b1e3" class="has-submenu" href="ab437de4-1a4b-31cb-d385-c492ce16b1e3.htm">
+        <span data-tocFile="../toc/IDAAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Combination<wbr />Collection&lt;T&gt;</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a265a05e-8e6a-5cc3-f014-113901957bfa" class="has-submenu" href="a265a05e-8e6a-5cc3-f014-113901957bfa.htm">
+        <span data-tocFile="../toc/IDBAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>IMeta<wbr />Collection&lt;T&gt;</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="827c4f66-8b57-9dca-7795-6908fd99f410" href="827c4f66-8b57-9dca-7795-6908fd99f410.htm">Meta<wbr />Collection<wbr />Type</a>
+    </li>
+    <li>
+      <a id="75d74e73-a817-5ed2-ac9e-2d1b299d93c9" class="has-submenu" href="75d74e73-a817-5ed2-ac9e-2d1b299d93c9.htm">
+        <span data-tocFile="../toc/IDDAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Permutation<wbr />Collection&lt;T&gt;</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0613bec9-d09a-65c6-cb89-dbc71a3e27cd" class="has-submenu" href="0613bec9-d09a-65c6-cb89-dbc71a3e27cd.htm">
+        <span data-tocFile="../toc/IDEAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Combinatorics</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="e9d9192a-9664-c11a-1c95-4428a26c93a9.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />WMI</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9c5c94ce-b48b-09a7-5d7e-aed5441fa899" class="has-submenu" href="9c5c94ce-b48b-09a7-5d7e-aed5441fa899.htm">
+        <span data-tocFile="../toc/IDASDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />WMI</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3c62b63a-a0c9-1ce6-b99e-5f25b547bfda" class="has-submenu" href="3c62b63a-a0c9-1ce6-b99e-5f25b547bfda.htm">
+        <span data-tocFile="../toc/IDBSDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>WMIEvent<wbr />Watcher</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

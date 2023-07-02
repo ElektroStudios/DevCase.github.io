@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="7189b7b0-a6fb-29dc-a3e0-d2b5aa1a01c0.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Url<wbr />Shortener</a>
+    </li>
+    <li>
+      <a href="7589a639-c830-f8c0-1484-871a1da1718d.htm">Url<wbr />Shortener<wbr />Client</a>
+    </li>
+    <li>
+      <a href="7980805f-7fd9-b923-55b7-2c50dff69345.htm">Methods</a>
+    </li>
+    <li>
+      <a href="60de6a15-117c-74be-14a1-cdb9eeb73a52.htm">Shorten</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5b5e9b69-9e19-4411-5030-94dcc45e4825" href="5b5e9b69-9e19-4411-5030-94dcc45e4825.htm">Shorten(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="57c8322c-fc45-cb6f-17fa-f3fd36086a9e" href="57c8322c-fc45-cb6f-17fa-f3fd36086a9e.htm">Shorten(<wbr />Uri)</a>
+    </li>
+  </tocItems>
+</toc>

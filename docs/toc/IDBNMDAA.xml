@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="7e484470-5fd2-4eea-aac9-462e85502fbc.htm">Window<wbr />Info</a>
+    </li>
+    <li>
+      <a href="5a12e623-a739-52d6-fafd-0a0ca5231b5e.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="730e335e-8c43-3474-5b34-3ba5fe1e8229" href="730e335e-8c43-3474-5b34-3ba5fe1e8229.htm">Active</a>
+    </li>
+    <li>
+      <a id="e0d60581-d90f-fd1e-7c37-ca64174247ae" href="e0d60581-d90f-fd1e-7c37-ca64174247ae.htm">Atom<wbr />Window<wbr />Type</a>
+    </li>
+    <li>
+      <a id="56acacf8-18b5-0940-fb62-f8ae0d012efd" href="56acacf8-18b5-0940-fb62-f8ae0d012efd.htm">Border<wbr />Height</a>
+    </li>
+    <li>
+      <a id="773f4030-422f-87e8-98ad-019327a06f08" href="773f4030-422f-87e8-98ad-019327a06f08.htm">Border<wbr />Width</a>
+    </li>
+    <li>
+      <a id="6b711fd3-e71b-8786-2885-5e12e65b9e3f" href="6b711fd3-e71b-8786-2885-5e12e65b9e3f.htm">Bounds</a>
+    </li>
+    <li>
+      <a id="89cf93d4-9495-ca93-03f9-c7d1ba41ddb9" href="89cf93d4-9495-ca93-03f9-c7d1ba41ddb9.htm">Child<wbr />Window</a>
+    </li>
+    <li>
+      <a id="cec8e39d-11ad-c6e9-e0ad-7f60c658163b" href="cec8e39d-11ad-c6e9-e0ad-7f60c658163b.htm">Class<wbr />Name</a>
+    </li>
+    <li>
+      <a id="0f9648b5-d948-d1c4-fb28-45fb06c59f74" href="0f9648b5-d948-d1c4-fb28-45fb06c59f74.htm">Client<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a id="d8cbd005-e404-ef66-ec6e-c626062f5650" href="d8cbd005-e404-ef66-ec6e-c626062f5650.htm">Creator<wbr />Version</a>
+    </li>
+    <li>
+      <a id="52ea30f4-cc1d-40ab-9263-fc0de3ee34c9" href="52ea30f4-cc1d-40ab-9263-fc0de3ee34c9.htm">Device<wbr />Context</a>
+    </li>
+    <li>
+      <a id="b5a4f8b5-c5c5-0c3a-e0ad-88ba9e06a716" href="b5a4f8b5-c5c5-0c3a-e0ad-88ba9e06a716.htm">Enabled</a>
+    </li>
+    <li>
+      <a id="a79d70e1-65fc-df62-3a38-1c9df96db1c9" href="a79d70e1-65fc-df62-3a38-1c9df96db1c9.htm">First<wbr />Window</a>
+    </li>
+    <li>
+      <a id="bf985d67-708d-25a3-7021-5ed87126debb" href="bf985d67-708d-25a3-7021-5ed87126debb.htm">Hwnd</a>
+    </li>
+    <li>
+      <a id="1ee048c2-78fa-3759-1269-f3a41bab8ceb" href="1ee048c2-78fa-3759-1269-f3a41bab8ceb.htm">Last<wbr />Window</a>
+    </li>
+    <li>
+      <a id="59fa8207-d7ca-59a2-e6ed-8b94ee276feb" href="59fa8207-d7ca-59a2-e6ed-8b94ee276feb.htm">Maximized</a>
+    </li>
+    <li>
+      <a id="d765bf74-4333-a9d3-1560-64521e3a7439" href="d765bf74-4333-a9d3-1560-64521e3a7439.htm">Minimized</a>
+    </li>
+    <li>
+      <a id="bb9021eb-e319-4705-8819-2c3343e05ffa" href="bb9021eb-e319-4705-8819-2c3343e05ffa.htm">Next<wbr />Window</a>
+    </li>
+    <li>
+      <a id="a3e33519-856e-2119-b345-aef6e192b9d7" href="a3e33519-856e-2119-b345-aef6e192b9d7.htm">Owner<wbr />Window</a>
+    </li>
+    <li>
+      <a id="02054970-58f8-a86b-6348-4e87528bf28b" href="02054970-58f8-a86b-6348-4e87528bf28b.htm">Parent<wbr />Window</a>
+    </li>
+    <li>
+      <a id="07f3f1db-1000-4416-89d6-ddc5480b4235" href="07f3f1db-1000-4416-89d6-ddc5480b4235.htm">Previous<wbr />Window</a>
+    </li>
+    <li>
+      <a id="b00dc9fd-2c53-6c1b-3841-fbf1e1e79f9b" href="b00dc9fd-2c53-6c1b-3841-fbf1e1e79f9b.htm">Process</a>
+    </li>
+    <li>
+      <a id="c3c7c397-c7d8-08a8-44ed-01fe417eef95" href="c3c7c397-c7d8-08a8-44ed-01fe417eef95.htm">Screen</a>
+    </li>
+    <li>
+      <a id="ebb8c89b-5cb1-2c07-9d38-14c6fad92568" href="ebb8c89b-5cb1-2c07-9d38-14c6fad92568.htm">Text</a>
+    </li>
+    <li>
+      <a id="237b6528-b920-4ea3-aea4-3b69c80f0e9d" href="237b6528-b920-4ea3-aea4-3b69c80f0e9d.htm">Thread<wbr />Id</a>
+    </li>
+    <li>
+      <a id="3a33ccac-782a-e4a0-daea-b2fadf5908b9" href="3a33ccac-782a-e4a0-daea-b2fadf5908b9.htm">Visible</a>
+    </li>
+    <li>
+      <a id="5e690fe7-dd03-6cda-3b69-94dec138cb39" href="5e690fe7-dd03-6cda-3b69-94dec138cb39.htm">Window<wbr />Placement</a>
+    </li>
+    <li>
+      <a id="e978fa45-5738-91d6-e840-49207e98747b" href="e978fa45-5738-91d6-e840-49207e98747b.htm">Window<wbr />Style</a>
+    </li>
+    <li>
+      <a id="52d8e3e3-7c2f-f881-6cd0-b4d2e415b7ee" href="52d8e3e3-7c2f-f881-6cd0-b4d2e415b7ee.htm">Window<wbr />Style<wbr />Extended</a>
+    </li>
+  </tocItems>
+</toc>

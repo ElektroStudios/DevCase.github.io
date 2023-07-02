@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="03053956-b0b2-46e8-2f91-6186049ec54b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application</a>
+    </li>
+    <li>
+      <a href="48517cfe-d9c5-abca-4c0c-bd50792383cb.htm">Util<wbr />Application</a>
+    </li>
+    <li>
+      <a href="756bfae5-0728-6eb2-1517-428f0c21d104.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3eefc390-2de6-c443-7752-5b84eff88ba9" href="3eefc390-2de6-c443-7752-5b84eff88ba9.htm">Add<wbr />Relative<wbr />Assembly<wbr />Reference<wbr />Paths</a>
+    </li>
+    <li>
+      <a id="bfc13ef3-797a-167e-0f33-3e784c8df7dc" href="bfc13ef3-797a-167e-0f33-3e784c8df7dc.htm">App<wbr />Open<wbr />With<wbr />Register</a>
+    </li>
+    <li>
+      <a id="a2369d27-3761-e714-4f86-e567256bf0e1" href="a2369d27-3761-e714-4f86-e567256bf0e1.htm">App<wbr />Open<wbr />With<wbr />Unregister</a>
+    </li>
+    <li>
+      <a id="184c745f-d8aa-eff6-5325-0bc104a8ddc8" href="184c745f-d8aa-eff6-5325-0bc104a8ddc8.htm">App<wbr />Shell<wbr />Execute<wbr />Register</a>
+    </li>
+    <li>
+      <a id="776cba63-9aa3-bf42-ddb7-487b402d7182" href="776cba63-9aa3-bf42-ddb7-487b402d7182.htm">App<wbr />Shell<wbr />Execute<wbr />Unregister</a>
+    </li>
+    <li>
+      <a id="ade93863-1f7c-d2a6-3978-d872750c5c37" href="ade93863-1f7c-d2a6-3978-d872750c5c37.htm">Compute<wbr />Self<wbr />Hash&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="82ed5d6b-09a0-1ff5-7c32-a3f276935cc5" class="has-submenu" href="82ed5d6b-09a0-1ff5-7c32-a3f276935cc5.htm">
+        <span data-tocFile="../toc/IDGBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Mutex</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8b0958c6-205b-f72d-38b2-b5f52be0e2e6" class="has-submenu" href="8b0958c6-205b-f72d-38b2-b5f52be0e2e6.htm">
+        <span data-tocFile="../toc/IDHBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Delete<wbr />Self<wbr />Application</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="178b9f24-61e1-070a-2a81-56513a714c37" href="178b9f24-61e1-070a-2a81-56513a714c37.htm">Get<wbr />First<wbr />Run<wbr />Flag</a>
+    </li>
+    <li>
+      <a id="b131b901-52d4-1a7e-f8bd-c47f039adf3f" class="has-submenu" href="b131b901-52d4-1a7e-f8bd-c47f039adf3f.htm">
+        <span data-tocFile="../toc/IDJBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />IEBrowser<wbr />Emulation<wbr />Mode</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b259c21a-bb28-11cb-df4a-d0a5db5e6988" href="b259c21a-bb28-11cb-df4a-d0a5db5e6988.htm">Set<wbr />First<wbr />Run<wbr />Flag</a>
+    </li>
+    <li>
+      <a id="85282a31-77d8-51be-55a4-dee183160867" class="has-submenu" href="85282a31-77d8-51be-55a4-dee183160867.htm">
+        <span data-tocFile="../toc/IDLBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />IEBrowser<wbr />Emulation<wbr />Mode</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="47d4522e-33b2-9878-90f8-82599becb265" class="has-submenu" href="47d4522e-33b2-9878-90f8-82599becb265.htm">
+        <span data-tocFile="../toc/IDMBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Thread<wbr />Priority</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="49293bfd-4c48-0abb-c120-9b6297f15cef" class="has-submenu" href="49293bfd-4c48-0abb-c120-9b6297f15cef.htm">
+        <span data-tocFile="../toc/IDNBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Sleep</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cc9958d2-3b33-b1c5-4056-799767839c78" class="has-submenu" href="cc9958d2-3b33-b1c5-4056-799767839c78.htm">
+        <span data-tocFile="../toc/IDOBAAAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Sleep<wbr />Random</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

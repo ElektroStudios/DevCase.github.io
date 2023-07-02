@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">Unit</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="69da8b05-e965-5685-fb12-d048510b156e" class="has-submenu" href="69da8b05-e965-5685-fb12-d048510b156e.htm">
+        <span data-tocFile="../toc/IDAFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fe9ef1b9-3a06-f6c7-6335-abc5b813adda" class="has-submenu" href="fe9ef1b9-3a06-f6c7-6335-abc5b813adda.htm">
+        <span data-tocFile="../toc/IDBFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e6c78dbe-950c-f85b-6b1a-9d74333c72ec" class="has-submenu" href="e6c78dbe-950c-f85b-6b1a-9d74333c72ec.htm">
+        <span data-tocFile="../toc/IDCFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3373bb87-620e-aead-f6f9-1dd2999c37fd" class="has-submenu" href="3373bb87-620e-aead-f6f9-1dd2999c37fd.htm">
+        <span data-tocFile="../toc/IDDFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Operators</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

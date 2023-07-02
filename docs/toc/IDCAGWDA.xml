@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="7189b7b0-a6fb-29dc-a3e0-d2b5aa1a01c0.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Url<wbr />Shortener</a>
+    </li>
+    <li>
+      <a href="7589a639-c830-f8c0-1484-871a1da1718d.htm">Url<wbr />Shortener<wbr />Client</a>
+    </li>
+    <li>
+      <a href="7980805f-7fd9-b923-55b7-2c50dff69345.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="22389e31-3d4a-ac24-4a38-6bbcaed92684" href="22389e31-3d4a-ac24-4a38-6bbcaed92684.htm">Authorize</a>
+    </li>
+    <li>
+      <a id="35e510d8-1515-e20b-ac09-8ce258756226" href="35e510d8-1515-e20b-ac09-8ce258756226.htm">Authorize<wbr />Async</a>
+    </li>
+    <li>
+      <a id="0065d6a0-92f0-78b5-10d0-9dc60d9d754e" href="0065d6a0-92f0-78b5-10d0-9dc60d9d754e.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="b01a80bf-58a2-aeaf-a7e3-9f88da8a8250" class="has-submenu" href="b01a80bf-58a2-aeaf-a7e3-9f88da8a8250.htm">
+        <span data-tocFile="../toc/IDDCAGWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resolve</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c3ac432d-b60d-1d3b-750d-c9b48843f375" class="has-submenu" href="c3ac432d-b60d-1d3b-750d-c9b48843f375.htm">
+        <span data-tocFile="../toc/IDECAGWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Resolve<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="60de6a15-117c-74be-14a1-cdb9eeb73a52" class="has-submenu" href="60de6a15-117c-74be-14a1-cdb9eeb73a52.htm">
+        <span data-tocFile="../toc/IDFCAGWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shorten</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3cf26f80-f925-c975-998e-921f5b03640b" class="has-submenu" href="3cf26f80-f925-c975-998e-921f5b03640b.htm">
+        <span data-tocFile="../toc/IDGCAGWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shorten<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="10e4bf89-7b62-2a00-cbf0-dbe573be0911.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Youtube</a>
+    </li>
+    <li>
+      <a href="91c40d9e-8ba1-87c6-10ad-a6ee0d012523.htm">Youtube<wbr />Client</a>
+    </li>
+    <li>
+      <a href="466a7938-9ad4-f555-9a37-140f4b8f2f3d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7a84e305-c7da-b9d4-4258-9e5f48f97a5a" href="7a84e305-c7da-b9d4-4258-9e5f48f97a5a.htm">Authorize</a>
+    </li>
+    <li>
+      <a id="4a260e74-2edb-1e0c-2480-222b47493f48" href="4a260e74-2edb-1e0c-2480-222b47493f48.htm">Authorize<wbr />Async</a>
+    </li>
+    <li>
+      <a id="2c54c1c2-52fd-a194-b335-9b7c273b445e" href="2c54c1c2-52fd-a194-b335-9b7c273b445e.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="afeabdc8-81e0-918d-ffb4-2cdeba17ef37" href="afeabdc8-81e0-918d-ffb4-2cdeba17ef37.htm">Get<wbr />My<wbr />Subscriptions</a>
+    </li>
+    <li>
+      <a id="8db11f63-56d4-1825-a97b-fe4227fefbab" href="8db11f63-56d4-1825-a97b-fe4227fefbab.htm">Get<wbr />My<wbr />Uploads</a>
+    </li>
+    <li>
+      <a id="82853167-9f80-fd7c-d678-f9b134593c33" href="82853167-9f80-fd7c-d678-f9b134593c33.htm">Get<wbr />Videos</a>
+    </li>
+    <li>
+      <a id="aad1bdbb-26d3-415b-54e2-7e37b55e7a53" href="aad1bdbb-26d3-415b-54e2-7e37b55e7a53.htm">Search<wbr />Channels</a>
+    </li>
+    <li>
+      <a id="93cc75c8-e674-4def-1e31-1c5d9959f60b" href="93cc75c8-e674-4def-1e31-1c5d9959f60b.htm">Search<wbr />Playlists</a>
+    </li>
+    <li>
+      <a id="2c57a617-fd38-2c1c-dee5-7adb27a4c989" href="2c57a617-fd38-2c1c-dee5-7adb27a4c989.htm">Search<wbr />Videos</a>
+    </li>
+  </tocItems>
+</toc>

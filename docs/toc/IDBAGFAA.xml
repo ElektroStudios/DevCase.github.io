@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="0f8ca8c8-408e-2c6d-8bbe-2292cc918724.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Printer</a>
+    </li>
+    <li>
+      <a href="30c60295-e15a-9cec-2d91-604571648e2e.htm">Print<wbr />Document<wbr />Advanced</a>
+    </li>
+    <li>
+      <a href="98c0a6df-acdd-c76e-b08c-f5ae14f24723.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="34c38f3a-9704-7fa3-1873-7c2b3be62d5a" href="34c38f3a-9704-7fa3-1873-7c2b3be62d5a.htm">Begin<wbr />Print<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="431bd16e-1371-348f-528f-11ceb38f8c71" href="431bd16e-1371-348f-528f-11ceb38f8c71.htm">Document<wbr />Stream</a>
+    </li>
+    <li>
+      <a id="847c1032-52a4-aacc-deba-5cebc2f87e4e" href="847c1032-52a4-aacc-deba-5cebc2f87e4e.htm">Encoding</a>
+    </li>
+    <li>
+      <a id="9be570c1-613a-81fc-0f7e-f9c67e22e5ac" href="9be570c1-613a-81fc-0f7e-f9c67e22e5ac.htm">End<wbr />Print<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="761b9191-6e7d-d339-0611-c20c3a94e652" href="761b9191-6e7d-d339-0611-c20c3a94e652.htm">Filepath</a>
+    </li>
+    <li>
+      <a id="cce23436-53dc-47e2-5b4e-4f690b8fec34" href="cce23436-53dc-47e2-5b4e-4f690b8fec34.htm">Printer<wbr />Settings</a>
+    </li>
+    <li>
+      <a id="e553198c-f8d2-e84e-df82-66d6444904d2" href="e553198c-f8d2-e84e-df82-66d6444904d2.htm">Print<wbr />Page<wbr />Event<wbr />Handler</a>
+    </li>
+    <li>
+      <a id="302a55b7-2e2d-bfb8-44fe-49705d51b1ad" href="302a55b7-2e2d-bfb8-44fe-49705d51b1ad.htm">Query<wbr />Page<wbr />Settings<wbr />Event<wbr />Handler</a>
+    </li>
+  </tocItems>
+</toc>

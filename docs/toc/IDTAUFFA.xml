@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ac814f1b-5b55-413f-a9e3-86f6411884b7.htm">Client<wbr />To<wbr />Screen</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="992cd40e-792b-12bc-c1df-235f7049b82b" href="992cd40e-792b-12bc-c1df-235f7049b82b.htm">Client<wbr />To<wbr />Screen(<wbr />Int<wbr />Ptr, Native<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="e1a0ada3-1ef7-fc07-86f6-0b4a5ad84f2f" href="e1a0ada3-1ef7-fc07-86f6-0b4a5ad84f2f.htm">Client<wbr />To<wbr />Screen(<wbr />Int<wbr />Ptr, Point)</a>
+    </li>
+    <li>
+      <a id="6e293ee6-f0bf-7f11-3732-b6db2391109d" href="6e293ee6-f0bf-7f11-3732-b6db2391109d.htm">Client<wbr />To<wbr />Screen(<wbr />Safe<wbr />Handle, Native<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="5302401c-a57e-4360-a71f-0b61d1aa3f24" href="5302401c-a57e-4360-a71f-0b61d1aa3f24.htm">Client<wbr />To<wbr />Screen(<wbr />Safe<wbr />Handle, Point)</a>
+    </li>
+  </tocItems>
+</toc>

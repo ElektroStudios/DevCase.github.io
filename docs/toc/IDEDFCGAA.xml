@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">Unit</a>
+    </li>
+    <li>
+      <a href="3373bb87-620e-aead-f6f9-1dd2999c37fd.htm">Operators</a>
+    </li>
+    <li>
+      <a href="c2e9a4ca-e1df-2e87-cf89-36a321ccbf46.htm">Multiply</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="90c64dde-a017-59cb-f53d-f1ccfd52ed2f" href="90c64dde-a017-59cb-f53d-f1ccfd52ed2f.htm">Multiply(<wbr />Double, Unit) Operator</a>
+    </li>
+    <li>
+      <a id="e70a1aae-6f91-fb70-1547-442b975a077e" href="e70a1aae-6f91-fb70-1547-442b975a077e.htm">Multiply(<wbr />Unit, Unit) Operator</a>
+    </li>
+    <li>
+      <a id="8e790af3-a1de-ab3f-c283-26398c29c7f6" href="8e790af3-a1de-ab3f-c283-26398c29c7f6.htm">Multiply(<wbr />Unit, Double) Operator</a>
+    </li>
+  </tocItems>
+</toc>

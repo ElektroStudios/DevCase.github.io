@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly.<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="57f5d84e-f8fa-532e-5814-b61731b33fe3.htm">Util<wbr />Reflection</a>
+    </li>
+    <li>
+      <a href="566bf1e5-ee8e-dd7a-f7ce-9a19660553cc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a1dc75db-000d-f903-6f64-14d05d41aabe.htm">Get<wbr />Method</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c8ffcc05-bb00-272f-f9f7-98c0fc10a500" href="c8ffcc05-bb00-272f-f9f7-98c0fc10a500.htm">Get<wbr />Method(<wbr />Object, String, Binding<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="b37e7488-d09a-d0dd-7bc6-cfb86d15514f" href="b37e7488-d09a-d0dd-7bc6-cfb86d15514f.htm">Get<wbr />Method(<wbr />Object, String, Type[])</a>
+    </li>
+    <li>
+      <a id="ab20f261-952f-3de7-729f-d154698c6a02" href="ab20f261-952f-3de7-729f-d154698c6a02.htm">Get<wbr />Method(<wbr />Type, String, Binding<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="ce3cd120-885c-197e-c7e5-bafc8bea46f0" href="ce3cd120-885c-197e-c7e5-bafc8bea46f0.htm">Get<wbr />Method(<wbr />Type, String, Type[])</a>
+    </li>
+  </tocItems>
+</toc>

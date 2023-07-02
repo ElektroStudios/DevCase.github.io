@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+    </li>
+    <li>
+      <a href="75d214d8-8eca-8bb7-6ddf-46256fe76009.htm">IDisposable<wbr />Mail</a>
+    </li>
+    <li>
+      <a href="9e4fe29b-396b-171a-48e5-723184af326e.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6b7f083f-763c-aca4-d1e6-e2e9dc8c43f0" href="6b7f083f-763c-aca4-d1e6-e2e9dc8c43f0.htm">Create<wbr />New</a>
+    </li>
+    <li>
+      <a id="1608056f-f012-afab-828a-b39c6a92700c" href="1608056f-f012-afab-828a-b39c6a92700c.htm">Get<wbr />Expiration<wbr />Time</a>
+    </li>
+    <li>
+      <a id="7986d9c5-a95b-a692-be66-43ec7541ce91" href="7986d9c5-a95b-a692-be66-43ec7541ce91.htm">Get<wbr />Mail<wbr />Address</a>
+    </li>
+    <li>
+      <a id="7c482a00-98ca-4ac4-d491-b48b2c45ba15" href="7c482a00-98ca-4ac4-d491-b48b2c45ba15.htm">Get<wbr />Message<wbr />Count</a>
+    </li>
+    <li>
+      <a id="3e91ef36-2b28-fe8b-88fb-07bf8c25015b" href="3e91ef36-2b28-fe8b-88fb-07bf8c25015b.htm">Get<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="417c70a9-0eba-4d0d-6a0d-eeee91a47558" href="417c70a9-0eba-4d0d-6a0d-eeee91a47558.htm">Renew</a>
+    </li>
+  </tocItems>
+</toc>

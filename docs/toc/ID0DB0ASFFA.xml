@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="c163f904-b022-176a-c37f-32be777695e1.htm">Shell<wbr />32</a>
+    </li>
+    <li>
+      <a href="ddce2ad5-d1f8-b67a-99e9-295509aae97f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="08d2703b-442a-1292-e4a3-a84a87068209.htm">SHAdd<wbr />To<wbr />Recent<wbr />Docs</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c0e3b0b9-bb06-f848-3062-47581c157ac4" href="c0e3b0b9-bb06-f848-3062-47581c157ac4.htm">SHAdd<wbr />To<wbr />Recent<wbr />Docs(<wbr />Shell<wbr />Add<wbr />To<wbr />Recent<wbr />Docs<wbr />Flags, PIDL)</a>
+    </li>
+    <li>
+      <a id="4582e348-e4cd-9718-f530-4350a88b242b" href="4582e348-e4cd-9718-f530-4350a88b242b.htm">SHAdd<wbr />To<wbr />Recent<wbr />Docs(<wbr />Shell<wbr />Add<wbr />To<wbr />Recent<wbr />Docs<wbr />Flags, IShell<wbr />Item)</a>
+    </li>
+    <li>
+      <a id="0aa4b76b-54d4-98a1-fac4-6326a04caea6" href="0aa4b76b-54d4-98a1-fac4-6326a04caea6.htm">SHAdd<wbr />To<wbr />Recent<wbr />Docs(<wbr />Shell<wbr />Add<wbr />To<wbr />Recent<wbr />Docs<wbr />Flags, IShell<wbr />Link<wbr />W)</a>
+    </li>
+    <li>
+      <a id="b5bd8e47-4443-c3db-da35-2847acd53f06" href="b5bd8e47-4443-c3db-da35-2847acd53f06.htm">SHAdd<wbr />To<wbr />Recent<wbr />Docs(<wbr />Shell<wbr />Add<wbr />To<wbr />Recent<wbr />Docs<wbr />Flags, String)</a>
+    </li>
+  </tocItems>
+</toc>

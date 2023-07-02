@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="860d4274-8ce0-cc9a-5e6e-4616befa6a33.htm">Util<wbr />Color</a>
+    </li>
+    <li>
+      <a href="037b8ecd-1886-b123-5e73-2c8eeda857db.htm">Methods</a>
+    </li>
+    <li>
+      <a href="4139c049-e07d-f2fe-268e-e6a9a5c9b6e8.htm">Get<wbr />Random<wbr />Brush</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ee00d22a-e58d-ddc8-38b7-8ac0f839d290" href="ee00d22a-e58d-ddc8-38b7-8ac0f839d290.htm">Get<wbr />Random<wbr />Brush(<wbr />Boolean)</a>
+    </li>
+    <li>
+      <a id="320d0378-4238-c793-9b18-86cceb5f4032" href="320d0378-4238-c793-9b18-86cceb5f4032.htm">Get<wbr />Random<wbr />Brush(<wbr />Byte, Byte, Byte, Byte, Byte, Byte, Byte, Byte)</a>
+    </li>
+  </tocItems>
+</toc>

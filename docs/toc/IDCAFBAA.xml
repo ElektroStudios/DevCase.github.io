@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="99480abc-3f7c-7227-cf5c-9ff975ed7df9.htm">Texfile<wbr />Lines</a>
+    </li>
+    <li>
+      <a href="cacb885b-116e-ed45-c106-f8a67628d66a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f8622db9-1c2f-9d56-e8bd-378e34546ebb" href="f8622db9-1c2f-9d56-e8bd-378e34546ebb.htm">Randomize</a>
+    </li>
+    <li>
+      <a id="99f87752-ea3c-bb25-d813-f718d83f27e1" class="has-submenu" href="99f87752-ea3c-bb25-d813-f718d83f27e1.htm">
+        <span data-tocFile="../toc/IDBCAFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="459cff41-3421-b112-03bb-3367deb5c3c4" href="459cff41-3421-b112-03bb-3367deb5c3c4.htm">Trim</a>
+    </li>
+    <li>
+      <a id="e4f0dfa7-04b9-7145-5409-7064acbd941e" href="e4f0dfa7-04b9-7145-5409-7064acbd941e.htm">Trim<wbr />End</a>
+    </li>
+    <li>
+      <a id="3c771255-2655-ab9e-f932-87353ad7a7b5" href="3c771255-2655-ab9e-f932-87353ad7a7b5.htm">Trim<wbr />Start</a>
+    </li>
+  </tocItems>
+</toc>

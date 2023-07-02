@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ce8f8ddb-87ab-85a9-2557-1bf6e1893161.htm">Find<wbr />Sub<wbr />Key</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3761d08d-8175-d655-4e74-49ff5340095f" href="3761d08d-8175-d655-4e74-49ff5340095f.htm">Find<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String, String, Boolean, Boolean, Search<wbr />Option)</a>
+    </li>
+    <li>
+      <a id="ea82ae60-a7f8-9c15-74ce-7e3879d4e882" href="ea82ae60-a7f8-9c15-74ce-7e3879d4e882.htm">Find<wbr />Sub<wbr />Key(<wbr />Registry<wbr />View, String, String, String, Boolean, Boolean, Search<wbr />Option)</a>
+    </li>
+  </tocItems>
+</toc>

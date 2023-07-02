@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="aaa53232-c8b5-407f-c79a-c57f8e33d65e.htm">Units.<wbr />Force</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d55feb3d-637e-050d-d1a1-fbaef556e164" href="d55feb3d-637e-050d-d1a1-fbaef556e164.htm">Methods</a>
+    </li>
+    <li>
+      <a id="10234dc9-1375-932e-9599-627ccffd834d" class="has-submenu" href="10234dc9-1375-932e-9599-627ccffd834d.htm">
+        <span data-tocFile="../toc/IDBOCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

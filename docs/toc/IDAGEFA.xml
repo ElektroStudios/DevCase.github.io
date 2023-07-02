@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="c4b9b9f7-3c1a-d5dc-34ee-98e9e54d101e.htm">IAudio<wbr />Session<wbr />Control</a>
+    </li>
+    <li>
+      <a href="d90c3e4a-1677-4b63-ea08-b5c408581e09.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c7f90dd5-c830-a836-327f-9dc77e53e190" href="c7f90dd5-c830-a836-327f-9dc77e53e190.htm">Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="747a8cfe-0a32-3f7b-e026-5e24b9566f97" href="747a8cfe-0a32-3f7b-e026-5e24b9566f97.htm">Get<wbr />Grouping<wbr />Param</a>
+    </li>
+    <li>
+      <a id="cbfcb203-58a4-384a-b556-739821c7c53c" href="cbfcb203-58a4-384a-b556-739821c7c53c.htm">Get<wbr />Icon<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a666d297-982f-8074-beaf-913e0bca8f40" href="a666d297-982f-8074-beaf-913e0bca8f40.htm">Get<wbr />State</a>
+    </li>
+    <li>
+      <a id="7999e4aa-1546-7cbb-fad5-3a2d86f4bc5c" href="7999e4aa-1546-7cbb-fad5-3a2d86f4bc5c.htm">Register<wbr />Audio<wbr />Session<wbr />Notification</a>
+    </li>
+    <li>
+      <a id="322e5466-92b9-acc1-84a6-06f843292f79" href="322e5466-92b9-acc1-84a6-06f843292f79.htm">Set<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="9f69bf44-5be1-93cc-9fe7-1ffbfe83b941" href="9f69bf44-5be1-93cc-9fe7-1ffbfe83b941.htm">Set<wbr />Grouping<wbr />Param</a>
+    </li>
+    <li>
+      <a id="e83e5f1d-6716-6ddf-61e4-bca7dc18fcae" href="e83e5f1d-6716-6ddf-61e4-bca7dc18fcae.htm">Set<wbr />Icon<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a6287d1c-f696-6749-2710-80fff8fa740b" href="a6287d1c-f696-6749-2710-80fff8fa740b.htm">Unregister<wbr />Audio<wbr />Session<wbr />Notification</a>
+    </li>
+  </tocItems>
+</toc>

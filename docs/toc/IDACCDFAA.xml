@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="dba4f045-fe88-1f93-c86d-eaf85300948f.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Hardware<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="f1c93946-b663-002b-ef8a-46ebd08d7371.htm">Memory<wbr />Stress</a>
+    </li>
+    <li>
+      <a href="f9e3e337-f93f-a07e-916b-85c9e7457a2f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3b83c363-9025-b070-1994-7589ee7af572.htm">Allocate</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a308ac2e-22e3-2d51-d50a-4c02db158bde" href="a308ac2e-22e3-2d51-d50a-4c02db158bde.htm">Allocate(<wbr />Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="9c3f0453-9ef2-e1ed-34de-7e97e4a4dfb1" href="9c3f0453-9ef2-e1ed-34de-7e97e4a4dfb1.htm">Allocate(<wbr />Int<wbr />64, Byte)</a>
+    </li>
+  </tocItems>
+</toc>

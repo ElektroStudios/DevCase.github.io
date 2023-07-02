@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="017f6188-18f7-2334-4b54-6233463b9b7e.htm">Gdi<wbr />32</a>
+    </li>
+    <li>
+      <a href="f53f00b8-7a1d-e647-da12-124ddf5a0a00.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3fc80160-57d6-2c54-4016-363f67e7e667.htm">Get<wbr />Clip<wbr />Rgn</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="be9d4a25-4617-acbf-dfea-d6b6370fb191" href="be9d4a25-4617-acbf-dfea-d6b6370fb191.htm">Get<wbr />Clip<wbr />Rgn(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="f097ca50-45ec-4e6e-2112-121d5d103fd9" href="f097ca50-45ec-4e6e-2112-121d5d103fd9.htm">Get<wbr />Clip<wbr />Rgn(<wbr />Safe<wbr />Handle, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

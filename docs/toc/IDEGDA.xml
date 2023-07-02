@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="678c3b97-29a3-bbe4-e4ee-1599d12c3b9c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />DBpoweramp</a>
+    </li>
+    <li>
+      <a href="90618801-763a-227a-9116-e5588075e901.htm">Core<wbr />Converter<wbr />Progress<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c5531b43-895b-8b31-a3d5-6f6b48640f6e" href="c5531b43-895b-8b31-a3d5-6f6b48640f6e.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2251da32-af40-eb08-9825-145dcba694d4" class="has-submenu" href="2251da32-af40-eb08-9825-145dcba694d4.htm">
+        <span data-tocFile="../toc/IDBEGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="18d87ad0-7566-9f40-354f-88ef99392577" href="18d87ad0-7566-9f40-354f-88ef99392577.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="a688a1d7-b311-1129-39da-b3738f218853.htm">File<wbr />Operation</a>
+    </li>
+    <li>
+      <a href="8f5c23c5-5680-d46b-0ca6-748b04b11226.htm">Methods</a>
+    </li>
+    <li>
+      <a href="22fb719e-b6aa-bbe2-78af-6e256fe02a73.htm">Queue<wbr />Rename</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b8614b0f-0106-bc95-e8b8-6bc3173961ac" href="b8614b0f-0106-bc95-e8b8-6bc3173961ac.htm">Queue<wbr />Rename(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="210efb71-b60e-6ac5-58a4-0b6abfc8c13f" href="210efb71-b60e-6ac5-58a4-0b6abfc8c13f.htm">Queue<wbr />Rename(<wbr />File<wbr />Info, String, String)</a>
+    </li>
+    <li>
+      <a id="240bf54d-dd61-a329-39ef-4c4c13ca30ca" href="240bf54d-dd61-a329-39ef-4c4c13ca30ca.htm">Queue<wbr />Rename(<wbr />String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

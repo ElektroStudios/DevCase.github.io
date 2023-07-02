@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58d11375-7881-6c5b-e408-2fb0e3f945c2.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>
+    </li>
+    <li>
+      <a href="c17981b1-2427-56a1-6621-ad70ffa65545.htm">Operators</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cb6398b9-4a39-190b-2c90-3da562163061" href="cb6398b9-4a39-190b-2c90-3da562163061.htm">Addition Operator</a>
+    </li>
+    <li>
+      <a id="20227ab5-bf4e-6477-669b-44ccfd666abe" href="20227ab5-bf4e-6477-669b-44ccfd666abe.htm">Explicit Conversion (PIDL to Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="72d376fe-3b1b-9440-ae11-3603ce090a73" href="72d376fe-3b1b-9440-ae11-3603ce090a73.htm">Implicit Conversion (Int<wbr />Ptr to PIDL)</a>
+    </li>
+  </tocItems>
+</toc>

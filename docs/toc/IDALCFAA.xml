@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="6b52e1f4-f3e6-ada3-c1c9-4c898276a935.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Drives</a>
+    </li>
+    <li>
+      <a href="102c36f4-ce5c-3866-5c19-433aa009c2b8.htm">Util<wbr />Volume</a>
+    </li>
+    <li>
+      <a href="edde9177-0d84-6204-f720-c2f79d86d939.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="25f5ca6b-a4df-bb7a-487a-956cf3c63fbe" class="has-submenu" href="25f5ca6b-a4df-bb7a-487a-956cf3c63fbe.htm">
+        <span data-tocFile="../toc/IDAALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Compressed</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="64d0d2da-5c2e-b06c-364f-adb9f84f037e" class="has-submenu" href="64d0d2da-5c2e-b06c-364f-adb9f84f037e.htm">
+        <span data-tocFile="../toc/IDBALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Read<wbr />Only</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2128cf62-4d5d-3939-b61d-d219a0ba3769" class="has-submenu" href="2128cf62-4d5d-3939-b61d-d219a0ba3769.htm">
+        <span data-tocFile="../toc/IDCALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Max<wbr />Component<wbr />Path<wbr />Length</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8eb4c8d1-f728-8f5b-1e2b-ee1ede64557d" class="has-submenu" href="8eb4c8d1-f728-8f5b-1e2b-ee1ede64557d.htm">
+        <span data-tocFile="../toc/IDDALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Serial<wbr />Number</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f82c2f53-53d4-c352-7198-839be4922a55" class="has-submenu" href="f82c2f53-53d4-c352-7198-839be4922a55.htm">
+        <span data-tocFile="../toc/IDEALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supports<wbr />Encryption</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2bf82ba9-278b-ef09-412b-85467eec8d9b" class="has-submenu" href="2bf82ba9-278b-ef09-412b-85467eec8d9b.htm">
+        <span data-tocFile="../toc/IDFALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supports<wbr />Extended<wbr />File<wbr />Attributes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6ff54f8a-9417-670c-1550-f731902a4ec0" class="has-submenu" href="6ff54f8a-9417-670c-1550-f731902a4ec0.htm">
+        <span data-tocFile="../toc/IDGALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supports<wbr />Extended<wbr />Path</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="92e8ad3f-6a55-e580-dcd7-68882a537474" class="has-submenu" href="92e8ad3f-6a55-e580-dcd7-68882a537474.htm">
+        <span data-tocFile="../toc/IDHALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supports<wbr />File<wbr />Compression</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="29075095-6e27-1592-a373-cd06c366e8bc" class="has-submenu" href="29075095-6e27-1592-a373-cd06c366e8bc.htm">
+        <span data-tocFile="../toc/IDIALCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Supports<wbr />Hard<wbr />Links</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

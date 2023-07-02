@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e51cd8be-5bcf-29ad-22d4-0ef107ca07e8" class="has-submenu" href="e51cd8be-5bcf-29ad-22d4-0ef107ca07e8.htm">
+        <span data-tocFile="../toc/IDABAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Console<wbr />Progress<wbr />Bar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e8bdae7e-1d72-8e13-0454-1b84298d8c8d" class="has-submenu" href="e8bdae7e-1d72-8e13-0454-1b84298d8c8d.htm">
+        <span data-tocFile="../toc/IDBBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Console<wbr />Rectangle</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2394d5e5-2732-590e-4d6e-4141e4d6efb3" class="has-submenu" href="2394d5e5-2732-590e-4d6e-4141e4d6efb3.htm">
+        <span data-tocFile="../toc/IDCBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Type<wbr />Writter</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0b6d1361-1698-8e02-99cf-0ead0f20ad0b" class="has-submenu" href="0b6d1361-1698-8e02-99cf-0ead0f20ad0b.htm">
+        <span data-tocFile="../toc/IDDBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Console</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

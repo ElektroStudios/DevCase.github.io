@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="6207f0be-a958-f2bf-0e30-8b91560ef10a.htm">Util<wbr />Shared<wbr />Memory</a>
+    </li>
+    <li>
+      <a href="4700fe11-89ae-3303-f592-3f7b59177c84.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9bd02e62-d52d-fca9-0acd-5897964f3114" class="has-submenu" href="9bd02e62-d52d-fca9-0acd-5897964f3114.htm">
+        <span data-tocFile="../toc/IDAAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Clear</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8419f3f6-8eb7-c8b5-aa42-db4bd6d07bee" href="8419f3f6-8eb7-c8b5-aa42-db4bd6d07bee.htm">Create</a>
+    </li>
+    <li>
+      <a id="a4d1f9a3-67b1-9377-4bc1-c8ac91a0ac77" href="a4d1f9a3-67b1-9377-4bc1-c8ac91a0ac77.htm">Exists</a>
+    </li>
+    <li>
+      <a id="f526215f-e970-2a67-f9a9-77d56badf662" class="has-submenu" href="f526215f-e970-2a67-f9a9-77d56badf662.htm">
+        <span data-tocFile="../toc/IDDAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5ceaf60e-3031-0b1f-cf96-a8cc372190fa" class="has-submenu" href="5ceaf60e-3031-0b1f-cf96-a8cc372190fa.htm">
+        <span data-tocFile="../toc/IDEAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5cd5dace-a0c8-bc3c-4e3c-bdb94fb2ee50" class="has-submenu" href="5cd5dace-a0c8-bc3c-4e3c-bdb94fb2ee50.htm">
+        <span data-tocFile="../toc/IDFAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />Char<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5fe8f7fa-571d-dce7-5ea9-0e8f5d2678b9" class="has-submenu" href="5fe8f7fa-571d-dce7-5ea9-0e8f5d2678b9.htm">
+        <span data-tocFile="../toc/IDGAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="36ee8db3-aae3-0d99-1c6a-3e93d1d618a3" class="has-submenu" href="36ee8db3-aae3-0d99-1c6a-3e93d1d618a3.htm">
+        <span data-tocFile="../toc/IDHAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />String<wbr />To<wbr />End</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c69ae2a8-a450-bb2c-acc6-2635f6b78ff6" class="has-submenu" href="c69ae2a8-a450-bb2c-acc6-2635f6b78ff6.htm">
+        <span data-tocFile="../toc/IDIAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />To<wbr />End</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8d1d8657-d018-081b-bc3d-40b95fb4061e" class="has-submenu" href="8d1d8657-d018-081b-bc3d-40b95fb4061e.htm">
+        <span data-tocFile="../toc/IDJAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fd399cb5-ff4f-6383-7b37-971e59ad8c3c" class="has-submenu" href="fd399cb5-ff4f-6383-7b37-971e59ad8c3c.htm">
+        <span data-tocFile="../toc/IDKAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="05621d0d-2ddd-3db6-1756-e2c18cd2436d" class="has-submenu" href="05621d0d-2ddd-3db6-1756-e2c18cd2436d.htm">
+        <span data-tocFile="../toc/IDLAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />Char<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ba7b1233-4496-a213-2b0c-3e345e5e77b5" class="has-submenu" href="ba7b1233-4496-a213-2b0c-3e345e5e77b5.htm">
+        <span data-tocFile="../toc/IDMAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6446123c-cb6a-93a1-698b-9de4f80e7bcc" class="has-submenu" href="6446123c-cb6a-93a1-698b-9de4f80e7bcc.htm">
+        <span data-tocFile="../toc/IDNAJMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />String<wbr />At</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

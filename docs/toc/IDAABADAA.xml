@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+    </li>
+    <li>
+      <a href="322930ca-1be6-d0ed-4239-62140fb80d0b.htm">Util<wbr />Pe<wbr />Header</a>
+    </li>
+    <li>
+      <a href="267b19c3-99d7-dcff-bbf5-839b1a5c0133.htm">Methods</a>
+    </li>
+    <li>
+      <a href="905bcab2-b5b5-cebd-8934-f03d883b6e7c.htm">Get<wbr />PEFile<wbr />Kind</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="398fe7e4-6fd4-0e4b-083e-f701f0d22849" href="398fe7e4-6fd4-0e4b-083e-f701f0d22849.htm">Get<wbr />PEFile<wbr />Kind(<wbr />File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="a617e521-23b3-f702-527b-764dfe2a31df" href="a617e521-23b3-f702-527b-764dfe2a31df.htm">Get<wbr />PEFile<wbr />Kind(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

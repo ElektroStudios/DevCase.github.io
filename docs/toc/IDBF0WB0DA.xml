@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="7a7b248e-ed63-bac4-6b85-09e3492e7386.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />VMware</a>
+    </li>
+    <li>
+      <a href="77c99481-c988-be99-402f-92ca03174170.htm">VMWare<wbr />Virtual<wbr />Machine</a>
+    </li>
+    <li>
+      <a href="b88ed306-4eb6-a678-8dd6-de68c25f809e.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="66d23c11-edba-4cab-8881-7113fa1d6ec6" href="66d23c11-edba-4cab-8881-7113fa1d6ec6.htm">Bios<wbr />Uu<wbr />Id</a>
+    </li>
+    <li>
+      <a id="ad33ff22-c58f-8326-23b5-837aaa331e50" href="ad33ff22-c58f-8326-23b5-837aaa331e50.htm">Cores<wbr />Per<wbr />Processor</a>
+    </li>
+    <li>
+      <a id="1a1208cf-57d2-32f9-c767-7901e6128d4d" href="1a1208cf-57d2-32f9-c767-7901e6128d4d.htm">Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="6fb73ed6-ebfe-ba42-79dc-b251adde9bed" href="6fb73ed6-ebfe-ba42-79dc-b251adde9bed.htm">Firmware</a>
+    </li>
+    <li>
+      <a id="0187d823-a20f-682c-b70b-78ce3afc5366" href="0187d823-a20f-682c-b70b-78ce3afc5366.htm">Graphics<wbr />Hardware<wbr />Acceleration<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="eef25090-8799-c8bf-cefa-5b1d43cf2ef5" href="eef25090-8799-c8bf-cefa-5b1d43cf2ef5.htm">Graphics<wbr />Memory<wbr />Size</a>
+    </li>
+    <li>
+      <a id="1537877a-a3d1-6b5c-db63-0aca33383882" href="1537877a-a3d1-6b5c-db63-0aca33383882.htm">Guest<wbr />Os<wbr />Credential</a>
+    </li>
+    <li>
+      <a id="27df1606-2ac3-6fe9-43b5-d3b316ed28c6" href="27df1606-2ac3-6fe9-43b5-d3b316ed28c6.htm">Is<wbr />Shared<wbr />Vm</a>
+    </li>
+    <li>
+      <a id="bd814505-a59f-7c94-b96a-1927ad5871f9" href="bd814505-a59f-7c94-b96a-1927ad5871f9.htm">Memory<wbr />Size</a>
+    </li>
+    <li>
+      <a id="c791bcfc-57f3-3eb8-3a68-558f8985b4b6" href="c791bcfc-57f3-3eb8-3a68-558f8985b4b6.htm">Os<wbr />Version</a>
+    </li>
+    <li>
+      <a id="e24cd969-f112-6b9e-c6ed-c55f40fdcf03" href="e24cd969-f112-6b9e-c6ed-c55f40fdcf03.htm">Processor<wbr />Count</a>
+    </li>
+    <li>
+      <a id="53bb058a-7885-dd8d-4ceb-dbd406927acd" href="53bb058a-7885-dd8d-4ceb-dbd406927acd.htm">Secure<wbr />Boot<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e27b08b0-c54e-cc33-c19b-d307bfc57f06" href="e27b08b0-c54e-cc33-c19b-d307bfc57f06.htm">Shared<wbr />Folders</a>
+    </li>
+    <li>
+      <a id="2806d360-cc8b-438c-0530-4f273302186d" href="2806d360-cc8b-438c-0530-4f273302186d.htm">Total<wbr />Processor<wbr />Cores</a>
+    </li>
+    <li>
+      <a id="0dc7018f-1f8c-1f98-731c-8c8872a19fd1" href="0dc7018f-1f8c-1f98-731c-8c8872a19fd1.htm">Vm<wbr />Generation<wbr />Id</a>
+    </li>
+    <li>
+      <a id="bee7635a-9f54-40e4-1ad7-8cba7ed70a48" href="bee7635a-9f54-40e4-1ad7-8cba7ed70a48.htm">Vm<wbr />Hardware<wbr />Version</a>
+    </li>
+    <li>
+      <a id="c815e78b-6f5b-5dc6-28c0-68ba1e86c5bf" href="c815e78b-6f5b-5dc6-28c0-68ba1e86c5bf.htm">Vmx<wbr />File</a>
+    </li>
+  </tocItems>
+</toc>

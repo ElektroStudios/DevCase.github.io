@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="c5719154-8242-bd99-d566-a8f68c543474.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Drive</a>
+    </li>
+    <li>
+      <a href="2915553e-d646-86c9-e377-527cf3e86bae.htm">Drive<wbr />Client</a>
+    </li>
+    <li>
+      <a href="b2f12b0c-47f2-b68b-e7e6-88e16d61c8ad.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d0029946-031f-1ded-74b0-7eb79cae3cbb.htm">Get<wbr />Folders</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b1ffeca4-e3fb-851b-91c2-3ff6d031ef8a" href="b1ffeca4-e3fb-851b-91c2-3ff6d031ef8a.htm">Get<wbr />Folders</a>
+    </li>
+    <li>
+      <a id="ba62f030-c461-c194-2414-0660b6b55400" href="ba62f030-c461-c194-2414-0660b6b55400.htm">Get<wbr />Folders(<wbr />Func&lt;File, Boolean&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

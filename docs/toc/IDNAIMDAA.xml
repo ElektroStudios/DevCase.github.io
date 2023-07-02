@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="c189ae4f-ff10-daa9-e771-a0baff728af6.htm">Util<wbr />Process</a>
+    </li>
+    <li>
+      <a href="ebbebbb1-5085-58f9-6c66-6048608f5837.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ed22b4fe-32b8-9d3b-11ab-809629dc8a07.htm">Get<wbr />Process<wbr />Security<wbr />Descriptor</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1a007ba3-8aa1-ebe1-0441-d8ff913d98c4" href="1a007ba3-8aa1-ebe1-0441-d8ff913d98c4.htm">Get<wbr />Process<wbr />Security<wbr />Descriptor(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="8c24df87-5b7b-1fb3-dc80-9e2b374c9152" href="8c24df87-5b7b-1fb3-dc80-9e2b374c9152.htm">Get<wbr />Process<wbr />Security<wbr />Descriptor(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="2b9ef7a8-278d-daaa-59ba-49b22576f55e" href="2b9ef7a8-278d-daaa-59ba-49b22576f55e.htm">Get<wbr />Process<wbr />Security<wbr />Descriptor(<wbr />Process)</a>
+    </li>
+  </tocItems>
+</toc>

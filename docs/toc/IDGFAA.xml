@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="0f8ca8c8-408e-2c6d-8bbe-2292cc918724.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Printer</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="30c60295-e15a-9cec-2d91-604571648e2e" class="has-submenu" href="30c60295-e15a-9cec-2d91-604571648e2e.htm">
+        <span data-tocFile="../toc/IDAGFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Print<wbr />Document<wbr />Advanced</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5d49a1cf-1fc2-cb26-6ef5-9d632154ae5b" class="has-submenu" href="5d49a1cf-1fc2-cb26-6ef5-9d632154ae5b.htm">
+        <span data-tocFile="../toc/IDBGFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Print<wbr />Document<wbr />Basic</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d864be40-41f5-dcfb-125b-172158ceedd1" class="has-submenu" href="d864be40-41f5-dcfb-125b-172158ceedd1.htm">
+        <span data-tocFile="../toc/IDCGFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Printer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="6b52e1f4-f3e6-ada3-c1c9-4c898276a935.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Drives</a>
+    </li>
+    <li>
+      <a href="ade71a41-0cc5-8b37-4b5a-0f8680ca11e6.htm">Hard<wbr />Drive<wbr />Info</a>
+    </li>
+    <li>
+      <a href="5337f0a5-7386-9386-457e-56b32abad655.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="94e9212a-7277-9db1-80ce-1cfeb197169e" href="94e9212a-7277-9db1-80ce-1cfeb197169e.htm">Available<wbr />Free<wbr />Space</a>
+    </li>
+    <li>
+      <a id="a73647f4-785b-3f48-29b2-99b3d6fe08cb" href="a73647f4-785b-3f48-29b2-99b3d6fe08cb.htm">Bytes<wbr />Per<wbr />Sector</a>
+    </li>
+    <li>
+      <a id="13325033-123b-e97c-6f81-862915a2df60" href="13325033-123b-e97c-6f81-862915a2df60.htm">Capabilities</a>
+    </li>
+    <li>
+      <a id="c8a3e854-535e-8c4e-db9e-92e86922545a" href="c8a3e854-535e-8c4e-db9e-92e86922545a.htm">Capabilities<wbr />Names</a>
+    </li>
+    <li>
+      <a id="b6078e68-0006-aacf-f330-f30d08104bec" href="b6078e68-0006-aacf-f330-f30d08104bec.htm">Device<wbr />Id</a>
+    </li>
+    <li>
+      <a id="7fb3f523-288d-4aa4-d0c6-dc1a94ae9eb1" href="7fb3f523-288d-4aa4-d0c6-dc1a94ae9eb1.htm">Drive<wbr />Format</a>
+    </li>
+    <li>
+      <a id="090fee79-4296-8f73-1b4a-f4b15ab3bc92" href="090fee79-4296-8f73-1b4a-f4b15ab3bc92.htm">Firmware<wbr />Revision</a>
+    </li>
+    <li>
+      <a id="a35135bc-c347-ac66-cb35-a99d74c1bd22" href="a35135bc-c347-ac66-cb35-a99d74c1bd22.htm">Index</a>
+    </li>
+    <li>
+      <a id="30caf088-ee42-6c0a-49b8-d07c0433295c" href="30caf088-ee42-6c0a-49b8-d07c0433295c.htm">Interface<wbr />Type</a>
+    </li>
+    <li>
+      <a id="8cbdc3f3-1415-2376-8e64-69e182b3ee77" href="8cbdc3f3-1415-2376-8e64-69e182b3ee77.htm">Is<wbr />Ready</a>
+    </li>
+    <li>
+      <a id="0d1ab91a-6e11-21df-a1f2-70f110802646" href="0d1ab91a-6e11-21df-a1f2-70f110802646.htm">Media<wbr />Type</a>
+    </li>
+    <li>
+      <a id="f37f738b-c68d-63d0-d96f-7de060358de1" href="f37f738b-c68d-63d0-d96f-7de060358de1.htm">Model</a>
+    </li>
+    <li>
+      <a id="91146903-f72b-e53b-ad67-5a3d5adbffb4" href="91146903-f72b-e53b-ad67-5a3d5adbffb4.htm">Name</a>
+    </li>
+    <li>
+      <a id="48de8b4e-6584-3e9c-e612-09ed6552d64c" href="48de8b4e-6584-3e9c-e612-09ed6552d64c.htm">Partitions</a>
+    </li>
+    <li>
+      <a id="1f619092-9dd5-1cca-18fc-664c1a5fc3b1" href="1f619092-9dd5-1cca-18fc-664c1a5fc3b1.htm">Pnp<wbr />Device<wbr />Id</a>
+    </li>
+    <li>
+      <a id="10c71916-efc8-6097-3c18-d9585b9e7425" href="10c71916-efc8-6097-3c18-d9585b9e7425.htm">Root<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="9aba1ae6-6b79-04f7-e1b1-d33d4a9e96bf" href="9aba1ae6-6b79-04f7-e1b1-d33d4a9e96bf.htm">Sectors<wbr />Per<wbr />Track</a>
+    </li>
+    <li>
+      <a id="927139f8-61ef-75c9-2025-f50150fad542" href="927139f8-61ef-75c9-2025-f50150fad542.htm">Serial<wbr />Number</a>
+    </li>
+    <li>
+      <a id="076a99ab-8fb4-d64f-0940-48d7ddd654af" href="076a99ab-8fb4-d64f-0940-48d7ddd654af.htm">SMART</a>
+    </li>
+    <li>
+      <a id="8b4114d9-e2b3-d4be-1a04-2ec1f94e8426" href="8b4114d9-e2b3-d4be-1a04-2ec1f94e8426.htm">Total<wbr />Cylinders</a>
+    </li>
+    <li>
+      <a id="31b1b21e-b89b-1200-454e-3736b8ffec2b" href="31b1b21e-b89b-1200-454e-3736b8ffec2b.htm">Total<wbr />Free<wbr />Space</a>
+    </li>
+    <li>
+      <a id="455c17a3-7184-5344-1f51-cee75b628297" href="455c17a3-7184-5344-1f51-cee75b628297.htm">Total<wbr />Heads</a>
+    </li>
+    <li>
+      <a id="73cc3e74-2de2-5ca0-9d7f-152a878f64a3" href="73cc3e74-2de2-5ca0-9d7f-152a878f64a3.htm">Total<wbr />Sectors</a>
+    </li>
+    <li>
+      <a id="bde7eaf5-be06-876a-f528-5a40c5df0ec0" href="bde7eaf5-be06-876a-f528-5a40c5df0ec0.htm">Total<wbr />Size</a>
+    </li>
+    <li>
+      <a id="38a9767a-d4b1-d031-0606-84ae2f22a3dc" href="38a9767a-d4b1-d031-0606-84ae2f22a3dc.htm">Total<wbr />Tracks</a>
+    </li>
+    <li>
+      <a id="b1b96036-f8e0-c1a0-2ac6-1d8ca5bfdc7a" href="b1b96036-f8e0-c1a0-2ac6-1d8ca5bfdc7a.htm">Tracks<wbr />Per<wbr />Cylinder</a>
+    </li>
+    <li>
+      <a id="f82b34f7-a157-d700-c1d7-ac93caba54d8" href="f82b34f7-a157-d700-c1d7-ac93caba54d8.htm">Volume<wbr />Label</a>
+    </li>
+  </tocItems>
+</toc>

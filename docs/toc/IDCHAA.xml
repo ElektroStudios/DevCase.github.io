@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f945e44f-8017-7c96-d4ed-bd39b0091b42" class="has-submenu" href="f945e44f-8017-7c96-d4ed-bd39b0091b42.htm">
+        <span data-tocFile="../toc/IDACHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Audio<wbr />Player</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="286b144d-5510-bce8-6a3e-695a2f5e6c73" href="286b144d-5510-bce8-6a3e-695a2f5e6c73.htm">Channel<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="66f373bf-fb53-5a60-6e5c-4204472108b3" class="has-submenu" href="66f373bf-fb53-5a60-6e5c-4204472108b3.htm">
+        <span data-tocFile="../toc/IDCCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Lyric<wbr />Line</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b4574b42-843a-57a8-3a6b-7b20f8fa1414" href="b4574b42-843a-57a8-3a6b-7b20f8fa1414.htm">Player<wbr />Status</a>
+    </li>
+    <li>
+      <a id="df042f64-ff01-5bbb-4bbf-fd8feb865ac1" class="has-submenu" href="df042f64-ff01-5bbb-4bbf-fd8feb865ac1.htm">
+        <span data-tocFile="../toc/IDECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Playlist<wbr />Editor</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4c5e609b-0062-1349-3ff7-3bc1cef1b5e1" class="has-submenu" href="4c5e609b-0062-1349-3ff7-3bc1cef1b5e1.htm">
+        <span data-tocFile="../toc/IDFCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Playlist<wbr />Track<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7b8f9dc3-99b3-71b3-8dd0-5f067ebc88be" href="7b8f9dc3-99b3-71b3-8dd0-5f067ebc88be.htm">Playlist<wbr />Type</a>
+    </li>
+    <li>
+      <a id="390fecf0-a786-cac5-0cc8-fcaba954efb4" href="390fecf0-a786-cac5-0cc8-fcaba954efb4.htm">Recorder<wbr />Status</a>
+    </li>
+    <li>
+      <a id="370bd778-d239-82e2-465e-5cb192a478aa" class="has-submenu" href="370bd778-d239-82e2-465e-5cb192a478aa.htm">
+        <span data-tocFile="../toc/IDICHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Stereo<wbr />Volume</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="85d51e76-0f89-85c0-e68c-3ac176a2a935" class="has-submenu" href="85d51e76-0f89-85c0-e68c-3ac176a2a935.htm">
+        <span data-tocFile="../toc/IDJCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Audio</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="89ed75f5-ec94-10e3-1f04-6033a2f0ef73" class="has-submenu" href="89ed75f5-ec94-10e3-1f04-6033a2f0ef73.htm">
+        <span data-tocFile="../toc/IDKCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Lyric</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bdfa5896-7ba6-55fd-69ae-6f61a85aed20" class="has-submenu" href="bdfa5896-7ba6-55fd-69ae-6f61a85aed20.htm">
+        <span data-tocFile="../toc/IDLCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Wave<wbr />Recorder</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

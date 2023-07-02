@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="b3e3f750-1d88-8154-4ddb-5bdf5a2b198a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Socket<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="7b819007-bbf1-eac2-2b3e-7751a52e351d.htm">Socket<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="4bcc3674-e0a0-2d16-218d-da12edc74242.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b381b006-1d43-2d5b-e2da-fdaad6faa04a.htm">Connect<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="35420575-2013-e69a-2bb7-3174dac8c2eb" href="35420575-2013-e69a-2bb7-3174dac8c2eb.htm">Connect<wbr />Async(<wbr />Socket, End<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="c9d3a1d4-f3a0-65f6-b4ca-81d7885dfc9b" href="c9d3a1d4-f3a0-65f6-b4ca-81d7885dfc9b.htm">Connect<wbr />Async(<wbr />Socket, IPAddress, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="1ac47e23-e2ed-9d67-ba6e-a084b260c1fb" href="1ac47e23-e2ed-9d67-ba6e-a084b260c1fb.htm">Connect<wbr />Async(<wbr />Socket, IPAddress[], Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="2afc4cf7-1c56-c10a-b574-ed7c59fe9469" href="2afc4cf7-1c56-c10a-b574-ed7c59fe9469.htm">Connect<wbr />Async(<wbr />Socket, String, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

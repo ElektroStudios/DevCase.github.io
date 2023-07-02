@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="bf2415de-f4af-771e-2036-4197f74650a1.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7543aa0f-5e0e-e0c0-dfca-c9bbd2dbdf3a" class="has-submenu" href="7543aa0f-5e0e-e0c0-dfca-c9bbd2dbdf3a.htm">
+        <span data-tocFile="../toc/IDAUDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2b79b325-7e7d-9210-45b6-750d9c2a96cc" class="has-submenu" href="2b79b325-7e7d-9210-45b6-750d9c2a96cc.htm">
+        <span data-tocFile="../toc/IDBUDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx.<wbr />Extensions.<wbr />Gecko<wbr />Web<wbr />Browser<wbr />Extensions</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

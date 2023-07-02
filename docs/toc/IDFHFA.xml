@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="50f97a35-d02d-ba96-50fa-84e6f8bfe02b.htm">Change<wbr />Filter</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e2d5d616-716b-a28f-5d8b-ba52e158a3e4" href="e2d5d616-716b-a28f-5d8b-ba52e158a3e4.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="f9aa991a-2abf-b0a0-9470-64e6598994e2" href="f9aa991a-2abf-b0a0-9470-64e6598994e2.htm">Methods</a>
+    </li>
+    <li>
+      <a id="41d80a88-ecc0-b059-e477-3f1270609321" class="has-submenu" href="41d80a88-ecc0-b059-e477-3f1270609321.htm">
+        <span data-tocFile="../toc/IDCFHFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

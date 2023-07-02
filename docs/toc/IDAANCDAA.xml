@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Compilation</a>
+    </li>
+    <li>
+      <a href="68850dfa-41c7-f21b-3835-9a69373c0ef5.htm">Util<wbr />Net<wbr />Code<wbr />Compiler</a>
+    </li>
+    <li>
+      <a href="cc4ddc5d-9953-fb8b-ac7a-ef84f7eae048.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d24240cc-fd02-1be1-8028-3bba4fd198d9.htm">Compile<wbr />Project</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ca6bb8c9-fbb8-57bb-f929-e9a313f90277" href="ca6bb8c9-fbb8-57bb-f929-e9a313f90277.htm">Compile<wbr />Project(<wbr />String, Ms<wbr />Build<wbr />Version)</a>
+    </li>
+    <li>
+      <a id="6c9e0797-10ab-3d5e-8ada-fb7232e91ebc" href="6c9e0797-10ab-3d5e-8ada-fb7232e91ebc.htm">Compile<wbr />Project(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="df3a5c3c-efba-0daa-5118-61baf37377f5" href="df3a5c3c-efba-0daa-5118-61baf37377f5.htm">Compile<wbr />Project(<wbr />String, Ms<wbr />Build<wbr />Version, String, String)</a>
+    </li>
+    <li>
+      <a id="b11c65cc-8985-fb98-c890-625acfb8fb27" href="b11c65cc-8985-fb98-c890-625acfb8fb27.htm">Compile<wbr />Project(<wbr />String, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

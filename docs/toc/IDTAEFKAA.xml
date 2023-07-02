@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="261e9b3e-7be1-f144-696c-594eee23b841.htm">Jump<wbr />To<wbr />Key</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9cf67c49-553b-9b9b-b98e-bfe785fc1973" href="9cf67c49-553b-9b9b-b98e-bfe785fc1973.htm">Jump<wbr />To<wbr />Key(<wbr />Registry<wbr />View, String)</a>
+    </li>
+    <li>
+      <a id="89a8700a-624a-a520-650a-81df0a5d2586" href="89a8700a-624a-a520-650a-81df0a5d2586.htm">Jump<wbr />To<wbr />Key(<wbr />Registry<wbr />View, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

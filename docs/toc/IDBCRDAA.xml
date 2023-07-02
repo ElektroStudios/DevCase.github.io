@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="f26e1baa-1665-ab7b-5a69-b03505ab4b03.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Visual<wbr />Studio.<wbr />Solution</a>
+    </li>
+    <li>
+      <a href="678b32b8-6021-c334-f68a-b6ca657701b0.htm">Visual<wbr />Basic<wbr />Project<wbr />File<wbr />Manager</a>
+    </li>
+    <li>
+      <a href="faec4fdd-fe8b-d1ac-d8de-7c8181707479.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f485e000-561f-1a98-bf6b-5eb8504341f1" href="f485e000-561f-1a98-bf6b-5eb8504341f1.htm">Assembly<wbr />Name</a>
+    </li>
+    <li>
+      <a id="5426727b-de98-421f-f535-94796b35739f" href="5426727b-de98-421f-f535-94796b35739f.htm">Auto<wbr />Generate<wbr />Binding<wbr />Redirects</a>
+    </li>
+    <li>
+      <a id="1fe3894a-c271-d7aa-4bff-74f6ac7f289b" href="1fe3894a-c271-d7aa-4bff-74f6ac7f289b.htm">Configuration</a>
+    </li>
+    <li>
+      <a id="1990454f-824b-dc28-f57b-d70bcd330a99" href="1990454f-824b-dc28-f57b-d70bcd330a99.htm">Document</a>
+    </li>
+    <li>
+      <a id="568654e4-02cf-fdd8-a97a-a77a2170dc48" href="568654e4-02cf-fdd8-a97a-a77a2170dc48.htm">File</a>
+    </li>
+    <li>
+      <a id="108afdc1-e1be-47b1-0c62-9cdf0cfca34b" href="108afdc1-e1be-47b1-0c62-9cdf0cfca34b.htm">File<wbr />Alignment</a>
+    </li>
+    <li>
+      <a id="ed194e49-5097-a77e-63b6-162dace69fb5" href="ed194e49-5097-a77e-63b6-162dace69fb5.htm">Imported<wbr />Namespaces</a>
+    </li>
+    <li>
+      <a id="bf8d2cf2-dee9-389a-f633-eb08867cf5a4" href="bf8d2cf2-dee9-389a-f633-eb08867cf5a4.htm">Item<wbr />Group<wbr />Nodes</a>
+    </li>
+    <li>
+      <a id="280ac03f-521b-fc2e-84dc-4cf35f1b014c" href="280ac03f-521b-fc2e-84dc-4cf35f1b014c.htm">Option<wbr />Explicit<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="117cf07c-d1e2-2ef1-ae4f-968859857983" href="117cf07c-d1e2-2ef1-ae4f-968859857983.htm">Option<wbr />Infer<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="929d1c6f-96cf-6186-9a84-192bc5e0fcad" href="929d1c6f-96cf-6186-9a84-192bc5e0fcad.htm">Option<wbr />Strict<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="3f918ea7-b571-2693-e25c-a30b68ecf68a" href="3f918ea7-b571-2693-e25c-a30b68ecf68a.htm">Output<wbr />Type</a>
+    </li>
+    <li>
+      <a id="00eb6388-c378-79c2-dfea-d1a2c0a6997d" href="00eb6388-c378-79c2-dfea-d1a2c0a6997d.htm">Platform</a>
+    </li>
+    <li>
+      <a id="232a6e4c-3cbc-5e3b-0f43-8eeb04962e26" href="232a6e4c-3cbc-5e3b-0f43-8eeb04962e26.htm">Project<wbr />Guid</a>
+    </li>
+    <li>
+      <a id="6bab9e2e-b882-6fd7-dfd6-2ac6fa94d5c7" href="6bab9e2e-b882-6fd7-dfd6-2ac6fa94d5c7.htm">Property<wbr />Group<wbr />Nodes</a>
+    </li>
+    <li>
+      <a id="88406fa2-9238-a4b7-4341-36c43c6cf6a9" href="88406fa2-9238-a4b7-4341-36c43c6cf6a9.htm">Referenced<wbr />Assemblies</a>
+    </li>
+    <li>
+      <a id="73d8b67e-7558-9188-f88e-bf81b870cbb9" href="73d8b67e-7558-9188-f88e-bf81b870cbb9.htm">Root<wbr />Namespace</a>
+    </li>
+    <li>
+      <a id="6a0771d0-9885-a96b-a4e2-b711d3ccf894" href="6a0771d0-9885-a96b-a4e2-b711d3ccf894.htm">Startup<wbr />Object</a>
+    </li>
+    <li>
+      <a id="dc295e9b-d573-c917-15f0-cb66885fbb99" href="dc295e9b-d573-c917-15f0-cb66885fbb99.htm">Target<wbr />Framework<wbr />Version</a>
+    </li>
+  </tocItems>
+</toc>

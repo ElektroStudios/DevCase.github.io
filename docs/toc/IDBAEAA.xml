@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3a85eb7c-b5af-67ea-d1bd-9172872ebd51.htm">Dev<wbr />Case.<wbr />Core.<wbr />Finances Namespaces</a>
+    </li>
+    <li>
+      <a href="8f098b4a-519c-5e64-60e0-ca0fd9604630.htm">Dev<wbr />Case.<wbr />Core.<wbr />Finances.<wbr />Crypto<wbr />Currencies</a>
+    </li>
+    <li>
+      <a href="430ecc27-61ff-a00a-a7e3-d36d6f0d11c9.htm">Util<wbr />Cryptocurrency</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6b8da509-36a2-7ece-cd82-0a3fc0364d84" class="has-submenu" href="6b8da509-36a2-7ece-cd82-0a3fc0364d84.htm">
+        <span data-tocFile="../toc/IDABAEAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

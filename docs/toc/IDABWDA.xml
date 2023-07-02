@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="c5719154-8242-bd99-d566-a8f68c543474.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Drive</a>
+    </li>
+    <li>
+      <a href="2915553e-d646-86c9-e377-527cf3e86bae.htm">Drive<wbr />Client</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7db508a5-302a-dca1-1ff4-86cc9fd0db16" class="has-submenu" href="7db508a5-302a-dca1-1ff4-86cc9fd0db16.htm">
+        <span data-tocFile="../toc/IDAABWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e442dfea-4f21-042f-9ebb-6342bb3940ca" class="has-submenu" href="e442dfea-4f21-042f-9ebb-6342bb3940ca.htm">
+        <span data-tocFile="../toc/IDBABWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2f12b0c-47f2-b68b-e7e6-88e16d61c8ad" class="has-submenu" href="b2f12b0c-47f2-b68b-e7e6-88e16d61c8ad.htm">
+        <span data-tocFile="../toc/IDCABWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

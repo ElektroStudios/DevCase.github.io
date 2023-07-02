@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="d80d6b2d-19f0-d3cf-cdbb-bb8e27851dc6.htm">Dev<wbr />Case.<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="aba17f5a-1e4c-778f-05b2-ddebeba67229.htm">Util<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="19d1f5ca-2a33-9a03-8af3-b00c1f0d194a.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ceeac181-fbd7-5cc0-94d5-114b76e0f781.htm">Safe<wbr />PInvoke</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="707b4d3a-5500-7de0-2301-d7c2f79b1cea" href="707b4d3a-5500-7de0-2301-d7c2f79b1cea.htm">Safe<wbr />PInvoke&lt;T&gt;(<wbr />Expression&lt;Func&lt;T&gt;&gt;, Boolean)</a>
+    </li>
+    <li>
+      <a id="4f37ea4e-8901-b07e-36f8-c46a7782f2f9" href="4f37ea4e-8901-b07e-36f8-c46a7782f2f9.htm">Safe<wbr />PInvoke&lt;T&gt;(<wbr />Expression&lt;Func&lt;T&gt;&gt;, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

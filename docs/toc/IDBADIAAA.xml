@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="41a79afa-943b-b3f1-3b6e-c194cbf24c4c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Resources</a>
+    </li>
+    <li>
+      <a href="b6a66114-305a-ab1e-0317-02281194a7f8.htm">Util<wbr />Resource</a>
+    </li>
+    <li>
+      <a href="38e91346-dafa-6a1d-d9f8-923d9524462c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="216de0e8-4a2f-ccfc-557a-aaef8a66cd3a.htm">Execute<wbr />Safe</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a922e322-5491-a8dc-4e7e-691cd8ee7c7f" href="a922e322-5491-a8dc-4e7e-691cd8ee7c7f.htm">Execute<wbr />Safe(<wbr />Byte[])</a>
+    </li>
+    <li>
+      <a id="c8cf1b96-5079-f7a6-fbad-fb858a44a150" href="c8cf1b96-5079-f7a6-fbad-fb858a44a150.htm">Execute<wbr />Safe(<wbr />Byte[], Object[])</a>
+    </li>
+  </tocItems>
+</toc>

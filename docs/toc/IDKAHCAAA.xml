@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="119f609c-ea87-50ec-6e30-e11c869dd35c.htm">Async<wbr />Uncheck</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="489736e8-dee6-0fe8-7e67-0cf62f6c4615" href="489736e8-dee6-0fe8-7e67-0cf62f6c4615.htm">Async<wbr />Uncheck(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="78e9aa90-8787-3192-316c-3b4734a1577b" href="78e9aa90-8787-3192-316c-3b4734a1577b.htm">Async<wbr />Uncheck(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="61e405c8-ef44-62cd-86c9-f18e53f0ade4" href="61e405c8-ef44-62cd-86c9-f18e53f0ade4.htm">Async<wbr />Uncheck&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="22cbf058-5e71-cea0-851a-862fb91324d3" href="22cbf058-5e71-cea0-851a-862fb91324d3.htm">Async<wbr />Uncheck&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="ece3d6b1-20a1-4181-a5e5-8d0135286427" href="ece3d6b1-20a1-4181-a5e5-8d0135286427.htm">Async<wbr />Uncheck&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

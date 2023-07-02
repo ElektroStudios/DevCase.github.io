@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a5dac2c5-f8b5-8363-fb85-26c28391221f" class="has-submenu" href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">
+        <span data-tocFile="../toc/IDACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Gmail<wbr />Client</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2a9f017-d0d9-c511-8558-ffd8a00bef96" href="b2a9f017-d0d9-c511-8558-ffd8a00bef96.htm">Gmail<wbr />Folder<wbr />Ids</a>
+    </li>
+    <li>
+      <a id="24835863-81e2-7f49-9d1f-04c6f6ff0aa0" href="24835863-81e2-7f49-9d1f-04c6f6ff0aa0.htm">Gmail<wbr />Scopes</a>
+    </li>
+  </tocItems>
+</toc>

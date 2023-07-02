@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="82d64413-bbc7-0151-7610-848f013801c5.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Numerics</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6ae1fe93-ce35-3644-92c2-8b9fa19c864e" class="has-submenu" href="6ae1fe93-ce35-3644-92c2-8b9fa19c864e.htm">
+        <span data-tocFile="../toc/IDAECA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Random<wbr />Number<wbr />Generator</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

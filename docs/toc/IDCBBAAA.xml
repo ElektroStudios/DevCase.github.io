@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="e8bdae7e-1d72-8e13-0454-1b84298d8c8d.htm">Console<wbr />Rectangle</a>
+    </li>
+    <li>
+      <a href="569063c3-d2e7-d7bf-3c72-0368d16b9588.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="278be935-2346-b5b4-f004-c84c31eab9ea" href="278be935-2346-b5b4-f004-c84c31eab9ea.htm">Equals</a>
+    </li>
+    <li>
+      <a id="ae229909-24f9-7927-e4ce-69e16ffbda85" href="ae229909-24f9-7927-e4ce-69e16ffbda85.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="8f07ef4c-b38e-7475-3f82-2e3a3c1820ff" class="has-submenu" href="8f07ef4c-b38e-7475-3f82-2e3a3c1820ff.htm">
+        <span data-tocFile="../toc/IDCCBBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Inflate</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9a037fc8-c000-1937-955f-46d3d64ae750" class="has-submenu" href="9a037fc8-c000-1937-955f-46d3d64ae750.htm">
+        <span data-tocFile="../toc/IDDCBBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Offset</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e88c88b9-028d-edfe-c0de-c463f5bfc659" href="e88c88b9-028d-edfe-c0de-c463f5bfc659.htm">To<wbr />String</a>
+    </li>
+    <li>
+      <a id="a8b2d400-f9f6-2bb6-57cb-261381a40614" href="a8b2d400-f9f6-2bb6-57cb-261381a40614.htm">Write</a>
+    </li>
+  </tocItems>
+</toc>

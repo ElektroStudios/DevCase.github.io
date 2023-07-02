@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e2ceadad-dcad-19a3-b7a6-e6cc63791e13.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="f84c9d02-0e5f-1438-addc-e44f0a5176b4.htm">List<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="6c3cdc3e-0eb2-d085-333c-18da4ae40eb4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="862f6072-dc71-3bbc-d261-2c8d3b3b1391.htm">Set<wbr />Selected<wbr />No<wbr />Jump</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="385d8fbb-a861-2463-29e8-fb825e71156d" href="385d8fbb-a861-2463-29e8-fb825e71156d.htm">Set<wbr />Selected<wbr />No<wbr />Jump(<wbr />List<wbr />Box, Int<wbr />32, List<wbr />Box<wbr />Item<wbr />Selection<wbr />State)</a>
+    </li>
+    <li>
+      <a id="7919e9b1-ae90-0a5d-3e77-e03c4bd03cd9" href="7919e9b1-ae90-0a5d-3e77-e03c4bd03cd9.htm">Set<wbr />Selected<wbr />No<wbr />Jump(<wbr />List<wbr />Box, Int<wbr />32[], List<wbr />Box<wbr />Item<wbr />Selection<wbr />State)</a>
+    </li>
+    <li>
+      <a id="edbba1a5-e265-fb80-6e26-9c7daf0f7ec8" href="edbba1a5-e265-fb80-6e26-9c7daf0f7ec8.htm">Set<wbr />Selected<wbr />No<wbr />Jump(<wbr />List<wbr />Box, String, List<wbr />Box<wbr />Item<wbr />Selection<wbr />State)</a>
+    </li>
+    <li>
+      <a id="44611af5-3b2d-aedf-24e9-40fa8a6e0925" href="44611af5-3b2d-aedf-24e9-40fa8a6e0925.htm">Set<wbr />Selected<wbr />No<wbr />Jump(<wbr />List<wbr />Box, String[], List<wbr />Box<wbr />Item<wbr />Selection<wbr />State)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="8d1b33f4-4065-9c32-d951-0daf876badc6.htm">Dev<wbr />Case.<wbr />UI.<wbr />Events</a>
+    </li>
+    <li>
+      <a href="f648dd10-7957-97fe-c115-542ab73475f6.htm">Star<wbr />Rate<wbr />Value<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b024e0aa-7a32-9cf7-4b90-e67f11cecb0f" href="b024e0aa-7a32-9cf7-4b90-e67f11cecb0f.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="22fd9a0d-e360-475c-ac28-38a5033b9eb2" class="has-submenu" href="22fd9a0d-e360-475c-ac28-38a5033b9eb2.htm">
+        <span data-tocFile="../toc/IDBGEEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e90e8642-7dc0-d3d1-cb30-7ba68669b3c0" href="e90e8642-7dc0-d3d1-cb30-7ba68669b3c0.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

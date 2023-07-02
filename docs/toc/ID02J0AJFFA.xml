@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="861c1384-ff2d-366a-ff05-b59aeb6cb4a8.htm">Virtual<wbr />Query<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ea33274b-2059-d31c-4695-cf33da7e73fa" href="ea33274b-2059-d31c-4695-cf33da7e73fa.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="1dda7f8f-5a71-9b1d-d36e-59aea5fc9877" href="1dda7f8f-5a71-9b1d-d36e-59aea5fc9877.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="e819e93b-5246-89f6-1039-77958eed97f1" href="e819e93b-5246-89f6-1039-77958eed97f1.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="63737f8e-01e0-e808-a3f0-0a4325b7850d" href="63737f8e-01e0-e808-a3f0-0a4325b7850d.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="b0dc8e24-6dd2-e670-bcfd-7a73c552db5d" href="b0dc8e24-6dd2-e670-bcfd-7a73c552db5d.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="92b8e404-e0f8-e234-bc43-3d279aa1f91d" href="92b8e404-e0f8-e234-bc43-3d279aa1f91d.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="418f5952-4aab-3a40-0dcd-dbe3692a93c0" href="418f5952-4aab-3a40-0dcd-dbe3692a93c0.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="56e813f0-3f37-5e56-ba3a-3642c12adfbd" href="56e813f0-3f37-5e56-ba3a-3642c12adfbd.htm">Virtual<wbr />Query<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

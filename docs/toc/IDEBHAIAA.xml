@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5a93f38e-4410-c15f-9650-922e6ff58abb.htm">Download<wbr />File<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b98286fe-32e4-0d85-b754-4d8075be29dc" href="b98286fe-32e4-0d85-b754-4d8075be29dc.htm">Download<wbr />File<wbr />Async(<wbr />String, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="9332be86-1c22-81f5-1987-c61f7f4cde7f" href="9332be86-1c22-81f5-1987-c61f7f4cde7f.htm">Download<wbr />File<wbr />Async(<wbr />String, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="bdd63b53-7763-d593-7784-454c5708321a" href="bdd63b53-7763-d593-7784-454c5708321a.htm">Download<wbr />File<wbr />Async(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="95a2a921-fe05-a10e-d61b-7cad764fcffa" href="95a2a921-fe05-a10e-d61b-7cad764fcffa.htm">Download<wbr />File<wbr />Async(<wbr />String, String, String)</a>
+    </li>
+    <li>
+      <a id="11f6a0f6-f0e1-e72a-fe23-e0162074d626" href="11f6a0f6-f0e1-e72a-fe23-e0162074d626.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="5c5f830e-16c9-ce19-ffb8-920165eab567" href="5c5f830e-16c9-ce19-ffb8-920165eab567.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="3ccef011-526d-2758-6af5-2495c1bedb94" href="3ccef011-526d-2758-6af5-2495c1bedb94.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, String)</a>
+    </li>
+    <li>
+      <a id="e2183750-d128-cce2-dc63-372a95a9d12a" href="e2183750-d128-cce2-dc63-372a95a9d12a.htm">Download<wbr />File<wbr />Async(<wbr />String, Directory<wbr />Info, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="b8d93807-c943-044b-5df8-2354448b028b" href="b8d93807-c943-044b-5df8-2354448b028b.htm">Download<wbr />File<wbr />Async(<wbr />String, File<wbr />Info, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="c138b058-bb79-2e18-d678-3955e8d1d7a6" href="c138b058-bb79-2e18-d678-3955e8d1d7a6.htm">Download<wbr />File<wbr />Async(<wbr />String, String, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="d333493b-73d9-f8b4-69cb-5ead45011968" href="d333493b-73d9-f8b4-69cb-5ead45011968.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, String, String)</a>
+    </li>
+    <li>
+      <a id="12f960a7-2cfb-566b-16e8-165d07f22dae" href="12f960a7-2cfb-566b-16e8-165d07f22dae.htm">Download<wbr />File<wbr />Async(<wbr />String, String, String, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="72c7833f-5a5f-68aa-b810-368d118df9e8" href="72c7833f-5a5f-68aa-b810-368d118df9e8.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, Directory<wbr />Info, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="fd822709-980a-b446-c319-5bb308a98ebd" href="fd822709-980a-b446-c319-5bb308a98ebd.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, File<wbr />Info, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="a7669988-b5b1-d547-5c2e-5f819bba10c9" href="a7669988-b5b1-d547-5c2e-5f819bba10c9.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, String, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+    <li>
+      <a id="6d61f776-7381-fbd4-0932-2d05ff6a0ff3" href="6d61f776-7381-fbd4-0932-2d05ff6a0ff3.htm">Download<wbr />File<wbr />Async(<wbr />Web<wbr />Proxy, String, String, String, Download<wbr />Progress<wbr />Changed<wbr />Event<wbr />Handler, Async<wbr />Completed<wbr />Event<wbr />Handler)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="db9a460b-486e-88ea-b07f-ebc7d9877827.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Applications</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9d8fe083-f408-a0dc-fe22-ca3feebdad77" class="has-submenu" href="9d8fe083-f408-a0dc-fe22-ca3feebdad77.htm">
+        <span data-tocFile="../toc/IDAAKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>App<wbr />Open<wbr />With<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="555d8d07-827e-f735-1b1b-0fe8889ae005" class="has-submenu" href="555d8d07-827e-f735-1b1b-0fe8889ae005.htm">
+        <span data-tocFile="../toc/IDBAKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>App<wbr />Shell<wbr />Execute<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0c04e74b-5429-a71a-a449-bdfc5294516e" class="has-submenu" href="0c04e74b-5429-a71a-a449-bdfc5294516e.htm">
+        <span data-tocFile="../toc/IDCAKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Software</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a7c8a0cc-63db-62aa-195e-ff00273aae22" class="has-submenu" href="a7c8a0cc-63db-62aa-195e-ff00273aae22.htm">
+        <span data-tocFile="../toc/IDDAKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Win<wbr />Startup</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ad571a26-f26c-7c6d-0515-ead01c1696d0" href="ad571a26-f26c-7c6d-0515-ead01c1696d0.htm">Win<wbr />Startup<wbr />Scope</a>
+    </li>
+  </tocItems>
+</toc>

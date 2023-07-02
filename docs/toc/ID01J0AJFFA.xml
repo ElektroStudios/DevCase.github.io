@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b2177892-ba9c-7917-59b5-74e9efd75df5.htm">Virtual<wbr />Query</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a20f16cf-26a2-a574-23ab-d6c0b84ab334" href="a20f16cf-26a2-a574-23ab-d6c0b84ab334.htm">Virtual<wbr />Query(<wbr />Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="fa96df4a-c4ad-3c73-0d32-34a0c993306f" href="fa96df4a-c4ad-3c73-0d32-34a0c993306f.htm">Virtual<wbr />Query(<wbr />Int<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e48c3f06-43a9-b90b-e4cf-e499a0c65b89" href="e48c3f06-43a9-b90b-e4cf-e499a0c65b89.htm">Virtual<wbr />Query(<wbr />UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="78c6d060-6514-eb3d-74ac-b0fe32542d30" href="78c6d060-6514-eb3d-74ac-b0fe32542d30.htm">Virtual<wbr />Query(<wbr />UInt<wbr />Ptr, Memory<wbr />Basic<wbr />Information<wbr />64, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

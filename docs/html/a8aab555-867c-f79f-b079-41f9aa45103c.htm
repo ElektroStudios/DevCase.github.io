@@ -1,0 +1,469 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>FileOperationFlags Enumeration</title>
+    <meta name="Title" content="FileOperationFlags" />
+    <meta name="Help.Id" content="T:DevCase.Win32.Enums.FileOperationFlags" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.Win32.Enums" />
+    <meta name="guid" content="a8aab555-867c-f79f-b079-41f9aa45103c" />
+    <meta name="Description" content="Specifies the flags that control the file operation when calling function." />
+    <meta name="tocFile" content="../toc/IDDFA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>File<wbr />Operation<wbr />Flags Enumeration</h1>
+            <div class="summary">
+ Specifies the flags that control the file operation when calling <a href="e5be2038-4134-082d-21d4-3a41077f4521.htm">SetOperationFlags(FileOperationFlags)</a> function.
+ </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="bc387bbf-c905-2558-9de0-4a5ffd59a6a0.htm">DevCase.Win32.Enums</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.flagsattribute" target="_top" rel="noopener noreferrer">FlagsAttribute</a>]
+<span class="keyword">public</span> <span class="keyword">enum</span> <span class="identifier">FileOperationFlags</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.flagsattribute" target="_top" rel="noopener noreferrer">FlagsAttribute</a>&gt;
+<span class="keyword">Public</span> <span class="keyword">Enumeration</span> <span class="identifier">FileOperationFlags</span>
+
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">FileOperationFlags</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp">[<a href="https://learn.microsoft.com/dotnet/api/system.flagsattribute" target="_top" rel="noopener noreferrer">FlagsAttribute</a>]
+<span class="keyword">public</span> <span class="keyword">enum class</span> <span class="identifier">FileOperationFlags</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.flagsattribute" target="_top" rel="noopener noreferrer">FlagsAttribute</a>&gt;]
+<span class="keyword">type</span> <span class="identifier">FileOperationFlags</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDBCSection">
+              <a href="https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nf-shobjidl_core-ifileoperation-setoperationflags" target="_blank" rel="noopener noreferrer">https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nf-shobjidl_core-ifileoperation-setoperationflags</a>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Members</h2>
+            <div id="IDAEASection">
+              <table id="enumMemberList" class="table is-hoverable">
+                <tr>
+                  <td>MultipleDestinationFiles</td>
+                  <td>1</td>
+                  <td>
+ Specifies multiple destination files (one for each source file) 
+ rather than one directory where all source files are to be deposited.
+ </td>
+                </tr>
+                <tr>
+                  <td>ConfirmMouse</td>
+                  <td>2</td>
+                  <td>
+ Not used.
+ </td>
+                </tr>
+                <tr>
+                  <td>Silent</td>
+                  <td>4</td>
+                  <td>
+ Do not display a progress dialog box.
+ </td>
+                </tr>
+                <tr>
+                  <td>RenameCollision</td>
+                  <td>8</td>
+                  <td>
+ Give the item being operated on a new name in a move, copy, 
+ or rename operation if an item with the target name already exists.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoConfirmation</td>
+                  <td>16</td>
+                  <td>
+ Respond with Yes to All for any dialog box that is displayed.
+ </td>
+                </tr>
+                <tr>
+                  <td>WantMappingHandle</td>
+                  <td>32</td>
+                  <td>
+ If <span class="selflink">RenameCollision</span> is specified and any files were renamed, 
+ assign a name mapping object that contains their old and new names to the SHFILEOPSTRUCT.hNameMappings member. 
+ <p />
+ This object must be freed using SHFreeNameMappings function when it is no longer needed.
+ </td>
+                </tr>
+                <tr>
+                  <td>AllowUndo</td>
+                  <td>64</td>
+                  <td>
+ Preserve undo information, if possible.
+ </td>
+                </tr>
+                <tr>
+                  <td>FilesOnly</td>
+                  <td>128</td>
+                  <td>
+ Perform the operation only on files (not on folders) if a wildcard file name (.) is specified.
+ </td>
+                </tr>
+                <tr>
+                  <td>SimpleProgress</td>
+                  <td>256</td>
+                  <td>
+ Display a progress dialog box but do not show individual file names as they are operated on.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoConfirmMakeDir</td>
+                  <td>512</td>
+                  <td>
+ Do not confirm the creation of a new folder if the operation requires one to be created.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoErrorUI</td>
+                  <td>1,024</td>
+                  <td>
+ Do not display a message to the user if an error occurs. 
+ <p />
+ If this flag is set without <span class="selflink">EarlyFailure</span>, 
+ any error is treated as if the user had chosen Ignore or Continue in a dialog box. 
+ <p />
+ It halts the current action, sets a flag to indicate that an action was aborted, 
+ and proceeds with the rest of the operation.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoCopySecurityAttributes</td>
+                  <td>2,048</td>
+                  <td>
+ Do not copy the security attributes of the item.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoRecursion</td>
+                  <td>4,096</td>
+                  <td>
+ Only operate in the local folder. Do not operate recursively into subdirectories.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoConnectedElements</td>
+                  <td>8,192</td>
+                  <td>
+ Do not move connected items as a group. Only move the specified files.
+ </td>
+                </tr>
+                <tr>
+                  <td>WantNukeWarning</td>
+                  <td>16,384</td>
+                  <td>
+ Send a warning if a file or folder is being destroyed during a delete operation rather than recycled. 
+ <p />
+ This flag partially overrides <span class="selflink">NoConfirmation</span>.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoRecurseReparse</td>
+                  <td>32,768</td>
+                  <td>
+ Not used.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoSkipJunctions</td>
+                  <td>65,536</td>
+                  <td>
+ Walk into Shell namespace junctions. 
+ <p />
+ By default, junctions are not entered. 
+ </td>
+                </tr>
+                <tr>
+                  <td>PreferHardLink</td>
+                  <td>131,072</td>
+                  <td>
+ If possible, create a hard link rather than a new instance of the file in the destination.
+ </td>
+                </tr>
+                <tr>
+                  <td>ShowElevationPrompt</td>
+                  <td>262,144</td>
+                  <td>
+ If an operation requires elevated rights 
+ and the <span class="selflink">NoErrorUI</span> flag is set to disable error UI, 
+ display a UAC UI prompt nonetheless.
+ </td>
+                </tr>
+                <tr>
+                  <td>RecycleOnDelete</td>
+                  <td>524,288</td>
+                  <td>
+ When a file is deleted, send it to the Recycle Bin rather than permanently deleting it.
+ </td>
+                </tr>
+                <tr>
+                  <td>EarlyFailure</td>
+                  <td>1,048,576</td>
+                  <td>
+ If <span class="selflink">EarlyFailure</span> is set together with <span class="selflink">NoErrorUI</span>, 
+ the entire set of operations is stopped upon encountering any error in any operation. 
+ <p />
+ This flag is valid only when <span class="selflink">NoErrorUI</span> is set.
+ </td>
+                </tr>
+                <tr>
+                  <td>PreserveFileExtensions</td>
+                  <td>2,097,152</td>
+                  <td>
+ Rename collisions in such a way as to preserve file name extensions. 
+ <p />
+ This flag is valid only when <span class="selflink">RenameCollision</span> is also set.
+ </td>
+                </tr>
+                <tr>
+                  <td>KeepNewerFile</td>
+                  <td>4,194,304</td>
+                  <td>
+ Keep the newer file or folder, based on the Date Modified property, if a collision occurs. 
+ <p />
+ This is done automatically with no prompt UI presented to the user.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoCopyHooks</td>
+                  <td>8,388,608</td>
+                  <td>
+ Do not use copy hooks.
+ </td>
+                </tr>
+                <tr>
+                  <td>NoMinimizeBox</td>
+                  <td>16,777,216</td>
+                  <td>
+ Do not allow the progress dialog to be minimized.
+ </td>
+                </tr>
+                <tr>
+                  <td>MoveAclsAcrossVolumes</td>
+                  <td>33,554,432</td>
+                  <td>
+ Copy the security attributes of the source item to the destination item 
+ when performing a cross-volume move operation. 
+ <p />
+ Without this flag, the destination item receives the security attributes of its new folder.
+ </td>
+                </tr>
+                <tr>
+                  <td>DontDisplaySourcePath</td>
+                  <td>67,108,864</td>
+                  <td>
+ Do not display the path of the source item in the progress dialog.
+ </td>
+                </tr>
+                <tr>
+                  <td>DontDisplayDestinationPath</td>
+                  <td>134,217,728</td>
+                  <td>
+ Do not display the path of the destination item in the progress dialog.
+ </td>
+                </tr>
+                <tr>
+                  <td>RequireElevation</td>
+                  <td>268,435,456</td>
+                  <td>
+ The user expects a requirement for rights elevation, 
+ so do not display a dialog box asking for a confirmation of the elevation.
+ </td>
+                </tr>
+                <tr>
+                  <td>AddUndoRecord</td>
+                  <td>536,870,912</td>
+                  <td>
+ The file operation was user-invoked and should be placed on the undo stack. 
+ <p />
+ This flag is preferred to <span class="selflink">AllowUndo</span>.
+ </td>
+                </tr>
+                <tr>
+                  <td>CopyAsDownload</td>
+                  <td>1,073,741,824</td>
+                  <td>
+ Display a Downloading instead of Copying message in the progress dialog.
+ </td>
+                </tr>
+                <tr>
+                  <td>DontDisplayLocations</td>
+                  <td>2,147,483,648</td>
+                  <td>
+ Do not display the location line in the progress dialog.
+ </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="bc387bbf-c905-2558-9de0-4a5ffd59a6a0.htm">DevCase.Win32.Enums Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
+                  <a class="quickLink">Members</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2023</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+    <script>
+		$(".requestExampleLink").each(function ()
+		{
+			if(this.href.substring(0, 4).toLowerCase() === "http")
+				this.href += "?title=";
+			else
+				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+
+			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
+				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +
+				"scenario you would like to see addressed.%0D%0DHelp Topic: " + window.location.href).replace(/%250D/g, "%0D");
+		});
+	</script>
+  </body>
+</html>

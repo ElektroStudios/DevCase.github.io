@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="6f3a1913-9649-2e3a-bcc1-8d75e67a4299.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Desktop</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ad9238e9-7aae-c775-a4a4-3b7dc09aac3e" href="ad9238e9-7aae-c775-a4a4-3b7dc09aac3e.htm">Desktop<wbr />Icon<wbr />View<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="41993e9c-14f6-55d9-412b-c15128b2024a" href="41993e9c-14f6-55d9-412b-c15128b2024a.htm">Taskbar<wbr />Position</a>
+    </li>
+    <li>
+      <a id="90260699-2b4a-71e2-3605-3f40e3c6edbb" href="90260699-2b4a-71e2-3605-3f40e3c6edbb.htm">Taskbar<wbr />State</a>
+    </li>
+    <li>
+      <a id="58658fa3-37cd-6679-82dd-02deaca1c3d7" href="58658fa3-37cd-6679-82dd-02deaca1c3d7.htm">Task<wbr />Bar<wbr />Visibility</a>
+    </li>
+    <li>
+      <a id="18ab8e7a-af2a-d376-aaec-0e6b1d83d129" class="has-submenu" href="18ab8e7a-af2a-d376-aaec-0e6b1d83d129.htm">
+        <span data-tocFile="../toc/IDEDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Desktop</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1c9b15cd-ef02-a7e8-6de1-95baf39edbd6" class="has-submenu" href="1c9b15cd-ef02-a7e8-6de1-95baf39edbd6.htm">
+        <span data-tocFile="../toc/IDFDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Notification<wbr />Area</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c1831c3f-1194-9d32-62e1-1a12ed58713b" class="has-submenu" href="c1831c3f-1194-9d32-62e1-1a12ed58713b.htm">
+        <span data-tocFile="../toc/IDGDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Start<wbr />Menu</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0bdf2ce2-c239-5eca-63e6-43b50170627b" class="has-submenu" href="0bdf2ce2-c239-5eca-63e6-43b50170627b.htm">
+        <span data-tocFile="../toc/IDHDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />System<wbr />Tray</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ae053900-9abe-00eb-253a-6dec48396a24" class="has-submenu" href="ae053900-9abe-00eb-253a-6dec48396a24.htm">
+        <span data-tocFile="../toc/IDIDKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Task<wbr />Bar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

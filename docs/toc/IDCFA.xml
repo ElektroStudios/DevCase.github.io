@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="a7efa16a-cc61-1533-0cf1-5a04cbec0a5e.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Delegates</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1ce5477b-e645-966c-6203-f8fe3a2b3b4e" class="has-submenu" href="1ce5477b-e645-966c-6203-f8fe3a2b3b4e.htm">
+        <span data-tocFile="../toc/IDACFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Delegates</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4718c9d6-67b4-2477-adfa-d61a667e7ccb" href="4718c9d6-67b4-2477-adfa-d61a667e7ccb.htm">Delegates.<wbr />Application<wbr />Recovery<wbr />Callback</a>
+    </li>
+    <li>
+      <a id="8fd4c550-7d75-636b-8a45-d767730e42bd" href="8fd4c550-7d75-636b-8a45-d767730e42bd.htm">Delegates.<wbr />Copy<wbr />Progress<wbr />Routine</a>
+    </li>
+    <li>
+      <a id="5f413abd-16b5-de82-7e0d-3bc23efb5b91" href="5f413abd-16b5-de82-7e0d-3bc23efb5b91.htm">Delegates.<wbr />Enum<wbr />Child<wbr />Windows<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="5f15dd3e-4d9e-e49c-47fa-19f39b3a749c" href="5f15dd3e-4d9e-e49c-47fa-19f39b3a749c.htm">Delegates.<wbr />Enum<wbr />Code<wbr />Pages<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="040bf76d-f169-0557-7331-73ea53d69311" href="040bf76d-f169-0557-7331-73ea53d69311.htm">Delegates.<wbr />Enum<wbr />Desktop<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="6402ed80-795d-bdd7-9641-ce982691b1c0" href="6402ed80-795d-bdd7-9641-ce982691b1c0.htm">Delegates.<wbr />Enum<wbr />Locales<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="307f95e8-de8c-d713-0999-097ce53220eb" href="307f95e8-de8c-d713-0999-097ce53220eb.htm">Delegates.<wbr />Enum<wbr />Monitor<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="95573511-4f3a-026a-8549-41dd46fd6b42" href="95573511-4f3a-026a-8549-41dd46fd6b42.htm">Delegates.<wbr />Enum<wbr />Thread<wbr />Windows<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="da8ab680-1f95-e18e-09b0-7e93e10987a7" href="da8ab680-1f95-e18e-09b0-7e93e10987a7.htm">Delegates.<wbr />Enum<wbr />UILanguages<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="6460ef70-9807-3f28-4e64-ac67e3c78f22" href="6460ef70-9807-3f28-4e64-ac67e3c78f22.htm">Delegates.<wbr />Enum<wbr />Windows<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="7d4c3557-4eba-c792-5742-158d437c09fd" href="7d4c3557-4eba-c792-5742-158d437c09fd.htm">Delegates.<wbr />Hook<wbr />Proc</a>
+    </li>
+    <li>
+      <a id="0adac483-55bb-d6eb-5705-1f15e9256f0a" href="0adac483-55bb-d6eb-5705-1f15e9256f0a.htm">Delegates.<wbr />Mini<wbr />Dump<wbr />Callback<wbr />Routine</a>
+    </li>
+    <li>
+      <a id="7dc307fc-e1ab-e176-671e-e76bfe80c62f" href="7dc307fc-e1ab-e176-671e-e76bfe80c62f.htm">Delegates.<wbr />Sym<wbr />Enum<wbr />Symbols<wbr />Proc</a>
+    </li>
+  </tocItems>
+</toc>

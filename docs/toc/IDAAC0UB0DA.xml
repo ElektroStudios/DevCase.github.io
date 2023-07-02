@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="aaff0a56-1efd-e88f-37b3-220a3cb28e08.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik Namespaces</a>
+    </li>
+    <li>
+      <a href="62bee740-3957-488c-7f8d-cb7b88284b47.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik.<wbr />Extensions.<wbr />Rad<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9bbb81d5-fbae-05e0-a29a-4ecea35910ff.htm">Rad<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="0b497827-0159-c2d9-5d2e-d4c393d6ea31.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3fe17071-cd56-f356-2252-02aefa4c1507" class="has-submenu" href="3fe17071-cd56-f356-2252-02aefa4c1507.htm">
+        <span data-tocFile="../toc/IDAAAC0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5aeac0f5-29f6-12e4-3a4c-58ddbbb5dbae" class="has-submenu" href="5aeac0f5-29f6-12e4-3a4c-58ddbbb5dbae.htm">
+        <span data-tocFile="../toc/IDBAAC0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0d5939a9-0362-31b1-6c77-21bb279c4787" class="has-submenu" href="0d5939a9-0362-31b1-6c77-21bb279c4787.htm">
+        <span data-tocFile="../toc/IDCAAC0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Selected<wbr />Rows</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e88c6e6c-4783-7cdc-2136-bd091edcffb2" href="e88c6e6c-4783-7cdc-2136-bd091edcffb2.htm">Remove<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="827be7fb-34fa-0b79-2935-a7180f497262" class="has-submenu" href="827be7fb-34fa-0b79-2935-a7180f497262.htm">
+        <span data-tocFile="../toc/IDEAAC0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a477522d-73e1-2871-9da2-395bd72b5a79" class="has-submenu" href="a477522d-73e1-2871-9da2-395bd72b5a79.htm">
+        <span data-tocFile="../toc/IDFAAC0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

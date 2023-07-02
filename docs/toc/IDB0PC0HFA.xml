@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">Process<wbr />Information</a>
+    </li>
+    <li>
+      <a href="e0db36a9-d00e-9304-3c40-42b933036060.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="be82d006-232d-32df-0616-107a424c9e64" href="be82d006-232d-32df-0616-107a424c9e64.htm">hProcess</a>
+    </li>
+    <li>
+      <a id="512257bf-16ec-44b4-fa2f-874073f800d4" href="512257bf-16ec-44b4-fa2f-874073f800d4.htm">hThread</a>
+    </li>
+    <li>
+      <a id="e08c84af-303d-5aa3-78ef-40989ef47358" href="e08c84af-303d-5aa3-78ef-40989ef47358.htm">Process<wbr />Id</a>
+    </li>
+    <li>
+      <a id="949b5b01-4f8b-f221-0649-4e37efce7587" href="949b5b01-4f8b-f221-0649-4e37efce7587.htm">Thread<wbr />Id</a>
+    </li>
+  </tocItems>
+</toc>

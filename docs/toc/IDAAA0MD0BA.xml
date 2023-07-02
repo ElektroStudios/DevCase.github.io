@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="4769e4d5-9b13-7ee5-443b-bc2d30d78cda.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Type<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="0e7cfde1-794b-b7f0-14e0-58597456baa3.htm">Type<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="d480f69b-9227-91ae-fa40-a761852fa2ed.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1ef96455-a099-ec1d-d65f-e11a58e443f5.htm">Create<wbr />Instance</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="60b2aa42-fe97-d38d-e0d4-ecd9332e180f" href="60b2aa42-fe97-d38d-e0d4-ecd9332e180f.htm">Create<wbr />Instance&lt;T&gt;(<wbr />T)</a>
+    </li>
+    <li>
+      <a id="d1ba311e-bf60-071c-9edf-d8dd1616d04b" href="d1ba311e-bf60-071c-9edf-d8dd1616d04b.htm">Create<wbr />Instance(<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="da2aa913-76d9-4f52-6128-ff1486129639" href="da2aa913-76d9-4f52-6128-ff1486129639.htm">Create<wbr />Instance(<wbr />Type, Object[])</a>
+    </li>
+    <li>
+      <a id="3d19477d-89e2-317e-6ed4-425312080fe2" href="3d19477d-89e2-317e-6ed4-425312080fe2.htm">Create<wbr />Instance&lt;T&gt;(<wbr />Type, Object[])</a>
+    </li>
+  </tocItems>
+</toc>

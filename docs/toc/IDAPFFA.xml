@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="afbfe912-3ab3-6ed6-36b8-cc1aafc3d713.htm">Ps<wbr />Api</a>
+    </li>
+    <li>
+      <a href="14984f66-5da0-7a1a-be67-67b63a0e739b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2955ca27-ab17-cdf9-cc5d-c4b8f886585f" href="2955ca27-ab17-cdf9-cc5d-c4b8f886585f.htm">Empty<wbr />Working<wbr />Set</a>
+    </li>
+    <li>
+      <a id="f6801964-bb84-6d83-1fa9-ffa0087d40dc" href="f6801964-bb84-6d83-1fa9-ffa0087d40dc.htm">Enum<wbr />Processes</a>
+    </li>
+    <li>
+      <a id="6fed3f06-0c71-729b-c54d-864e7d03d969" href="6fed3f06-0c71-729b-c54d-864e7d03d969.htm">Enum<wbr />Process<wbr />Modules<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="72fb5688-e8a7-7c2c-2323-768d42a02550" href="72fb5688-e8a7-7c2c-2323-768d42a02550.htm">Get<wbr />Mapped<wbr />File<wbr />Name</a>
+    </li>
+    <li>
+      <a id="5821d48c-90bc-7499-f979-9a9f387b1d72" href="5821d48c-90bc-7499-f979-9a9f387b1d72.htm">Get<wbr />Module<wbr />Base<wbr />Name</a>
+    </li>
+    <li>
+      <a id="37496ec3-d8f8-00c9-9827-cc8464997aa1" href="37496ec3-d8f8-00c9-9827-cc8464997aa1.htm">Get<wbr />Module<wbr />File<wbr />Name<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="819d8a0c-726d-90f7-9927-2fdd098ccf49" href="819d8a0c-726d-90f7-9927-2fdd098ccf49.htm">Get<wbr />Process<wbr />Image<wbr />File<wbr />Name</a>
+    </li>
+  </tocItems>
+</toc>

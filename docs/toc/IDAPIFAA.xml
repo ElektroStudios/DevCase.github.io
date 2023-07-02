@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="394e48a5-8068-adc6-8c1a-8cab179a0371.htm">File<wbr />Type</a>
+    </li>
+    <li>
+      <a href="3dd219b5-9944-f443-d686-c88316e7c1c8.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="31465c73-06f0-cfd1-5802-c909483148e2" href="31465c73-06f0-cfd1-5802-c909483148e2.htm">File<wbr />Type(<wbr />File<wbr />Signature, String, String)</a>
+    </li>
+    <li>
+      <a id="4903594f-a12d-54a8-1395-cc58607e97af" href="4903594f-a12d-54a8-1395-cc58607e97af.htm">File<wbr />Type(<wbr />File<wbr />Signature[], String, String)</a>
+    </li>
+    <li>
+      <a id="53d1893d-ab18-4738-858c-9154993ee663" href="53d1893d-ab18-4738-858c-9154993ee663.htm">File<wbr />Type(<wbr />File<wbr />Signature, String, String, String)</a>
+    </li>
+    <li>
+      <a id="06164308-eff7-d54e-a064-c641b1ec1de0" href="06164308-eff7-d54e-a064-c641b1ec1de0.htm">File<wbr />Type(<wbr />File<wbr />Signature[], String, String, String)</a>
+    </li>
+    <li>
+      <a id="9dc0318e-5441-4ce0-4e46-d23dc41be9d2" href="9dc0318e-5441-4ce0-4e46-d23dc41be9d2.htm">File<wbr />Type(<wbr />File<wbr />Signature, String, String, String, String)</a>
+    </li>
+    <li>
+      <a id="dce28444-c84a-7870-929f-7a761fe66515" href="dce28444-c84a-7870-929f-7a761fe66515.htm">File<wbr />Type(<wbr />File<wbr />Signature[], String, String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

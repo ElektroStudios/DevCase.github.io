@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9c3a411a-4774-9655-d81c-dad1971bc634.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Input</a>
+    </li>
+    <li>
+      <a href="07166a5c-6409-cbf3-97e8-b0c3d0517d1b.htm">Mouse<wbr />Recorder</a>
+    </li>
+    <li>
+      <a href="5222e623-dd72-4ad3-3299-76531015fb60.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b9b9be37-a046-3a5d-bf6e-15924d3b46a5" href="b9b9be37-a046-3a5d-bf6e-15924d3b46a5.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="c5f70de2-1cfa-d03e-ea3b-c4e824dd58b3" href="c5f70de2-1cfa-d03e-ea3b-c4e824dd58b3.htm">Play</a>
+    </li>
+    <li>
+      <a id="01b73a8d-5f07-c7f3-38d3-0f05d53bde59" href="01b73a8d-5f07-c7f3-38d3-0f05d53bde59.htm">Record</a>
+    </li>
+    <li>
+      <a id="9cf100c3-6f82-b54b-21b9-fdcd45ca6791" href="9cf100c3-6f82-b54b-21b9-fdcd45ca6791.htm">Stop</a>
+    </li>
+  </tocItems>
+</toc>

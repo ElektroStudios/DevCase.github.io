@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="4679ee5f-cc6b-9902-53c3-20a1cac22baa.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Dot<wbr />Net<wbr />Zip</a>
+    </li>
+    <li>
+      <a href="697e206d-5174-806a-be60-0501b3e229e0.htm">Zip<wbr />Archiver</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f818d13f-bb3c-abab-5f1c-101e8f2bcba2" href="f818d13f-bb3c-abab-5f1c-101e8f2bcba2.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="0d1530b2-4ba4-1de4-fb9a-d6855488dee5" class="has-submenu" href="0d1530b2-4ba4-1de4-fb9a-d6855488dee5.htm">
+        <span data-tocFile="../toc/IDBALDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8cea7cbd-b18d-be18-f90e-9b04498d89e3" class="has-submenu" href="8cea7cbd-b18d-be18-f90e-9b04498d89e3.htm">
+        <span data-tocFile="../toc/IDCALDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Events</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

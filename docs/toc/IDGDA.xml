@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="678c3b97-29a3-bbe4-e4ee-1599d12c3b9c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />DBpoweramp</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="387e9eaf-1a73-9f78-d8c3-9e581764dbc4" class="has-submenu" href="387e9eaf-1a73-9f78-d8c3-9e581764dbc4.htm">
+        <span data-tocFile="../toc/IDAGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Converter</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0914a18f-3915-c143-fa9d-f5da88c69936" href="0914a18f-3915-c143-fa9d-f5da88c69936.htm">Core<wbr />Converter<wbr />Dsp<wbr />Effect</a>
+    </li>
+    <li>
+      <a id="aea15e9e-4970-bbec-d7ae-662631dc1bfb" class="has-submenu" href="aea15e9e-4970-bbec-d7ae-662631dc1bfb.htm">
+        <span data-tocFile="../toc/IDCGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core<wbr />Converter<wbr />Exited<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c893d1ea-3345-2c80-8458-4f2addc1e8d8" href="c893d1ea-3345-2c80-8458-4f2addc1e8d8.htm">Core<wbr />Converter<wbr />Priority</a>
+    </li>
+    <li>
+      <a id="90618801-763a-227a-9116-e5588075e901" class="has-submenu" href="90618801-763a-227a-9116-e5588075e901.htm">
+        <span data-tocFile="../toc/IDEGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core<wbr />Converter<wbr />Progress<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c00fb865-6d85-c4b2-3098-059eb36e3170" class="has-submenu" href="c00fb865-6d85-c4b2-3098-059eb36e3170.htm">
+        <span data-tocFile="../toc/IDFGDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Core<wbr />Converter<wbr />Started<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0a67d8fa-ca9b-5ee2-6caa-1429a1bee2b4" href="0a67d8fa-ca9b-5ee2-6caa-1429a1bee2b4.htm">Core<wbr />Converter<wbr />Task</a>
+    </li>
+  </tocItems>
+</toc>

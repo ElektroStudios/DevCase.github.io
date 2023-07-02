@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Compilation</a>
+    </li>
+    <li>
+      <a href="585bf6b9-cc0b-3eff-105e-3766ee94e572.htm">Compiler<wbr />Settings</a>
+    </li>
+    <li>
+      <a href="1c0161bd-bdc4-a7aa-4421-82c627c750ea.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="55ad00f4-e08e-dc5d-7316-28aec6f71086" href="55ad00f4-e08e-dc5d-7316-28aec6f71086.htm">Code<wbr />Provider</a>
+    </li>
+    <li>
+      <a id="2a864747-c291-adbb-88bf-b4eb51ff7930" href="2a864747-c291-adbb-88bf-b4eb51ff7930.htm">Generate<wbr />Debug<wbr />Information</a>
+    </li>
+    <li>
+      <a id="ea62c16c-6bad-49e5-923d-7e89314d46b6" href="ea62c16c-6bad-49e5-923d-7e89314d46b6.htm">Generate<wbr />Warnings</a>
+    </li>
+    <li>
+      <a id="66ecdeac-29ac-081d-9bb0-39fbcb3f344f" href="66ecdeac-29ac-081d-9bb0-39fbcb3f344f.htm">Generate<wbr />Xml<wbr />Documentation</a>
+    </li>
+    <li>
+      <a id="443c9979-1e4a-f382-7b73-665741bf04e7" href="443c9979-1e4a-f382-7b73-665741bf04e7.htm">High<wbr />Entropy<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="851b438d-1505-8bf2-55bb-f47fd2e0e1ea" href="851b438d-1505-8bf2-55bb-f47fd2e0e1ea.htm">Integer<wbr />Overflow<wbr />Checks<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="d937e0c5-9014-3b4a-6f4b-c6f597833555" href="d937e0c5-9014-3b4a-6f4b-c6f597833555.htm">Library<wbr />Paths</a>
+    </li>
+    <li>
+      <a id="a673d98b-b6e5-47e3-019e-d02f42d9bab1" href="a673d98b-b6e5-47e3-019e-d02f42d9bab1.htm">Optimizations<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="7e07b6df-57ce-fa4e-fa67-a6c6e3ad4ba8" href="7e07b6df-57ce-fa4e-fa67-a6c6e3ad4ba8.htm">Output<wbr />Language</a>
+    </li>
+    <li>
+      <a id="41c329f9-777f-a9bf-9131-5c15c4f66e8b" href="41c329f9-777f-a9bf-9131-5c15c4f66e8b.htm">Platform</a>
+    </li>
+    <li>
+      <a id="271b6c84-1839-52d8-6b42-7194655db047" href="271b6c84-1839-52d8-6b42-7194655db047.htm">Subsystem<wbr />Version</a>
+    </li>
+    <li>
+      <a id="da6b6b44-22eb-fefa-3e7c-dbf48b996203" href="da6b6b44-22eb-fefa-3e7c-dbf48b996203.htm">Temp<wbr />File<wbr />Collection</a>
+    </li>
+    <li>
+      <a id="6a6f6fa2-1159-bd81-e780-3a6641e754dd" href="6a6f6fa2-1159-bd81-e780-3a6641e754dd.htm">Treat<wbr />Warnings<wbr />As<wbr />Errors</a>
+    </li>
+    <li>
+      <a id="8fd063d9-a6f2-2a54-2346-9248caf1fed2" href="8fd063d9-a6f2-2a54-2346-9248caf1fed2.htm">Verbose</a>
+    </li>
+    <li>
+      <a id="b510b1f6-0c01-bee1-c5b0-9ba8552b2412" href="b510b1f6-0c01-bee1-c5b0-9ba8552b2412.htm">Verbose<wbr />Syntax</a>
+    </li>
+    <li>
+      <a id="21851a8f-b5db-677c-7b3a-c72f45f006e9" href="21851a8f-b5db-677c-7b3a-c72f45f006e9.htm">Warning<wbr />Level</a>
+    </li>
+  </tocItems>
+</toc>

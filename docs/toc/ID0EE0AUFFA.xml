@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="25e83435-7d86-6ded-6e6b-333a1148ef7d.htm">Get<wbr />System<wbr />Menu</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cddaceb1-438f-2dbc-5797-60d3885a0e87" href="cddaceb1-438f-2dbc-5797-60d3885a0e87.htm">Get<wbr />System<wbr />Menu(<wbr />Int<wbr />Ptr, Boolean)</a>
+    </li>
+    <li>
+      <a id="40e6dc05-9c60-38fb-ee5f-c4529259c608" href="40e6dc05-9c60-38fb-ee5f-c4529259c608.htm">Get<wbr />System<wbr />Menu(<wbr />Safe<wbr />Handle, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

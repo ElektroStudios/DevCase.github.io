@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">Native<wbr />Message</a>
+    </li>
+    <li>
+      <a href="722e5e11-9dc4-d292-b213-0fd16f8a2b20.htm">Operators</a>
+    </li>
+    <li>
+      <a href="cdbd6316-77c3-c9fd-2789-902671e5f4b7.htm">Implicit</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e74c446a-0f9f-712b-4b03-eddf1dc457c4" href="e74c446a-0f9f-712b-4b03-eddf1dc457c4.htm">Implicit Conversion (Message to Native<wbr />Message)</a>
+    </li>
+    <li>
+      <a id="1e80e489-2f4c-1df3-6805-fde35bbdcf67" href="1e80e489-2f4c-1df3-6805-fde35bbdcf67.htm">Implicit Conversion (Native<wbr />Message to Message)</a>
+    </li>
+  </tocItems>
+</toc>

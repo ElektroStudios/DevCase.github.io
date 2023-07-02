@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="110ece2c-e5d6-b2cf-1061-a8836e27a79c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Licensing</a>
+    </li>
+    <li>
+      <a href="88d1365e-2ecb-045b-9f19-a144b87b9153.htm">Util<wbr />Licensing</a>
+    </li>
+    <li>
+      <a href="51b56ee7-8347-5c3d-0fc1-93a6559938f8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cf3c3bdd-e082-f3ee-9d58-addadadc89f0" class="has-submenu" href="cf3c3bdd-e082-f3ee-9d58-addadadc89f0.htm">
+        <span data-tocFile="../toc/IDABAEKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Install<wbr />License</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="127b4b17-c1bf-c824-1053-6e7fff474fbd" href="127b4b17-c1bf-c824-1053-6e7fff474fbd.htm">Install<wbr />Product<wbr />Key</a>
+    </li>
+    <li>
+      <a id="f0f661b8-a0ed-2481-abf8-4111f3065990" href="f0f661b8-a0ed-2481-abf8-4111f3065990.htm">Refresh<wbr />License<wbr />Status</a>
+    </li>
+    <li>
+      <a id="be1a656a-d90f-984c-9ce6-d0502a694609" href="be1a656a-d90f-984c-9ce6-d0502a694609.htm">Remove<wbr />Product<wbr />Key<wbr />From<wbr />Registry</a>
+    </li>
+    <li>
+      <a id="9ce131d5-b988-99f8-ab60-5621537b211c" href="9ce131d5-b988-99f8-ab60-5621537b211c.htm">Uninstall<wbr />Product<wbr />Key</a>
+    </li>
+  </tocItems>
+</toc>

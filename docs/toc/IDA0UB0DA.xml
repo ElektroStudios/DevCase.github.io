@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="aaff0a56-1efd-e88f-37b3-220a3cb28e08.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik Namespaces</a>
+    </li>
+    <li>
+      <a href="9e329333-5407-49af-5c3f-ec27b1e1af95.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5a69e5c5-6976-8993-6dd8-0c4897d1e0d6" class="has-submenu" href="5a69e5c5-6976-8993-6dd8-0c4897d1e0d6.htm">
+        <span data-tocFile="../toc/IDAA0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Print<wbr />Dialogs<wbr />Localization<wbr />Provider<wbr />ES</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="05d84423-419f-8b69-6add-6c55ea39efd5" class="has-submenu" href="05d84423-419f-8b69-6add-6c55ea39efd5.htm">
+        <span data-tocFile="../toc/IDBA0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Rad<wbr />Grid<wbr />View<wbr />Localization<wbr />Provider<wbr />ES</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1fba7c3f-0e5e-a450-628d-a17613d48824" href="1fba7c3f-0e5e-a450-628d-a17613d48824.htm">Rad<wbr />List<wbr />Item<wbr />Selection<wbr />State</a>
+    </li>
+    <li>
+      <a id="4793bf4e-78a3-2ccf-b131-5948ff033481" class="has-submenu" href="4793bf4e-78a3-2ccf-b131-5948ff033481.htm">
+        <span data-tocFile="../toc/IDDA0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Rad<wbr />Wizard<wbr />Localization<wbr />Provider<wbr />ES</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1550d3a4-504f-d205-cba8-2e6745280723" href="1550d3a4-504f-d205-cba8-2e6745280723.htm">Telerik<wbr />Visual<wbr />Themes</a>
+    </li>
+    <li>
+      <a id="26b2253f-1660-50b0-4693-f86dea1166a2" class="has-submenu" href="26b2253f-1660-50b0-4693-f86dea1166a2.htm">
+        <span data-tocFile="../toc/IDFA0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Telerik</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+    </li>
+    <li>
+      <a href="1e894792-2347-5da0-0143-05d1b1a87f2e.htm">Dev<wbr />Background<wbr />Worker</a>
+    </li>
+    <li>
+      <a href="ca448584-e141-0552-2925-83d6b967a0a0.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="eb5afd36-b3d2-b256-0819-f466a20c8bce" href="eb5afd36-b3d2-b256-0819-f466a20c8bce.htm">Pause<wbr />Pending</a>
+    </li>
+    <li>
+      <a id="931255f9-332f-0423-4bb3-0694bc4009c4" href="931255f9-332f-0423-4bb3-0694bc4009c4.htm">State</a>
+    </li>
+    <li>
+      <a id="dfd1ab56-ccd8-e59a-26e9-9e1dd886be72" href="dfd1ab56-ccd8-e59a-26e9-9e1dd886be72.htm">Worker<wbr />Reports<wbr />Progress</a>
+    </li>
+    <li>
+      <a id="745d216a-3a35-e87e-fff4-9d13cb9580ee" href="745d216a-3a35-e87e-fff4-9d13cb9580ee.htm">Worker<wbr />Supports<wbr />Cancellation</a>
+    </li>
+  </tocItems>
+</toc>

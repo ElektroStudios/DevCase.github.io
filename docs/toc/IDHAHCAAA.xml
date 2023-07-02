@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c2d9c831-97f0-9d95-1e7a-4ba3e18f6c81.htm">Async<wbr />Toggle<wbr />Checked</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7ce8f187-f53c-5320-005c-1ffd1493f3c5" href="7ce8f187-f53c-5320-005c-1ffd1493f3c5.htm">Async<wbr />Toggle<wbr />Checked(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="4444ead6-e3ba-11fb-c43d-3cf78331ccbe" href="4444ead6-e3ba-11fb-c43d-3cf78331ccbe.htm">Async<wbr />Toggle<wbr />Checked(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="3be54ecb-f0a2-a180-4c31-30dfd49b7be3" href="3be54ecb-f0a2-a180-4c31-30dfd49b7be3.htm">Async<wbr />Toggle<wbr />Checked&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="fd35b1b9-245b-5f07-934f-04ca3ec868d2" href="fd35b1b9-245b-5f07-934f-04ca3ec868d2.htm">Async<wbr />Toggle<wbr />Checked&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="686dfed0-3f69-7fd8-13a1-eeb9e8cd0810" href="686dfed0-3f69-7fd8-13a1-eeb9e8cd0810.htm">Async<wbr />Toggle<wbr />Checked&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

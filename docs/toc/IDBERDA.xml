@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="9c0f318c-d327-2da1-205d-fd44f8a0354c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Free<wbr />Hard<wbr />Music</a>
+    </li>
+    <li>
+      <a href="8c4e788e-bd67-2ee2-4b4b-7ffdae4bb32b.htm">Search<wbr />Query</a>
+    </li>
+    <li>
+      <a href="3c682ef1-4582-45ea-7bf0-3b7a5e6b199b.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="051e72e2-30fa-38b4-c222-f5ed65deafb1" href="051e72e2-30fa-38b4-c222-f5ed65deafb1.htm">Artist</a>
+    </li>
+    <li>
+      <a id="7fa5bfa2-e361-299d-3715-4ad3cb129114" href="7fa5bfa2-e361-299d-3715-4ad3cb129114.htm">Country</a>
+    </li>
+    <li>
+      <a id="9af2e19d-85e5-1da6-d634-561115c5b03b" href="9af2e19d-85e5-1da6-d634-561115c5b03b.htm">Genre</a>
+    </li>
+    <li>
+      <a id="4deca23d-9e12-5d10-9a9c-84be2892b506" class="has-submenu" href="4deca23d-9e12-5d10-9a9c-84be2892b506.htm">
+        <span data-tocFile="../toc/IDDBERDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Uri</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="103bf38d-8106-a3a3-9de6-a7dfbcea3be6" href="103bf38d-8106-a3a3-9de6-a7dfbcea3be6.htm">Year</a>
+    </li>
+  </tocItems>
+</toc>

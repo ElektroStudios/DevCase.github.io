@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="8de26b07-2801-ef7f-b610-415101790ad8.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="442a2e8f-7250-06e0-2346-35505ba45c38.htm">Util<wbr />Registry</a>
+    </li>
+    <li>
+      <a href="df91632a-26c8-3170-dcb9-1942677d50b4.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f65cefbf-7476-750c-410d-e10dbcd70b8a.htm">Create<wbr />Value</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5d34aa3b-3d4c-3921-2418-11b8ecac2587" href="5d34aa3b-3d4c-3921-2418-11b8ecac2587.htm">Create<wbr />Value&lt;T&gt;(<wbr />Reg<wbr />Info&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="b0e8427b-58bf-25eb-2bea-14962f27ef8a" href="b0e8427b-58bf-25eb-2bea-14962f27ef8a.htm">Create<wbr />Value&lt;T&gt;(<wbr />Registry<wbr />View, String, String, T, Registry<wbr />Value<wbr />Kind)</a>
+    </li>
+    <li>
+      <a id="a929e753-2ab5-89c0-d6dc-a73445c4433c" href="a929e753-2ab5-89c0-d6dc-a73445c4433c.htm">Create<wbr />Value&lt;T&gt;(<wbr />Registry<wbr />View, String, String, String, T, Registry<wbr />Value<wbr />Kind)</a>
+    </li>
+  </tocItems>
+</toc>

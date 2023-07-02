@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="1df54db7-d139-8773-45ee-3fcfd25bf171.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Traffic<wbr />Monitoring</a>
+    </li>
+    <li>
+      <a href="c1ee6d87-fac6-6b83-9c6e-128e1e2c8dfc.htm">Traffic<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+    <li>
+      <a href="d4e4db81-dc06-6f2c-7bad-0f0a4b842a4c.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c0020191-7c71-fb39-fc4e-48c4e7097bc8" href="c0020191-7c71-fb39-fc4e-48c4e7097bc8.htm">Bytes<wbr />Received</a>
+    </li>
+    <li>
+      <a id="ca96edfb-4fa5-4fb7-457a-453004451efe" href="ca96edfb-4fa5-4fb7-457a-453004451efe.htm">Bytes<wbr />Sent</a>
+    </li>
+    <li>
+      <a id="57192936-1fe1-b3eb-3410-86e62066554e" href="57192936-1fe1-b3eb-3410-86e62066554e.htm">Diff<wbr />Bytes<wbr />Received</a>
+    </li>
+    <li>
+      <a id="45a96f9b-14ab-2dd6-560d-683985f0d8b2" href="45a96f9b-14ab-2dd6-560d-683985f0d8b2.htm">Diff<wbr />Bytes<wbr />Sent</a>
+    </li>
+  </tocItems>
+</toc>

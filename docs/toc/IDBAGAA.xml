@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Combinatorics</a>
+    </li>
+    <li>
+      <a href="a265a05e-8e6a-5cc3-f014-113901957bfa.htm">IMeta<wbr />Collection&lt;T&gt;</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cd7dba0d-d075-0891-644a-49af717bc7e8" class="has-submenu" href="cd7dba0d-d075-0891-644a-49af717bc7e8.htm">
+        <span data-tocFile="../toc/IDABAGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="507ce921-a2b7-b15d-1f4f-96627867dfe7" href="507ce921-a2b7-b15d-1f4f-96627867dfe7.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

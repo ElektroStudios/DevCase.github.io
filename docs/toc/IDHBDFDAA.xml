@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9f2da4fb-2783-3dd7-caa3-17e309afbced.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="42f5d9ac-adda-1cdd-6556-8cde72982a22.htm">Util<wbr />Debug</a>
+    </li>
+    <li>
+      <a href="05fa01a5-8dab-f29a-8bf8-07cbc2e0878c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="94cd5b13-71ce-4eea-ad80-c706a7188b6e.htm">Mini<wbr />Dump<wbr />To<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8ca9ef74-b083-f263-79c3-28d9154cb851" href="8ca9ef74-b083-f263-79c3-28d9154cb851.htm">Mini<wbr />Dump<wbr />To<wbr />File(<wbr />Process, File<wbr />Info, Mini<wbr />Dump<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="f4082926-1f96-c94c-a6a3-c375c4e23b49" href="f4082926-1f96-c94c-a6a3-c375c4e23b49.htm">Mini<wbr />Dump<wbr />To<wbr />File(<wbr />Process, String, Mini<wbr />Dump<wbr />Type)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="0b6d1361-1698-8e02-99cf-0ead0f20ad0b.htm">Util<wbr />Console</a>
+    </li>
+    <li>
+      <a href="cdff5c9e-9c25-7457-6edb-0d6d2e8c02ee.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9e925af2-a76b-1410-6581-a9355e51c9b2.htm">Console<wbr />Text<wbr />Blink</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="98057ab5-df20-c4ff-e15e-ee498abf1a9d" href="98057ab5-df20-c4ff-e15e-ee498abf1a9d.htm">Console<wbr />Text<wbr />Blink(<wbr />Point, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="d0db464d-c957-e3c7-0516-c59bbcc28e1d" href="d0db464d-c957-e3c7-0516-c59bbcc28e1d.htm">Console<wbr />Text<wbr />Blink(<wbr />Point, Int<wbr />32, Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="cc071c5c-a5ea-acc2-5761-e39be191b0e5" href="cc071c5c-a5ea-acc2-5761-e39be191b0e5.htm">Console<wbr />Text<wbr />Blink(<wbr />Point, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="099e23e3-14aa-bd69-b8ca-555602f664f8" href="099e23e3-14aa-bd69-b8ca-555602f664f8.htm">Console<wbr />Text<wbr />Blink(<wbr />Point, Int<wbr />32, Time<wbr />Span, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Combinatorics</a>
+    </li>
+    <li>
+      <a href="0613bec9-d09a-65c6-cb89-dbc71a3e27cd.htm">Util<wbr />Combinatorics</a>
+    </li>
+    <li>
+      <a href="fbcc1499-b4f2-8cc4-7294-a1f28b53fb00.htm">Methods</a>
+    </li>
+    <li>
+      <a href="05a65af5-a647-8d4e-4829-d59e4094ab74.htm">Calculate<wbr />Permutations</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="dc5ea2b7-3e65-76a5-40ba-41576565decc" href="dc5ea2b7-3e65-76a5-40ba-41576565decc.htm">Calculate<wbr />Permutations&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, Int<wbr />32, Boolean)</a>
+    </li>
+    <li>
+      <a id="6f24ab6c-77ba-ab35-1ed6-0e2fc068fbdf" href="6f24ab6c-77ba-ab35-1ed6-0e2fc068fbdf.htm">Calculate<wbr />Permutations(<wbr />Int<wbr />32, Int<wbr />32, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="690d36fb-80e9-ddc3-7afb-96120fbd8241.htm">Util<wbr />File</a>
+    </li>
+    <li>
+      <a href="e9e52ac5-66cc-59ae-6558-e03afad92519.htm">Methods</a>
+    </li>
+    <li>
+      <a href="64ae45e2-04a2-d26a-75f0-526932dd2627.htm">Get<wbr />Temp<wbr />File<wbr />Name</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="62c3030d-a184-7546-5d0c-df8b6181663e" href="62c3030d-a184-7546-5d0c-df8b6181663e.htm">Get<wbr />Temp<wbr />File<wbr />Name</a>
+    </li>
+    <li>
+      <a id="1a517b79-c8a8-1335-cf35-795c2fe8142a" href="1a517b79-c8a8-1335-cf35-795c2fe8142a.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="c9e8b8d8-9c73-01ea-5971-ac009cccf522" href="c9e8b8d8-9c73-01ea-5971-ac009cccf522.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />Environment.<wbr />Special<wbr />Folder)</a>
+    </li>
+    <li>
+      <a id="7d39cdf7-06bd-9a53-4481-98b638102f84" href="7d39cdf7-06bd-9a53-4481-98b638102f84.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="dfd668b7-3595-9921-232a-69b3cb8d4b12" href="dfd668b7-3595-9921-232a-69b3cb8d4b12.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="849a09cc-df13-4140-1574-274a6e4c6eb2" href="849a09cc-df13-4140-1574-274a6e4c6eb2.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />Environment.<wbr />Special<wbr />Folder, String)</a>
+    </li>
+    <li>
+      <a id="e147030d-3347-b459-1e40-1b93f4947e6f" href="e147030d-3347-b459-1e40-1b93f4947e6f.htm">Get<wbr />Temp<wbr />File<wbr />Name(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+</toc>

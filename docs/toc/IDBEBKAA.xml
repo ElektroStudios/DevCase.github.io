@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="cc0a9fc8-dc95-2a60-534d-a3042e521032.htm">Util<wbr />Environment<wbr />Variable</a>
+    </li>
+    <li>
+      <a href="7e39c9bf-6549-7578-5fad-dd1fb119e5ca.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="63941e3a-4ec8-ebfb-5d50-c47126cb9087" href="63941e3a-4ec8-ebfb-5d50-c47126cb9087.htm">Get<wbr />Environment<wbr />Variable<wbr />Info</a>
+    </li>
+    <li>
+      <a id="fe73353f-4715-8dde-d9ad-c3ed08bd9da5" href="fe73353f-4715-8dde-d9ad-c3ed08bd9da5.htm">Get<wbr />Value</a>
+    </li>
+    <li>
+      <a id="e2487cbb-3367-d967-8cd9-ac01532b82f2" class="has-submenu" href="e2487cbb-3367-d967-8cd9-ac01532b82f2.htm">
+        <span data-tocFile="../toc/IDCBEBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Register<wbr />Variable</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b799adca-e49a-497d-a85a-7c94761b857b" class="has-submenu" href="b799adca-e49a-497d-a85a-7c94761b857b.htm">
+        <span data-tocFile="../toc/IDDBEBKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Unregister<wbr />Variable</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

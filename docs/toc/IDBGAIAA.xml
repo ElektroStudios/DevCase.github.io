@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="697c7f0c-30cc-3ff9-60cc-bb34456d6ae3.htm">Util<wbr />Network</a>
+    </li>
+    <li>
+      <a href="6599a56f-3060-0d39-66d3-83c1cf250e1e.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="74634f2d-417f-d3d7-b105-74166acad9ca" href="74634f2d-417f-d3d7-b105-74166acad9ca.htm">Generate<wbr />Random<wbr />Ipv<wbr />4</a>
+    </li>
+    <li>
+      <a id="cd1efb21-19a4-10eb-b0b4-4ed060214709" href="cd1efb21-19a4-10eb-b0b4-4ed060214709.htm">Get<wbr />Public<wbr />IP</a>
+    </li>
+    <li>
+      <a id="d6ebcac7-e2df-a300-13da-d256bfa2d3e4" href="d6ebcac7-e2df-a300-13da-d256bfa2d3e4.htm">Hostname<wbr />To<wbr />Ip</a>
+    </li>
+    <li>
+      <a id="98842812-8d6d-2225-805f-30994ab32964" href="98842812-8d6d-2225-805f-30994ab32964.htm">Ip<wbr />To<wbr />Host<wbr />Name</a>
+    </li>
+    <li>
+      <a id="cb34d144-f29c-042e-5a46-cba51656c930" href="cb34d144-f29c-042e-5a46-cba51656c930.htm">Ping</a>
+    </li>
+    <li>
+      <a id="21ff0a09-59ad-86e2-410b-e06696f799d2" href="21ff0a09-59ad-86e2-410b-e06696f799d2.htm">Port<wbr />Scan</a>
+    </li>
+    <li>
+      <a id="7feafed5-45ac-e18b-edb8-2a1dfefe6db4" href="7feafed5-45ac-e18b-edb8-2a1dfefe6db4.htm">Port<wbr />Scan<wbr />Range</a>
+    </li>
+    <li>
+      <a id="fac707ac-3153-d1dd-915c-c3e883f52c3a" href="fac707ac-3153-d1dd-915c-c3e883f52c3a.htm">Validate<wbr />Ip</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="9c0f318c-d327-2da1-205d-fd44f8a0354c.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Free<wbr />Hard<wbr />Music</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="470fa2b7-5ed6-018c-8efb-748379c6412d" class="has-submenu" href="470fa2b7-5ed6-018c-8efb-748379c6412d.htm">
+        <span data-tocFile="../toc/IDARDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Album<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fca33a52-1248-e27a-1aee-f794d6127e3b" class="has-submenu" href="fca33a52-1248-e27a-1aee-f794d6127e3b.htm">
+        <span data-tocFile="../toc/IDBRDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Crawler</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="94a29974-2242-525b-cde9-1b339235efee" class="has-submenu" href="94a29974-2242-525b-cde9-1b339235efee.htm">
+        <span data-tocFile="../toc/IDCRDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Page<wbr />Crawl<wbr />Begin<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1cca5be7-01b9-77a2-d2d5-31244df7a3fc" class="has-submenu" href="1cca5be7-01b9-77a2-d2d5-31244df7a3fc.htm">
+        <span data-tocFile="../toc/IDDRDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Page<wbr />Crawl<wbr />End<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8c4e788e-bd67-2ee2-4b4b-7ffdae4bb32b" class="has-submenu" href="8c4e788e-bd67-2ee2-4b4b-7ffdae4bb32b.htm">
+        <span data-tocFile="../toc/IDERDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Search<wbr />Query</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

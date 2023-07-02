@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="5b368482-bef9-5fbf-bbee-ad79eb315a05.htm">File<wbr />Size</a>
+    </li>
+    <li>
+      <a href="abd1567d-f329-81f4-06d0-a03f3617f8fb.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a51a8ae5-5cc5-c375-38eb-8f24520a70c5" class="has-submenu" href="a51a8ae5-5cc5-c375-38eb-8f24520a70c5.htm">
+        <span data-tocFile="../toc/IDABMIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Size</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="26ba07c1-9797-516c-f762-322221873a43" class="has-submenu" href="26ba07c1-9797-516c-f762-322221873a43.htm">
+        <span data-tocFile="../toc/IDBBMIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Size<wbr />Rounded</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="505465af-3e6d-6408-e719-78c9d04845ca" href="505465af-3e6d-6408-e719-78c9d04845ca.htm">Size<wbr />Unit</a>
+    </li>
+    <li>
+      <a id="c1ca6be0-17ab-b06c-2b04-83891f7105a6" href="c1ca6be0-17ab-b06c-2b04-83891f7105a6.htm">Size<wbr />Unit<wbr />Name<wbr />Long</a>
+    </li>
+    <li>
+      <a id="98e3ab74-1d53-6f74-1aa0-a7d4ab6027e6" href="98e3ab74-1d53-6f74-1aa0-a7d4ab6027e6.htm">Size<wbr />Unit<wbr />Name<wbr />Short</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="9391e677-11d9-224c-e01c-8529276a161e.htm">Dev<wbr />Case.<wbr />Core.<wbr />Date<wbr />And<wbr />Time Namespaces</a>
+    </li>
+    <li>
+      <a href="62f8f0d1-6494-0e98-e23e-2b82a29b4231.htm">Dev<wbr />Case.<wbr />Core.<wbr />Date<wbr />And<wbr />Time</a>
+    </li>
+    <li>
+      <a href="672d8d4f-cde3-7095-380a-b6f196739a02.htm">Util<wbr />Date<wbr />Time</a>
+    </li>
+    <li>
+      <a href="cdb7c0e9-4f89-cb99-8547-f5478c101c3f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7731619d-4308-c28f-41c0-1238cee7d8e6" href="7731619d-4308-c28f-41c0-1238cee7d8e6.htm">Convert<wbr />Time</a>
+    </li>
+    <li>
+      <a id="dcb8917f-ad23-ec9a-1659-b6b7dc345df2" href="dcb8917f-ad23-ec9a-1659-b6b7dc345df2.htm">Date<wbr />Diff</a>
+    </li>
+    <li>
+      <a id="844ba79e-ea71-dd3c-228a-f46276957834" class="has-submenu" href="844ba79e-ea71-dd3c-228a-f46276957834.htm">
+        <span data-tocFile="../toc/IDCBBACAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Age</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f4eeb8f1-5826-5f51-4e0e-e4d43d2161fd" class="has-submenu" href="f4eeb8f1-5826-5f51-4e0e-e4d43d2161fd.htm">
+        <span data-tocFile="../toc/IDDBBACAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Age<wbr />Time</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2d530c33-1e20-3349-0dd5-9737c9eb1871" class="has-submenu" href="2d530c33-1e20-3349-0dd5-9737c9eb1871.htm">
+        <span data-tocFile="../toc/IDEBBACAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Random<wbr />Date<wbr />Time</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="eddb6785-847c-5ce3-4fed-7cf570565f95" href="eddb6785-847c-5ce3-4fed-7cf570565f95.htm">Time<wbr />Diff</a>
+    </li>
+  </tocItems>
+</toc>

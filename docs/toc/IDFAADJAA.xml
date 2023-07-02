@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="13e6216d-ade8-0ed1-f4a0-95d16ad60a32.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Data<wbr />Integrity.<wbr />Checksum</a>
+    </li>
+    <li>
+      <a href="6e69b60a-6f32-0644-bbfa-d9be22e946bf.htm">Util<wbr />Checksum</a>
+    </li>
+    <li>
+      <a href="fa7930d0-e12a-a26d-156c-07b97cfade78.htm">Methods</a>
+    </li>
+    <li>
+      <a href="aa3026ab-918b-eb6c-bde0-667880ca6a3a.htm">Compute<wbr />CRC<wbr />64Of<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="842d0fb9-eb07-a9e2-7fbd-536c4f659fcf" href="842d0fb9-eb07-a9e2-7fbd-536c4f659fcf.htm">Compute<wbr />CRC<wbr />64Of<wbr />String(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="ce8aa7b9-a740-cf49-9069-956e9be82674" href="ce8aa7b9-a740-cf49-9069-956e9be82674.htm">Compute<wbr />CRC<wbr />64Of<wbr />String(<wbr />String, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

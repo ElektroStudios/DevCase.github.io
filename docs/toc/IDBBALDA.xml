@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="4679ee5f-cc6b-9902-53c3-20a1cac22baa.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Dot<wbr />Net<wbr />Zip</a>
+    </li>
+    <li>
+      <a href="697e206d-5174-806a-be60-0501b3e229e0.htm">Zip<wbr />Archiver</a>
+    </li>
+    <li>
+      <a href="0d1530b2-4ba4-1de4-fb9a-d6855488dee5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b8858b41-e5dc-b894-e85c-229566381792.htm">Build<wbr />Sfx</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6d18304f-5998-d59c-97cb-9174d24d05c9" href="6d18304f-5998-d59c-97cb-9174d24d05c9.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String)</a>
+    </li>
+    <li>
+      <a id="d94fe3f2-3389-f041-b72e-3a849005d208" href="d94fe3f2-3389-f041-b72e-3a849005d208.htm">Build<wbr />Sfx(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="e0a3b24c-2785-dbee-1b31-95eec1c36590" href="e0a3b24c-2785-dbee-1b31-95eec1c36590.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="53de7576-2e7a-74ea-dd28-3ac11794f35a" href="53de7576-2e7a-74ea-dd28-3ac11794f35a.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, String, Encryption<wbr />Algorithm)</a>
+    </li>
+    <li>
+      <a id="f807934b-2a14-5d35-7f53-141d149f1b5c" href="f807934b-2a14-5d35-7f53-141d149f1b5c.htm">Build<wbr />Sfx(<wbr />String, String, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="04d9ef8f-6016-132a-350b-ec73a970bf44" href="04d9ef8f-6016-132a-350b-ec73a970bf44.htm">Build<wbr />Sfx(<wbr />String, String, String, Encryption<wbr />Algorithm)</a>
+    </li>
+    <li>
+      <a id="636e610d-0eca-99ff-b14e-62b8eebb4639" href="636e610d-0eca-99ff-b14e-62b8eebb4639.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="0584a6fc-8a8a-a2f5-6664-e74884fd39fd" href="0584a6fc-8a8a-a2f5-6664-e74884fd39fd.htm">Build<wbr />Sfx(<wbr />String, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="32cc0ef3-7f07-5936-c874-3e0a197b1d20" href="32cc0ef3-7f07-5936-c874-3e0a197b1d20.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, Compression<wbr />Method, Compression<wbr />Level, String, Boolean, Extract<wbr />Existing<wbr />File<wbr />Action, Boolean, String, String, Self<wbr />Extractor<wbr />Flavor, String)</a>
+    </li>
+    <li>
+      <a id="714ed196-7bbf-ab2e-3520-217125cd2466" href="714ed196-7bbf-ab2e-3520-217125cd2466.htm">Build<wbr />Sfx(<wbr />String, String, Compression<wbr />Method, Compression<wbr />Level, String, Boolean, Extract<wbr />Existing<wbr />File<wbr />Action, Boolean, String, String, Self<wbr />Extractor<wbr />Flavor, String)</a>
+    </li>
+    <li>
+      <a id="e44e0efe-cb73-7b21-d59f-013b4032b114" href="e44e0efe-cb73-7b21-d59f-013b4032b114.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level, String, Boolean, Extract<wbr />Existing<wbr />File<wbr />Action, Boolean, String, String, Self<wbr />Extractor<wbr />Flavor, String)</a>
+    </li>
+    <li>
+      <a id="b52b3d04-f94f-73ea-0905-3f9590b62dae" href="b52b3d04-f94f-73ea-0905-3f9590b62dae.htm">Build<wbr />Sfx(<wbr />String, String, String, Encryption<wbr />Algorithm, Compression<wbr />Method, Compression<wbr />Level, String, Boolean, Extract<wbr />Existing<wbr />File<wbr />Action, Boolean, String, String, Self<wbr />Extractor<wbr />Flavor, String)</a>
+    </li>
+  </tocItems>
+</toc>

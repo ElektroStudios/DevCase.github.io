@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="454dc811-2cfb-061b-b7a0-7ba8180107e3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Assembly<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="610cabaa-d0f7-bbd2-ec84-9dcd9f78ee35.htm">Assembly<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="4fd04655-8ff2-40be-8930-a1033fae398b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9ab534a4-6a4a-db3f-9319-50a665572be4" href="9ab534a4-6a4a-db3f-9319-50a665572be4.htm">Find<wbr />Root<wbr />Namespace</a>
+    </li>
+    <li>
+      <a id="8cac3f18-3f84-d3c0-f862-d582bf637048" href="8cac3f18-3f84-d3c0-f862-d582bf637048.htm">Get<wbr />Default<wbr />Culture</a>
+    </li>
+    <li>
+      <a id="eb3ffc23-f1cb-28c1-c0cd-202883af542c" href="eb3ffc23-f1cb-28c1-c0cd-202883af542c.htm">Get<wbr />Default<wbr />Dll<wbr />Import<wbr />Search<wbr />Paths</a>
+    </li>
+    <li>
+      <a id="ecc9cc89-3f3b-ebb6-9c9a-bb3ee45e440e" href="ecc9cc89-3f3b-ebb6-9c9a-bb3ee45e440e.htm">Get<wbr />Embedded<wbr />Resource</a>
+    </li>
+    <li>
+      <a id="338c4cc0-ca3f-c971-57d8-b4c9c0a006b9" href="338c4cc0-ca3f-c971-57d8-b4c9c0a006b9.htm">Get<wbr />Guid</a>
+    </li>
+    <li>
+      <a id="e2d45f2d-61bd-848a-5c4b-228ce5414940" href="e2d45f2d-61bd-848a-5c4b-228ce5414940.htm">Get<wbr />Loadable<wbr />Types</a>
+    </li>
+    <li>
+      <a id="cd204b3f-933d-517f-123c-f3d7a5e490cd" href="cd204b3f-933d-517f-123c-f3d7a5e490cd.htm">Get<wbr />Security<wbr />Permission</a>
+    </li>
+    <li>
+      <a id="1d9a6624-bef2-e09e-3fd0-d44d377a0b30" href="1d9a6624-bef2-e09e-3fd0-d44d377a0b30.htm">Get<wbr />Target<wbr />Framework<wbr />Name</a>
+    </li>
+    <li>
+      <a id="e86d3035-924a-e445-ef91-edf6cbd2a785" href="e86d3035-924a-e445-ef91-edf6cbd2a785.htm">Get<wbr />Target<wbr />Framework<wbr />Version</a>
+    </li>
+    <li>
+      <a id="4a89fad2-6593-8a60-56ab-49be20eed155" href="4a89fad2-6593-8a60-56ab-49be20eed155.htm">Is<wbr />CLSCompliant</a>
+    </li>
+    <li>
+      <a id="f13b2229-4a4a-669b-e85f-de0d845bf6b8" href="f13b2229-4a4a-669b-e85f-de0d845bf6b8.htm">Is<wbr />COMVisible</a>
+    </li>
+    <li>
+      <a id="12b51d6a-d365-ddd7-d92e-8197c17e9578" href="12b51d6a-d365-ddd7-d92e-8197c17e9578.htm">Is<wbr />Dpi<wbr />Awareness<wbr />Disabled</a>
+    </li>
+    <li>
+      <a id="12751342-e1d5-7664-1822-57bcfc89771b" href="12751342-e1d5-7664-1822-57bcfc89771b.htm">Is<wbr />Strong<wbr />Name<wbr />Signed</a>
+    </li>
+    <li>
+      <a id="e3035783-fae8-fe3b-8607-ae36438bd738" href="e3035783-fae8-fe3b-8607-ae36438bd738.htm">To<wbr />Assembly<wbr />Builder</a>
+    </li>
+  </tocItems>
+</toc>

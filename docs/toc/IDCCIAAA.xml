@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="41a79afa-943b-b3f1-3b6e-c194cbf24c4c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Resources</a>
+    </li>
+    <li>
+      <a href="0aea8d5b-c481-61c4-a2fe-c04dd55105e6.htm">Res<wbr />XManager</a>
+    </li>
+    <li>
+      <a href="9d044c64-9c89-4aca-df18-ddb57df8acb2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="54e5a927-33d3-2d5f-7282-be083ffd2c54" class="has-submenu" href="54e5a927-33d3-2d5f-7282-be083ffd2c54.htm">
+        <span data-tocFile="../toc/IDACCIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="aad41722-7df5-f9ba-270a-bf345190d9ed" href="aad41722-7df5-f9ba-270a-bf345190d9ed.htm">Create</a>
+    </li>
+    <li>
+      <a id="089f794b-641f-3018-8350-10b4ad13361a" class="has-submenu" href="089f794b-641f-3018-8350-10b4ad13361a.htm">
+        <span data-tocFile="../toc/IDCCCIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0c0e143c-68bd-0df9-db71-dea4ddf6ec02" href="0c0e143c-68bd-0df9-db71-dea4ddf6ec02.htm">Find<wbr />Resources&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="6a4a4ee6-fea2-06cf-48ef-00770a619795" href="6a4a4ee6-fea2-06cf-48ef-00770a619795.htm">Remove<wbr />Resource</a>
+    </li>
+    <li>
+      <a id="f8e3646e-c02c-08c4-414d-4974c8dd48b6" class="has-submenu" href="f8e3646e-c02c-08c4-414d-4974c8dd48b6.htm">
+        <span data-tocFile="../toc/IDFCCIAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Replace<wbr />Resource</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

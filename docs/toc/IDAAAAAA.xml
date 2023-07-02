@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="03053956-b0b2-46e8-2f91-6186049ec54b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application</a>
+    </li>
+    <li>
+      <a href="48517cfe-d9c5-abca-4c0c-bd50792383cb.htm">Util<wbr />Application</a>
+    </li>
+    <li>
+      <a href="8be5ee8d-d404-fdbc-cf01-800796629264.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5bc6c96f-dbf4-669c-fda2-91ddecf630cb" href="5bc6c96f-dbf4-669c-fda2-91ddecf630cb.htm">Assembly<wbr />Guid</a>
+    </li>
+    <li>
+      <a id="056d3bd1-c51d-5b38-d097-ed9b5623d098" href="056d3bd1-c51d-5b38-d097-ed9b5623d098.htm">Browser<wbr />Emulation<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="3ccea44c-1a40-79ce-3558-d760dcf78479" href="3ccea44c-1a40-79ce-3558-d760dcf78479.htm">Directory<wbr />Path</a>
+    </li>
+    <li>
+      <a id="2869b9ff-5475-8b5e-3294-faa6c595c68a" href="2869b9ff-5475-8b5e-3294-faa6c595c68a.htm">File<wbr />Extension</a>
+    </li>
+    <li>
+      <a id="a4639ae3-b4ae-db12-b2ee-5efc819c138a" href="a4639ae3-b4ae-db12-b2ee-5efc819c138a.htm">Filename</a>
+    </li>
+    <li>
+      <a id="fba27b9f-069a-7913-2e72-836815ff95fd" href="fba27b9f-069a-7913-2e72-836815ff95fd.htm">Fullpath</a>
+    </li>
+    <li>
+      <a id="ad35e5e4-8e25-99cd-9737-0bbd7d65152f" href="ad35e5e4-8e25-99cd-9737-0bbd7d65152f.htm">Is<wbr />Current<wbr />Assembly<wbr />In<wbr />GAC</a>
+    </li>
+    <li>
+      <a id="d1419505-0d8b-bba7-0e22-f081b8978720" href="d1419505-0d8b-bba7-0e22-f081b8978720.htm">Loaded<wbr />Assemblies</a>
+    </li>
+    <li>
+      <a id="9480b513-991b-ef02-4451-edb00fd473a4" href="9480b513-991b-ef02-4451-edb00fd473a4.htm">Process<wbr />Architecture</a>
+    </li>
+    <li>
+      <a id="20a555f5-82eb-f0fb-b055-abf59e87ad49" href="20a555f5-82eb-f0fb-b055-abf59e87ad49.htm">Process<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="84d97821-1a35-798b-66f0-93438d504ebb" href="84d97821-1a35-798b-66f0-93438d504ebb.htm">Process<wbr />Priority</a>
+    </li>
+    <li>
+      <a id="bda276cd-b43f-5417-29f5-437c7b1bccf5" href="bda276cd-b43f-5417-29f5-437c7b1bccf5.htm">Referenced<wbr />Assemblies</a>
+    </li>
+    <li>
+      <a id="2048691c-6e45-20be-6758-c28538b785d3" href="2048691c-6e45-20be-6758-c28538b785d3.htm">Self<wbr />Bytes</a>
+    </li>
+    <li>
+      <a id="07f923fb-4ef3-9cd0-b830-b504138ac57e" href="07f923fb-4ef3-9cd0-b830-b504138ac57e.htm">Thread<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="053211d6-f135-375c-91bb-813c16c45998" href="053211d6-f135-375c-91bb-813c16c45998.htm">Threads</a>
+    </li>
+  </tocItems>
+</toc>

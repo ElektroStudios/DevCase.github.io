@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="c413b0c6-21e7-44d1-a359-44fa3f98886b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Theming</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d6892fcb-a41c-94a7-b3d8-53779db3bf5f" class="has-submenu" href="d6892fcb-a41c-94a7-b3d8-53779db3bf5f.htm">
+        <span data-tocFile="../toc/IDAHKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Theme<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b85ddbf4-1db4-3e29-00c2-ee4815f32947" class="has-submenu" href="b85ddbf4-1db4-3e29-00c2-ee4815f32947.htm">
+        <span data-tocFile="../toc/IDBHKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Theming</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f42c7fae-3cc0-feaa-c2d7-b78edcbef0f3" href="f42c7fae-3cc0-feaa-c2d7-b78edcbef0f3.htm">Wallpaper<wbr />Style</a>
+    </li>
+  </tocItems>
+</toc>

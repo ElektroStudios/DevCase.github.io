@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
+    </li>
+    <li>
+      <a href="e3a7135f-cac9-6a0e-4d5e-81ce751c5be9.htm">Dev<wbr />Text<wbr />Box</a>
+    </li>
+    <li>
+      <a href="f3240bdc-102d-4637-edfe-6fbaf657130c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f8bd8369-0819-57f5-2c35-891bc6870c9a" href="f8bd8369-0819-57f5-2c35-891bc6870c9a.htm">Append<wbr />Text</a>
+    </li>
+    <li>
+      <a id="693e03fe-9fb4-e20f-0f3c-05ff93226dbc" href="693e03fe-9fb4-e20f-0f3c-05ff93226dbc.htm">Clear</a>
+    </li>
+    <li>
+      <a id="2e6abd18-fb83-273e-2647-2fa05529c103" href="2e6abd18-fb83-273e-2647-2fa05529c103.htm">Clear<wbr />Undo</a>
+    </li>
+    <li>
+      <a id="1c1c453b-cd56-56a9-c030-45eda58c5f70" href="1c1c453b-cd56-56a9-c030-45eda58c5f70.htm">Copy</a>
+    </li>
+    <li>
+      <a id="6599f7c6-3b5f-14b2-3047-0b8f52eafda1" href="6599f7c6-3b5f-14b2-3047-0b8f52eafda1.htm">Cut</a>
+    </li>
+    <li>
+      <a id="0626541c-bce2-978c-5fd7-cdd8b77919aa" href="0626541c-bce2-978c-5fd7-cdd8b77919aa.htm">Deselect<wbr />All</a>
+    </li>
+    <li>
+      <a id="ae60a299-53ab-2c53-a661-b7a117146095" class="has-submenu" href="ae60a299-53ab-2c53-a661-b7a117146095.htm">
+        <span data-tocFile="../toc/IDGCWBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Paste</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="90fd1f61-04f6-df76-a847-478471b635ef" href="90fd1f61-04f6-df76-a847-478471b635ef.htm">Scroll<wbr />To<wbr />Caret</a>
+    </li>
+    <li>
+      <a id="f7d446d8-d088-231a-5a4b-bee05dc3e7e5" class="has-submenu" href="f7d446d8-d088-231a-5a4b-bee05dc3e7e5.htm">
+        <span data-tocFile="../toc/IDICWBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Select</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="63aef116-4dcf-6753-148f-d34e95bbcbfb" href="63aef116-4dcf-6753-148f-d34e95bbcbfb.htm">Select<wbr />All</a>
+    </li>
+    <li>
+      <a id="c8f7d91c-495b-dcbf-3bd0-3ba8db26d241" href="c8f7d91c-495b-dcbf-3bd0-3ba8db26d241.htm">Undo</a>
+    </li>
+  </tocItems>
+</toc>

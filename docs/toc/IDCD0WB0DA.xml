@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="7a7b248e-ed63-bac4-6b85-09e3492e7386.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />VMware</a>
+    </li>
+    <li>
+      <a href="750e4e90-f20a-548a-d4d5-5f8a31c6bab1.htm">Vm<wbr />Run<wbr />Wrapper</a>
+    </li>
+    <li>
+      <a href="1dda91b2-43fe-980b-9ef3-f2533d5201a8.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b25b35e5-0e35-cc07-154e-50687d64b1e1" href="b25b35e5-0e35-cc07-154e-50687d64b1e1.htm">Capture<wbr />Screen</a>
+    </li>
+    <li>
+      <a id="772872bf-48dd-b95b-ffe6-903c4ba8a559" href="772872bf-48dd-b95b-ffe6-903c4ba8a559.htm">Directory<wbr />Create</a>
+    </li>
+    <li>
+      <a id="26098b90-bec3-ae7f-b31e-3b53f66de302" href="26098b90-bec3-ae7f-b31e-3b53f66de302.htm">Directory<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="e2c277f4-99a5-dcc3-6072-1d71d44807b4" href="e2c277f4-99a5-dcc3-6072-1d71d44807b4.htm">Directory<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="68392795-dbc6-ae90-8995-ace6a8908d30" href="68392795-dbc6-ae90-8995-ace6a8908d30.htm">Directory<wbr />Exists<wbr />Async</a>
+    </li>
+    <li>
+      <a id="b9b15a4d-dd5d-a899-3a72-82e874426196" href="b9b15a4d-dd5d-a899-3a72-82e874426196.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="c9f40c3d-3447-be02-f9f6-8e26fcacc76b" href="c9f40c3d-3447-be02-f9f6-8e26fcacc76b.htm">File<wbr />Copy<wbr />From<wbr />Guest<wbr />To<wbr />Host</a>
+    </li>
+    <li>
+      <a id="55d85a80-ad4a-2a20-712e-2996da179f15" href="55d85a80-ad4a-2a20-712e-2996da179f15.htm">File<wbr />Copy<wbr />From<wbr />Host<wbr />To<wbr />Guest</a>
+    </li>
+    <li>
+      <a id="40e31137-3a2f-3579-8617-614d10da30f3" href="40e31137-3a2f-3579-8617-614d10da30f3.htm">File<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="55552bb5-fb7f-4133-65ff-b956f17d8e39" href="55552bb5-fb7f-4133-65ff-b956f17d8e39.htm">File<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="03b40990-928a-283b-5609-435abc146e83" href="03b40990-928a-283b-5609-435abc146e83.htm">File<wbr />Exists<wbr />Async</a>
+    </li>
+    <li>
+      <a id="cdaf214d-82aa-83c6-5c5d-fe5add83ffe4" href="cdaf214d-82aa-83c6-5c5d-fe5add83ffe4.htm">File<wbr />Rename</a>
+    </li>
+    <li>
+      <a id="4d906044-c93a-9cba-03b5-b04092486bdc" href="4d906044-c93a-9cba-03b5-b04092486bdc.htm">Get<wbr />Ip<wbr />Address</a>
+    </li>
+    <li>
+      <a id="dce53911-5034-7457-0851-b4cb8f82380c" href="dce53911-5034-7457-0851-b4cb8f82380c.htm">Get<wbr />Ip<wbr />Address<wbr />Async</a>
+    </li>
+    <li>
+      <a id="498ddea4-ade1-675c-2c84-8bc507d7cc3d" href="498ddea4-ade1-675c-2c84-8bc507d7cc3d.htm">Get<wbr />Running<wbr />Vm<wbr />Count</a>
+    </li>
+    <li>
+      <a id="49ffc077-b576-4932-304a-ffbbeac76a75" href="49ffc077-b576-4932-304a-ffbbeac76a75.htm">Get<wbr />Running<wbr />Vm<wbr />Count<wbr />Async</a>
+    </li>
+    <li>
+      <a id="826b5da8-8540-7960-91fa-716c7de6a78d" href="826b5da8-8540-7960-91fa-716c7de6a78d.htm">Get<wbr />Running<wbr />Vms</a>
+    </li>
+    <li>
+      <a id="6f7164e5-a931-a099-c66c-bab9b4fa5c75" href="6f7164e5-a931-a099-c66c-bab9b4fa5c75.htm">Get<wbr />Running<wbr />Vms<wbr />Async</a>
+    </li>
+    <li>
+      <a id="3a872ac6-d7f1-b1b5-4c5f-6ca4cddd57e9" href="3a872ac6-d7f1-b1b5-4c5f-6ca4cddd57e9.htm">Get<wbr />Snapshot<wbr />Count</a>
+    </li>
+    <li>
+      <a id="e46a481c-938b-8ff1-591d-8801cf4e3d63" href="e46a481c-938b-8ff1-591d-8801cf4e3d63.htm">Get<wbr />Snapshot<wbr />Count<wbr />Async</a>
+    </li>
+    <li>
+      <a id="860e2f17-a6cb-22a2-4df7-2b551de850d0" href="860e2f17-a6cb-22a2-4df7-2b551de850d0.htm">Get<wbr />Snapshot<wbr />Names</a>
+    </li>
+    <li>
+      <a id="c2b8b755-c7a2-5b19-d9d7-8a1c93afb506" href="c2b8b755-c7a2-5b19-d9d7-8a1c93afb506.htm">Get<wbr />Snapshot<wbr />Names<wbr />Async</a>
+    </li>
+    <li>
+      <a id="d9a7944d-8d44-5716-2297-6ba89393d5c5" href="d9a7944d-8d44-5716-2297-6ba89393d5c5.htm">Get<wbr />Snapshots<wbr />Treeview</a>
+    </li>
+    <li>
+      <a id="1a7b5114-26aa-22ec-a457-419203ff297e" href="1a7b5114-26aa-22ec-a457-419203ff297e.htm">Get<wbr />Snapshots<wbr />Treeview<wbr />Async</a>
+    </li>
+    <li>
+      <a id="04bebbce-8419-38c9-8aca-b2e874827e63" href="04bebbce-8419-38c9-8aca-b2e874827e63.htm">Install<wbr />Vm<wbr />Ware<wbr />Tools</a>
+    </li>
+    <li>
+      <a id="9bb3264c-d774-c6a6-6d57-f2564141a500" href="9bb3264c-d774-c6a6-6d57-f2564141a500.htm">Is<wbr />Vm<wbr />Ware<wbr />Tools<wbr />Installed</a>
+    </li>
+    <li>
+      <a id="9d5373d6-1b73-0314-119c-3d2a09ccb442" href="9d5373d6-1b73-0314-119c-3d2a09ccb442.htm">Is<wbr />Vm<wbr />Ware<wbr />Tools<wbr />Installed<wbr />Async</a>
+    </li>
+    <li>
+      <a id="d8b54a42-208c-446b-64f1-cff4f220513e" href="d8b54a42-208c-446b-64f1-cff4f220513e.htm">Process<wbr />Kill</a>
+    </li>
+    <li>
+      <a id="665774d0-2abe-3f1f-7f48-34b08b232ff8" href="665774d0-2abe-3f1f-7f48-34b08b232ff8.htm">Process<wbr />Run</a>
+    </li>
+    <li>
+      <a id="8bbc54ba-f695-f08a-aac7-017609c3efaa" href="8bbc54ba-f695-f08a-aac7-017609c3efaa.htm">Process<wbr />Run<wbr />Script</a>
+    </li>
+    <li>
+      <a id="5f831b28-37ed-f38a-2e2a-9c3cbd22cc7f" href="5f831b28-37ed-f38a-2e2a-9c3cbd22cc7f.htm">Process<wbr />Run<wbr />Script<wbr />Async</a>
+    </li>
+    <li>
+      <a id="1a676768-2ac9-ce99-56d8-ab8b42265b5c" href="1a676768-2ac9-ce99-56d8-ab8b42265b5c.htm">Send<wbr />Keystrokes</a>
+    </li>
+    <li>
+      <a id="8429d538-eccd-cf60-5e62-4c7f934f38aa" class="has-submenu" href="8429d538-eccd-cf60-5e62-4c7f934f38aa.htm">
+        <span data-tocFile="../toc/ID0AB0CD0WB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shared<wbr />Folder<wbr />Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3d245408-148d-b4f4-a2bc-869ce094f6ac" class="has-submenu" href="3d245408-148d-b4f4-a2bc-869ce094f6ac.htm">
+        <span data-tocFile="../toc/ID0BB0CD0WB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shared<wbr />Folder<wbr />Remove</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e334a746-9246-7ae0-ec47-598e5063475c" href="e334a746-9246-7ae0-ec47-598e5063475c.htm">Shared<wbr />Folders<wbr />Disable</a>
+    </li>
+    <li>
+      <a id="5e6d9974-9414-6f10-53f1-a80126f619fd" href="5e6d9974-9414-6f10-53f1-a80126f619fd.htm">Shared<wbr />Folders<wbr />Enable</a>
+    </li>
+    <li>
+      <a id="c15cbd0f-9df1-d4ad-dcaf-1317e5d35c4a" class="has-submenu" href="c15cbd0f-9df1-d4ad-dcaf-1317e5d35c4a.htm">
+        <span data-tocFile="../toc/ID0EB0CD0WB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shared<wbr />Folder<wbr />Set<wbr />Access</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="25101327-cd44-c78d-a9e1-c8b59b516696" href="25101327-cd44-c78d-a9e1-c8b59b516696.htm">Snapshot<wbr />Create</a>
+    </li>
+    <li>
+      <a id="8a368867-297a-95aa-e1bf-253da4e8baa4" href="8a368867-297a-95aa-e1bf-253da4e8baa4.htm">Snapshot<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="21425130-4bc1-eea5-71a8-6401f48f4f01" href="21425130-4bc1-eea5-71a8-6401f48f4f01.htm">Snapshot<wbr />Restore</a>
+    </li>
+    <li>
+      <a id="dc0d3178-7cf0-0daa-ec26-c5f78601cfdb" href="dc0d3178-7cf0-0daa-ec26-c5f78601cfdb.htm">Vm<wbr />Delete</a>
+    </li>
+    <li>
+      <a id="2fb7f73a-cde1-ac8e-6576-9fe7b1a87a63" href="2fb7f73a-cde1-ac8e-6576-9fe7b1a87a63.htm">Vm<wbr />Pause</a>
+    </li>
+    <li>
+      <a id="e9abd526-805f-7d3e-2204-f861b201d125" href="e9abd526-805f-7d3e-2204-f861b201d125.htm">Vm<wbr />Reset</a>
+    </li>
+    <li>
+      <a id="f7c1d16b-64f0-3dd2-76ed-b68513f8de8a" href="f7c1d16b-64f0-3dd2-76ed-b68513f8de8a.htm">Vm<wbr />Resume</a>
+    </li>
+    <li>
+      <a id="1783ed46-4f46-69ec-a9b0-50bc620d67a2" href="1783ed46-4f46-69ec-a9b0-50bc620d67a2.htm">Vm<wbr />Start</a>
+    </li>
+    <li>
+      <a id="7fd42706-88c6-4966-7578-408cf076588e" href="7fd42706-88c6-4966-7578-408cf076588e.htm">Vm<wbr />Stop</a>
+    </li>
+    <li>
+      <a id="9c70f116-e1aa-136c-c5e8-401f34c4d3b1" href="9c70f116-e1aa-136c-c5e8-401f34c4d3b1.htm">Vm<wbr />Suspend</a>
+    </li>
+  </tocItems>
+</toc>

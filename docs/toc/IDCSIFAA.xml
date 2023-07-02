@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9ccab889-ea5b-1918-8a95-d51e8c4b941f.htm">Shortcut<wbr />File<wbr />Info</a>
+    </li>
+    <li>
+      <a href="22a656a0-ee30-a668-3851-765c21172b67.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="78a3168f-76f8-70a7-7c4e-464bbb487f9f" href="78a3168f-76f8-70a7-7c4e-464bbb487f9f.htm">Copy<wbr />To</a>
+    </li>
+    <li>
+      <a id="571fd6c2-9a4b-20f7-c3d8-ec63d82906b1" href="571fd6c2-9a4b-20f7-c3d8-ec63d82906b1.htm">Create</a>
+    </li>
+    <li>
+      <a id="8c32bc3d-d071-b104-293d-87c6e6d1095d" href="8c32bc3d-d071-b104-293d-87c6e6d1095d.htm">Decrypt</a>
+    </li>
+    <li>
+      <a id="900f7e82-cc9f-c30c-d9a1-cc89e17cd9d2" href="900f7e82-cc9f-c30c-d9a1-cc89e17cd9d2.htm">Delete</a>
+    </li>
+    <li>
+      <a id="b3b9739d-eada-40a1-8ae3-3b3d19e7a7b7" href="b3b9739d-eada-40a1-8ae3-3b3d19e7a7b7.htm">Encrypt</a>
+    </li>
+    <li>
+      <a id="154f5f55-8d66-c8c9-beee-bd77c2216abe" href="154f5f55-8d66-c8c9-beee-bd77c2216abe.htm">Equals</a>
+    </li>
+    <li>
+      <a id="aaaf3eaf-65de-8e13-9edd-c1c8942d26cf" class="has-submenu" href="aaaf3eaf-65de-8e13-9edd-c1c8942d26cf.htm">
+        <span data-tocFile="../toc/IDGCSIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Access<wbr />Control</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="760c32ce-0b33-0b97-f1cd-cf355b91795b" href="760c32ce-0b33-0b97-f1cd-cf355b91795b.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="67f7ffa5-2dcd-74dd-8c22-042f55fea261" href="67f7ffa5-2dcd-74dd-8c22-042f55fea261.htm">Move<wbr />To</a>
+    </li>
+    <li>
+      <a id="9e8481e1-293d-67ad-5c48-391ce7b5c870" class="has-submenu" href="9e8481e1-293d-67ad-5c48-391ce7b5c870.htm">
+        <span data-tocFile="../toc/IDJCSIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Open</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dc5d0cba-29be-e737-ce8d-1f2d9ea0a2b5" href="dc5d0cba-29be-e737-ce8d-1f2d9ea0a2b5.htm">Open<wbr />Read</a>
+    </li>
+    <li>
+      <a id="d1e8e268-38cf-5eb9-acf5-12cc4f52bf56" href="d1e8e268-38cf-5eb9-acf5-12cc4f52bf56.htm">Open<wbr />Write</a>
+    </li>
+    <li>
+      <a id="30fa3208-b941-40be-58bb-c21e2fc51661" href="30fa3208-b941-40be-58bb-c21e2fc51661.htm">Refresh</a>
+    </li>
+    <li>
+      <a id="67a74ac2-da8f-3958-3078-a74468d8a24d" href="67a74ac2-da8f-3958-3078-a74468d8a24d.htm">Resolve</a>
+    </li>
+    <li>
+      <a id="72a999b1-a94f-7450-8347-612bec8168cd" href="72a999b1-a94f-7450-8347-612bec8168cd.htm">To<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="3ba91054-a687-7062-55d2-848e5d401451.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="1bfad87e-195d-484a-8717-7a48f66129e8.htm">Util<wbr />Numerics</a>
+    </li>
+    <li>
+      <a href="b8ed1e46-5670-c94a-1cba-0d656072df7b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="52d5b64a-6741-d960-d744-98aba3a0d9c5.htm">Convert<wbr />To<wbr />Fraction</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d7fc0f0f-0649-de79-9106-56a82c1d10bd" href="d7fc0f0f-0649-de79-9106-56a82c1d10bd.htm">Convert<wbr />To<wbr />Fraction(<wbr />Decimal, Double)</a>
+    </li>
+    <li>
+      <a id="ea7160e6-24a5-66ef-ff00-f6201c4a829b" href="ea7160e6-24a5-66ef-ff00-f6201c4a829b.htm">Convert<wbr />To<wbr />Fraction(<wbr />Double, Double)</a>
+    </li>
+    <li>
+      <a id="bae29c82-8626-04aa-8b10-31a161dae032" href="bae29c82-8626-04aa-8b10-31a161dae032.htm">Convert<wbr />To<wbr />Fraction(<wbr />Single, Double)</a>
+    </li>
+  </tocItems>
+</toc>

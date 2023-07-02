@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="fbb0dae8-e75f-5910-6c4d-ceba82caf3cc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Tag<wbr />Lib<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="7710b9d9-e904-beb4-d72b-1058bffb2bee.htm">APEv<wbr />2Tag</a>
+    </li>
+    <li>
+      <a href="ee6ca271-ce35-a455-232b-c06669fe0e67.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d599003b-c828-a3e3-364b-4c0ab3922fa2" href="d599003b-c828-a3e3-364b-4c0ab3922fa2.htm">Album</a>
+    </li>
+    <li>
+      <a id="70beb612-f3a3-f483-8ca3-b9c7f7fb4095" href="70beb612-f3a3-f483-8ca3-b9c7f7fb4095.htm">Artist</a>
+    </li>
+    <li>
+      <a id="8bf8d310-4c68-46d0-2470-ecf0811cd7d1" href="8bf8d310-4c68-46d0-2470-ecf0811cd7d1.htm">Catalog</a>
+    </li>
+    <li>
+      <a id="d764b71f-2c65-b0c2-9e01-4dea21351868" href="d764b71f-2c65-b0c2-9e01-4dea21351868.htm">Comment</a>
+    </li>
+    <li>
+      <a id="836786df-92cc-b2b7-9ec5-7709f8d6c94f" href="836786df-92cc-b2b7-9ec5-7709f8d6c94f.htm">Composer</a>
+    </li>
+    <li>
+      <a id="c56ad92d-73d7-c03f-509d-c8b4b107f63b" href="c56ad92d-73d7-c03f-509d-c8b4b107f63b.htm">Copyright</a>
+    </li>
+    <li>
+      <a id="5f5d6629-6de9-7894-7566-39b55154023a" href="5f5d6629-6de9-7894-7566-39b55154023a.htm">Disc</a>
+    </li>
+    <li>
+      <a id="caa6b78d-6533-ebdd-0938-c0a7042eacc8" href="caa6b78d-6533-ebdd-0938-c0a7042eacc8.htm">Encoded<wbr />By</a>
+    </li>
+    <li>
+      <a id="c2e86144-6845-d4b9-09f9-ba3f9543c483" href="c2e86144-6845-d4b9-09f9-ba3f9543c483.htm">Encoder</a>
+    </li>
+    <li>
+      <a id="18580007-78ed-0a28-d49b-42eb66f0ae4e" href="18580007-78ed-0a28-d49b-42eb66f0ae4e.htm">Genre</a>
+    </li>
+    <li>
+      <a id="fb260676-3b07-32cc-8144-06d554ca5401" href="fb260676-3b07-32cc-8144-06d554ca5401.htm">Is<wbr />Empty</a>
+    </li>
+    <li>
+      <a id="635d19ef-4ce2-922c-b810-856463705414" href="635d19ef-4ce2-922c-b810-856463705414.htm">Language</a>
+    </li>
+    <li>
+      <a id="d514081f-89d7-b249-7920-0d221824af1f" href="d514081f-89d7-b249-7920-0d221824af1f.htm">Lyrics</a>
+    </li>
+    <li>
+      <a id="0c275656-60ca-b742-3e89-a5aaf3c1216f" href="0c275656-60ca-b742-3e89-a5aaf3c1216f.htm">Media</a>
+    </li>
+    <li>
+      <a id="774e89e0-e037-0c81-e4eb-aec482b05f1f" href="774e89e0-e037-0c81-e4eb-aec482b05f1f.htm">MP<wbr />3Gain<wbr />Min<wbr />Max</a>
+    </li>
+    <li>
+      <a id="11bc7b17-f93e-a880-a6c7-a6657c2cb15f" href="11bc7b17-f93e-a880-a6c7-a6657c2cb15f.htm">MP<wbr />3Gain<wbr />Undo</a>
+    </li>
+    <li>
+      <a id="4754df76-bfa4-2de9-a816-c19a4cce63ca" href="4754df76-bfa4-2de9-a816-c19a4cce63ca.htm">Pictures</a>
+    </li>
+    <li>
+      <a id="31d7b564-a536-9721-7089-d693aaa7381b" href="31d7b564-a536-9721-7089-d693aaa7381b.htm">Publisher</a>
+    </li>
+    <li>
+      <a id="7f9a828f-ad96-7cbb-7b17-5ffc1c0ab658" href="7f9a828f-ad96-7cbb-7b17-5ffc1c0ab658.htm">Replay<wbr />Gain<wbr />Album<wbr />Gain</a>
+    </li>
+    <li>
+      <a id="79e0d913-641e-90b7-8ce0-54a43049afd3" href="79e0d913-641e-90b7-8ce0-54a43049afd3.htm">Replay<wbr />Gain<wbr />Album<wbr />Peak</a>
+    </li>
+    <li>
+      <a id="81d8dff5-21d9-52a2-0d35-ae719d83115d" href="81d8dff5-21d9-52a2-0d35-ae719d83115d.htm">Replay<wbr />Gain<wbr />Track<wbr />Gain</a>
+    </li>
+    <li>
+      <a id="a2e660e4-2bad-72fb-e6f9-2eb621a44521" href="a2e660e4-2bad-72fb-e6f9-2eb621a44521.htm">Replay<wbr />Gain<wbr />Track<wbr />Peak</a>
+    </li>
+    <li>
+      <a id="b27db44a-977d-e680-be7d-4e381929dda2" href="b27db44a-977d-e680-be7d-4e381929dda2.htm">Retail<wbr />Date</a>
+    </li>
+    <li>
+      <a id="0e5e4dcd-fe65-de48-b86c-bee46ff78a94" href="0e5e4dcd-fe65-de48-b86c-bee46ff78a94.htm">Rip<wbr />Date</a>
+    </li>
+    <li>
+      <a id="678ca2ac-0e00-25c4-e4f5-a038b9fbb5e9" href="678ca2ac-0e00-25c4-e4f5-a038b9fbb5e9.htm">Ripping<wbr />Tool</a>
+    </li>
+    <li>
+      <a id="86682674-27ef-39a3-9b92-449a4097a101" href="86682674-27ef-39a3-9b92-449a4097a101.htm">Supplier</a>
+    </li>
+    <li>
+      <a id="2d11e5b3-656d-78b6-40b1-1e0b18b8f3ba" href="2d11e5b3-656d-78b6-40b1-1e0b18b8f3ba.htm">Tag</a>
+    </li>
+    <li>
+      <a id="1cca6e7e-933b-9c7a-0053-77b804964b57" href="1cca6e7e-933b-9c7a-0053-77b804964b57.htm">Title</a>
+    </li>
+    <li>
+      <a id="eee008d7-e09f-5054-f4e3-de8203ff91d1" href="eee008d7-e09f-5054-f4e3-de8203ff91d1.htm">Track</a>
+    </li>
+    <li>
+      <a id="5744cdff-5807-baf4-6aa5-7afd4910c507" href="5744cdff-5807-baf4-6aa5-7afd4910c507.htm">Year</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="1a52ead2-08ae-3649-a274-ce205140620b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="bb417099-54c8-4190-62f3-1236383f7a90.htm">Util<wbr />Encryption</a>
+    </li>
+    <li>
+      <a href="f77cf6cd-9354-d2de-2f0a-bca9b940cd1b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f48261de-e05f-9e8c-6af1-9272d27549cb.htm">Polymorphic<wbr />Stairs<wbr />Encrypt</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6498f018-0dfc-5027-87dc-4d0b74d2dbee" href="6498f018-0dfc-5027-87dc-4d0b74d2dbee.htm">Polymorphic<wbr />Stairs<wbr />Encrypt(<wbr />Byte[], Byte[], UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="8fa24fc5-e7dd-8b15-69f9-bd59ad0270d8" href="8fa24fc5-e7dd-8b15-69f9-bd59ad0270d8.htm">Polymorphic<wbr />Stairs<wbr />Encrypt(<wbr />String, String, Encoding, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

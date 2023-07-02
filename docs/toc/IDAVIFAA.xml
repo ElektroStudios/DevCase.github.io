@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="9fc5916c-d6b0-26f6-5ec9-fa509fcb31f9.htm">Util<wbr />Directory</a>
+    </li>
+    <li>
+      <a href="f8e3af76-556f-b30f-3556-4875695a1be5.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c60bab19-48f9-8480-4c23-bf0a4b16bb47" href="c60bab19-48f9-8480-4c23-bf0a4b16bb47.htm">Add<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="31bbee6a-692c-d202-9426-dc4cd4a52d39" href="31bbee6a-692c-d202-9426-dc4cd4a52d39.htm">Create<wbr />Iso<wbr />From<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="8a869a58-5c0e-6fda-a881-ca3de74c7479" class="has-submenu" href="8a869a58-5c0e-6fda-a881-ca3de74c7479.htm">
+        <span data-tocFile="../toc/IDCAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Symbolic<wbr />Link</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="64aa855c-cd4c-a103-40ba-e8c6bea03228" href="64aa855c-cd4c-a103-40ba-e8c6bea03228.htm">Directory<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="759bd404-e516-c9f1-616a-2882fce55cf4" class="has-submenu" href="759bd404-e516-c9f1-616a-2882fce55cf4.htm">
+        <span data-tocFile="../toc/IDEAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Dir<wbr />Paths</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1d986f41-f4d5-6e13-52c7-0c87372ebbff" class="has-submenu" href="1d986f41-f4d5-6e13-52c7-0c87372ebbff.htm">
+        <span data-tocFile="../toc/IDFAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Dirs</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9630d939-96ee-4c25-727c-067410f30adc" href="9630d939-96ee-4c25-727c-067410f30adc.htm">Get<wbr />Size</a>
+    </li>
+    <li>
+      <a id="d34c12b2-fa50-795c-ea93-96666e9f672c" class="has-submenu" href="d34c12b2-fa50-795c-ea93-96666e9f672c.htm">
+        <span data-tocFile="../toc/IDHAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Symbolic<wbr />Link<wbr />Target</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf1cb6e5-796c-c6e6-6e35-52241ab061b2" href="bf1cb6e5-796c-c6e6-6e35-52241ab061b2.htm">Has<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="90502c5d-f230-194e-006f-32634c40447c" class="has-submenu" href="90502c5d-f230-194e-006f-32634c40447c.htm">
+        <span data-tocFile="../toc/IDJAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Mount<wbr />Point</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="95f1e898-3488-a87c-9d9d-a0ae5073ae32" class="has-submenu" href="95f1e898-3488-a87c-9d9d-a0ae5073ae32.htm">
+        <span data-tocFile="../toc/IDKAVIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Symbolic<wbr />Link</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f3358b42-923e-7a07-437c-1eb77286c460" href="f3358b42-923e-7a07-437c-1eb77286c460.htm">Preload<wbr />In<wbr />Icon<wbr />Cache</a>
+    </li>
+    <li>
+      <a id="4a065ebe-58e7-0824-439a-f780572c8ac1" href="4a065ebe-58e7-0824-439a-f780572c8ac1.htm">Remove<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="33ca300e-d654-b718-4684-4302d2d2b422" href="33ca300e-d654-b718-4684-4302d2d2b422.htm">Rename</a>
+    </li>
+    <li>
+      <a id="1d44e21c-a5ca-4fb3-6a50-867c2dba26f8" href="1d44e21c-a5ca-4fb3-6a50-867c2dba26f8.htm">Set<wbr />Attributes</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="9bd2f8ed-89ef-b24a-df06-b97f96885e24.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="3b83af39-faf7-2fcf-df28-6280b0bc2560.htm">Util<wbr />Application<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="20a7a457-6b3f-d05a-43a4-0d190fba6b67.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5240c480-e015-59da-e3c3-b383bc293888" href="5240c480-e015-59da-e3c3-b383bc293888.htm">Arguments<wbr />Are<wbr />Empty</a>
+    </li>
+    <li>
+      <a id="f9b7c13e-b57b-7ebd-83ec-10bbc49715c8" href="f9b7c13e-b57b-7ebd-83ec-10bbc49715c8.htm">Command<wbr />Line<wbr />Parameter<wbr />Prefix<wbr />To<wbr />Char</a>
+    </li>
+    <li>
+      <a id="d16722f7-c198-f1dc-4e3e-ef9764671ea1" href="d16722f7-c198-f1dc-4e3e-ef9764671ea1.htm">Command<wbr />Line<wbr />Parameter<wbr />Suffix<wbr />To<wbr />Char</a>
+    </li>
+    <li>
+      <a id="312ee05a-9c0c-4293-4f60-a730b45439f4" href="312ee05a-9c0c-4293-4f60-a730b45439f4.htm">Get<wbr />Argument<wbr />Value&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="c3cae432-19b8-ec92-5a5b-57362d417300" class="has-submenu" href="c3cae432-19b8-ec92-5a5b-57362d417300.htm">
+        <span data-tocFile="../toc/IDEAIHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Parameter<wbr />Assigned<wbr />In<wbr />Argument</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="29202a37-d525-ce87-596e-ac5639a8b30e" href="29202a37-d525-ce87-596e-ac5639a8b30e.htm">Join<wbr />Arguments</a>
+    </li>
+    <li>
+      <a id="a51923d4-1555-3863-ed1d-3a76e341efb6" href="a51923d4-1555-3863-ed1d-3a76e341efb6.htm">Set<wbr />Parameter<wbr />Value&lt;T&gt;</a>
+    </li>
+  </tocItems>
+</toc>

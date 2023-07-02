@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="db827358-efb1-4012-daac-36d96d2449cf.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Hotkeys</a>
+    </li>
+    <li>
+      <a href="dde4effb-5cfe-0ddc-2aaa-431f85ce8979.htm">Hotkey</a>
+    </li>
+    <li>
+      <a href="d428a949-5730-0cc1-6b42-909085150cac.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f16df105-6eb3-0c42-ecda-376ad7fe2ad7" href="f16df105-6eb3-0c42-ecda-376ad7fe2ad7.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="1313e15c-b8d6-f42d-b376-c7b3c9bdbcf3" href="1313e15c-b8d6-f42d-b376-c7b3c9bdbcf3.htm">Is<wbr />Registered</a>
+    </li>
+    <li>
+      <a id="74c2c0b1-5d90-7165-ce75-8fd6096b52ea" href="74c2c0b1-5d90-7165-ce75-8fd6096b52ea.htm">Register</a>
+    </li>
+    <li>
+      <a id="fc2f5584-9156-5cef-0f2c-b4be573c53ee" href="fc2f5584-9156-5cef-0f2c-b4be573c53ee.htm">Unregister</a>
+    </li>
+  </tocItems>
+</toc>

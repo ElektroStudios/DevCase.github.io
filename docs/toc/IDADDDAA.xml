@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="b89c12d3-2ca8-043e-744b-9a29e2a0a213.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Conversion</a>
+    </li>
+    <li>
+      <a href="d4150e84-06cd-3fac-8d83-fb8d0e20de93.htm">Util<wbr />Net<wbr />Code<wbr />Converter</a>
+    </li>
+    <li>
+      <a href="de3f25b1-039f-f7bf-2bb5-106446f78b68.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fab5a83b-5aaf-c14b-aedb-0832d6e99f11" class="has-submenu" href="fab5a83b-5aaf-c14b-aedb-0832d6e99f11.htm">
+        <span data-tocFile="../toc/IDAADDDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hexadecimal<wbr />Convert</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0e117d7c-2946-9d83-574a-0b0b68e3a135" href="0e117d7c-2946-9d83-574a-0b0b68e3a135.htm">Telerik<wbr />Code<wbr />Convert</a>
+    </li>
+    <li>
+      <a id="b7f97c4d-6bea-12f2-c08f-0a6643450fba" href="b7f97c4d-6bea-12f2-c08f-0a6643450fba.htm">Telerik<wbr />Code<wbr />Convert<wbr />Async</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="753713cf-fed1-7bcd-dfce-6a81b2d8537a.htm">IMMDevice<wbr />Enumerator</a>
+    </li>
+    <li>
+      <a href="a99f6f05-5c3b-36ba-4054-e68138fd3b49.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0aaac6cb-e9fe-12df-b3ff-e52d7f2c3741" href="0aaac6cb-e9fe-12df-b3ff-e52d7f2c3741.htm">Enum<wbr />Audio<wbr />Endpoints</a>
+    </li>
+    <li>
+      <a id="83a80df1-3045-1c34-8efc-e9c7e98d273a" href="83a80df1-3045-1c34-8efc-e9c7e98d273a.htm">Get<wbr />Default<wbr />Audio<wbr />Endpoint</a>
+    </li>
+    <li>
+      <a id="38100b73-2888-f724-811d-c62feb4a93f5" href="38100b73-2888-f724-811d-c62feb4a93f5.htm">Get<wbr />Device</a>
+    </li>
+    <li>
+      <a id="55af89aa-ac54-25e2-124c-a43d60db4741" href="55af89aa-ac54-25e2-124c-a43d60db4741.htm">Register<wbr />Endpoint<wbr />Notification<wbr />Callback</a>
+    </li>
+    <li>
+      <a id="9c046eb1-ac86-7e80-39f0-3e21dc03d2ed" href="9c046eb1-ac86-7e80-39f0-3e21dc03d2ed.htm">Unregister<wbr />Endpoint<wbr />Notification<wbr />Callback</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="30793376-a554-8b77-a4d4-d1b6029357bc.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Seven<wbr />Zip<wbr />Sharp</a>
+    </li>
+    <li>
+      <a href="e4cbc31b-1e49-2b82-1192-6b2b4e439d86.htm">Archiver</a>
+    </li>
+    <li>
+      <a href="d90a7b42-3237-27ac-985b-8f5691697513.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c91cf7ee-a7a2-219d-c594-6d6f541a3401.htm">Build<wbr />Sfx</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9fa0b161-3fd1-52cc-b37d-33f98c54cc58" href="9fa0b161-3fd1-52cc-b37d-33f98c54cc58.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module)</a>
+    </li>
+    <li>
+      <a id="94dc7830-b7a9-eb96-ce5c-3507f81fe57e" href="94dc7830-b7a9-eb96-ce5c-3507f81fe57e.htm">Build<wbr />Sfx(<wbr />String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module)</a>
+    </li>
+    <li>
+      <a id="d8a976ce-424d-a6f7-3289-c98c74974d8c" href="d8a976ce-424d-a6f7-3289-c98c74974d8c.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module)</a>
+    </li>
+    <li>
+      <a id="5e7f26ea-b88e-f83d-0dc8-3931be6acf3e" href="5e7f26ea-b88e-f83d-0dc8-3931be6acf3e.htm">Build<wbr />Sfx(<wbr />String, String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module)</a>
+    </li>
+    <li>
+      <a id="f4c7c626-14a8-1fb9-c3c7-e640b9247a9f" href="f4c7c626-14a8-1fb9-c3c7-e640b9247a9f.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="0cfa8394-3b02-e2df-6460-423e62150090" href="0cfa8394-3b02-e2df-6460-423e62150090.htm">Build<wbr />Sfx(<wbr />String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="d7da3f70-eba1-3993-d36d-cbc8f9fedd86" href="d7da3f70-eba1-3993-d36d-cbc8f9fedd86.htm">Build<wbr />Sfx(<wbr />IEnumerable&lt;String&gt;, String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+    <li>
+      <a id="735665b6-666a-07a4-9965-c1e33c0bd7b0" href="735665b6-666a-07a4-9965-c1e33c0bd7b0.htm">Build<wbr />Sfx(<wbr />String, String, String, Seven<wbr />Zip<wbr />Sharp<wbr />Sfx<wbr />Module, Compression<wbr />Method, Compression<wbr />Level)</a>
+    </li>
+  </tocItems>
+</toc>

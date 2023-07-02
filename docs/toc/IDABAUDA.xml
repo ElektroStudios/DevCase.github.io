@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="bf2415de-f4af-771e-2036-4197f74650a1.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx Namespaces</a>
+    </li>
+    <li>
+      <a href="7543aa0f-5e0e-e0c0-dfca-c9bbd2dbdf3a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Gecko<wbr />Fx</a>
+    </li>
+    <li>
+      <a href="6dc13294-6c07-d7fd-0c12-d8faac6d724e.htm">Util<wbr />Gecko<wbr />Fx</a>
+    </li>
+    <li>
+      <a href="4409b21f-d08e-c169-c0da-8db06c49bf51.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6a83ef88-de0a-3d8c-e956-10ede27b2fd8" href="6a83ef88-de0a-3d8c-e956-10ede27b2fd8.htm">Backoff<wbr />Count</a>
+    </li>
+    <li>
+      <a id="5101a5db-50b8-c16c-7b49-3badfe16b9a8" href="5101a5db-50b8-c16c-7b49-3badfe16b9a8.htm">Default<wbr />Http<wbr />Proxy</a>
+    </li>
+    <li>
+      <a id="066b1c90-cddf-be37-a044-82ffc998a91e" href="066b1c90-cddf-be37-a044-82ffc998a91e.htm">Default<wbr />Proxy<wbr />Type</a>
+    </li>
+    <li>
+      <a id="73b96656-d8e0-0f5e-15e9-ea17a4ed520b" href="73b96656-d8e0-0f5e-15e9-ea17a4ed520b.htm">Default<wbr />Ssl<wbr />Proxy</a>
+    </li>
+    <li>
+      <a id="67b239c8-c5f9-5b60-9a00-82be242950b8" href="67b239c8-c5f9-5b60-9a00-82be242950b8.htm">Expose<wbr />Plugin<wbr />Full<wbr />Path</a>
+    </li>
+    <li>
+      <a id="07fbb9ff-31c7-acc4-c12e-904b0da28056" href="07fbb9ff-31c7-acc4-c12e-904b0da28056.htm">Extension<wbr />Blocklist<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e98dfb73-7211-48e8-c0d5-1f891c18a0bc" href="e98dfb73-7211-48e8-c0d5-1f891c18a0bc.htm">Initial<wbr />Paint<wbr />Delay</a>
+    </li>
+    <li>
+      <a id="2a92fef7-32a7-0db6-363e-7c3ace85aada" href="2a92fef7-32a7-0db6-363e-7c3ace85aada.htm">Max<wbr />Connections<wbr />Per<wbr />Server</a>
+    </li>
+    <li>
+      <a id="d5487709-f3c4-c235-3c54-809feb15e936" href="d5487709-f3c4-c235-3c54-809feb15e936.htm">Max<wbr />Persistent<wbr />Connections<wbr />Per<wbr />Server</a>
+    </li>
+    <li>
+      <a id="8dc00141-7b10-d0f4-ec0b-2da42b2197d8" href="8dc00141-7b10-d0f4-ec0b-2da42b2197d8.htm">Pipelining<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="8b7eab67-0369-1566-b788-aa83a7c20afa" href="8b7eab67-0369-1566-b788-aa83a7c20afa.htm">Pipelining<wbr />Max<wbr />Requests</a>
+    </li>
+    <li>
+      <a id="ab7825ad-6efb-a6bd-bdf1-2e3879799626" href="ab7825ad-6efb-a6bd-bdf1-2e3879799626.htm">Proxy<wbr />Pipelining<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="32a7c532-0b93-e2c7-51a9-0f8a898a56fe" href="32a7c532-0b93-e2c7-51a9-0f8a898a56fe.htm">Session<wbr />History<wbr />Max<wbr />Entries</a>
+    </li>
+    <li>
+      <a id="01d39245-3007-8aef-4429-b495600bba89" href="01d39245-3007-8aef-4429-b495600bba89.htm">Session<wbr />History<wbr />Max<wbr />Viewers</a>
+    </li>
+    <li>
+      <a id="d8542efd-833f-5504-61b6-b1cf313e625b" href="d8542efd-833f-5504-61b6-b1cf313e625b.htm">Ssl<wbr />Pipelining<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="af465be6-6b1d-ed0a-477d-899ad474d4cd" href="af465be6-6b1d-ed0a-477d-899ad474d4cd.htm">Submenu<wbr />Delay</a>
+    </li>
+    <li>
+      <a id="34d33793-48ee-5455-68c3-c7cbd7d99024" href="34d33793-48ee-5455-68c3-c7cbd7d99024.htm">Trim<wbr />On<wbr />Minimize</a>
+    </li>
+    <li>
+      <a id="7766cffa-a805-ace2-3995-4abc289da409" href="7766cffa-a805-ace2-3995-4abc289da409.htm">Xul<wbr />Error<wbr />Pages<wbr />Enabled</a>
+    </li>
+  </tocItems>
+</toc>

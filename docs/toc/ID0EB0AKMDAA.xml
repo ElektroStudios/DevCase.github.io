@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+    <li>
+      <a href="25519b85-d237-3f2a-269e-cd32047208a9.htm">Set<wbr />Window<wbr />Text</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="71a3495b-e7cc-8e5a-929d-3eb03f2cb6ee" href="71a3495b-e7cc-8e5a-929d-3eb03f2cb6ee.htm">Set<wbr />Window<wbr />Text(<wbr />Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="4cbeffd7-4817-68d6-316c-05777da0e598" href="4cbeffd7-4817-68d6-316c-05777da0e598.htm">Set<wbr />Window<wbr />Text(<wbr />Safe<wbr />Handle, String)</a>
+    </li>
+  </tocItems>
+</toc>

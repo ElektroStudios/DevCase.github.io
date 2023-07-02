@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="c65de794-aa9b-4081-d936-7f50d54a0ab4.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Steam</a>
+    </li>
+    <li>
+      <a href="0870c5d1-4819-84af-5786-6460bd35e713.htm">Util<wbr />Steam</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4bb64698-3b3a-1824-d1f8-1bc26c4a0f10" class="has-submenu" href="4bb64698-3b3a-1824-d1f8-1bc26c4a0f10.htm">
+        <span data-tocFile="../toc/IDAA0RB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="35da18d2-cd22-e82c-9cef-a28b61cecc96" href="35da18d2-cd22-e82c-9cef-a28b61cecc96.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

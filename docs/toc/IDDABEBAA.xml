@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="72dbdd34-0249-23ba-851a-b5ef3ab30c0f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Serialization</a>
+    </li>
+    <li>
+      <a href="a79ecba6-e7e5-c492-25e3-e8702036ddd6.htm">Util<wbr />Serialization</a>
+    </li>
+    <li>
+      <a href="85c1645d-dc38-81f0-43e9-f575847613fb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5f22879f-4777-ad54-5b1c-b7a5c6250e86.htm">Serialize</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1a8dc4b4-d40f-889e-ae40-3e4ef00def62" href="1a8dc4b4-d40f-889e-ae40-3e4ef00def62.htm">Serialize&lt;T&gt;(<wbr />T, Serialization<wbr />Format, Encoding)</a>
+    </li>
+    <li>
+      <a id="6cc4559e-2c91-d1cc-f98c-d85ad8920523" href="6cc4559e-2c91-d1cc-f98c-d85ad8920523.htm">Serialize&lt;T&gt;(<wbr />T, File<wbr />Info, Serialization<wbr />Format)</a>
+    </li>
+  </tocItems>
+</toc>

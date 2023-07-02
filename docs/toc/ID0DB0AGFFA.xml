@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="017f6188-18f7-2334-4b54-6233463b9b7e.htm">Gdi<wbr />32</a>
+    </li>
+    <li>
+      <a href="f53f00b8-7a1d-e647-da12-124ddf5a0a00.htm">Methods</a>
+    </li>
+    <li>
+      <a href="646192f0-2b55-15ff-f91a-b5fe23ad576e.htm">Pt<wbr />In<wbr />Region</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f51131eb-8cd0-2f4d-a0aa-5ff46f0d8cee" href="f51131eb-8cd0-2f4d-a0aa-5ff46f0d8cee.htm">Pt<wbr />In<wbr />Region(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="35c21b87-f53b-40aa-8efb-2a690a5127e8" href="35c21b87-f53b-40aa-8efb-2a690a5127e8.htm">Pt<wbr />In<wbr />Region(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

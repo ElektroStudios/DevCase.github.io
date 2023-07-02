@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="f0059c29-1665-aea4-12e1-2e4dabc3ebca.htm">Control<wbr />Dragger</a>
+    </li>
+    <li>
+      <a href="bcae077a-5e1a-c8c4-a52e-9f933c96a3f1.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ff44c645-83c5-6172-88e5-5eff7ea44fa6" href="ff44c645-83c5-6172-88e5-5eff7ea44fa6.htm">Add<wbr />Control</a>
+    </li>
+    <li>
+      <a id="dfeb674b-e6d8-97de-0929-713074402595" href="dfeb674b-e6d8-97de-0929-713074402595.htm">Add<wbr />Controls</a>
+    </li>
+    <li>
+      <a id="18a8b684-49e1-6491-d03b-e875de1ea5c1" href="18a8b684-49e1-6491-d03b-e875de1ea5c1.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="ff36322c-9fba-bf72-0754-5c8a0efdccb2" class="has-submenu" href="ff36322c-9fba-bf72-0754-5c8a0efdccb2.htm">
+        <span data-tocFile="../toc/IDDCCCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Control<wbr />Drag<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3fb4edb6-8c6f-8404-2a7d-628de9fb4ff6" href="3fb4edb6-8c6f-8404-2a7d-628de9fb4ff6.htm">Remove<wbr />Control</a>
+    </li>
+    <li>
+      <a id="24e859da-728a-2b11-c9e2-7679d7d91221" href="24e859da-728a-2b11-c9e2-7679d7d91221.htm">Remove<wbr />Controls</a>
+    </li>
+  </tocItems>
+</toc>

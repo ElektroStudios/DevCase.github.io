@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="9361f3bf-be4e-beb6-0bf9-1dc35a2a9c97.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Gaming.<wbr />Rom<wbr />Hacking.<wbr />SNES</a>
+    </li>
+    <li>
+      <a href="bd2f29d9-f9fe-308a-06cf-088bc2a2053a.htm">Invalid<wbr />Snes<wbr />Rom<wbr />Format<wbr />Exception</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="36f62b6e-7332-ada2-7006-b07613e853b5" class="has-submenu" href="36f62b6e-7332-ada2-7006-b07613e853b5.htm">
+        <span data-tocFile="../toc/IDAAAHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="844ec218-1ddd-234a-7b14-1003f9c3afb6" href="844ec218-1ddd-234a-7b14-1003f9c3afb6.htm">Properties</a>
+    </li>
+    <li>
+      <a id="5569c3ce-7d60-d7b7-5cf5-8773961d702b" href="5569c3ce-7d60-d7b7-5cf5-8773961d702b.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

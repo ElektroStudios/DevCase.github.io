@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="037404d5-534f-2dfd-29f2-a9d9afcd522c.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="013bab97-573d-719b-e23a-7cde19e7c3c3" href="013bab97-573d-719b-e23a-7cde19e7c3c3.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />String, XDocument, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+    <li>
+      <a id="c17a5a46-4638-2ace-7514-40c1484fc249" href="c17a5a46-4638-2ace-7514-40c1484fc249.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />Uri, String, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+    <li>
+      <a id="9caa0a3b-d160-e119-acb6-637aae233f4b" href="9caa0a3b-d160-e119-acb6-637aae233f4b.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />Uri, XDocument, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+    <li>
+      <a id="6ad06ca5-da71-a540-ed19-eb01272fbe4d" href="6ad06ca5-da71-a540-ed19-eb01272fbe4d.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />String, XDocument, Encoding, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+    <li>
+      <a id="3cc8a96c-6693-d163-4d30-db8dc78a548e" href="3cc8a96c-6693-d163-4d30-db8dc78a548e.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />Uri, String, Encoding, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+    <li>
+      <a id="d6a03d97-c15b-3854-c45e-4b696d64a5fc" href="d6a03d97-c15b-3854-c45e-4b696d64a5fc.htm">Post<wbr />Xml<wbr />Http<wbr />Request<wbr />Async(<wbr />Uri, XDocument, Encoding, Action&lt;Http<wbr />Web<wbr />Request&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

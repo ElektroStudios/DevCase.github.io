@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="0f3cc930-f7df-07f9-5cd1-0adf15cafbc9.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Networking</a>
+    </li>
+    <li>
+      <a href="0fb36803-3da1-915c-8aa6-737460a41e21.htm">Util<wbr />Debug<wbr />Networking</a>
+    </li>
+    <li>
+      <a href="00ec0c7b-60ff-9ffc-afe0-60bfc0d4d10a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="edda7ff1-800d-c956-047c-d1da58d9c54b" href="edda7ff1-800d-c956-047c-d1da58d9c54b.htm">Disable<wbr />Anti<wbr />Network<wbr />Debug<wbr />Protection</a>
+    </li>
+    <li>
+      <a id="dddc6e2d-a6d3-4d15-de1b-6c027e929f54" href="dddc6e2d-a6d3-4d15-de1b-6c027e929f54.htm">Enable<wbr />Anti<wbr />Network<wbr />Debug<wbr />Protection</a>
+    </li>
+    <li>
+      <a id="e9be8d9d-eb0e-6c0f-14ea-0c4e4444e66b" href="e9be8d9d-eb0e-6c0f-14ea-0c4e4444e66b.htm">Is<wbr />Fiddler<wbr />Running</a>
+    </li>
+    <li>
+      <a id="6d0576f8-02ac-222b-d412-807aba90b5bb" href="6d0576f8-02ac-222b-d412-807aba90b5bb.htm">Is<wbr />Wireshark<wbr />Running</a>
+    </li>
+    <li>
+      <a id="72c76604-4771-39c5-913c-1845c7a4c715" href="72c76604-4771-39c5-913c-1845c7a4c715.htm">Is<wbr />WPERunning</a>
+    </li>
+  </tocItems>
+</toc>

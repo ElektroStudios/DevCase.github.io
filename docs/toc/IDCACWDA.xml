@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+    <li>
+      <a href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">Gmail<wbr />Client</a>
+    </li>
+    <li>
+      <a href="29877e0d-86b4-06f9-e0b0-d116d83bd0c6.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f0e7fb5d-0d22-fb93-cdf1-fa9fbdea925a" href="f0e7fb5d-0d22-fb93-cdf1-fa9fbdea925a.htm">Authorize</a>
+    </li>
+    <li>
+      <a id="2f70bb3d-3004-5fc7-e217-560955d32890" href="2f70bb3d-3004-5fc7-e217-560955d32890.htm">Authorize<wbr />Async</a>
+    </li>
+    <li>
+      <a id="510736ba-5a12-379c-bcc1-46e42c581dc5" href="510736ba-5a12-379c-bcc1-46e42c581dc5.htm">Delete<wbr />Message</a>
+    </li>
+    <li>
+      <a id="e514fbd2-f5a1-57ad-72cb-7d67314a2cbc" href="e514fbd2-f5a1-57ad-72cb-7d67314a2cbc.htm">Delete<wbr />Message<wbr />Async</a>
+    </li>
+    <li>
+      <a id="c3b45a34-880b-8863-64d7-21f70dc5feaa" href="c3b45a34-880b-8863-64d7-21f70dc5feaa.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="3827073e-88c9-9e29-eaef-4fe30bd91201" href="3827073e-88c9-9e29-eaef-4fe30bd91201.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="65909bd4-8e49-6b68-c018-e6fe514b1aeb" href="65909bd4-8e49-6b68-c018-e6fe514b1aeb.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Id</a>
+    </li>
+    <li>
+      <a id="eddcfcaf-6a47-0de3-a0c8-a30caa6a098b" href="eddcfcaf-6a47-0de3-a0c8-a30caa6a098b.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Known<wbr />Id</a>
+    </li>
+    <li>
+      <a id="0a11aca8-f712-2e8b-2e23-645a15a6e8dc" href="0a11aca8-f712-2e8b-2e23-645a15a6e8dc.htm">Get<wbr />Folder<wbr />By<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="67d3d203-b966-b426-f685-dd3c702270e1" href="67d3d203-b966-b426-f685-dd3c702270e1.htm">Get<wbr />Folder<wbr />By<wbr />Id</a>
+    </li>
+    <li>
+      <a id="a954bb90-9446-ffdb-456b-1ded91cc9109" href="a954bb90-9446-ffdb-456b-1ded91cc9109.htm">Get<wbr />Folder<wbr />By<wbr />Known<wbr />Id</a>
+    </li>
+    <li>
+      <a id="f6871d68-490d-c99a-e72d-fa99bbf6a51b" href="f6871d68-490d-c99a-e72d-fa99bbf6a51b.htm">Get<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="a8145b39-dc67-8dae-b4a5-aee7e661e0f9" href="a8145b39-dc67-8dae-b4a5-aee7e661e0f9.htm">Get<wbr />Messages<wbr />Async</a>
+    </li>
+    <li>
+      <a id="90e558eb-f4dd-e2b9-6485-96d5067e0801" href="90e558eb-f4dd-e2b9-6485-96d5067e0801.htm">Recycle<wbr />Message</a>
+    </li>
+    <li>
+      <a id="60528102-6dd7-18a6-7002-391c17542d8d" href="60528102-6dd7-18a6-7002-391c17542d8d.htm">Recycle<wbr />Message<wbr />Async</a>
+    </li>
+    <li>
+      <a id="2d2bb2eb-dd31-6ff1-e92a-ce5cab776487" class="has-submenu" href="2d2bb2eb-dd31-6ff1-e92a-ce5cab776487.htm">
+        <span data-tocFile="../toc/IDPCACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Message<wbr />Html</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2f4148fd-91b1-f18b-3041-0fde725adb13" class="has-submenu" href="2f4148fd-91b1-f18b-3041-0fde725adb13.htm">
+        <span data-tocFile="../toc/IDQCACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Message<wbr />Html<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="10e831d9-c51c-3309-ea06-236bee46e2c4" class="has-submenu" href="10e831d9-c51c-3309-ea06-236bee46e2c4.htm">
+        <span data-tocFile="../toc/IDRCACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Message<wbr />Text</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1aaf267f-308c-1760-5ae4-add8525a30ac" class="has-submenu" href="1aaf267f-308c-1760-5ae4-add8525a30ac.htm">
+        <span data-tocFile="../toc/IDSCACWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Message<wbr />Text<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

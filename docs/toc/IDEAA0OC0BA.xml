@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="4c45ab8e-b32c-3423-5fe2-556ca75e1428.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Process<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2aa61e3d-4930-c3ab-6384-5dee8880cd96.htm">Process<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="8bc511a2-c5d3-b5d8-20e3-7f739b2fdf80.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3e704a59-680f-19e3-4734-bf4bdb1c4d4b.htm">Get<wbr />Process<wbr />Privilege<wbr />States</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c7d07f43-176d-b28e-cea6-a4c06c964799" href="c7d07f43-176d-b28e-cea6-a4c06c964799.htm">Get<wbr />Process<wbr />Privilege<wbr />States(<wbr />Process, String)</a>
+    </li>
+    <li>
+      <a id="8698ecd2-f3de-7951-b591-cd2406fd9590" href="8698ecd2-f3de-7951-b591-cd2406fd9590.htm">Get<wbr />Process<wbr />Privilege<wbr />States(<wbr />Process, Privilege<wbr />States, String)</a>
+    </li>
+  </tocItems>
+</toc>

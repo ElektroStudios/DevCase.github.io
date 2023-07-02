@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Power</a>
+    </li>
+    <li>
+      <a href="3e631775-e1c9-66f6-90c8-df1ee63cede1.htm">Battery<wbr />Status<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2a44656a-be83-048b-9f8f-7da09faccdc4" href="2a44656a-be83-048b-9f8f-7da09faccdc4.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="67f0d3b9-befd-b77f-a2a7-9210e3ee6da6" class="has-submenu" href="67f0d3b9-befd-b77f-a2a7-9210e3ee6da6.htm">
+        <span data-tocFile="../toc/IDBAFFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b8bd3752-72e3-a5f8-f605-5e708075b105" href="b8bd3752-72e3-a5f8-f605-5e708075b105.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

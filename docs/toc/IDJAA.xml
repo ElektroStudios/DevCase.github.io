@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c4807b44-1edb-e114-e3d9-4abbf4eab003" class="has-submenu" href="c4807b44-1edb-e114-e3d9-4abbf4eab003.htm">
+        <span data-tocFile="../toc/IDAJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Certification</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1a52ead2-08ae-3649-a274-ce205140620b" class="has-submenu" href="1a52ead2-08ae-3649-a274-ce205140620b.htm">
+        <span data-tocFile="../toc/IDBJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Encryption</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="08d7da04-1b08-6d4e-4451-1bd372b3e65e" class="has-submenu" href="08d7da04-1b08-6d4e-4451-1bd372b3e65e.htm">
+        <span data-tocFile="../toc/IDCJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Cryptography.<wbr />Hashing</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="13e6216d-ade8-0ed1-f4a0-95d16ad60a32" class="has-submenu" href="13e6216d-ade8-0ed1-f4a0-95d16ad60a32.htm">
+        <span data-tocFile="../toc/IDDJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Data<wbr />Integrity.<wbr />Checksum</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

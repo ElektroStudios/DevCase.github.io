@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="c163f904-b022-176a-c37f-32be777695e1.htm">Shell<wbr />32</a>
+    </li>
+    <li>
+      <a href="ddce2ad5-d1f8-b67a-99e9-295509aae97f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="50bd6265-43f4-f2ec-254e-7ae60296f9eb.htm">SHCreate<wbr />Item<wbr />With<wbr />Parent</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6d26ef5f-7e22-548c-dde2-b09652846a45" href="6d26ef5f-7e22-548c-dde2-b09652846a45.htm">SHCreate<wbr />Item<wbr />With<wbr />Parent(<wbr />PIDL, IShell<wbr />Folder, PIDL, Guid, IShell<wbr />Item)</a>
+    </li>
+    <li>
+      <a id="85e2539a-84f4-5f00-4546-498e5db9962a" href="85e2539a-84f4-5f00-4546-498e5db9962a.htm">SHCreate<wbr />Item<wbr />With<wbr />Parent(<wbr />PIDL, IShell<wbr />Folder, PIDL, Guid, Object)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="c163f904-b022-176a-c37f-32be777695e1.htm">Shell<wbr />32</a>
+    </li>
+    <li>
+      <a href="ddce2ad5-d1f8-b67a-99e9-295509aae97f.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a2aae99d-fcff-7fcf-4aaa-a8446ba35d8a.htm">SHGet<wbr />File<wbr />Info</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a9139e17-f523-e799-f952-5cfd16fe1edd" href="a9139e17-f523-e799-f952-5cfd16fe1edd.htm">SHGet<wbr />File<wbr />Info(<wbr />Int<wbr />Ptr, File<wbr />Attributes, Shell<wbr />File<wbr />Info, UInt<wbr />32, SHGet<wbr />File<wbr />Info<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="5e5ddb0f-0275-8452-f05b-df8d1b082b52" href="5e5ddb0f-0275-8452-f05b-df8d1b082b52.htm">SHGet<wbr />File<wbr />Info(<wbr />String, File<wbr />Attributes, Shell<wbr />File<wbr />Info, UInt<wbr />32, SHGet<wbr />File<wbr />Info<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

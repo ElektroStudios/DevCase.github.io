@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="3465e734-a0c0-4f77-21bc-de38af84b907.htm">Ole<wbr />Acc</a>
+    </li>
+    <li>
+      <a href="bb8afd10-f7f0-1ef6-13c9-4987f1471451.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="965224ce-4fcd-b7df-5816-66855f944fb1" href="965224ce-4fcd-b7df-5816-66855f944fb1.htm">Accessible<wbr />Children</a>
+    </li>
+    <li>
+      <a id="72d53a01-4c8d-92b3-d82d-296d5073ad03" href="72d53a01-4c8d-92b3-d82d-296d5073ad03.htm">Accessible<wbr />Object<wbr />From<wbr />Event</a>
+    </li>
+    <li>
+      <a id="63d279df-f504-f1e6-dff7-48760be9fa5b" class="has-submenu" href="63d279df-f504-f1e6-dff7-48760be9fa5b.htm">
+        <span data-tocFile="../toc/IDCANFFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Accessible<wbr />Object<wbr />From<wbr />Point</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3d985084-f905-84f8-6890-63a3bf3b4d0f" href="3d985084-f905-84f8-6890-63a3bf3b4d0f.htm">Accessible<wbr />Object<wbr />From<wbr />Window</a>
+    </li>
+    <li>
+      <a id="72de4517-8220-ba1d-e0ff-40b5a085eaf2" href="72de4517-8220-ba1d-e0ff-40b5a085eaf2.htm">Create<wbr />Std<wbr />Accessible<wbr />Object</a>
+    </li>
+    <li>
+      <a id="0cf2c161-228d-3312-d830-96c84dc3d576" href="0cf2c161-228d-3312-d830-96c84dc3d576.htm">Get<wbr />Process<wbr />Handle<wbr />From<wbr />Hwnd</a>
+    </li>
+    <li>
+      <a id="aa2e2fb3-d7f2-c50c-e59b-ec8754d7e0b7" href="aa2e2fb3-d7f2-c50c-e59b-ec8754d7e0b7.htm">Get<wbr />Role<wbr />Text</a>
+    </li>
+    <li>
+      <a id="b0a377e9-9600-ae5b-60b7-da6d4a9f9f14" href="b0a377e9-9600-ae5b-60b7-da6d4a9f9f14.htm">Get<wbr />State<wbr />Text</a>
+    </li>
+    <li>
+      <a id="22cdcbec-6cab-4f0c-1368-7824ca592b6f" href="22cdcbec-6cab-4f0c-1368-7824ca592b6f.htm">Window<wbr />From<wbr />Accessible<wbr />Object</a>
+    </li>
+  </tocItems>
+</toc>

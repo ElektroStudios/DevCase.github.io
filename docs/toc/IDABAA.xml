@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ef11ed5c-c6dd-1e9c-cf12-d0250b85330b" class="has-submenu" href="ef11ed5c-c6dd-1e9c-cf12-d0250b85330b.htm">
+        <span data-tocFile="../toc/IDAABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Char<wbr />Diff</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1235d0bf-6a9b-6a31-54d7-aa4a4e4ffffb" href="1235d0bf-6a9b-6a31-54d7-aa4a4e4ffffb.htm">Char<wbr />Diff<wbr />State</a>
+    </li>
+    <li>
+      <a id="820004dd-bf5a-ddca-325f-2765501d88b4" class="has-submenu" href="820004dd-bf5a-ddca-325f-2765501d88b4.htm">
+        <span data-tocFile="../toc/IDCABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fixed<wbr />Length<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b5f5756d-2410-026a-a330-d964f86d50c4" class="has-submenu" href="b5f5756d-2410-026a-a330-d964f86d50c4.htm">
+        <span data-tocFile="../toc/IDDABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Formattable<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="69add49b-873b-2f93-d651-928cfc7942cf" class="has-submenu" href="69add49b-873b-2f93-d651-928cfc7942cf.htm">
+        <span data-tocFile="../toc/IDEABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Grouping<wbr />Chars<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0117cc74-a069-9ebb-0d7d-7c3acaefa064" class="has-submenu" href="0117cc74-a069-9ebb-0d7d-7c3acaefa064.htm">
+        <span data-tocFile="../toc/IDFABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Grouping<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3960d932-0309-d057-ffac-dc57464bc545" href="3960d932-0309-d057-ffac-dc57464bc545.htm">String<wbr />Case</a>
+    </li>
+    <li>
+      <a id="51e79191-b76f-d919-a444-326724d6b112" href="51e79191-b76f-d919-a444-326724d6b112.htm">String<wbr />Direction</a>
+    </li>
+    <li>
+      <a id="5428e3c5-709f-ea99-714e-4372c7c34f09" class="has-submenu" href="5428e3c5-709f-ea99-714e-4372c7c34f09.htm">
+        <span data-tocFile="../toc/IDIABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bc45beee-a6e9-647c-f633-962cab8fbd68" class="has-submenu" href="bc45beee-a6e9-647c-f633-962cab8fbd68.htm">
+        <span data-tocFile="../toc/IDJABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />String.<wbr />Word<wbr />Lists</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="9361f3bf-be4e-beb6-0bf9-1dc35a2a9c97.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Gaming.<wbr />Rom<wbr />Hacking.<wbr />SNES</a>
+    </li>
+    <li>
+      <a href="638d3a37-c7ea-7eae-6da5-5443792782f3.htm">Snes<wbr />Rom</a>
+    </li>
+    <li>
+      <a href="52494791-52ea-8557-1f57-36c4f2fe50a3.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="40b2bba5-4fbd-0af6-01b7-82332888ad05" href="40b2bba5-4fbd-0af6-01b7-82332888ad05.htm">Bank<wbr />Type</a>
+    </li>
+    <li>
+      <a id="c0d8aaeb-698e-2720-cff2-fe178bafe9e6" href="c0d8aaeb-698e-2720-cff2-fe178bafe9e6.htm">Cartridge<wbr />Type</a>
+    </li>
+    <li>
+      <a id="4902cc22-ba70-3ead-a95f-f5fa9b09e509" href="4902cc22-ba70-3ead-a95f-f5fa9b09e509.htm">Checksum</a>
+    </li>
+    <li>
+      <a id="c7c28c6e-f923-e937-476a-e2ae90735ee5" href="c7c28c6e-f923-e937-476a-e2ae90735ee5.htm">Checksum<wbr />Complement</a>
+    </li>
+    <li>
+      <a id="3292561b-267f-07cf-f393-90156771978c" href="3292561b-267f-07cf-f393-90156771978c.htm">Country</a>
+    </li>
+    <li>
+      <a id="12d75034-6e88-6011-4d30-66e12e145d8b" href="12d75034-6e88-6011-4d30-66e12e145d8b.htm">Header<wbr />Type</a>
+    </li>
+    <li>
+      <a id="605df3c3-c4eb-d7ae-2517-49ef91257b23" href="605df3c3-c4eb-d7ae-2517-49ef91257b23.htm">Layout</a>
+    </li>
+    <li>
+      <a id="cdd29d99-1ec7-c0f5-845c-2f1d4273cda7" href="cdd29d99-1ec7-c0f5-845c-2f1d4273cda7.htm">License<wbr />Code</a>
+    </li>
+    <li>
+      <a id="2a223da2-ac3c-6d18-0783-e1059ffb61dc" href="2a223da2-ac3c-6d18-0783-e1059ffb61dc.htm">Name</a>
+    </li>
+    <li>
+      <a id="a90567b0-62e2-f96a-9f47-377eeeab3945" href="a90567b0-62e2-f96a-9f47-377eeeab3945.htm">Ram<wbr />Size</a>
+    </li>
+    <li>
+      <a id="acaadca1-56fd-f577-30d0-46b85b311e6a" href="acaadca1-56fd-f577-30d0-46b85b311e6a.htm">Raw<wbr />Data</a>
+    </li>
+    <li>
+      <a id="4e5551ee-3f4c-d1e1-b708-535210843cf5" href="4e5551ee-3f4c-d1e1-b708-535210843cf5.htm">Rom<wbr />Size</a>
+    </li>
+    <li>
+      <a id="cf575229-1dac-99b0-01f7-4836922f0619" href="cf575229-1dac-99b0-01f7-4836922f0619.htm">Version</a>
+    </li>
+  </tocItems>
+</toc>

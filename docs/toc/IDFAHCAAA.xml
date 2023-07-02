@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8b94fa6d-4099-c68e-930d-329ede181a42.htm">Async<wbr />Perform<wbr />Action</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0a1ac535-d094-c3ee-2b7b-5751f4e5ed5d" href="0a1ac535-d094-c3ee-2b7b-5751f4e5ed5d.htm">Async<wbr />Perform<wbr />Action(<wbr />Control, Delegate)</a>
+    </li>
+    <li>
+      <a id="92593115-e882-d521-ccaa-1ac17430c27b" href="92593115-e882-d521-ccaa-1ac17430c27b.htm">Async<wbr />Perform<wbr />Action&lt;T&gt;(<wbr />Delegate, String)</a>
+    </li>
+    <li>
+      <a id="8a8036d5-a59b-9d29-1d0f-834b61df8b12" href="8a8036d5-a59b-9d29-1d0f-834b61df8b12.htm">Async<wbr />Perform<wbr />Action(<wbr />IEnumerable&lt;Control&gt;, Delegate)</a>
+    </li>
+    <li>
+      <a id="73fecd42-c8e2-f768-6625-ffdb8bb1bea0" href="73fecd42-c8e2-f768-6625-ffdb8bb1bea0.htm">Async<wbr />Perform<wbr />Action&lt;T&gt;(<wbr />Control, Delegate, String)</a>
+    </li>
+    <li>
+      <a id="6fc70ac3-671a-f1c1-46a6-880881b44b74" href="6fc70ac3-671a-f1c1-46a6-880881b44b74.htm">Async<wbr />Perform<wbr />Action&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, Delegate, String)</a>
+    </li>
+  </tocItems>
+</toc>

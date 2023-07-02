@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="df042f64-ff01-5bbb-4bbf-fd8feb865ac1.htm">Playlist<wbr />Editor</a>
+    </li>
+    <li>
+      <a href="b5c9003c-4480-16e7-321c-34c34c402da5.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7fbca1e5-862f-420d-6650-e47438881a29.htm">Add</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9db59181-a23d-1bbf-01b3-1ae583c7af15" href="9db59181-a23d-1bbf-01b3-1ae583c7af15.htm">Add(<wbr />Playlist<wbr />Track<wbr />Info, Boolean)</a>
+    </li>
+    <li>
+      <a id="fb1c78b9-c834-f72f-f77e-e6864954144a" href="fb1c78b9-c834-f72f-f77e-e6864954144a.htm">Add(<wbr />String, Boolean)</a>
+    </li>
+    <li>
+      <a id="5e719393-0687-4ef9-3b57-9d0e00ef931a" href="5e719393-0687-4ef9-3b57-9d0e00ef931a.htm">Add(<wbr />String, String, Time<wbr />Span, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

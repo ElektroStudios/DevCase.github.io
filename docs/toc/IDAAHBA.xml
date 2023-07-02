@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="5233c985-ebe5-5ffc-1e70-30ecf7d8376e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="ccab5b1a-fe6b-de29-0d57-091763c6b29e.htm">Bitmap<wbr />Image<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="d3ccff06-caa8-a8f1-55cd-09a16a1105c7.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="332e6644-96e5-eb11-485f-9c7b98053815" class="has-submenu" href="332e6644-96e5-eb11-485f-9c7b98053815.htm">
+        <span data-tocFile="../toc/IDAAAHBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c68797c7-d802-4191-e6a1-1743c9799d36" class="has-submenu" href="c68797c7-d802-4191-e6a1-1743c9799d36.htm">
+        <span data-tocFile="../toc/IDBAAHBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

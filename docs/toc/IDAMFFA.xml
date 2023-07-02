@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="d0974fcd-93c8-602a-9a36-4015cd7b0341.htm">Ole<wbr />32</a>
+    </li>
+    <li>
+      <a href="ee5a813c-f72d-e401-26b8-aff5d2c23f11.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b9b83324-fe6c-76fc-b458-ef5fa48d1eb5" href="b9b83324-fe6c-76fc-b458-ef5fa48d1eb5.htm">CLSIDFrom<wbr />Prog<wbr />ID</a>
+    </li>
+    <li>
+      <a id="658a1aa0-ea32-6c20-1b65-38ee2d78e634" href="658a1aa0-ea32-6c20-1b65-38ee2d78e634.htm">CLSIDFrom<wbr />Prog<wbr />IDEx</a>
+    </li>
+    <li>
+      <a id="3fb2a0d3-c499-4a6f-6c07-8e7f8053fa3d" href="3fb2a0d3-c499-4a6f-6c07-8e7f8053fa3d.htm">Co<wbr />Free<wbr />Unused<wbr />Libraries</a>
+    </li>
+    <li>
+      <a id="85083117-d72f-7508-3723-eba62b98aeb0" href="85083117-d72f-7508-3723-eba62b98aeb0.htm">Co<wbr />Free<wbr />Unused<wbr />Libraries<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="f8f93387-9195-bfd1-8714-473886886f11" href="f8f93387-9195-bfd1-8714-473886886f11.htm">Co<wbr />Get<wbr />Current<wbr />Process</a>
+    </li>
+    <li>
+      <a id="a378c3dc-b831-19d0-6c8a-3ab20bdeb8f7" href="a378c3dc-b831-19d0-6c8a-3ab20bdeb8f7.htm">Co<wbr />Task<wbr />Mem<wbr />Free</a>
+    </li>
+    <li>
+      <a id="0c623faa-a6ee-7bb1-c776-a1f322c78b3f" href="0c623faa-a6ee-7bb1-c776-a1f322c78b3f.htm">Co<wbr />Uninitialize</a>
+    </li>
+    <li>
+      <a id="faffdb9b-76a8-85af-6080-0cec84219343" href="faffdb9b-76a8-85af-6080-0cec84219343.htm">Co<wbr />Wait<wbr />For<wbr />Multiple<wbr />Handles</a>
+    </li>
+    <li>
+      <a id="aad0676c-9454-1881-75f8-5c39d3672cca" href="aad0676c-9454-1881-75f8-5c39d3672cca.htm">Create<wbr />Bind<wbr />Ctx</a>
+    </li>
+    <li>
+      <a id="7f2d069d-6dc5-6aa1-f42b-c431c0ce6361" href="7f2d069d-6dc5-6aa1-f42b-c431c0ce6361.htm">Create<wbr />File<wbr />Moniker</a>
+    </li>
+    <li>
+      <a id="71d5079d-d259-d3e7-32f5-3096e9bee569" href="71d5079d-d259-d3e7-32f5-3096e9bee569.htm">Dll<wbr />Get<wbr />Class<wbr />Object</a>
+    </li>
+    <li>
+      <a id="cab1048e-930b-1f04-c909-f32bd42ef478" href="cab1048e-930b-1f04-c909-f32bd42ef478.htm">Get<wbr />Running<wbr />Object<wbr />Table</a>
+    </li>
+    <li>
+      <a id="cfdeeba6-dbeb-21ab-5389-68e544915272" href="cfdeeba6-dbeb-21ab-5389-68e544915272.htm">Ole<wbr />Initialize</a>
+    </li>
+    <li>
+      <a id="77e71b4d-f11a-377a-3a2a-3f05a1509310" href="77e71b4d-f11a-377a-3a2a-3f05a1509310.htm">Ole<wbr />Uninitialize</a>
+    </li>
+    <li>
+      <a id="1656a8b0-3c6c-53ae-c31d-be08e1711c0b" href="1656a8b0-3c6c-53ae-c31d-be08e1711c0b.htm">Prog<wbr />IDFrom<wbr />CLSID</a>
+    </li>
+    <li>
+      <a id="62e293d6-6397-21d1-6bb7-497c6e804fa4" href="62e293d6-6397-21d1-6bb7-497c6e804fa4.htm">Revoke<wbr />Drag<wbr />Drop</a>
+    </li>
+  </tocItems>
+</toc>

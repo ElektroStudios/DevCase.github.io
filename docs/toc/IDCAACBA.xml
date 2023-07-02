@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="8dcc36cd-622b-cc3b-7ab1-1f481ff9d901.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Array<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9f223842-2c0d-2d2c-2748-5d8d9f3a498a.htm">Array<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="25356ae9-57e3-d186-1b09-a0b0018065ae.htm">Methods</a>
+    </li>
+    <li>
+      <a href="63aec725-ecd6-c339-49f4-b928cc8515f3.htm">Find</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8d49efc0-3852-9edd-1efa-c6f707d84495" href="8d49efc0-3852-9edd-1efa-c6f707d84495.htm">Find&lt;T&gt;(<wbr />T[][], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="ace4b0d6-9c44-68f5-8c85-b5552f8a6253" href="ace4b0d6-9c44-68f5-8c85-b5552f8a6253.htm">Find&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="fac511ec-c4ca-535f-b633-0ab144d91feb" href="fac511ec-c4ca-535f-b633-0ab144d91feb.htm">Find&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="df08a585-d07a-b9ab-66d5-ecbc4a621906" href="df08a585-d07a-b9ab-66d5-ecbc4a621906.htm">Find&lt;T&gt;(<wbr />T[,], Predicate&lt;T&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="d80d6b2d-19f0-d3cf-cdbb-bb8e27851dc6.htm">Dev<wbr />Case.<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="aba17f5a-1e4c-778f-05b2-ddebeba67229.htm">Util<wbr />Win<wbr />32</a>
+    </li>
+    <li>
+      <a href="19d1f5ca-2a33-9a03-8af3-b00c1f0d194a.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b1c5cdc0-ba9f-0141-4e93-7492dd439fb1.htm">Fail<wbr />Fast<wbr />If<wbr />Zero</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="08da5229-c296-2133-5a27-393a6e29a026" href="08da5229-c296-2133-5a27-393a6e29a026.htm">Fail<wbr />Fast<wbr />If<wbr />Zero(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="feb50f38-5477-cfd1-20a0-0b08d2caf71c" href="feb50f38-5477-cfd1-20a0-0b08d2caf71c.htm">Fail<wbr />Fast<wbr />If<wbr />Zero(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="6ca965c8-304e-d8b6-bd99-ca0e8de6444d" href="6ca965c8-304e-d8b6-bd99-ca0e8de6444d.htm">Fail<wbr />Fast<wbr />If<wbr />Zero(<wbr />UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

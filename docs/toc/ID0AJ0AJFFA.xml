@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3ae06d27-176d-0b1e-b371-66aaa03d05db.htm">Sizeof<wbr />Resource</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cb14db72-9a7e-6b42-8916-4684241da8f7" href="cb14db72-9a7e-6b42-8916-4684241da8f7.htm">Sizeof<wbr />Resource(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="ece1f46b-e4f6-17d8-d1ad-5fde4c2a2d81" href="ece1f46b-e4f6-17d8-d1ad-5fde4c2a2d81.htm">Sizeof<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

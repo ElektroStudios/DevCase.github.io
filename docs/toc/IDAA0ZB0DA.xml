@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="d4196dbf-568a-cd9f-dd34-23a697b89b15.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Xna<wbr />Fan</a>
+    </li>
+    <li>
+      <a href="6bd76760-e636-88e7-0313-64b059753517.htm">Xna<wbr />Fan<wbr />Util</a>
+    </li>
+    <li>
+      <a href="771e24b1-969a-a75a-ebba-370bcf6669c4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c991890f-bece-99b1-5f96-a1057bfa87c7" class="has-submenu" href="c991890f-bece-99b1-5f96-a1057bfa87c7.htm">
+        <span data-tocFile="../toc/IDAAA0ZB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Difference<wbr />Image</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bd45f7b2-6243-fc67-866d-62348af71785" class="has-submenu" href="bd45f7b2-6243-fc67-866d-62348af71785.htm">
+        <span data-tocFile="../toc/IDBAA0ZB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Difference<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

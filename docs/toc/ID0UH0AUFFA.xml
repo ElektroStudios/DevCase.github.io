@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b39e3361-001b-47a1-ed2f-c0fc2110e473.htm">Set<wbr />Parent</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5ede5c49-61e8-affc-8f57-3ea0199309cc" href="5ede5c49-61e8-affc-8f57-3ea0199309cc.htm">Set<wbr />Parent(<wbr />Handle<wbr />Ref, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="805ba647-53d3-ad45-9199-1902457b5795" href="805ba647-53d3-ad45-9199-1902457b5795.htm">Set<wbr />Parent(<wbr />Handle<wbr />Ref, Handle<wbr />Ref)</a>
+    </li>
+    <li>
+      <a id="e65568a8-7eeb-4601-905c-ce07578cd1d5" href="e65568a8-7eeb-4601-905c-ce07578cd1d5.htm">Set<wbr />Parent(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="31868669-43ad-8a7e-d6ac-3d0046364cd8" href="31868669-43ad-8a7e-d6ac-3d0046364cd8.htm">Set<wbr />Parent(<wbr />Safe<wbr />Handle, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="43fdc499-3015-ef50-2f8b-85a858f44da7" href="43fdc499-3015-ef50-2f8b-85a858f44da7.htm">Set<wbr />Parent(<wbr />Safe<wbr />Handle, Safe<wbr />Handle)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5da0d635-5325-aba5-f634-195019cf345f.htm">Download<wbr />Webpage<wbr />As<wbr />Xml</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="05f3bc43-9c61-0f2b-aedb-695bd78a1801" href="05f3bc43-9c61-0f2b-aedb-695bd78a1801.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="14ba5216-68b4-c8f1-2ddc-99ed9145bf9e" href="14ba5216-68b4-c8f1-2ddc-99ed9145bf9e.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri)</a>
+    </li>
+    <li>
+      <a id="e0a5d86f-4a8c-7c6a-d49c-580bbaa152de" href="e0a5d86f-4a8c-7c6a-d49c-580bbaa152de.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="9d9600b1-26db-baa6-472d-0680e3b2729f" href="9d9600b1-26db-baa6-472d-0680e3b2729f.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="c35ceb00-d981-f9e0-766e-b46a44c9be9e" href="c35ceb00-d981-f9e0-766e-b46a44c9be9e.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="42d1c74e-0d46-522c-2993-600b52b17ede" href="42d1c74e-0d46-522c-2993-600b52b17ede.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Encoding)</a>
+    </li>
+    <li>
+      <a id="47922f7a-dd50-96d0-92df-af44deb5b500" href="47922f7a-dd50-96d0-92df-af44deb5b500.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="70a7b602-afca-10eb-4e3b-4e9ede0f27d2" href="70a7b602-afca-10eb-4e3b-4e9ede0f27d2.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy)</a>
+    </li>
+    <li>
+      <a id="2536d92c-9983-4029-5f9a-c992f41c3115" href="2536d92c-9983-4029-5f9a-c992f41c3115.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, String)</a>
+    </li>
+    <li>
+      <a id="58f8a9e8-04b5-9281-947b-327ddc5c582a" href="58f8a9e8-04b5-9281-947b-327ddc5c582a.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Encoding)</a>
+    </li>
+    <li>
+      <a id="ae00a6a6-c40f-8486-9012-24fdda133c83" href="ae00a6a6-c40f-8486-9012-24fdda133c83.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="62a593a5-0990-58c8-0b45-24f4be0f57c4" href="62a593a5-0990-58c8-0b45-24f4be0f57c4.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy, String)</a>
+    </li>
+    <li>
+      <a id="896c6fc9-ccba-5f75-fc44-09e28d7c9302" href="896c6fc9-ccba-5f75-fc44-09e28d7c9302.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy, Encoding)</a>
+    </li>
+    <li>
+      <a id="3d06d44d-a5a0-33f0-57a8-f02726bca9e6" href="3d06d44d-a5a0-33f0-57a8-f02726bca9e6.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="5994dd8f-376d-dc2a-a180-17513a26618c" href="5994dd8f-376d-dc2a-a180-17513a26618c.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="cc5964e7-48ad-e6eb-98b1-902c4e067674" href="cc5964e7-48ad-e6eb-98b1-902c4e067674.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="81239e69-b32e-1bfb-2412-a88244c32b75" href="81239e69-b32e-1bfb-2412-a88244c32b75.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy, String)</a>
+    </li>
+    <li>
+      <a id="c61ccb10-2c44-5114-847f-12a535db9e4e" href="c61ccb10-2c44-5114-847f-12a535db9e4e.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy, Encoding)</a>
+    </li>
+    <li>
+      <a id="a80963e7-a7a6-cb8a-eb11-4f0e4fc4031c" href="a80963e7-a7a6-cb8a-eb11-4f0e4fc4031c.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="b68fa8a6-6903-38b9-ca7c-2aa1dff446bb" href="b68fa8a6-6903-38b9-ca7c-2aa1dff446bb.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="ad73243d-320f-905d-a236-88b6723eb270" href="ad73243d-320f-905d-a236-88b6723eb270.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="7e6fbb70-5a0d-5657-89bc-f8416e38bc4d" href="7e6fbb70-5a0d-5657-89bc-f8416e38bc4d.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />String, Web<wbr />Proxy, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+    <li>
+      <a id="40b194b1-2fc3-5cd6-be1d-353779baf666" href="40b194b1-2fc3-5cd6-be1d-353779baf666.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy, String, Encoding)</a>
+    </li>
+    <li>
+      <a id="dc4b93e2-91a4-ca32-8def-197066603f59" href="dc4b93e2-91a4-ca32-8def-197066603f59.htm">Download<wbr />Webpage<wbr />As<wbr />Xml(<wbr />Uri, Web<wbr />Proxy, Encoding, Key<wbr />Value<wbr />Pair&lt;String, String&gt;[])</a>
+    </li>
+  </tocItems>
+</toc>

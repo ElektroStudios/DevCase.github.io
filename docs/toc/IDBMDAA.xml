@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="c5c172bf-17dd-d333-55c8-859e683a4e9b.htm">Native<wbr />Window<wbr />Event<wbr />Notifier</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cc267fca-f6de-86f8-df6a-0a4a20347bd1" href="cc267fca-f6de-86f8-df6a-0a4a20347bd1.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="dbbc9cf9-1cbf-7e35-1522-f9283bfcaeaf" class="has-submenu" href="dbbc9cf9-1cbf-7e35-1522-f9283bfcaeaf.htm">
+        <span data-tocFile="../toc/IDBBMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="072b91f0-fd0a-fc9d-2bbf-47124ca53743" class="has-submenu" href="072b91f0-fd0a-fc9d-2bbf-47124ca53743.htm">
+        <span data-tocFile="../toc/IDCBMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="94c1e986-0998-fae7-6b2a-6a8ba72db310" class="has-submenu" href="94c1e986-0998-fae7-6b2a-6a8ba72db310.htm">
+        <span data-tocFile="../toc/IDDBMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Events</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

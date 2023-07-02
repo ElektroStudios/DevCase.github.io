@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="63405be8-826a-5c5d-1047-7713adcc5fa0.htm">System<wbr />Menu<wbr />Manager</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b9cbd7a2-acc0-8fe2-ca7f-dac63a9336b3" href="b9cbd7a2-acc0-8fe2-ca7f-dac63a9336b3.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="f7f02011-160f-e4b3-a70f-eebf562b48cd" class="has-submenu" href="f7f02011-160f-e4b3-a70f-eebf562b48cd.htm">
+        <span data-tocFile="../toc/IDBWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5ca62cd4-f249-7d3e-9249-4dee60046735" class="has-submenu" href="5ca62cd4-f249-7d3e-9249-4dee60046735.htm">
+        <span data-tocFile="../toc/IDCWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="12da7246-6b0d-c694-14fc-75a45ad6dd1c" class="has-submenu" href="12da7246-6b0d-c694-14fc-75a45ad6dd1c.htm">
+        <span data-tocFile="../toc/IDDWCAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Events</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

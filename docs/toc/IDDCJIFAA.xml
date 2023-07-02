@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="a688a1d7-b311-1129-39da-b3738f218853.htm">File<wbr />Operation</a>
+    </li>
+    <li>
+      <a href="8f5c23c5-5680-d46b-0ca6-748b04b11226.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7aae9b32-d4d2-602f-67eb-70843e791f53.htm">Queue<wbr />Copy</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9625a59f-117a-9f34-8a90-477d14d2aa6d" href="9625a59f-117a-9f34-8a90-477d14d2aa6d.htm">Queue<wbr />Copy(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="0f85e94f-8d07-c5df-99b1-3a1a57ce1421" href="0f85e94f-8d07-c5df-99b1-3a1a57ce1421.htm">Queue<wbr />Copy(<wbr />File<wbr />Info, File<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="18ddfffb-86f1-bd2d-f966-57beb3c0e93f" href="18ddfffb-86f1-bd2d-f966-57beb3c0e93f.htm">Queue<wbr />Copy(<wbr />File<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="a309dfbe-2e4e-4858-0ac6-f6e4b32b7455" href="a309dfbe-2e4e-4858-0ac6-f6e4b32b7455.htm">Queue<wbr />Copy(<wbr />Directory<wbr />Info, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="2150b270-55f7-a437-8a44-2b9f7836ea66" href="2150b270-55f7-a437-8a44-2b9f7836ea66.htm">Queue<wbr />Copy(<wbr />Directory<wbr />Info, String, String)</a>
+    </li>
+    <li>
+      <a id="bc1db719-3bda-84c6-f633-b46b8f713071" href="bc1db719-3bda-84c6-f633-b46b8f713071.htm">Queue<wbr />Copy(<wbr />File<wbr />Info, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="eb9b8036-97ad-863f-e944-00c87aa4a301" href="eb9b8036-97ad-863f-e944-00c87aa4a301.htm">Queue<wbr />Copy(<wbr />File<wbr />Info, String, String)</a>
+    </li>
+    <li>
+      <a id="06c3549f-2ead-682c-1c54-7bf52223a81a" href="06c3549f-2ead-682c-1c54-7bf52223a81a.htm">Queue<wbr />Copy(<wbr />String, Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="0754ddec-8533-a369-d87c-79d6d8cfcf99" href="0754ddec-8533-a369-d87c-79d6d8cfcf99.htm">Queue<wbr />Copy(<wbr />String, String, String)</a>
+    </li>
+  </tocItems>
+</toc>

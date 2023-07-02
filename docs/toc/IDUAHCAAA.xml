@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="89abae40-7e19-0432-4347-a1ee26988d03.htm">Toggle<wbr />Visible</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d2597047-a4c3-b46b-6ee5-2db1486cf7be" href="d2597047-a4c3-b46b-6ee5-2db1486cf7be.htm">Toggle<wbr />Visible(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="b8ed4a72-9a4f-9a80-9f0f-741f8bf98b9f" href="b8ed4a72-9a4f-9a80-9f0f-741f8bf98b9f.htm">Toggle<wbr />Visible(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="53d32df9-cd25-1a09-7c00-80a4cfcf0675" href="53d32df9-cd25-1a09-7c00-80a4cfcf0675.htm">Toggle<wbr />Visible&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="0e2a39ab-32ef-0632-b8e7-90410a7f5ea9" href="0e2a39ab-32ef-0632-b8e7-90410a7f5ea9.htm">Toggle<wbr />Visible&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="5e04f024-6a13-3f4a-87b2-72c6e36b40b4" href="5e04f024-6a13-3f4a-87b2-72c6e36b40b4.htm">Toggle<wbr />Visible&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d6b9d342-100d-8b9a-47c4-8442a8920605.htm">Slice<wbr />Window<wbr />Size</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bf919dc3-5e72-5188-f99e-b3050c0fe345" href="bf919dc3-5e72-5188-f99e-b3050c0fe345.htm">Slice<wbr />Window<wbr />Size(<wbr />Int<wbr />Ptr, Size)</a>
+    </li>
+    <li>
+      <a id="434c3b0a-5fe1-a340-8eab-00dbc2cb5cf1" href="434c3b0a-5fe1-a340-8eab-00dbc2cb5cf1.htm">Slice<wbr />Window<wbr />Size(<wbr />IWin<wbr />32Window, Size)</a>
+    </li>
+    <li>
+      <a id="88bde90a-516e-2668-9fac-388ef03b9c25" href="88bde90a-516e-2668-9fac-388ef03b9c25.htm">Slice<wbr />Window<wbr />Size(<wbr />Process, Size)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9238ef96-a05d-11a4-3de6-127284a7f468.htm">Disable</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3caf471b-bfbf-978b-cbac-adbe85e3d587" href="3caf471b-bfbf-978b-cbac-adbe85e3d587.htm">Disable(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="8dbc9c20-ca77-c10e-2cae-7df6cbac436f" href="8dbc9c20-ca77-c10e-2cae-7df6cbac436f.htm">Disable(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="ca9a2fdc-8308-a1e0-5fe6-62cc5aea7c35" href="ca9a2fdc-8308-a1e0-5fe6-62cc5aea7c35.htm">Disable&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="651d63b7-ee6d-a0cf-340b-e41d6d6c9480" href="651d63b7-ee6d-a0cf-340b-e41d6d6c9480.htm">Disable&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="2d4663b1-0edc-94ed-c3de-cff5212408a0" href="2d4663b1-0edc-94ed-c3de-cff5212408a0.htm">Disable&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

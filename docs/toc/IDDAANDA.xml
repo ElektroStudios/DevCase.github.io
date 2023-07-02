@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="234941b2-ebab-9329-9466-cc342de1c9f7.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />FFMedia<wbr />Toolkit</a>
+    </li>
+    <li>
+      <a href="fe91dd10-1217-39d6-b179-a38fbd3293d6.htm">Util<wbr />FFMedia<wbr />Toolkit</a>
+    </li>
+    <li>
+      <a href="841f009b-f15d-8ab8-3417-9172f8f40efa.htm">Methods</a>
+    </li>
+    <li>
+      <a href="348fb8b2-ebd6-4584-e7f9-2b8a7bccdfe5.htm">Find<wbr />Color<wbr />Frame<wbr />Sequences</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b8e2befc-9d02-1f2b-1b14-0721d72851ea" href="b8e2befc-9d02-1f2b-1b14-0721d72851ea.htm">Find<wbr />Color<wbr />Frame<wbr />Sequences(<wbr />Media<wbr />File, Color, Size, Single, Action&lt;Int<wbr />32, Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="254fcc93-d6db-2ad0-b5cb-83163443b310" href="254fcc93-d6db-2ad0-b5cb-83163443b310.htm">Find<wbr />Color<wbr />Frame<wbr />Sequences(<wbr />Media<wbr />File, Color[], Size, Single, Action&lt;Int<wbr />32, Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="8451e332-1628-a2b5-833e-2481599d42ce" href="8451e332-1628-a2b5-833e-2481599d42ce.htm">Find<wbr />Color<wbr />Frame<wbr />Sequences(<wbr />String, Color, Size, Single, Action&lt;Int<wbr />32, Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="c763f6e0-90d7-1346-0e52-26cb84b1d9d4" href="c763f6e0-90d7-1346-0e52-26cb84b1d9d4.htm">Find<wbr />Color<wbr />Frame<wbr />Sequences(<wbr />String, Color[], Size, Single, Action&lt;Int<wbr />32, Int<wbr />32&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

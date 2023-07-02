@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="e1be2f69-6ec6-5320-ca7f-734a623f7be3.htm">Send<wbr />Message<wbr />Timeout</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="06ee7383-a9be-846d-40cb-96c8e98e20ef" href="06ee7383-a9be-846d-40cb-96c8e98e20ef.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Edit<wbr />Control<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3f59fd7d-2e31-87f0-576f-d04e5c482f99" href="3f59fd7d-2e31-87f0-576f-d04e5c482f99.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, List<wbr />Box<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3cf46050-c2fc-501d-2ee2-60d3c9de3adb" href="3cf46050-c2fc-501d-2ee2-60d3c9de3adb.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, List<wbr />View<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="56d751e6-506f-8498-563f-7601dbe716fd" href="56d751e6-506f-8498-563f-7601dbe716fd.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Progress<wbr />Bar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="35f285eb-7bcb-fd0e-2f0e-5395750d8744" href="35f285eb-7bcb-fd0e-2f0e-5395750d8744.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Toolbar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="8a37173c-7669-1055-ed94-311ba62ed23b" href="8a37173c-7669-1055-ed94-311ba62ed23b.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="10198284-1f9d-7665-f33c-e3f6db7fdeec" href="10198284-1f9d-7665-f33c-e3f6db7fdeec.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, String, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="bb774e44-34d3-c950-38a1-b1b98b85413a" href="bb774e44-34d3-c950-38a1-b1b98b85413a.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, String<wbr />Builder, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="4081bf8c-bbbc-5684-22a5-63d8141eedf1" href="4081bf8c-bbbc-5684-22a5-63d8141eedf1.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="bfe85755-9c17-171e-e3ba-6de10a6a8152" href="bfe85755-9c17-171e-e3ba-6de10a6a8152.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, String, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a348649b-867f-d618-ad44-0245a8b67983" href="a348649b-867f-d618-ad44-0245a8b67983.htm">Send<wbr />Message<wbr />Timeout(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, String<wbr />Builder, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="83944c80-d0c5-cced-d0dc-53a06918c185" href="83944c80-d0c5-cced-d0dc-53a06918c185.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Edit<wbr />Control<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="37b84c15-4d09-2f5a-5ce8-d15830a61fd5" href="37b84c15-4d09-2f5a-5ce8-d15830a61fd5.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, List<wbr />Box<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="553183e3-30d8-7427-d755-992af836b15a" href="553183e3-30d8-7427-d755-992af836b15a.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, List<wbr />View<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="c84f1b97-9650-a50e-95f1-aa0d72105393" href="c84f1b97-9650-a50e-95f1-aa0d72105393.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Progress<wbr />Bar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="73f972f8-2d20-9baa-766f-e44f1b258375" href="73f972f8-2d20-9baa-766f-e44f1b258375.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Toolbar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="7de2d3be-4b0d-c04d-f4e6-4ce3c8a9627e" href="7de2d3be-4b0d-c04d-f4e6-4ce3c8a9627e.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="96246415-862b-4c2c-9c52-68bc6fa488f3" href="96246415-862b-4c2c-9c52-68bc6fa488f3.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, String, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="b12a731e-a2d8-bb79-aa21-eab9e1aa8a61" href="b12a731e-a2d8-bb79-aa21-eab9e1aa8a61.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, String<wbr />Builder, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="4e02b31c-bb8d-d9d9-c603-1116176336ab" href="4e02b31c-bb8d-d9d9-c603-1116176336ab.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9a8feb35-5f78-39b5-57cf-eca0fe5c0946" href="9a8feb35-5f78-39b5-57cf-eca0fe5c0946.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, String, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3e3377b9-7626-7bbc-6a17-a727e4bb3b8f" href="3e3377b9-7626-7bbc-6a17-a727e4bb3b8f.htm">Send<wbr />Message<wbr />Timeout(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, String<wbr />Builder, Send<wbr />Message<wbr />Timeout<wbr />Flags, Int<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

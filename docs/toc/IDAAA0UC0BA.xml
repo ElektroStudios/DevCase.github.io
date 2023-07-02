@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="50d38c34-b80e-e802-d628-2dcd3700e59a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Rich<wbr />Text<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="b16ac58f-0cea-c64b-0bf7-36845f9f3f94.htm">Rich<wbr />Text<wbr />Box<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="d30f731d-1a9e-28b9-6567-4fb37d06067c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="710c2364-edd2-08eb-55ad-0a657fe7f661.htm">Append<wbr />Colored<wbr />Text</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cd5cd2c1-d3f2-dfd1-dc37-7df88942ef06" href="cd5cd2c1-d3f2-dfd1-dc37-7df88942ef06.htm">Append<wbr />Colored<wbr />Text(<wbr />Rich<wbr />Text<wbr />Box, String, Color, Boolean)</a>
+    </li>
+    <li>
+      <a id="1439083f-5493-9eb1-f071-8662a0c0ffbc" href="1439083f-5493-9eb1-f071-8662a0c0ffbc.htm">Append<wbr />Colored<wbr />Text(<wbr />Rich<wbr />Text<wbr />Box, String, Color, Color, Boolean)</a>
+    </li>
+    <li>
+      <a id="7e5ea417-2e3a-5b26-166f-1382a23e39b7" href="7e5ea417-2e3a-5b26-166f-1382a23e39b7.htm">Append<wbr />Colored<wbr />Text(<wbr />Rich<wbr />Text<wbr />Box, String, Color, Color, Font, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="ab27822e-3a0f-287e-d307-635ab5cfa259.htm">Util<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="c8ddf93b-44c8-3adf-1f91-822e49a4e440.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2c13b764-c06c-52d1-46ac-cb130d33d027" href="2c13b764-c06c-52d1-46ac-cb130d33d027.htm">Get<wbr />Item<wbr />Verbs</a>
+    </li>
+    <li>
+      <a id="9973866c-2d10-455e-b61b-0959c4d4b397" class="has-submenu" href="9973866c-2d10-455e-b61b-0959c4d4b397.htm">
+        <span data-tocFile="../toc/IDBAYIFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invoke<wbr />Item<wbr />Verb</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c123d77f-bfbd-27ed-11ec-185a467b44ff" href="c123d77f-bfbd-27ed-11ec-185a467b44ff.htm">Is<wbr />Valid<wbr />Windows<wbr />Directory<wbr />Path</a>
+    </li>
+    <li>
+      <a id="97c617c4-76c0-0d2b-6e59-0284fc3ce6da" href="97c617c4-76c0-0d2b-6e59-0284fc3ce6da.htm">Is<wbr />Valid<wbr />Windows<wbr />File<wbr />Name</a>
+    </li>
+    <li>
+      <a id="0640929a-cce0-54b4-db41-9b60062f6cb0" href="0640929a-cce0-54b4-db41-9b60062f6cb0.htm">Is<wbr />Valid<wbr />Windows<wbr />File<wbr />Name<wbr />Or<wbr />Directory<wbr />Path</a>
+    </li>
+    <li>
+      <a id="8fdae6c8-ca18-be41-d632-15746ebace32" href="8fdae6c8-ca18-be41-d632-15746ebace32.htm">Make<wbr />Valid<wbr />Windows<wbr />Name</a>
+    </li>
+    <li>
+      <a id="71518472-41c1-be76-7758-c63ba5296864" href="71518472-41c1-be76-7758-c63ba5296864.htm">Windows<wbr />Path<wbr />To<wbr />Uri</a>
+    </li>
+    <li>
+      <a id="e3125872-16cb-6178-f8e9-2256bd7b3e88" href="e3125872-16cb-6178-f8e9-2256bd7b3e88.htm">Windows<wbr />Path<wbr />To<wbr />Uri<wbr />Path</a>
+    </li>
+  </tocItems>
+</toc>

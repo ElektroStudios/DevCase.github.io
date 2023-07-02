@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="5c64db65-f304-c243-cd8f-395e9c660450.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms.<wbr />Undo<wbr />Redo</a>
+    </li>
+    <li>
+      <a href="eaaf7e68-e40c-1188-7b9a-493147960de9.htm">Undo<wbr />Redo&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="1ba99bda-a891-537a-170c-d02dcc036a1d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="47c24d00-e18e-0d4f-37a1-4f015b09c9e6" href="47c24d00-e18e-0d4f-37a1-4f015b09c9e6.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="4b6fa6fb-0716-7b46-b344-0b30bb02ba3e" href="4b6fa6fb-0716-7b46-b344-0b30bb02ba3e.htm">Redo</a>
+    </li>
+    <li>
+      <a id="ee882b39-92f2-6ea0-fd83-579b4fc556f4" href="ee882b39-92f2-6ea0-fd83-579b4fc556f4.htm">Undo</a>
+    </li>
+  </tocItems>
+</toc>

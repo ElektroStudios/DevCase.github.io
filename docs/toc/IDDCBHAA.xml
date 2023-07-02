@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="2f143d2d-3e4c-7f07-5f3a-15abc5277beb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Graphics</a>
+    </li>
+    <li>
+      <a href="39765a0a-9acd-9ef0-d042-5c4792d9257b.htm">Color<wbr />String</a>
+    </li>
+    <li>
+      <a href="3232017d-32e5-34ef-ef53-8bedfddbe8e9.htm">Operators</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4938ad79-4303-fd72-2ca4-00d359ad7cee" href="4938ad79-4303-fd72-2ca4-00d359ad7cee.htm">Equality Operator</a>
+    </li>
+    <li>
+      <a id="92984901-7a59-6504-9752-17e860220924" href="92984901-7a59-6504-9752-17e860220924.htm">Explicit Conversion (Color to Color<wbr />String)</a>
+    </li>
+    <li>
+      <a id="8e2f9c04-b78d-ec98-6fe0-41f10c3f7769" href="8e2f9c04-b78d-ec98-6fe0-41f10c3f7769.htm">Implicit Conversion (Color<wbr />String to Color)</a>
+    </li>
+    <li>
+      <a id="206cc5dd-fd12-2dc8-d010-258de6ca841a" href="206cc5dd-fd12-2dc8-d010-258de6ca841a.htm">Inequality Operator</a>
+    </li>
+  </tocItems>
+</toc>

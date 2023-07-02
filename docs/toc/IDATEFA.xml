@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="c428f617-cd93-5ff2-e8b0-c24c62b3e1e9.htm">IFile<wbr />Operation</a>
+    </li>
+    <li>
+      <a href="c6657597-426d-451c-bdd5-3559a105b20b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f034d26a-1bc9-1905-ee7c-d584a889a404" href="f034d26a-1bc9-1905-ee7c-d584a889a404.htm">Advise</a>
+    </li>
+    <li>
+      <a id="d834cfc5-c462-9856-26e1-541b1204729d" href="d834cfc5-c462-9856-26e1-541b1204729d.htm">Apply<wbr />Properties<wbr />To<wbr />Item</a>
+    </li>
+    <li>
+      <a id="28458e5b-3e9a-efc9-f768-c58e16f13bd3" href="28458e5b-3e9a-efc9-f768-c58e16f13bd3.htm">Apply<wbr />Properties<wbr />To<wbr />Items</a>
+    </li>
+    <li>
+      <a id="ee2cfe41-99cd-01b4-24a0-48e0c6adbbce" href="ee2cfe41-99cd-01b4-24a0-48e0c6adbbce.htm">Copy<wbr />Item</a>
+    </li>
+    <li>
+      <a id="fceb99d0-28f8-d16a-c8f1-79d0bb29f79e" href="fceb99d0-28f8-d16a-c8f1-79d0bb29f79e.htm">Copy<wbr />Items</a>
+    </li>
+    <li>
+      <a id="fbde45a4-d402-7b29-fc3c-ac1eecbc7f6b" href="fbde45a4-d402-7b29-fc3c-ac1eecbc7f6b.htm">Delete<wbr />Item</a>
+    </li>
+    <li>
+      <a id="db85faa9-587a-dc94-a4ea-8e73647de4f9" href="db85faa9-587a-dc94-a4ea-8e73647de4f9.htm">Delete<wbr />Items</a>
+    </li>
+    <li>
+      <a id="f41d098b-a45f-90a7-3feb-ceefe0c5633b" href="f41d098b-a45f-90a7-3feb-ceefe0c5633b.htm">Get<wbr />Any<wbr />Operations<wbr />Aborted</a>
+    </li>
+    <li>
+      <a id="a0892aed-8f57-a1cc-4b07-9cfaa1cc91cf" href="a0892aed-8f57-a1cc-4b07-9cfaa1cc91cf.htm">Move<wbr />Item</a>
+    </li>
+    <li>
+      <a id="e9aeb1be-a469-cef2-a333-7191e9f63f51" href="e9aeb1be-a469-cef2-a333-7191e9f63f51.htm">Move<wbr />Items</a>
+    </li>
+    <li>
+      <a id="d86142e4-58a7-d5c3-46b1-dcd338bdfa9f" href="d86142e4-58a7-d5c3-46b1-dcd338bdfa9f.htm">New<wbr />Item</a>
+    </li>
+    <li>
+      <a id="c94588fb-dadf-5aea-bdbe-c64e0bb3da64" href="c94588fb-dadf-5aea-bdbe-c64e0bb3da64.htm">Perform<wbr />Operations</a>
+    </li>
+    <li>
+      <a id="4a8fd543-fabf-1287-ee7a-ec506172f51a" href="4a8fd543-fabf-1287-ee7a-ec506172f51a.htm">Rename<wbr />Item</a>
+    </li>
+    <li>
+      <a id="fa630fb7-f234-0fe2-ffab-ef9b574ee59a" href="fa630fb7-f234-0fe2-ffab-ef9b574ee59a.htm">Rename<wbr />Items</a>
+    </li>
+    <li>
+      <a id="e5be2038-4134-082d-21d4-3a41077f4521" href="e5be2038-4134-082d-21d4-3a41077f4521.htm">Set<wbr />Operation<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="f2ede2be-470f-8e26-9824-8a2242d63caa" href="f2ede2be-470f-8e26-9824-8a2242d63caa.htm">Set<wbr />Owner<wbr />Window</a>
+    </li>
+    <li>
+      <a id="21502777-83c1-a3fa-2789-803394f894fb" href="21502777-83c1-a3fa-2789-803394f894fb.htm">Set<wbr />Progress<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="c1f98a65-8e67-10a2-c04e-764226b2dd76" href="c1f98a65-8e67-10a2-c04e-764226b2dd76.htm">Set<wbr />Progress<wbr />Message</a>
+    </li>
+    <li>
+      <a id="3f4cf5b1-ff62-d390-9f8f-3fa30e0196cc" href="3f4cf5b1-ff62-d390-9f8f-3fa30e0196cc.htm">Set<wbr />Properties</a>
+    </li>
+    <li>
+      <a id="343bfc43-30f2-d9f7-b3a6-ccc8cb0a0a13" href="343bfc43-30f2-d9f7-b3a6-ccc8cb0a0a13.htm">Unadvise</a>
+    </li>
+  </tocItems>
+</toc>

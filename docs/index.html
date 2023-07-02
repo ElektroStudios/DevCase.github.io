@@ -2,13 +2,30 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<meta http-equiv="refresh" content="1;url=html/R_Project_DevCase_Class_Library_v4_0.htm">
+	<meta http-equiv="refresh" content="1;url=html/e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">
 	<script type="text/javascript">
-		window.location.replace("html/R_Project_DevCase_Class_Library_v4_0.htm")
+		// Use an alternate default page if a topic is specified in the query string
+		var location = window.location;
+		var queryString = location.search;
+		if(queryString != "")
+		{
+			var idx, options = queryString.split(/[\?\=\&]/);
+			for(idx = 0; idx < options.length; idx++)
+			{
+				// Don't allow javascript, or references outside the current site
+				if(options[idx] == "topic" && idx + 1 < options.length && options[idx + 1].match(/^\w[\w\/.-]*$/))
+				{
+					location.replace(location.origin + location.pathname + options[idx + 1]);
+					break;
+				}
+			}
+		}
+		else
+			location.replace("html/e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm");
 	</script>
-	<title>DevCase Class Library v4.0 - Redirect</title>
+	<title>DevCase Class Library 5.0 - Redirect</title>
 </head>
 <body>
-	<p>If you are not redirected automatically, follow this link to the <a href="html/R_Project_DevCase_Class_Library_v4_0.htm">default topic</a>.</p>
+	<p>If you are not redirected automatically, follow this link to the <a href="html/e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">default topic</a>.</p>
 </body>
 </html>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="6b52e1f4-f3e6-ada3-c1c9-4c898276a935.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Devices.<wbr />Drives</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1cec93fc-967d-8c8f-79c2-78ad8e9ecbdb" href="1cec93fc-967d-8c8f-79c2-78ad8e9ecbdb.htm">Drive<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a id="623b383d-7125-80a9-82eb-f72107567284" href="623b383d-7125-80a9-82eb-f72107567284.htm">Drive<wbr />Format<wbr />Result</a>
+    </li>
+    <li>
+      <a id="182f7f48-57bf-4d17-1e9d-0ef113a8b631" class="has-submenu" href="182f7f48-57bf-4d17-1e9d-0ef113a8b631.htm">
+        <span data-tocFile="../toc/IDCCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Drive<wbr />Status<wbr />Changed<wbr />Event<wbr />Args</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="17cbc437-460d-da20-8ec0-554f1d4d7e57" href="17cbc437-460d-da20-8ec0-554f1d4d7e57.htm">Drive<wbr />Storage<wbr />Type</a>
+    </li>
+    <li>
+      <a id="789aa742-434d-2496-3d27-fb6c95440e50" class="has-submenu" href="789aa742-434d-2496-3d27-fb6c95440e50.htm">
+        <span data-tocFile="../toc/IDECFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Drive<wbr />Watcher</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="21849c00-3eaf-83f3-e9bb-906ac14717af" href="21849c00-3eaf-83f3-e9bb-906ac14717af.htm">Hard<wbr />Drive<wbr />Capabilities</a>
+    </li>
+    <li>
+      <a id="ade71a41-0cc5-8b37-4b5a-0f8680ca11e6" class="has-submenu" href="ade71a41-0cc5-8b37-4b5a-0f8680ca11e6.htm">
+        <span data-tocFile="../toc/IDGCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hard<wbr />Drive<wbr />Info</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="422237c5-f34e-4709-4af6-ec06e84d5ec3" href="422237c5-f34e-4709-4af6-ec06e84d5ec3.htm">Hard<wbr />Drive<wbr />Interface<wbr />Type</a>
+    </li>
+    <li>
+      <a id="dedb0710-5b35-d32d-33d9-b3a86c073ec8" class="has-submenu" href="dedb0710-5b35-d32d-33d9-b3a86c073ec8.htm">
+        <span data-tocFile="../toc/IDICFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>SMART</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e79bdf17-58f0-8137-bb26-3036e863278c" class="has-submenu" href="e79bdf17-58f0-8137-bb26-3036e863278c.htm">
+        <span data-tocFile="../toc/IDJCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Smart<wbr />Attribute</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e7958eed-599f-0cec-e282-19db4ca76296" class="has-submenu" href="e7958eed-599f-0cec-e282-19db4ca76296.htm">
+        <span data-tocFile="../toc/IDKCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Drives</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="102c36f4-ce5c-3866-5c19-433aa009c2b8" class="has-submenu" href="102c36f4-ce5c-3866-5c19-433aa009c2b8.htm">
+        <span data-tocFile="../toc/IDLCFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Volume</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="62a5a62b-9c0e-2e74-5521-fcdc2373622e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Memory<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="5f8f6bc2-fd78-6e9b-dcf1-8c3dbb239171.htm">Memory<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="8fc30cd1-8dfb-40f7-922b-ec2757d9eb8b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e01bc19c-ab79-96c6-34dd-d6226efb087f" class="has-submenu" href="e01bc19c-ab79-96c6-34dd-d6226efb087f.htm">
+        <span data-tocFile="../toc/IDAAA0DC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8bd26b19-67cf-9ea5-24d8-6cfe19e563e3" href="8bd26b19-67cf-9ea5-24d8-6cfe19e563e3.htm">Equals<wbr />Async</a>
+    </li>
+    <li>
+      <a id="6edc292d-9f74-a6c1-45cc-537edec95487" class="has-submenu" href="6edc292d-9f74-a6c1-45cc-537edec95487.htm">
+        <span data-tocFile="../toc/IDCAA0DC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />To<wbr />End</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="96836a64-896c-e0f5-361a-6c6b13c31166" class="has-submenu" href="96836a64-896c-e0f5-361a-6c6b13c31166.htm">
+        <span data-tocFile="../toc/IDDAA0DC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a176504e-a00b-62bc-de90-70ebd77b4f2b" href="a176504e-a00b-62bc-de90-70ebd77b4f2b.htm">Seek<wbr />To<wbr />Begin</a>
+    </li>
+    <li>
+      <a id="3ba7ace8-7904-d3e8-f26d-af2bd9914860" href="3ba7ace8-7904-d3e8-f26d-af2bd9914860.htm">Seek<wbr />To<wbr />End</a>
+    </li>
+    <li>
+      <a id="823ece95-720c-015b-feaf-ef2a24c6e230" href="823ece95-720c-015b-feaf-ef2a24c6e230.htm">To<wbr />Stream</a>
+    </li>
+  </tocItems>
+</toc>

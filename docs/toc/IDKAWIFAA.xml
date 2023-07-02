@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="bc3fc9ca-e135-4593-8ea7-b825ae738d11.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO Namespaces</a>
+    </li>
+    <li>
+      <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />File<wbr />System</a>
+    </li>
+    <li>
+      <a href="690d36fb-80e9-ddc3-7afb-96120fbd8241.htm">Util<wbr />File</a>
+    </li>
+    <li>
+      <a href="e9e52ac5-66cc-59ae-6558-e03afad92519.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bf414211-c95f-4403-76e9-430969e45e30.htm">Get<wbr />Temp<wbr />File</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a1a826b3-c081-7df9-e4c3-39296f3699fa" href="a1a826b3-c081-7df9-e4c3-39296f3699fa.htm">Get<wbr />Temp<wbr />File</a>
+    </li>
+    <li>
+      <a id="e5c36f48-e377-d902-0a1d-653d6859037f" href="e5c36f48-e377-d902-0a1d-653d6859037f.htm">Get<wbr />Temp<wbr />File(<wbr />Directory<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="06a10887-a1ef-7fae-f9a6-fc6d3cd73754" href="06a10887-a1ef-7fae-f9a6-fc6d3cd73754.htm">Get<wbr />Temp<wbr />File(<wbr />Environment.<wbr />Special<wbr />Folder)</a>
+    </li>
+    <li>
+      <a id="b17731d6-37be-0712-a198-20a734b8a843" href="b17731d6-37be-0712-a198-20a734b8a843.htm">Get<wbr />Temp<wbr />File(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="2b2387af-6893-e0ed-39fa-b07c42d56be3" href="2b2387af-6893-e0ed-39fa-b07c42d56be3.htm">Get<wbr />Temp<wbr />File(<wbr />Directory<wbr />Info, String)</a>
+    </li>
+    <li>
+      <a id="f6ae7ffc-c43b-1831-df59-611bed81c461" href="f6ae7ffc-c43b-1831-df59-611bed81c461.htm">Get<wbr />Temp<wbr />File(<wbr />Environment.<wbr />Special<wbr />Folder, String)</a>
+    </li>
+    <li>
+      <a id="41d5d171-69cd-6933-15a1-5a3eddd3c9c8" href="41d5d171-69cd-6933-15a1-5a3eddd3c9c8.htm">Get<wbr />Temp<wbr />File(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+</toc>

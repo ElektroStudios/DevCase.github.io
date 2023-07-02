@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="60e7311b-5503-bb42-8a6a-6fe43ffa6647.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Translate</a>
+    </li>
+    <li>
+      <a href="6b83ce8a-8ea0-f2ef-2419-57d83c6f435a.htm">Translate<wbr />Client</a>
+    </li>
+    <li>
+      <a href="26be3b02-ae8c-fd39-cfb6-f8453215c96b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ca31eb58-1ace-ca6b-4a50-237a86236f00" href="ca31eb58-1ace-ca6b-4a50-237a86236f00.htm">Authorize</a>
+    </li>
+    <li>
+      <a id="0c3fdc1a-9c41-8b06-bf9a-e08107f9525d" href="0c3fdc1a-9c41-8b06-bf9a-e08107f9525d.htm">Authorize<wbr />Async</a>
+    </li>
+    <li>
+      <a id="42b746af-582b-ac23-71f0-648320f1ca07" href="42b746af-582b-ac23-71f0-648320f1ca07.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="b3b5b3ca-5617-56d5-14b1-95b87ca8168b" href="b3b5b3ca-5617-56d5-14b1-95b87ca8168b.htm">Translate<wbr />Html</a>
+    </li>
+    <li>
+      <a id="61316991-06f7-93a6-667c-2100e45c6b0a" href="61316991-06f7-93a6-667c-2100e45c6b0a.htm">Translate<wbr />Html<wbr />Async</a>
+    </li>
+    <li>
+      <a id="bd99781f-0bce-2d76-fdb0-81a86591ce19" href="bd99781f-0bce-2d76-fdb0-81a86591ce19.htm">Translate<wbr />Text</a>
+    </li>
+    <li>
+      <a id="ef9114b9-26d5-bde0-8ac0-65e0cba77761" href="ef9114b9-26d5-bde0-8ac0-65e0cba77761.htm">Translate<wbr />Text<wbr />Async</a>
+    </li>
+  </tocItems>
+</toc>

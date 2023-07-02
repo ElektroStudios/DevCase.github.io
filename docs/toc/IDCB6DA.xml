@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="07f9a734-6d80-91a5-3298-52435e0d5a20.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Microsoft<wbr />Live</a>
+    </li>
+    <li>
+      <a href="40c78a07-f6dd-c120-1d3d-c76e2ac5b264.htm">Outlook<wbr />Mail<wbr />Client<wbr />Experimental</a>
+    </li>
+    <li>
+      <a href="09509818-05f6-0d73-8001-2e4f57007f3b.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9a432c10-cd25-25d6-8ef3-f0b73b8dd959" href="9a432c10-cd25-25d6-8ef3-f0b73b8dd959.htm">Authorize<wbr />Async</a>
+    </li>
+    <li>
+      <a id="33b0fee8-3da5-9024-737d-d07a47f141c2" href="33b0fee8-3da5-9024-737d-d07a47f141c2.htm">Delete<wbr />Message<wbr />Async</a>
+    </li>
+    <li>
+      <a id="df4236b2-6d83-1543-e98c-c3dc412e9f35" href="df4236b2-6d83-1543-e98c-c3dc412e9f35.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="39ee7d22-6baf-b9bd-2350-b5b649c32cfc" href="39ee7d22-6baf-b9bd-2350-b5b649c32cfc.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Id</a>
+    </li>
+    <li>
+      <a id="f3484bb9-8b79-202b-fd37-9f476cbaab18" href="f3484bb9-8b79-202b-fd37-9f476cbaab18.htm">Get<wbr />Folder<wbr />Async<wbr />By<wbr />Known<wbr />Id</a>
+    </li>
+    <li>
+      <a id="04b659e2-0411-d220-53d7-1b73edb540f3" href="04b659e2-0411-d220-53d7-1b73edb540f3.htm">Get<wbr />Messages<wbr />Async</a>
+    </li>
+    <li>
+      <a id="bffc0c7a-be7e-9981-15d1-293a4131c1e5" href="bffc0c7a-be7e-9981-15d1-293a4131c1e5.htm">Move<wbr />Message<wbr />Async</a>
+    </li>
+    <li>
+      <a id="3b6dafd4-bdee-9623-c377-c7d0c63b8e09" href="3b6dafd4-bdee-9623-c377-c7d0c63b8e09.htm">Recycle<wbr />Message<wbr />Async</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+    </li>
+    <li>
+      <a href="22bd9176-249d-fb16-ee5d-fa8cadf7b806.htm">Util<wbr />UIAutomation</a>
+    </li>
+    <li>
+      <a href="58d5ed6f-5e94-341b-127f-f50024e5d657.htm">Methods</a>
+    </li>
+    <li>
+      <a href="583c6960-f16b-fe08-29b6-00500976de9a.htm">Resume<wbr />Thread</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f605b134-6350-c543-a726-801bce69a046" href="f605b134-6350-c543-a726-801bce69a046.htm">Resume<wbr />Thread(<wbr />Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="111c2e6e-d785-7527-dcd5-c42b64d03f07" href="111c2e6e-d785-7527-dcd5-c42b64d03f07.htm">Resume<wbr />Thread(<wbr />Safe<wbr />Access<wbr />Token<wbr />Handle)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="d497ab23-82e6-438c-4f56-96f61f86fecb.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Users</a>
+    </li>
+    <li>
+      <a href="a6d39d7a-83e1-4ec0-8a1c-cf610bbdf72e.htm">Util<wbr />User<wbr />Account</a>
+    </li>
+    <li>
+      <a href="ea1ed484-4f2c-f995-a5bb-7f314cb6b4a2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4ae8d3a3-2b7b-2a2f-35dc-19b733f08d16" class="has-submenu" href="4ae8d3a3-2b7b-2a2f-35dc-19b733f08d16.htm">
+        <span data-tocFile="../toc/IDABAIKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="66a89b20-0dea-f354-5803-c014840aa34c" href="66a89b20-0dea-f354-5803-c014840aa34c.htm">Create</a>
+    </li>
+    <li>
+      <a id="81fe6041-b2b6-743e-cd03-b4aa296757e0" href="81fe6041-b2b6-743e-cd03-b4aa296757e0.htm">Delete</a>
+    </li>
+    <li>
+      <a id="825f01d6-239a-85fa-6dd3-5eecfccb1f9e" class="has-submenu" href="825f01d6-239a-85fa-6dd3-5eecfccb1f9e.htm">
+        <span data-tocFile="../toc/IDDBAIKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Profile<wbr />Path</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="331fad50-0fab-4eda-783a-c668f256e5ab" href="331fad50-0fab-4eda-783a-c668f256e5ab.htm">Find<wbr />Sid</a>
+    </li>
+    <li>
+      <a id="34ad8651-3d12-a49a-febe-75db5c17fb0a" class="has-submenu" href="34ad8651-3d12-a49a-febe-75db5c17fb0a.htm">
+        <span data-tocFile="../toc/IDFBAIKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />User</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a313b1ad-9529-5cce-1c71-86d6ef091a12" href="a313b1ad-9529-5cce-1c71-86d6ef091a12.htm">Find<wbr />Username</a>
+    </li>
+    <li>
+      <a id="9de500a1-aaed-9712-6f87-8d4f794bdc27" href="9de500a1-aaed-9712-6f87-8d4f794bdc27.htm">Get<wbr />All<wbr />Users</a>
+    </li>
+    <li>
+      <a id="244762b0-4c96-77c6-0835-950831ff9497" href="244762b0-4c96-77c6-0835-950831ff9497.htm">Is<wbr />Admin</a>
+    </li>
+    <li>
+      <a id="8b7764f7-dc63-be86-2235-1d37d4b9a1eb" class="has-submenu" href="8b7764f7-dc63-be86-2235-1d37d4b9a1eb.htm">
+        <span data-tocFile="../toc/IDJBAIKAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Member<wbr />Of<wbr />Group</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

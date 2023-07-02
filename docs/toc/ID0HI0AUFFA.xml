@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ec2c14b9-45d3-85de-d178-d2c19c11da46.htm">Set<wbr />Window<wbr />Text</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b9a3b371-27c4-7e2c-8ec9-befeda4861c2" href="b9a3b371-27c4-7e2c-8ec9-befeda4861c2.htm">Set<wbr />Window<wbr />Text(<wbr />Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="d6f6afcb-c6c9-1668-ccdb-6f44ded0a4e0" href="d6f6afcb-c6c9-1668-ccdb-6f44ded0a4e0.htm">Set<wbr />Window<wbr />Text(<wbr />Safe<wbr />Handle, String)</a>
+    </li>
+  </tocItems>
+</toc>

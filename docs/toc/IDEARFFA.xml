@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="6d29ad78-60df-2d31-b426-3dcfcd261aaa.htm">Setup<wbr />Api</a>
+    </li>
+    <li>
+      <a href="a62a7e92-8bbb-2b0d-687d-f2513c1befde.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7bf12932-a322-c0ea-808c-302f0300b9ef.htm">Setup<wbr />Di<wbr />Get<wbr />Device<wbr />Property</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b2dba3d1-3b1b-ae07-fa41-31b8ac132204" href="b2dba3d1-3b1b-ae07-fa41-31b8ac132204.htm">Setup<wbr />Di<wbr />Get<wbr />Device<wbr />Property(<wbr />Int<wbr />Ptr, Setup<wbr />Api<wbr />Device<wbr />Info, Setup<wbr />Api<wbr />Device<wbr />Property<wbr />Key, Int<wbr />32, Guid, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="0438fab4-3a08-2e70-b283-ad3557122c65" href="0438fab4-3a08-2e70-b283-ad3557122c65.htm">Setup<wbr />Di<wbr />Get<wbr />Device<wbr />Property(<wbr />Int<wbr />Ptr, Setup<wbr />Api<wbr />Device<wbr />Info, Setup<wbr />Api<wbr />Device<wbr />Property<wbr />Key, Int<wbr />32, Int<wbr />Ptr, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
+    </li>
+    <li>
+      <a href="6e8ec206-1b9c-f187-0bff-40099962d988.htm">Control<wbr />Iterator</a>
+    </li>
+    <li>
+      <a href="224b41bc-bab2-b9b4-140a-1dcf5bf86173.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c640e5f6-2a12-1e16-b4a7-233a9d2a2088.htm">Async<wbr />Toggle<wbr />Enabled</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fe68257c-9b9a-45d1-0fa3-3693e3d2635b" href="fe68257c-9b9a-45d1-0fa3-3693e3d2635b.htm">Async<wbr />Toggle<wbr />Enabled(<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="5fe1a484-97fc-1440-c398-1a38d64e8583" href="5fe1a484-97fc-1440-c398-1a38d64e8583.htm">Async<wbr />Toggle<wbr />Enabled(<wbr />IEnumerable&lt;Control&gt;)</a>
+    </li>
+    <li>
+      <a id="bf23a43a-5914-3ab1-778f-c03a3322e4a6" href="bf23a43a-5914-3ab1-778f-c03a3322e4a6.htm">Async<wbr />Toggle<wbr />Enabled&lt;T&gt;(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="05d1efb0-cc12-5d03-8207-a0ce9697b1d0" href="05d1efb0-cc12-5d03-8207-a0ce9697b1d0.htm">Async<wbr />Toggle<wbr />Enabled&lt;T&gt;(<wbr />Control, String)</a>
+    </li>
+    <li>
+      <a id="7af4fee8-7f53-e762-fa94-90bf756204ee" href="7af4fee8-7f53-e762-fa94-90bf756204ee.htm">Async<wbr />Toggle<wbr />Enabled&lt;T&gt;(<wbr />Control.<wbr />Control<wbr />Collection, String)</a>
+    </li>
+  </tocItems>
+</toc>

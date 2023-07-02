@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="1970015f-2f04-9051-fff2-8dc6ea7aad09.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium Namespaces</a>
+    </li>
+    <li>
+      <a href="8347b1ac-3612-4321-f413-e4b2efa84015.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Selenium.<wbr />Extensions.<wbr />IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="82420d6c-2485-e661-a83c-7166d0367993.htm">IWeb<wbr />Driver<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="04d8fd32-3b61-cac7-bfc4-844a48146659.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1f1e3ba9-a2f1-bb39-4810-2c6d8929efed.htm">Save<wbr />Cookies</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5aa2613c-62b0-7710-b56a-2a035bdbe7e7" href="5aa2613c-62b0-7710-b56a-2a035bdbe7e7.htm">Save<wbr />Cookies(<wbr />IWeb<wbr />Driver, String)</a>
+    </li>
+    <li>
+      <a id="1c31b27a-1604-1de6-3b40-b9f7b33caa39" href="1c31b27a-1604-1de6-3b40-b9f7b33caa39.htm">Save<wbr />Cookies(<wbr />IWeb<wbr />Driver, String, String)</a>
+    </li>
+    <li>
+      <a id="8ba55233-7489-ae05-9fca-323627406a17" href="8ba55233-7489-ae05-9fca-323627406a17.htm">Save<wbr />Cookies(<wbr />IWeb<wbr />Driver, String, Uri)</a>
+    </li>
+  </tocItems>
+</toc>

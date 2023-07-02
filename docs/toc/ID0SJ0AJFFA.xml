@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f31566aa-110b-4278-5d87-f2c6a730e9e3.htm">Virtual<wbr />Alloc</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cd33cb5a-b6b8-933c-ecb3-bbf9b09a0405" href="cd33cb5a-b6b8-933c-ecb3-bbf9b09a0405.htm">Virtual<wbr />Alloc(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="f43d5f3f-203f-f596-691c-3f7903efccf5" href="f43d5f3f-203f-f596-691c-3f7903efccf5.htm">Virtual<wbr />Alloc(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="dabbdedf-219c-666b-03e7-0748e0e9f0af" href="dabbdedf-219c-666b-03e7-0748e0e9f0af.htm">Virtual<wbr />Alloc(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

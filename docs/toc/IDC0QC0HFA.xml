@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="99e5d792-7f9f-a8d2-0ca1-76024e78a54f.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Structures</a>
+    </li>
+    <li>
+      <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">Process<wbr />Startup<wbr />Info</a>
+    </li>
+    <li>
+      <a href="7c580879-36fd-1742-cd63-fc8746953ef8.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d36fb058-e4b5-efac-71b0-0ecf2f17362d" href="d36fb058-e4b5-efac-71b0-0ecf2f17362d.htm">Count<wbr />Chars<wbr />X</a>
+    </li>
+    <li>
+      <a id="72fb2e94-c32a-4bca-fce5-e5b098f55e3f" href="72fb2e94-c32a-4bca-fce5-e5b098f55e3f.htm">Count<wbr />Chars<wbr />Y</a>
+    </li>
+    <li>
+      <a id="1da00fc1-bfbe-b3f9-4739-f2db2c0f1ab7" href="1da00fc1-bfbe-b3f9-4739-f2db2c0f1ab7.htm">Desktop</a>
+    </li>
+    <li>
+      <a id="3091e120-da63-a813-7bbc-b975187d7ec2" href="3091e120-da63-a813-7bbc-b975187d7ec2.htm">Fill<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="87472a1c-008e-dc17-d85e-45046a59b0af" href="87472a1c-008e-dc17-d85e-45046a59b0af.htm">Flags</a>
+    </li>
+    <li>
+      <a id="80be09ff-2389-f69a-7224-aa7e2012efdf" href="80be09ff-2389-f69a-7224-aa7e2012efdf.htm">Position<wbr />X</a>
+    </li>
+    <li>
+      <a id="17ff86d2-8db9-00aa-0456-b1cba41c0568" href="17ff86d2-8db9-00aa-0456-b1cba41c0568.htm">Position<wbr />Y</a>
+    </li>
+    <li>
+      <a id="eb0b10b2-6908-db34-54bb-fb9644ae7095" href="eb0b10b2-6908-db34-54bb-fb9644ae7095.htm">Reserved</a>
+    </li>
+    <li>
+      <a id="81fd0478-80ca-1566-f941-3e7f6b2fc89e" href="81fd0478-80ca-1566-f941-3e7f6b2fc89e.htm">Reserved<wbr />2</a>
+    </li>
+    <li>
+      <a id="775b6349-2690-6567-319e-0064b5f06111" href="775b6349-2690-6567-319e-0064b5f06111.htm">Reserved<wbr />3</a>
+    </li>
+    <li>
+      <a id="3f6bef12-1996-5ce4-645a-2611ba4225a0" href="3f6bef12-1996-5ce4-645a-2611ba4225a0.htm">Show<wbr />Window</a>
+    </li>
+    <li>
+      <a id="a6101a75-4968-56f9-2b36-7143d78ae9ae" href="a6101a75-4968-56f9-2b36-7143d78ae9ae.htm">Size<wbr />Of<wbr />Struct</a>
+    </li>
+    <li>
+      <a id="31165265-de7c-61df-1d7a-97ca13f243d1" href="31165265-de7c-61df-1d7a-97ca13f243d1.htm">Size<wbr />X</a>
+    </li>
+    <li>
+      <a id="749c0381-4516-4f69-b625-5d90545e79f4" href="749c0381-4516-4f69-b625-5d90545e79f4.htm">Size<wbr />Y</a>
+    </li>
+    <li>
+      <a id="7a292036-9c33-a46c-6bed-c4c899f4ae28" href="7a292036-9c33-a46c-6bed-c4c899f4ae28.htm">Std<wbr />Error</a>
+    </li>
+    <li>
+      <a id="172f0a61-8fad-8f4e-2bbc-0395e274ecf5" href="172f0a61-8fad-8f4e-2bbc-0395e274ecf5.htm">Std<wbr />Input</a>
+    </li>
+    <li>
+      <a id="72d98912-a270-39a0-8d4c-5833911060f2" href="72d98912-a270-39a0-8d4c-5833911060f2.htm">Std<wbr />Output</a>
+    </li>
+    <li>
+      <a id="74ab0e46-cc32-51e0-193d-79c101da0597" href="74ab0e46-cc32-51e0-193d-79c101da0597.htm">Title</a>
+    </li>
+  </tocItems>
+</toc>

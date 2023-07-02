@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+    <li>
+      <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="70e50d94-9e13-beee-17f5-c02b2cb2d202.htm">Util<wbr />Web</a>
+    </li>
+    <li>
+      <a href="53bcbda6-7ef0-8965-9961-ed7c907da807.htm">Methods</a>
+    </li>
+    <li>
+      <a href="dfa950e7-ca71-5328-1fe6-63826f39751f.htm">Redirect<wbr />Uri</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3333ef74-f9de-72ce-60ff-c3f46221b5e3" href="3333ef74-f9de-72ce-60ff-c3f46221b5e3.htm">Redirect<wbr />Uri(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="a1597866-581e-1b5a-6d35-813898279b2b" href="a1597866-581e-1b5a-6d35-813898279b2b.htm">Redirect<wbr />Uri(<wbr />Uri)</a>
+    </li>
+    <li>
+      <a id="fa3fb4a7-74b9-d665-235c-290c7341c963" href="fa3fb4a7-74b9-d665-235c-290c7341c963.htm">Redirect<wbr />Uri(<wbr />String, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="6b025421-fe64-6669-b85e-a1a845d7fa5d" href="6b025421-fe64-6669-b85e-a1a845d7fa5d.htm">Redirect<wbr />Uri(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="2bca6faf-ab56-ab1c-c234-bf1f853486dd" href="2bca6faf-ab56-ab1c-c234-bf1f853486dd.htm">Redirect<wbr />Uri(<wbr />Uri, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="b24837a7-693c-2f0c-9abc-9a074d60a86c" href="b24837a7-693c-2f0c-9abc-9a074d60a86c.htm">Redirect<wbr />Uri(<wbr />Uri, String)</a>
+    </li>
+    <li>
+      <a id="ee47f6a4-8b63-fe08-4c11-e259a70cb542" href="ee47f6a4-8b63-fe08-4c11-e259a70cb542.htm">Redirect<wbr />Uri(<wbr />String, Int<wbr />32, String)</a>
+    </li>
+    <li>
+      <a id="654c4fb7-ef8c-5e24-4529-a7c799ee280b" href="654c4fb7-ef8c-5e24-4529-a7c799ee280b.htm">Redirect<wbr />Uri(<wbr />Uri, Int<wbr />32, String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bcc938f7-8d56-463d-c0a9-a1a984d31b99.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="616eb1f2-4dd8-b8c6-5177-7566b35eeb3c" href="616eb1f2-4dd8-b8c6-5177-7566b35eeb3c.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="74556640-72ae-d22f-167a-b7796b841222" href="74556640-72ae-d22f-167a-b7796b841222.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />32, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="2b06f6b7-16ea-b967-7cc3-094ac98a1677" href="2b06f6b7-16ea-b967-7cc3-094ac98a1677.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, UInt<wbr />32, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="91e891ef-7a7c-e664-7957-f2053f70be6a" href="91e891ef-7a7c-e664-7957-f2053f70be6a.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

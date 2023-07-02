@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="8b4d223b-1065-275a-1a3e-feb378a061cc.htm">Dev<wbr />Case.<wbr />Core.<wbr />Networking Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda" class="has-submenu" href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">
+        <span data-tocFile="../toc/IDAIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Common</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cb7b41fc-09e5-5fe4-c76c-ba463120422b" class="has-submenu" href="cb7b41fc-09e5-5fe4-c76c-ba463120422b.htm">
+        <span data-tocFile="../toc/IDBIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Google<wbr />Services</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="56137348-a8c2-481a-1b90-9a19c5329f44" class="has-submenu" href="56137348-a8c2-481a-1b90-9a19c5329f44.htm">
+        <span data-tocFile="../toc/IDCIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Mailing</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7aa4c646-5e1d-31da-ee5a-52218879920f" class="has-submenu" href="7aa4c646-5e1d-31da-ee5a-52218879920f.htm">
+        <span data-tocFile="../toc/IDDIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Peer<wbr />2Peer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="16d4f123-0e57-d08a-1a80-1c3e5dd843a3" class="has-submenu" href="16d4f123-0e57-d08a-1a80-1c3e5dd843a3.htm">
+        <span data-tocFile="../toc/IDEIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Security</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1df54db7-d139-8773-45ee-3fcfd25bf171" class="has-submenu" href="1df54db7-d139-8773-45ee-3fcfd25bf171.htm">
+        <span data-tocFile="../toc/IDFIAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Networking.<wbr />Traffic<wbr />Monitoring</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

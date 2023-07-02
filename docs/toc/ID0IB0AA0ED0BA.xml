@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="06fd3319-52ac-ad2e-f13f-b2afabc7bfe8.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="e1edaf5e-f27d-56b2-bf00-01795a4caa23.htm">String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="24e0941b-f158-cb9e-4cc9-5f9c6b8f7835.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9770e24c-e956-98bf-f577-dcf889c53a79.htm">Last<wbr />Index<wbr />Of<wbr />Reg<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f107e898-16fc-f8a8-c2f3-4ba1578f6bc3" href="f107e898-16fc-f8a8-c2f3-4ba1578f6bc3.htm">Last<wbr />Index<wbr />Of<wbr />Reg<wbr />Ex(<wbr />String, String, Regex<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="ec367a35-5289-9ef4-8767-d375454e1571" href="ec367a35-5289-9ef4-8767-d375454e1571.htm">Last<wbr />Index<wbr />Of<wbr />Reg<wbr />Ex(<wbr />String, String, Int<wbr />32, Regex<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="66f24e14-dc77-6272-479c-682727dd510f" href="66f24e14-dc77-6272-479c-682727dd510f.htm">Last<wbr />Index<wbr />Of<wbr />Reg<wbr />Ex(<wbr />String, String, Int<wbr />32, Int<wbr />32, Regex<wbr />Options)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="db09b1c9-e59f-f986-41b9-bc0f422c62e7.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Vista<wbr />Core<wbr />Audio<wbr />Api</a>
+    </li>
+    <li>
+      <a href="75f35204-9820-e6b1-409c-9054a73a8d45.htm">Vista<wbr />Core<wbr />Audio<wbr />Api<wbr />Helper</a>
+    </li>
+    <li>
+      <a href="b05da810-c162-517e-6aac-a9ca4ce21bd4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2c61a3ef-2f90-b8e6-318f-c48fb6e37d3f" href="2c61a3ef-2f90-b8e6-318f-c48fb6e37d3f.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="e97269d7-959e-98c9-5a56-535d012d683e" href="e97269d7-959e-98c9-5a56-535d012d683e.htm">Get<wbr />All<wbr />Channel<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="1ec06e94-1537-eab3-f8c7-1c014d393b32" href="1ec06e94-1537-eab3-f8c7-1c014d393b32.htm">Get<wbr />Channel<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="f3ad1ac6-f3c2-5140-e587-b384946d6f72" href="f3ad1ac6-f3c2-5140-e587-b384946d6f72.htm">Lock<wbr />Device</a>
+    </li>
+    <li>
+      <a id="2850fa64-ce3a-b004-e66c-78e5354aeee7" href="2850fa64-ce3a-b004-e66c-78e5354aeee7.htm">Mute<wbr />Device</a>
+    </li>
+    <li>
+      <a id="c3ebe226-f54a-0f4d-77ad-3ac9ce22f601" href="c3ebe226-f54a-0f4d-77ad-3ac9ce22f601.htm">Set<wbr />All<wbr />Channel<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="c4398b65-cf3f-b5c8-f5a3-d2bd8cacdac1" href="c4398b65-cf3f-b5c8-f5a3-d2bd8cacdac1.htm">Set<wbr />Channel<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="12ac90ee-0d24-8348-73b0-21a0bc506399" href="12ac90ee-0d24-8348-73b0-21a0bc506399.htm">Unlock<wbr />Device</a>
+    </li>
+    <li>
+      <a id="c0d904eb-fb27-b19b-7137-7c78c0df581d" href="c0d904eb-fb27-b19b-7137-7c78c0df581d.htm">Unmute<wbr />Device</a>
+    </li>
+  </tocItems>
+</toc>

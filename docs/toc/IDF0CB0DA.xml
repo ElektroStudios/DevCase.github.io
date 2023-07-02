@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="586f05aa-f97e-b88b-c19e-5f6c33f4d606.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />MKVTool<wbr />Nix</a>
+    </li>
+    <li>
+      <a href="028648d5-c1a5-b85b-cf84-86a8de317cfe.htm">Mkv<wbr />Prop<wbr />Edit<wbr />Wrapper</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d124ce9d-1ffa-9bc6-f28c-423e4c4a4167" href="d124ce9d-1ffa-9bc6-f28c-423e4c4a4167.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="7a815775-ff32-26e4-c394-b8a7f71f339d" class="has-submenu" href="7a815775-ff32-26e4-c394-b8a7f71f339d.htm">
+        <span data-tocFile="../toc/IDBF0CB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ca5ac969-9f8a-b84e-98bb-a52637f74b31" class="has-submenu" href="ca5ac969-9f8a-b84e-98bb-a52637f74b31.htm">
+        <span data-tocFile="../toc/IDCF0CB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="163616b5-7880-7c36-0d3f-665d3d6abc12" class="has-submenu" href="163616b5-7880-7c36-0d3f-665d3d6abc12.htm">
+        <span data-tocFile="../toc/IDDF0CB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Events</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

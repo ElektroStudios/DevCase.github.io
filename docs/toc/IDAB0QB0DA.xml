@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="82104a78-8d2a-ba96-f01a-d064ff61db71.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />SQLite Namespaces</a>
+    </li>
+    <li>
+      <a href="0fdef97b-614b-a15e-1512-a1b3c4539c2a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />SQLite.<wbr />Extensions.<wbr />SQLite<wbr />Connection<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="76d68c35-7b89-7bcd-aae4-c11026b3fc6e.htm">SQLite<wbr />Connection<wbr />Extensions</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b36d3604-124b-f127-0659-262f7ba11d4e" class="has-submenu" href="b36d3604-124b-f127-0659-262f7ba11d4e.htm">
+        <span data-tocFile="../toc/IDAAB0QB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

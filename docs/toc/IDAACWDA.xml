@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="73938562-581f-97ff-eff5-a934704ccadd.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Gmail</a>
+    </li>
+    <li>
+      <a href="a5dac2c5-f8b5-8363-fb85-26c28391221f.htm">Gmail<wbr />Client</a>
+    </li>
+    <li>
+      <a href="9359f2a8-f3eb-7f09-6b21-4a9ec8fdf7d8.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="957da165-e79b-cb87-9998-1c9eec371429" href="957da165-e79b-cb87-9998-1c9eec371429.htm">Gmail<wbr />Client(<wbr />String, Mail<wbr />Address, Gmail<wbr />Scopes)</a>
+    </li>
+    <li>
+      <a id="83f12fde-79ca-67f3-a6ba-29e4fe6bb4af" href="83f12fde-79ca-67f3-a6ba-29e4fe6bb4af.htm">Gmail<wbr />Client(<wbr />String, String, Gmail<wbr />Scopes)</a>
+    </li>
+  </tocItems>
+</toc>

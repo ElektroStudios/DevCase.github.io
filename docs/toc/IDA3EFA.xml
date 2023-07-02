@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="58f096c9-7b6d-ef47-ff82-a91553c45344.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Interfaces</a>
+    </li>
+    <li>
+      <a href="ec98be93-f46d-a5a6-c2bc-19f2779620df.htm">IProgress<wbr />Dialog</a>
+    </li>
+    <li>
+      <a href="f768f6b8-afb6-5cb1-7801-1319c70c7203.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ef478b70-eac1-c986-e6f5-77ec5e1bd306" href="ef478b70-eac1-c986-e6f5-77ec5e1bd306.htm">Has<wbr />User<wbr />Cancelled</a>
+    </li>
+    <li>
+      <a id="144dd668-696b-0117-fcc6-326589c712b2" href="144dd668-696b-0117-fcc6-326589c712b2.htm">Set<wbr />Animation</a>
+    </li>
+    <li>
+      <a id="d9bf0b2c-836d-385b-7378-ba0d995768ae" href="d9bf0b2c-836d-385b-7378-ba0d995768ae.htm">Set<wbr />Cancel<wbr />Msg</a>
+    </li>
+    <li>
+      <a id="460b3e2b-fb9a-9975-068c-593be8473488" href="460b3e2b-fb9a-9975-068c-593be8473488.htm">Set<wbr />Line</a>
+    </li>
+    <li>
+      <a id="c588bf62-cead-d9f1-db27-78009683bf5e" href="c588bf62-cead-d9f1-db27-78009683bf5e.htm">Set<wbr />Progress</a>
+    </li>
+    <li>
+      <a id="9ecb3240-976e-e791-861b-0e453765cd68" href="9ecb3240-976e-e791-861b-0e453765cd68.htm">Set<wbr />Progress<wbr />64</a>
+    </li>
+    <li>
+      <a id="134bbd79-5556-c273-d2b3-24771bdb7570" href="134bbd79-5556-c273-d2b3-24771bdb7570.htm">Set<wbr />Title</a>
+    </li>
+    <li>
+      <a id="f415897b-0b8e-86da-542f-748b198ba2fc" href="f415897b-0b8e-86da-542f-748b198ba2fc.htm">Start<wbr />Progress<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="19eb3cd9-fa73-0b0b-faa4-5ece17d3d550" href="19eb3cd9-fa73-0b0b-faa4-5ece17d3d550.htm">Stop<wbr />Progress<wbr />Dialog</a>
+    </li>
+    <li>
+      <a id="4874f5de-2930-7337-a0b7-e32041102ac4" href="4874f5de-2930-7337-a0b7-e32041102ac4.htm">Timer</a>
+    </li>
+  </tocItems>
+</toc>

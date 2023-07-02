@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="017f6188-18f7-2334-4b54-6233463b9b7e.htm">Gdi<wbr />32</a>
+    </li>
+    <li>
+      <a href="f53f00b8-7a1d-e647-da12-124ddf5a0a00.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b4c48721-55d9-f6b4-d084-dbc4986af988.htm">Get<wbr />Clip<wbr />Box</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1e754a94-56a7-9c4d-e9d7-7dfbdacdfb44" href="1e754a94-56a7-9c4d-e9d7-7dfbdacdfb44.htm">Get<wbr />Clip<wbr />Box(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="8d23863e-bc82-dfe0-37f4-a32d7c0a8c5d" href="8d23863e-bc82-dfe0-37f4-a32d7c0a8c5d.htm">Get<wbr />Clip<wbr />Box(<wbr />Int<wbr />Ptr, Rectangle)</a>
+    </li>
+    <li>
+      <a id="6ab7d4a4-75c4-75f5-fa03-f230e4d3bb52" href="6ab7d4a4-75c4-75f5-fa03-f230e4d3bb52.htm">Get<wbr />Clip<wbr />Box(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="212bf5e9-d340-3eb2-27d3-652ccd08088d" href="212bf5e9-d340-3eb2-27d3-652ccd08088d.htm">Get<wbr />Clip<wbr />Box(<wbr />Safe<wbr />Handle, Rectangle)</a>
+    </li>
+  </tocItems>
+</toc>

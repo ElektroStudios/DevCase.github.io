@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="9bd2f8ed-89ef-b24a-df06-b97f96885e24.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Parameterization</a>
+    </li>
+    <li>
+      <a href="447e8aa0-64b1-3b61-8e40-b2c698f9c5e9.htm">Command<wbr />Line<wbr />Value<wbr />Parameter&lt;T&gt;</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9646877b-5adb-5c64-2fc9-05cc13d3fa0f" href="9646877b-5adb-5c64-2fc9-05cc13d3fa0f.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="c15d980f-6617-3a7a-fcee-c91a5f156c1c" class="has-submenu" href="c15d980f-6617-3a7a-fcee-c91a5f156c1c.htm">
+        <span data-tocFile="../toc/IDBGHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="153d5980-6733-be15-4a2a-930984113018" class="has-submenu" href="153d5980-6733-be15-4a2a-930984113018.htm">
+        <span data-tocFile="../toc/IDCGHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4ecb42bc-d3db-e919-8183-e803ae16d231" class="has-submenu" href="4ecb42bc-d3db-e919-8183-e803ae16d231.htm">
+        <span data-tocFile="../toc/IDDGHAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Operators</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

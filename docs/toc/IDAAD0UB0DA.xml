@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="aaff0a56-1efd-e88f-37b3-220a3cb28e08.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik Namespaces</a>
+    </li>
+    <li>
+      <a href="fbaa73d3-bbfa-c4f2-7c94-95323e5878bb.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Telerik.<wbr />Extensions.<wbr />Rad<wbr />List<wbr />Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="dfc1d2bc-3578-9025-832d-7db733429691.htm">Rad<wbr />List<wbr />Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2423c10e-9fa7-8bda-b152-28752028ce8f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5fb15e3b-4f3d-3c44-f789-e4d010c3b774" href="5fb15e3b-4f3d-3c44-f789-e4d010c3b774.htm">Copy<wbr />Item</a>
+    </li>
+    <li>
+      <a id="cc13eeaa-e0c7-a9d8-5af1-e13ffbce473e" href="cc13eeaa-e0c7-a9d8-5af1-e13ffbce473e.htm">Copy<wbr />Items</a>
+    </li>
+    <li>
+      <a id="07520ed7-685a-d4fc-db35-d5fe67c8f7d3" href="07520ed7-685a-d4fc-db35-d5fe67c8f7d3.htm">Copy<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="97db2b23-5526-b466-5e7d-f6b69d0aaa38" href="97db2b23-5526-b466-5e7d-f6b69d0aaa38.htm">Deselect<wbr />All</a>
+    </li>
+    <li>
+      <a id="7c605c88-1065-3a5d-b7cf-0d3b122163f2" href="7c605c88-1065-3a5d-b7cf-0d3b122163f2.htm">Remove<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="25e13185-05c2-3f7c-4c27-fc129e15f93a" href="25e13185-05c2-3f7c-4c27-fc129e15f93a.htm">Select<wbr />All<wbr />Items</a>
+    </li>
+    <li>
+      <a id="b3532493-225e-f331-d88d-d6b1eb12416e" class="has-submenu" href="b3532493-225e-f331-d88d-d6b1eb12416e.htm">
+        <span data-tocFile="../toc/IDGAAD0UB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Selected<wbr />No<wbr />Jump</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

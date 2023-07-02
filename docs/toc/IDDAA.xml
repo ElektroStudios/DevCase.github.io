@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="39c20581-687e-09ee-c15a-8d16f4c596b8" class="has-submenu" href="39c20581-687e-09ee-c15a-8d16f4c596b8.htm">
+        <span data-tocFile="../toc/IDADAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c" class="has-submenu" href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">
+        <span data-tocFile="../toc/IDBDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Assembly.<wbr />Reflection</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8" class="has-submenu" href="9109f5b6-0ae0-d496-ef4b-259cafe8b0a8.htm">
+        <span data-tocFile="../toc/IDCDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Compilation</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b89c12d3-2ca8-043e-744b-9a29e2a0a213" class="has-submenu" href="b89c12d3-2ca8-043e-744b-9a29e2a0a213.htm">
+        <span data-tocFile="../toc/IDDDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Conversion</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6987b3aa-7d67-3386-ac00-a5cb5894338f" class="has-submenu" href="6987b3aa-7d67-3386-ac00-a5cb5894338f.htm">
+        <span data-tocFile="../toc/IDEDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Code<wbr />Generation</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9f2da4fb-2783-3dd7-caa3-17e309afbced" class="has-submenu" href="9f2da4fb-2783-3dd7-caa3-17e309afbced.htm">
+        <span data-tocFile="../toc/IDFDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Common</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="0f3cc930-f7df-07f9-5cd1-0adf15cafbc9" class="has-submenu" href="0f3cc930-f7df-07f9-5cd1-0adf15cafbc9.htm">
+        <span data-tocFile="../toc/IDGDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Networking</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1e77c491-26c5-5e91-ba93-dacaa000713c" class="has-submenu" href="1e77c491-26c5-5e91-ba93-dacaa000713c.htm">
+        <span data-tocFile="../toc/IDHDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Sand<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9d22fc98-5988-2b1a-1404-1bc79ee66851" class="has-submenu" href="9d22fc98-5988-2b1a-1404-1bc79ee66851.htm">
+        <span data-tocFile="../toc/IDIDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Delphi</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3ed2dc6a-9b48-b83b-29a9-383d16f3b470" class="has-submenu" href="3ed2dc6a-9b48-b83b-29a9-383d16f3b470.htm">
+        <span data-tocFile="../toc/IDJDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Logging</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b9074e8b-3775-e73f-c8e4-2c9282e84627" class="has-submenu" href="b9074e8b-3775-e73f-c8e4-2c9282e84627.htm">
+        <span data-tocFile="../toc/IDKDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Native<wbr />Dll</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="27af49c6-6f52-664b-ee2e-d9a1b271c6f4" class="has-submenu" href="27af49c6-6f52-664b-ee2e-d9a1b271c6f4.htm">
+        <span data-tocFile="../toc/IDLDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Power<wbr />Shell</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="226d168e-e903-c2c2-2702-5867ab871b5a" class="has-submenu" href="226d168e-e903-c2c2-2702-5867ab871b5a.htm">
+        <span data-tocFile="../toc/IDMDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Processes</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bc418965-43d4-906c-9998-c9c5d3e0bb5a" class="has-submenu" href="bc418965-43d4-906c-9998-c9c5d3e0bb5a.htm">
+        <span data-tocFile="../toc/IDNDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Profilling</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="669dcae0-0a76-2bec-4552-b9d2108d617f" class="has-submenu" href="669dcae0-0a76-2bec-4552-b9d2108d617f.htm">
+        <span data-tocFile="../toc/IDODAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Python</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8413cc2a-6e06-311c-c17c-b9b2b9fd9f2d" class="has-submenu" href="8413cc2a-6e06-311c-c17c-b9b2b9fd9f2d.htm">
+        <span data-tocFile="../toc/IDPDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Visual<wbr />Studio</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8d06edb1-fe6b-6091-17fd-b568a90cbd99" class="has-submenu" href="8d06edb1-fe6b-6091-17fd-b568a90cbd99.htm">
+        <span data-tocFile="../toc/IDQDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Visual<wbr />Studio.<wbr />IDE</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f26e1baa-1665-ab7b-5a69-b03505ab4b03" class="has-submenu" href="f26e1baa-1665-ab7b-5a69-b03505ab4b03.htm">
+        <span data-tocFile="../toc/IDRDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Visual<wbr />Studio.<wbr />Solution</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e9d9192a-9664-c11a-1c95-4428a26c93a9" class="has-submenu" href="e9d9192a-9664-c11a-1c95-4428a26c93a9.htm">
+        <span data-tocFile="../toc/IDSDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />WMI</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fd94df30-050b-6aa0-bfdc-4e919ac32e42.htm">Discard<wbr />Virtual<wbr />Memory</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a8e173f9-abf1-8e2d-f8de-1f695bb82d4b" href="a8e173f9-abf1-8e2d-f8de-1f695bb82d4b.htm">Discard<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="cdf7d7a4-46a3-ba9b-3f7e-cf4c08694b39" href="cdf7d7a4-46a3-ba9b-3f7e-cf4c08694b39.htm">Discard<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

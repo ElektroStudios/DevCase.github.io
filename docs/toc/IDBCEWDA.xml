@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="8230819b-2098-b3b7-0f2a-50431ffa2229.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google Namespaces</a>
+    </li>
+    <li>
+      <a href="c6992124-05a1-dfec-c571-c83fc8931605.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Google.<wbr />Search</a>
+    </li>
+    <li>
+      <a href="50490acb-c043-8dab-f27f-efc91c9b3dcc.htm">Google<wbr />Search<wbr />Result</a>
+    </li>
+    <li>
+      <a href="8d03d4b8-7ed5-bc96-d6f8-098f620305f0.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f009b1fe-f4a5-1f7a-7e60-d1c3a33993d5" class="has-submenu" href="f009b1fe-f4a5-1f7a-7e60-d1c3a33993d5.htm">
+        <span data-tocFile="../toc/IDABCEWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Description</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="21d0bbeb-6506-5cd1-37b0-b4e2ea6f2a79" class="has-submenu" href="21d0bbeb-6506-5cd1-37b0-b4e2ea6f2a79.htm">
+        <span data-tocFile="../toc/IDBBCEWDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Title</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b339cf81-7b06-d7b6-edd3-5d3d9e0c5be3" href="b339cf81-7b06-d7b6-edd3-5d3d9e0c5be3.htm">Url</a>
+    </li>
+  </tocItems>
+</toc>

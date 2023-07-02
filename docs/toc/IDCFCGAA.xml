@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="4d0f55c2-988e-f5e6-dab2-328d41cf87b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math Namespaces</a>
+    </li>
+    <li>
+      <a href="c695ee9e-6a7f-6960-0419-8e4958226e85.htm">Dev<wbr />Case.<wbr />Core.<wbr />Math.<wbr />Science</a>
+    </li>
+    <li>
+      <a href="d0f96e90-263b-35e7-f65a-ea27cd1c48e8.htm">Unit</a>
+    </li>
+    <li>
+      <a href="e6c78dbe-950c-f85b-6b1a-9d74333c72ec.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f3ed1a80-0c7c-8d2a-c674-99a40081435f" class="has-submenu" href="f3ed1a80-0c7c-8d2a-c674-99a40081435f.htm">
+        <span data-tocFile="../toc/IDACFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ebd14f3c-9e6a-4c68-7a71-bc05530ac247" href="ebd14f3c-9e6a-4c68-7a71-bc05530ac247.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="d51628d9-5835-1d92-2c3c-dbcbadf6276a" href="d51628d9-5835-1d92-2c3c-dbcbadf6276a.htm">Is<wbr />Compatible<wbr />With</a>
+    </li>
+    <li>
+      <a id="1dbb2015-9b9f-3431-7172-fa599728487f" href="1dbb2015-9b9f-3431-7172-fa599728487f.htm">Power</a>
+    </li>
+    <li>
+      <a id="ee3c806d-2f9b-d75e-7239-b8d91e57aa8c" class="has-submenu" href="ee3c806d-2f9b-d75e-7239-b8d91e57aa8c.htm">
+        <span data-tocFile="../toc/IDECFCGAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

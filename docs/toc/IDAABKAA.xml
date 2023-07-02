@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="77b27815-0ed3-f12f-6983-b00318c15739.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows Namespaces</a>
+    </li>
+    <li>
+      <a href="a3309aa3-4e26-817c-4220-5a3454313748.htm">Dev<wbr />Case.<wbr />Core.<wbr />Windows.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="225ed925-90c7-0891-14e6-8b8f7e0c96fa.htm">Environment<wbr />Folders</a>
+    </li>
+    <li>
+      <a href="9dcd0fab-b578-8e5d-6f86-f01b5203334f.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7d1a35ae-bdbb-08ac-aebb-07f2b6d47072" href="7d1a35ae-bdbb-08ac-aebb-07f2b6d47072.htm">Admin<wbr />Tools<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="d652150d-b0d2-a690-969c-4fcd023596b0" href="d652150d-b0d2-a690-969c-4fcd023596b0.htm">Admin<wbr />Tools<wbr />Path</a>
+    </li>
+    <li>
+      <a id="596170d3-fa97-11ca-e300-83855e1f09dc" href="596170d3-fa97-11ca-e300-83855e1f09dc.htm">Application<wbr />Data<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="c96c71fe-3906-b87c-7998-5fe9d6512605" href="c96c71fe-3906-b87c-7998-5fe9d6512605.htm">Application<wbr />Data<wbr />Path</a>
+    </li>
+    <li>
+      <a id="05a2e3d6-e542-1e2d-0520-63d2c661b405" href="05a2e3d6-e542-1e2d-0520-63d2c661b405.htm">CDBurning<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="7f65f29a-3482-0162-e4f4-68aeea132fa6" href="7f65f29a-3482-0162-e4f4-68aeea132fa6.htm">CDBurning<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d3226a16-bc30-ac61-839f-df23ee7c2106" href="d3226a16-bc30-ac61-839f-df23ee7c2106.htm">Common<wbr />Admin<wbr />Tools<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="a91160de-a552-62c1-f28e-6694a787aa93" href="a91160de-a552-62c1-f28e-6694a787aa93.htm">Common<wbr />Admin<wbr />Tools<wbr />Path</a>
+    </li>
+    <li>
+      <a id="1d055e67-d7ce-e57c-8ca2-5aa6a6c6ade2" href="1d055e67-d7ce-e57c-8ca2-5aa6a6c6ade2.htm">Common<wbr />Application<wbr />Data<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="4d2fae45-b3fe-d24d-0b0b-ac3e3160b783" href="4d2fae45-b3fe-d24d-0b0b-ac3e3160b783.htm">Common<wbr />Application<wbr />Data<wbr />Path</a>
+    </li>
+    <li>
+      <a id="17a8dbd4-1ff0-6cf9-dd66-f9b340a88b8d" href="17a8dbd4-1ff0-6cf9-dd66-f9b340a88b8d.htm">Common<wbr />Desktop<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="02062c05-3d1c-b0b6-0c52-2169af433a28" href="02062c05-3d1c-b0b6-0c52-2169af433a28.htm">Common<wbr />Desktop<wbr />Path</a>
+    </li>
+    <li>
+      <a id="98a7faf2-79a0-808a-f8b8-15c73b65e69c" href="98a7faf2-79a0-808a-f8b8-15c73b65e69c.htm">Common<wbr />Documents<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="09a6cafd-0900-d79d-546c-0040a15db033" href="09a6cafd-0900-d79d-546c-0040a15db033.htm">Common<wbr />Documents<wbr />Path</a>
+    </li>
+    <li>
+      <a id="e948fe03-2974-ea00-3314-94269fe34450" href="e948fe03-2974-ea00-3314-94269fe34450.htm">Common<wbr />Music<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="5767d470-bca7-a0b0-9c9c-d5757c8f5092" href="5767d470-bca7-a0b0-9c9c-d5757c8f5092.htm">Common<wbr />Music<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a80e2d2e-eef5-a2b1-d54f-9069b33da4be" href="a80e2d2e-eef5-a2b1-d54f-9069b33da4be.htm">Common<wbr />Pictures<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="279f3672-95c6-9815-03e5-f576d5bef915" href="279f3672-95c6-9815-03e5-f576d5bef915.htm">Common<wbr />Pictures<wbr />Path</a>
+    </li>
+    <li>
+      <a id="bc753b60-3109-357f-cae9-9313ad691462" href="bc753b60-3109-357f-cae9-9313ad691462.htm">Common<wbr />Program<wbr />Files<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="c70db225-5f28-a0ba-4efd-5f0797672b0f" href="c70db225-5f28-a0ba-4efd-5f0797672b0f.htm">Common<wbr />Program<wbr />Files<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d9d35e6a-4c95-761a-5136-ed6ed87fcd21" href="d9d35e6a-4c95-761a-5136-ed6ed87fcd21.htm">Common<wbr />Program<wbr />Files<wbr />X<wbr />86Directory</a>
+    </li>
+    <li>
+      <a id="91dd08c0-0617-abc8-befa-fa13ec07f0e9" href="91dd08c0-0617-abc8-befa-fa13ec07f0e9.htm">Common<wbr />Program<wbr />Files<wbr />X<wbr />86Path</a>
+    </li>
+    <li>
+      <a id="6e1fe6f0-84bf-9a68-1bb7-9947e9adaffe" href="6e1fe6f0-84bf-9a68-1bb7-9947e9adaffe.htm">Common<wbr />Programs<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="2eb041d2-d4c5-c1dc-d644-a349565f7956" href="2eb041d2-d4c5-c1dc-d644-a349565f7956.htm">Common<wbr />Programs<wbr />Path</a>
+    </li>
+    <li>
+      <a id="0ce8ed3f-0b71-328c-24aa-6f5f7d87bf77" href="0ce8ed3f-0b71-328c-24aa-6f5f7d87bf77.htm">Common<wbr />Start<wbr />Menu<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="2d276bbf-dddc-95f0-639b-c17cef86e778" href="2d276bbf-dddc-95f0-639b-c17cef86e778.htm">Common<wbr />Start<wbr />Menu<wbr />Path</a>
+    </li>
+    <li>
+      <a id="3758e545-2bfd-72b0-3271-833f0b6cd36f" href="3758e545-2bfd-72b0-3271-833f0b6cd36f.htm">Common<wbr />Startup<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="4a662870-597e-29c3-040f-be71e286165c" href="4a662870-597e-29c3-040f-be71e286165c.htm">Common<wbr />Startup<wbr />Path</a>
+    </li>
+    <li>
+      <a id="cd4a5b95-4bae-4f89-a002-34d4e1d11a41" href="cd4a5b95-4bae-4f89-a002-34d4e1d11a41.htm">Common<wbr />Templates<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="694acadc-69ae-ad6f-bee5-2c174f1e91ea" href="694acadc-69ae-ad6f-bee5-2c174f1e91ea.htm">Common<wbr />Templates<wbr />Path</a>
+    </li>
+    <li>
+      <a id="45185eae-9e18-1f38-2d0a-60ffe43b1124" href="45185eae-9e18-1f38-2d0a-60ffe43b1124.htm">Common<wbr />Videos<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="163aace4-b1b7-236f-f4d3-e5adea3f3905" href="163aace4-b1b7-236f-f4d3-e5adea3f3905.htm">Common<wbr />Videos<wbr />Path</a>
+    </li>
+    <li>
+      <a id="3f92d775-8a0e-c8c7-03ca-5af993ec70bb" href="3f92d775-8a0e-c8c7-03ca-5af993ec70bb.htm">Cookies<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="b17562a8-8a35-2a3f-6040-09d7d1db8fe6" href="b17562a8-8a35-2a3f-6040-09d7d1db8fe6.htm">Cookies<wbr />Path</a>
+    </li>
+    <li>
+      <a id="c4e24004-d2bb-d0a7-1097-0b0e0ad3d703" href="c4e24004-d2bb-d0a7-1097-0b0e0ad3d703.htm">Desktop<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="3a330abf-981b-e05f-30c0-fad4d6cf6aee" href="3a330abf-981b-e05f-30c0-fad4d6cf6aee.htm">Desktop<wbr />Path</a>
+    </li>
+    <li>
+      <a id="f2a4241d-e783-7e13-d6ae-ad9a5593851d" href="f2a4241d-e783-7e13-d6ae-ad9a5593851d.htm">Favorites<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="6be60fc6-1c7a-07f3-7dbd-82a492c9d3d5" href="6be60fc6-1c7a-07f3-7dbd-82a492c9d3d5.htm">Favorites<wbr />Path</a>
+    </li>
+    <li>
+      <a id="cb81d09d-2dea-cf9f-1411-100c8579d8f7" href="cb81d09d-2dea-cf9f-1411-100c8579d8f7.htm">Fonts<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="fcf60964-e615-8e6e-8600-8b04c33915c2" href="fcf60964-e615-8e6e-8600-8b04c33915c2.htm">Fonts<wbr />Path</a>
+    </li>
+    <li>
+      <a id="8ea88f87-515b-93e0-be68-753bf88b62f4" href="8ea88f87-515b-93e0-be68-753bf88b62f4.htm">History<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="4bb24ad1-ff36-4bdc-9306-b92ba65fbecc" href="4bb24ad1-ff36-4bdc-9306-b92ba65fbecc.htm">History<wbr />Path</a>
+    </li>
+    <li>
+      <a id="fc0b1782-e86b-09e3-8823-1eccd35b0d5a" href="fc0b1782-e86b-09e3-8823-1eccd35b0d5a.htm">Internet<wbr />Cache<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="882e179c-2630-ed18-02af-8eb426cdbca2" href="882e179c-2630-ed18-02af-8eb426cdbca2.htm">Internet<wbr />Cache<wbr />Path</a>
+    </li>
+    <li>
+      <a id="d54da2c2-1a48-9eef-9627-0a32e67a433f" href="d54da2c2-1a48-9eef-9627-0a32e67a433f.htm">Local<wbr />Application<wbr />Data<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="3cf7f601-5467-94a7-ff10-1819998098e2" href="3cf7f601-5467-94a7-ff10-1819998098e2.htm">Local<wbr />Application<wbr />Data<wbr />Path</a>
+    </li>
+    <li>
+      <a id="b7896108-d51f-dae8-a211-5c7455f7f40e" href="b7896108-d51f-dae8-a211-5c7455f7f40e.htm">Localized<wbr />Resources<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="eeffed12-ff8f-98f6-2610-a1c31e41d89d" href="eeffed12-ff8f-98f6-2610-a1c31e41d89d.htm">Localized<wbr />Resources<wbr />Path</a>
+    </li>
+    <li>
+      <a id="e13011b9-e0ec-1b8b-04a7-3fb21bd7cc60" href="e13011b9-e0ec-1b8b-04a7-3fb21bd7cc60.htm">My<wbr />Documents<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="084f1a6b-bb7a-4e6a-3cbd-d58122ce1690" href="084f1a6b-bb7a-4e6a-3cbd-d58122ce1690.htm">My<wbr />Documents<wbr />Path</a>
+    </li>
+    <li>
+      <a id="c31a5e7c-6d7c-2167-b5f7-690a46d7c0a1" href="c31a5e7c-6d7c-2167-b5f7-690a46d7c0a1.htm">My<wbr />Music<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="cfc57e3d-27f0-136b-bf1b-079fc3c026b7" href="cfc57e3d-27f0-136b-bf1b-079fc3c026b7.htm">My<wbr />Music<wbr />Path</a>
+    </li>
+    <li>
+      <a id="adc360e3-a5c6-c12c-7712-5e737b82206e" href="adc360e3-a5c6-c12c-7712-5e737b82206e.htm">My<wbr />Pictures<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="a713a896-14f6-fce3-455b-01cfb27f4c5c" href="a713a896-14f6-fce3-455b-01cfb27f4c5c.htm">My<wbr />Pictures<wbr />Path</a>
+    </li>
+    <li>
+      <a id="6877ae45-f6a6-6c1f-c7b0-a09e68bf72cc" href="6877ae45-f6a6-6c1f-c7b0-a09e68bf72cc.htm">My<wbr />Videos<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="f094df6b-15d0-4b01-38fe-f9e95cb20cae" href="f094df6b-15d0-4b01-38fe-f9e95cb20cae.htm">My<wbr />Videos<wbr />Path</a>
+    </li>
+    <li>
+      <a id="5d4dc17f-f087-d34d-563b-cb01e665c807" href="5d4dc17f-f087-d34d-563b-cb01e665c807.htm">Network<wbr />Shortcuts<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="7eed458a-dfdd-ee85-4272-839302e83398" href="7eed458a-dfdd-ee85-4272-839302e83398.htm">Network<wbr />Shortcuts<wbr />Path</a>
+    </li>
+    <li>
+      <a id="c0eb1253-c054-41b7-9a99-828d68423a03" href="c0eb1253-c054-41b7-9a99-828d68423a03.htm">Personal<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="f7ebc279-e187-d40e-67f2-57ca6744c9f3" href="f7ebc279-e187-d40e-67f2-57ca6744c9f3.htm">Personal<wbr />Path</a>
+    </li>
+    <li>
+      <a id="c67d0abe-f53d-fdcb-a304-f47431d095b4" href="c67d0abe-f53d-fdcb-a304-f47431d095b4.htm">Printer<wbr />Shortcuts<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="2beb096f-44bb-8df8-dda1-3839fafea71c" href="2beb096f-44bb-8df8-dda1-3839fafea71c.htm">Printer<wbr />Shortcuts<wbr />Path</a>
+    </li>
+    <li>
+      <a id="7f619ab1-690b-a3fa-0b22-7f120d1dcd65" href="7f619ab1-690b-a3fa-0b22-7f120d1dcd65.htm">Program<wbr />Files<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="74fb5061-1a2d-6b0d-b4ae-510500371d07" href="74fb5061-1a2d-6b0d-b4ae-510500371d07.htm">Program<wbr />Files<wbr />Path</a>
+    </li>
+    <li>
+      <a id="56f07065-776b-1ef8-0e9c-ab34a671f209" href="56f07065-776b-1ef8-0e9c-ab34a671f209.htm">Program<wbr />Files<wbr />X<wbr />86Directory</a>
+    </li>
+    <li>
+      <a id="ffc162eb-09b6-38bc-6327-3f45b866640f" href="ffc162eb-09b6-38bc-6327-3f45b866640f.htm">Program<wbr />Files<wbr />X<wbr />86Path</a>
+    </li>
+    <li>
+      <a id="7debdee9-072c-f29d-01f1-23cf4e8c8086" href="7debdee9-072c-f29d-01f1-23cf4e8c8086.htm">Programs<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="1f4c1e85-aadf-396c-dc5f-4cc626ff27b6" href="1f4c1e85-aadf-396c-dc5f-4cc626ff27b6.htm">Programs<wbr />Path</a>
+    </li>
+    <li>
+      <a id="9c043613-51a1-962b-85a0-3883ed18e482" href="9c043613-51a1-962b-85a0-3883ed18e482.htm">Recent<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="69ae92d5-6612-bb9a-62f0-61c2e9cb56f9" href="69ae92d5-6612-bb9a-62f0-61c2e9cb56f9.htm">Recent<wbr />Path</a>
+    </li>
+    <li>
+      <a id="51892126-3a14-9f5b-022e-472751b9b7c9" href="51892126-3a14-9f5b-022e-472751b9b7c9.htm">Resources<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="380acaca-61af-454f-9701-fbc4caeec3f8" href="380acaca-61af-454f-9701-fbc4caeec3f8.htm">Resources<wbr />Path</a>
+    </li>
+    <li>
+      <a id="dc1987e5-3f6b-1d57-15ab-62c9b7d86c04" href="dc1987e5-3f6b-1d57-15ab-62c9b7d86c04.htm">Send<wbr />To<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="0d022845-ae55-ef22-7a30-7beb11ca0c85" href="0d022845-ae55-ef22-7a30-7beb11ca0c85.htm">Send<wbr />To<wbr />Path</a>
+    </li>
+    <li>
+      <a id="e2dee9dd-76c5-2dbe-2431-5bc2170d2b63" href="e2dee9dd-76c5-2dbe-2431-5bc2170d2b63.htm">Start<wbr />Menu<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="e2b94a44-4309-26e2-b535-29406740353b" href="e2b94a44-4309-26e2-b535-29406740353b.htm">Start<wbr />Menu<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a7d9a649-eacd-9a99-cae1-2e05d0f60bf8" href="a7d9a649-eacd-9a99-cae1-2e05d0f60bf8.htm">Startup<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="3213f02c-6bac-519e-4406-62b20065bcc5" href="3213f02c-6bac-519e-4406-62b20065bcc5.htm">Startup<wbr />Path</a>
+    </li>
+    <li>
+      <a id="0f05e20f-4809-83fb-82bf-e9f0de9dab9f" href="0f05e20f-4809-83fb-82bf-e9f0de9dab9f.htm">System<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="f52bd552-6067-c803-443f-443b1e8d2cee" href="f52bd552-6067-c803-443f-443b1e8d2cee.htm">System<wbr />Path</a>
+    </li>
+    <li>
+      <a id="268b00ba-c220-7616-f2a2-ea880df3d05a" href="268b00ba-c220-7616-f2a2-ea880df3d05a.htm">System<wbr />X<wbr />86Directory</a>
+    </li>
+    <li>
+      <a id="285b07bf-e925-4049-f405-88532cbf3cba" href="285b07bf-e925-4049-f405-88532cbf3cba.htm">System<wbr />X<wbr />86Path</a>
+    </li>
+    <li>
+      <a id="bf2fcf48-124e-b7ac-af46-ff1b87114ecb" href="bf2fcf48-124e-b7ac-af46-ff1b87114ecb.htm">Templates<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="b274f126-a238-9704-d4a4-b32e6124c510" href="b274f126-a238-9704-d4a4-b32e6124c510.htm">Templates<wbr />Path</a>
+    </li>
+    <li>
+      <a id="a6888459-b899-57fd-7d96-83c69592b08e" href="a6888459-b899-57fd-7d96-83c69592b08e.htm">User<wbr />Profile<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="9aa49597-84b4-7de1-7147-e12746b3665c" href="9aa49597-84b4-7de1-7147-e12746b3665c.htm">User<wbr />Profile<wbr />Path</a>
+    </li>
+    <li>
+      <a id="371e2116-50be-1986-27cb-8b0d28ace3c2" href="371e2116-50be-1986-27cb-8b0d28ace3c2.htm">Windows<wbr />Directory</a>
+    </li>
+    <li>
+      <a id="6c606be4-d892-e420-f5e9-9d7e5a3d53a5" href="6c606be4-d892-e420-f5e9-9d7e5a3d53a5.htm">Windows<wbr />Path</a>
+    </li>
+  </tocItems>
+</toc>

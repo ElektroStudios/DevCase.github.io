@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="df042f64-ff01-5bbb-4bbf-fd8feb865ac1.htm">Playlist<wbr />Editor</a>
+    </li>
+    <li>
+      <a href="b5c9003c-4480-16e7-321c-34c34c402da5.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7fbca1e5-862f-420d-6650-e47438881a29" class="has-submenu" href="7fbca1e5-862f-420d-6650-e47438881a29.htm">
+        <span data-tocFile="../toc/IDACECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e5b1325c-c643-0f5c-72db-c598b56b2cf1" class="has-submenu" href="e5b1325c-c643-0f5c-72db-c598b56b2cf1.htm">
+        <span data-tocFile="../toc/IDBCECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Exist</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fa37db1c-d695-0679-8b44-30226a9a96d2" class="has-submenu" href="fa37db1c-d695-0679-8b44-30226a9a96d2.htm">
+        <span data-tocFile="../toc/IDCCECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Track</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4f901a7a-3e02-b2ca-e270-28beee02e14c" class="has-submenu" href="4f901a7a-3e02-b2ca-e270-28beee02e14c.htm">
+        <span data-tocFile="../toc/IDDCECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="bf3c870f-ab9f-150d-d4ee-7b9d6bf3a2d8" class="has-submenu" href="bf3c870f-ab9f-150d-d4ee-7b9d6bf3a2d8.htm">
+        <span data-tocFile="../toc/IDECECHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

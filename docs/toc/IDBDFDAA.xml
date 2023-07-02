@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="af65a438-4b16-6408-520d-f103d7e28be1.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics Namespaces</a>
+    </li>
+    <li>
+      <a href="9f2da4fb-2783-3dd7-caa3-17e309afbced.htm">Dev<wbr />Case.<wbr />Core.<wbr />Diagnostics.<wbr />Debugging.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="42f5d9ac-adda-1cdd-6556-8cde72982a22.htm">Util<wbr />Debug</a>
+    </li>
+    <li>
+      <a href="05fa01a5-8dab-f29a-8bf8-07cbc2e0878c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f5d48932-78f9-3c39-037a-f7920a865fad" href="f5d48932-78f9-3c39-037a-f7920a865fad.htm">Bypass<wbr />Amsi</a>
+    </li>
+    <li>
+      <a id="84498278-8eb8-4c08-df0a-db9ca4d0ae9a" href="84498278-8eb8-4c08-df0a-db9ca4d0ae9a.htm">Bypass<wbr />Event<wbr />Tracing</a>
+    </li>
+    <li>
+      <a id="8791f9cd-b51a-e508-bf75-9d58cb2bac75" href="8791f9cd-b51a-e508-bf75-9d58cb2bac75.htm">Cause<wbr />BSOD</a>
+    </li>
+    <li>
+      <a id="81923591-51b9-d47d-a676-58a7a2400154" href="81923591-51b9-d47d-a676-58a7a2400154.htm">Evaluate<wbr />Structure<wbr />Instance<wbr />Size</a>
+    </li>
+    <li>
+      <a id="fe8ccae8-0ab7-65cb-af93-1deea9fdd13e" class="has-submenu" href="fe8ccae8-0ab7-65cb-af93-1deea9fdd13e.htm">
+        <span data-tocFile="../toc/IDEBDFDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Inline<wbr />Assign<wbr />Helper</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c16eebd8-71a2-5f88-39c6-9b9a7ee487e8" class="has-submenu" href="c16eebd8-71a2-5f88-39c6-9b9a7ee487e8.htm">
+        <span data-tocFile="../toc/IDFBDFDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Invoke<wbr />Times</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d5122b37-cff9-1323-0153-39eafd87a6eb" href="d5122b37-cff9-1323-0153-39eafd87a6eb.htm">Is<wbr />Visual<wbr />Studio<wbr />Hosting<wbr />Process<wbr />Attached</a>
+    </li>
+    <li>
+      <a id="94cd5b13-71ce-4eea-ad80-c706a7188b6e" class="has-submenu" href="94cd5b13-71ce-4eea-ad80-c706a7188b6e.htm">
+        <span data-tocFile="../toc/IDHBDFDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Mini<wbr />Dump<wbr />To<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fce777a8-73f1-cdfb-93ac-97c8f6cd950f" href="fce777a8-73f1-cdfb-93ac-97c8f6cd950f.htm">Mini<wbr />Dump<wbr />To<wbr />Memory<wbr />Stream</a>
+    </li>
+    <li>
+      <a id="88717ebd-b1f2-5ef2-60c1-e70707c34653" href="88717ebd-b1f2-5ef2-60c1-e70707c34653.htm">Print<wbr />Member<wbr />Debug<wbr />Info</a>
+    </li>
+    <li>
+      <a id="aceb4793-9c4d-1c3e-852e-4d74e4bf4206" href="aceb4793-9c4d-1c3e-852e-4d74e4bf4206.htm">Print<wbr />Process<wbr />Debug<wbr />Info</a>
+    </li>
+    <li>
+      <a id="520649f9-58c0-a27a-74bf-4c2829fffdb6" href="520649f9-58c0-a27a-74bf-4c2829fffdb6.htm">Print<wbr />Thread<wbr />Debug<wbr />Info</a>
+    </li>
+    <li>
+      <a id="fe121cfd-de29-537a-c4b1-f6d892c09f7f" href="fe121cfd-de29-537a-c4b1-f6d892c09f7f.htm">Shell<wbr />Code<wbr />Execute</a>
+    </li>
+    <li>
+      <a id="2de5b25c-5fb9-466f-7d62-b7fe90fee7f7" class="has-submenu" href="2de5b25c-5fb9-466f-7d62-b7fe90fee7f7.htm">
+        <span data-tocFile="../toc/IDNBDFDAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Swap<wbr />Objects</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="bc387bbf-c905-2558-9de0-4a5ffd59a6a0.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Enums</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ef6e1329-a446-03d8-4dc6-4ce488d65fcd" href="ef6e1329-a446-03d8-4dc6-4ce488d65fcd.htm">Active<wbr />Desktop<wbr />Apply<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="367930a2-acf3-fd49-a3c6-2999d263f859" href="367930a2-acf3-fd49-a3c6-2999d263f859.htm">Appbar<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="bea554c6-6c21-c61d-a820-628926ee7b13" href="bea554c6-6c21-c61d-a820-628926ee7b13.htm">Application<wbr />Restart<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="74381c88-54a0-8fa6-2283-03422ac31be1" href="74381c88-54a0-8fa6-2283-03422ac31be1.htm">App<wbr />Policy<wbr />Create<wbr />File<wbr />Access</a>
+    </li>
+    <li>
+      <a id="691a2922-5491-925d-7963-c9c8b46475b3" href="691a2922-5491-925d-7963-c9c8b46475b3.htm">App<wbr />Policy<wbr />Process<wbr />Termination<wbr />Method</a>
+    </li>
+    <li>
+      <a id="e376dc1d-31bf-667e-7c5c-bca605191294" href="e376dc1d-31bf-667e-7c5c-bca605191294.htm">App<wbr />Policy<wbr />Show<wbr />Developer<wbr />Diagnostic</a>
+    </li>
+    <li>
+      <a id="37f91cb8-1104-e506-8e27-22ff06559f0a" href="37f91cb8-1104-e506-8e27-22ff06559f0a.htm">App<wbr />Policy<wbr />Thread<wbr />Initialization<wbr />Type</a>
+    </li>
+    <li>
+      <a id="b1671bc2-1508-ce3d-69e9-0c7ecbd6f014" href="b1671bc2-1508-ce3d-69e9-0c7ecbd6f014.htm">Assembly<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="2de0c7f5-a074-8601-ebaa-9cb0f26d01f4" href="2de0c7f5-a074-8601-ebaa-9cb0f26d01f4.htm">Assoc<wbr />F</a>
+    </li>
+    <li>
+      <a id="725d0937-c192-e6d9-3e75-04c6a5c55427" href="725d0937-c192-e6d9-3e75-04c6a5c55427.htm">Assoc<wbr />Str</a>
+    </li>
+    <li>
+      <a id="e335f31d-8111-6b4f-a2a8-7533e4680871" href="e335f31d-8111-6b4f-a2a8-7533e4680871.htm">Auto<wbr />Complete<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="5a9ce9e2-206b-caea-ec38-0e791d8617d6" href="5a9ce9e2-206b-caea-ec38-0e791d8617d6.htm">Background<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="2d77a6ae-7921-f0aa-d404-13f82b41409b" href="2d77a6ae-7921-f0aa-d404-13f82b41409b.htm">Binary<wbr />Type</a>
+    </li>
+    <li>
+      <a id="c4ae0f95-0e89-2856-9081-99eea08e9ce1" href="c4ae0f95-0e89-2856-9081-99eea08e9ce1.htm">Broadcast<wbr />System<wbr />Message<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="42dff7e3-7a4d-5733-66d9-4a10c458d44f" href="42dff7e3-7a4d-5733-66d9-4a10c458d44f.htm">Broadcast<wbr />System<wbr />Message<wbr />Info</a>
+    </li>
+    <li>
+      <a id="a374e76c-a5c0-37e4-94ee-0a4b6ee9c6f8" href="a374e76c-a5c0-37e4-94ee-0a4b6ee9c6f8.htm">Change<wbr />Display<wbr />Settings<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="f3cb64a3-588d-bda9-c212-4fa53dffdc33" href="f3cb64a3-588d-bda9-c212-4fa53dffdc33.htm">Change<wbr />Window<wbr />Message<wbr />Filter<wbr />Ex<wbr />Action</a>
+    </li>
+    <li>
+      <a id="966d38eb-e249-86d4-3980-972921f00160" href="966d38eb-e249-86d4-3980-972921f00160.htm">Char<wbr />Info<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="cbfec852-bc18-65c1-3729-e86db8596fc8" href="cbfec852-bc18-65c1-3729-e86db8596fc8.htm">Clip<wbr />Box<wbr />Complexity</a>
+    </li>
+    <li>
+      <a id="19f5c1b1-d803-2087-488b-6321f2c6fb56" href="19f5c1b1-d803-2087-488b-6321f2c6fb56.htm">Code<wbr />Page</a>
+    </li>
+    <li>
+      <a id="41f176b0-b0fa-8afe-555b-b8e714822909" href="41f176b0-b0fa-8afe-555b-b8e714822909.htm">Computer<wbr />Name<wbr />Format</a>
+    </li>
+    <li>
+      <a id="7fd80680-c264-74a8-fc7f-e930b4fdb15c" href="7fd80680-c264-74a8-fc7f-e930b4fdb15c.htm">Console<wbr />Display<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="1b66272a-5c61-2c1a-a250-b81418d49756" href="1b66272a-5c61-2c1a-a250-b81418d49756.htm">Continue<wbr />Debug<wbr />Event<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="3586c5c9-6f86-4c36-b260-2dd01090e477" href="3586c5c9-6f86-4c36-b260-2dd01090e477.htm">Control<wbr />Panel<wbr />View</a>
+    </li>
+    <li>
+      <a id="0eb171e3-85c1-f619-4234-4e2512a560f6" href="0eb171e3-85c1-f619-4234-4e2512a560f6.htm">Copy<wbr />File<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="94453231-cc10-8c7e-f50c-67661aa33859" href="94453231-cc10-8c7e-f50c-67661aa33859.htm">Copy<wbr />File<wbr />Progress<wbr />Action</a>
+    </li>
+    <li>
+      <a id="d7939b47-e875-2bd1-3470-778cbb79ee4c" href="d7939b47-e875-2bd1-3470-778cbb79ee4c.htm">Copy<wbr />File<wbr />Progress<wbr />Callback<wbr />Reason</a>
+    </li>
+    <li>
+      <a id="8e21570d-b7a0-a723-aee5-2ac6e5d341b7" href="8e21570d-b7a0-a723-aee5-2ac6e5d341b7.htm">Co<wbr />Wait<wbr />For<wbr />Multiple<wbr />Handles<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0cdc7944-c002-6c71-e2c5-21dc23270caf" href="0cdc7944-c002-6c71-e2c5-21dc23270caf.htm">Create<wbr />File<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="9da00e41-fddc-67af-47b1-a40b30f6319a" href="9da00e41-fddc-67af-47b1-a40b30f6319a.htm">Create<wbr />Icon<wbr />From<wbr />Resource<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="31ded2a6-24d0-7d3c-6a8b-601eef426050" href="31ded2a6-24d0-7d3c-6a8b-601eef426050.htm">Create<wbr />Mutex<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="3794cd9b-ecb2-4bab-b154-b065fb471c1a" href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">Create<wbr />Process<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="d6c94163-b017-a8d6-4833-16d05cb3d707" href="d6c94163-b017-a8d6-4833-16d05cb3d707.htm">Create<wbr />Thread<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="6eea8656-c2c6-4ebf-e913-2d00d3f1f884" href="6eea8656-c2c6-4ebf-e913-2d00d3f1f884.htm">Credentials<wbr />Dialog<wbr />Options</a>
+    </li>
+    <li>
+      <a id="e3b17a8c-7b1c-1e69-1834-e88d840edb73" href="e3b17a8c-7b1c-1e69-1834-e88d840edb73.htm">Credentials<wbr />Pack<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="c476540b-fbea-b3da-63df-97374a0dedca" href="c476540b-fbea-b3da-63df-97374a0dedca.htm">Cursor<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="45a724a1-346e-0ce9-ae27-d32438428a0d" href="45a724a1-346e-0ce9-ae27-d32438428a0d.htm">D3DKMDTVideo<wbr />Signal<wbr />Standard</a>
+    </li>
+    <li>
+      <a id="3498b2f1-6db9-1214-0492-c82f94edafb0" href="3498b2f1-6db9-1214-0492-c82f94edafb0.htm">Define<wbr />Dos<wbr />Device<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="be700036-2438-833e-cc73-984f1053d1ce" href="be700036-2438-833e-cc73-984f1053d1ce.htm">Device<wbr />Events</a>
+    </li>
+    <li>
+      <a id="26f955c4-68ba-10df-00a7-fb2ba9961f98" href="26f955c4-68ba-10df-00a7-fb2ba9961f98.htm">Device<wbr />Mode<wbr />Display<wbr />Orientation</a>
+    </li>
+    <li>
+      <a id="1a0a2c30-4394-80e7-bf89-d6faad1d8201" href="1a0a2c30-4394-80e7-bf89-d6faad1d8201.htm">Device<wbr />Mode<wbr />Fields</a>
+    </li>
+    <li>
+      <a id="3f91faab-9758-bb67-257d-b9e4d020bcb0" href="3f91faab-9758-bb67-257d-b9e4d020bcb0.htm">Device<wbr />Type</a>
+    </li>
+    <li>
+      <a id="891a5be8-e15d-ec78-d093-a17fe6b6819e" href="891a5be8-e15d-ec78-d093-a17fe6b6819e.htm">Directory<wbr />Management<wbr />Control<wbr />Codes</a>
+    </li>
+    <li>
+      <a id="5688fe3c-2264-bb90-634a-cc6cf0730825" href="5688fe3c-2264-bb90-634a-cc6cf0730825.htm">Display<wbr />Config<wbr />Mode<wbr />Info<wbr />Type</a>
+    </li>
+    <li>
+      <a id="eb27299d-617c-138b-d581-613706a2aa8d" href="eb27299d-617c-138b-d581-613706a2aa8d.htm">Display<wbr />Config<wbr />Pixel<wbr />Format</a>
+    </li>
+    <li>
+      <a id="bcb022f8-2337-2c53-487f-31818645eb20" href="bcb022f8-2337-2c53-487f-31818645eb20.htm">Display<wbr />Config<wbr />Rotation</a>
+    </li>
+    <li>
+      <a id="51256414-1cf9-18c0-7208-5ebb652dbf03" href="51256414-1cf9-18c0-7208-5ebb652dbf03.htm">Display<wbr />Config<wbr />Scaling</a>
+    </li>
+    <li>
+      <a id="029f2bcc-03a8-4412-f3c6-d8b6a7c8b7ca" href="029f2bcc-03a8-4412-f3c6-d8b6a7c8b7ca.htm">Display<wbr />Config<wbr />Scanline<wbr />Ordering</a>
+    </li>
+    <li>
+      <a id="f56cb43a-d319-8cb7-481d-1ae355f195ff" href="f56cb43a-d319-8cb7-481d-1ae355f195ff.htm">Display<wbr />Config<wbr />Topology<wbr />Id</a>
+    </li>
+    <li>
+      <a id="6542f33a-5cba-473c-cffc-6fac2c3654d2" href="6542f33a-5cba-473c-cffc-6fac2c3654d2.htm">Display<wbr />Config<wbr />Video<wbr />Output<wbr />Technology</a>
+    </li>
+    <li>
+      <a id="965be5b7-81a1-d9ef-5546-e9db7daf80a3" href="965be5b7-81a1-d9ef-5546-e9db7daf80a3.htm">Display<wbr />Device<wbr />State<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="18d24fb0-34e8-6eb6-48aa-824c1651bd3c" href="18d24fb0-34e8-6eb6-48aa-824c1651bd3c.htm">Display<wbr />Settings<wbr />Change</a>
+    </li>
+    <li>
+      <a id="0158674c-ea1b-0390-f241-55ed83b8db7a" href="0158674c-ea1b-0390-f241-55ed83b8db7a.htm">Dpi<wbr />Awareness</a>
+    </li>
+    <li>
+      <a id="4e8f8600-81be-2063-b53d-d553a863edfb" href="4e8f8600-81be-2063-b53d-d553a863edfb.htm">Duplicate<wbr />Handle<wbr />Options</a>
+    </li>
+    <li>
+      <a id="0a307933-d74a-e7c4-184f-43032c18487a" href="0a307933-d74a-e7c4-184f-43032c18487a.htm">Dwm<wbr />Blur<wbr />Behind<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="d6f48733-87dc-edb1-5a0c-e437ddeb31d2" href="d6f48733-87dc-edb1-5a0c-e437ddeb31d2.htm">Dwm<wbr />Iconic<wbr />Live<wbr />Preview<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="8fb0c96e-9379-db29-6b50-05a993a27f23" href="8fb0c96e-9379-db29-6b50-05a993a27f23.htm">Dwm<wbr />Iconic<wbr />Thumbnail<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="39f44bec-22ec-db92-9705-66683859f441" href="39f44bec-22ec-db92-9705-66683859f441.htm">Dwm<wbr />Thumbnail<wbr />Properties<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="2c4bd9a4-a6cf-7fa3-0864-870db4fc49e5" href="2c4bd9a4-a6cf-7fa3-0864-870db4fc49e5.htm">Dwm<wbr />Window<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="69ea9e7d-d33b-091d-e685-f610c70761ff" href="69ea9e7d-d33b-091d-e685-f610c70761ff.htm">EAudio<wbr />Session<wbr />Disconnect<wbr />Reason</a>
+    </li>
+    <li>
+      <a id="5c99809d-0556-e271-cb9d-c2b0664f4de0" href="5c99809d-0556-e271-cb9d-c2b0664f4de0.htm">EAudio<wbr />Session<wbr />State</a>
+    </li>
+    <li>
+      <a id="1603d0b6-29e4-c3d9-df79-63a8ce4c9cdb" href="1603d0b6-29e4-c3d9-df79-63a8ce4c9cdb.htm">EData<wbr />Flow</a>
+    </li>
+    <li>
+      <a id="2e3fd981-fcbd-9710-cfe7-35b6eea0e300" href="2e3fd981-fcbd-9710-cfe7-35b6eea0e300.htm">EDevice<wbr />State</a>
+    </li>
+    <li>
+      <a id="067f23a4-05c8-6e09-2058-dfc9780a316d" href="067f23a4-05c8-6e09-2058-dfc9780a316d.htm">Edit<wbr />Control<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="6a4161fb-abca-a528-71dc-7c0b47c836df" href="6a4161fb-abca-a528-71dc-7c0b47c836df.htm">Enum<wbr />Display<wbr />Settings<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="601a0fae-f08f-bee9-760f-2b612e8a7192" href="601a0fae-f08f-bee9-760f-2b612e8a7192.htm">Enum<wbr />Process<wbr />Modules<wbr />Filter</a>
+    </li>
+    <li>
+      <a id="018cc821-76b2-9fb3-0e1c-51c6fb25d4b4" href="018cc821-76b2-9fb3-0e1c-51c6fb25d4b4.htm">Enum<wbr />System<wbr />Code<wbr />Pages<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="adb60411-7bac-c368-b830-8308c7c6b647" href="adb60411-7bac-c368-b830-8308c7c6b647.htm">Enum<wbr />System<wbr />Locales<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ff1030f2-b266-fdb5-1575-d5e6c743ff70" href="ff1030f2-b266-fdb5-1575-d5e6c743ff70.htm">ERole</a>
+    </li>
+    <li>
+      <a id="ff77a275-b79b-eb1e-9581-d5eb6f0542e3" href="ff77a275-b79b-eb1e-9581-d5eb6f0542e3.htm">EStgm<wbr />Access</a>
+    </li>
+    <li>
+      <a id="5bfcaf93-7c2c-95e6-ebdc-4f807b84c470" href="5bfcaf93-7c2c-95e6-ebdc-4f807b84c470.htm">Event<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="b9efba15-a0ef-43c5-c9f2-9c02ff0870f6" href="b9efba15-a0ef-43c5-c9f2-9c02ff0870f6.htm">Exception<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ac41a19c-ed97-1888-52c9-e82402978bc8" href="ac41a19c-ed97-1888-52c9-e82402978bc8.htm">Execution<wbr />State</a>
+    </li>
+    <li>
+      <a id="82aa32bc-503c-7e2e-bada-44aabbcb5015" href="82aa32bc-503c-7e2e-bada-44aabbcb5015.htm">Exitwindows<wbr />Ex<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="cc4d44d0-8c58-6349-637f-322c3b07aae0" href="cc4d44d0-8c58-6349-637f-322c3b07aae0.htm">Ext<wbr />Text<wbr />Out<wbr />Options</a>
+    </li>
+    <li>
+      <a id="e39c8dc7-b50a-81b6-cb1c-d836476d3202" href="e39c8dc7-b50a-81b6-cb1c-d836476d3202.htm">Fiber<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="5a8502d4-92cf-473a-bcd4-5314f5e5d080" href="5a8502d4-92cf-473a-bcd4-5314f5e5d080.htm">File<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="a8aab555-867c-f79f-b079-41f9aa45103c" href="a8aab555-867c-f79f-b079-41f9aa45103c.htm">File<wbr />Operation<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="7618dcd8-7ad0-da62-06c2-cfbb22bc00e4" href="7618dcd8-7ad0-da62-06c2-cfbb22bc00e4.htm">Find<wbr />Stream<wbr />Info<wbr />Levels</a>
+    </li>
+    <li>
+      <a id="63a29c30-4afb-939f-af31-72dfd5f1db56" href="63a29c30-4afb-939f-af31-72dfd5f1db56.htm">Find<wbr />Stream<wbr />Type</a>
+    </li>
+    <li>
+      <a id="8ffb1bdc-d082-0b32-3ac7-336dd97623b1" href="8ffb1bdc-d082-0b32-3ac7-336dd97623b1.htm">Flash<wbr />Window<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0afcfae0-d14d-c2d5-72ce-394332c2f89a" href="0afcfae0-d14d-c2d5-72ce-394332c2f89a.htm">Format<wbr />Message<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0464c57a-7b7b-5bfa-894f-0f49fb96a6b5" href="0464c57a-7b7b-5bfa-894f-0f49fb96a6b5.htm">Generic<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="e2491c63-7dac-2ffb-a3bd-68011573f33a" href="e2491c63-7dac-2ffb-a3bd-68011573f33a.htm">Get<wbr />Ancestor<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0abf37e9-70c0-e6f2-8998-72cbf5b86e25" href="0abf37e9-70c0-e6f2-8998-72cbf5b86e25.htm">Get<wbr />Device<wbr />Caps<wbr />Item</a>
+    </li>
+    <li>
+      <a id="18647086-5861-4fa8-5e62-8acb3ff9b4bf" href="18647086-5861-4fa8-5e62-8acb3ff9b4bf.htm">Get<wbr />Device<wbr />Lparam</a>
+    </li>
+    <li>
+      <a id="f882d3df-3d0d-305e-8425-cbfe68dbfca4" href="f882d3df-3d0d-305e-8425-cbfe68dbfca4.htm">Get<wbr />Gui<wbr />Resources<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ea90bff3-da2d-8df6-81c1-5149523ee70b" href="ea90bff3-da2d-8df6-81c1-5149523ee70b.htm">Get<wbr />Icon<wbr />Location<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="6a9cf860-126c-c4ed-905c-d7f4773e2eb7" href="6a9cf860-126c-c4ed-905c-d7f4773e2eb7.htm">Get<wbr />Icon<wbr />Location<wbr />Result<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="4c7c0b8c-2520-2f64-3e36-4fe8cd4ecba2" href="4c7c0b8c-2520-2f64-3e36-4fe8cd4ecba2.htm">Get<wbr />Module<wbr />Handle<wbr />Ex<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="fd6adfdc-77d8-c1e8-e097-985bd14083f0" href="fd6adfdc-77d8-c1e8-e097-985bd14083f0.htm">Get<wbr />Mouse<wbr />Move<wbr />Points<wbr />Resolution</a>
+    </li>
+    <li>
+      <a id="47913c0f-eab4-906d-9018-887909774b3f" href="47913c0f-eab4-906d-9018-887909774b3f.htm">Get<wbr />Next<wbr />Window<wbr />Cmd</a>
+    </li>
+    <li>
+      <a id="f86ddb8c-2142-4ce1-6ddd-78d9afa9068f" href="f86ddb8c-2142-4ce1-6ddd-78d9afa9068f.htm">Get<wbr />Path<wbr />From<wbr />Id<wbr />List<wbr />Option</a>
+    </li>
+    <li>
+      <a id="75cbd069-33cc-f2bc-e78a-be0149914a25" href="75cbd069-33cc-f2bc-e78a-be0149914a25.htm">Get<wbr />Raw<wbr />Input<wbr />Data<wbr />Command</a>
+    </li>
+    <li>
+      <a id="b7928f79-a8d6-064e-6fa1-764a601167da" href="b7928f79-a8d6-064e-6fa1-764a601167da.htm">Get<wbr />Raw<wbr />Input<wbr />Device<wbr />Info<wbr />Command</a>
+    </li>
+    <li>
+      <a id="2ae1fb76-94c3-3acc-ffbd-1b0435c83294" href="2ae1fb76-94c3-3acc-ffbd-1b0435c83294.htm">Get<wbr />Window<wbr />Cmd</a>
+    </li>
+    <li>
+      <a id="e223e205-3b7a-b749-c7db-42875910ab83" href="e223e205-3b7a-b749-c7db-42875910ab83.htm">Handle<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="85429110-5b02-6c2d-abc5-f1a8e0740d3f" href="85429110-5b02-6c2d-abc5-f1a8e0740d3f.htm">Hard<wbr />Error<wbr />Response</a>
+    </li>
+    <li>
+      <a id="560d7b9f-9ef7-3b26-c439-7ae5fa127b10" href="560d7b9f-9ef7-3b26-c439-7ae5fa127b10.htm">Hard<wbr />Error<wbr />Response<wbr />Option</a>
+    </li>
+    <li>
+      <a id="b96188eb-7c8c-970a-d42e-2a3564dc2bc6" href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">Heap<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="3cf63db8-c053-8214-74e8-1f530b1e5ac9" href="3cf63db8-c053-8214-74e8-1f530b1e5ac9.htm">Heap<wbr />Information<wbr />Class</a>
+    </li>
+    <li>
+      <a id="529d229e-ec2b-338a-7b38-0bed3538b6f0" href="529d229e-ec2b-338a-7b38-0bed3538b6f0.htm">Hook<wbr />Type</a>
+    </li>
+    <li>
+      <a id="1c493191-8f74-2126-88fb-2f9de0d245b6" href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a>
+    </li>
+    <li>
+      <a id="8fa3b733-022b-63e6-118b-4ce1e9da45a7" href="8fa3b733-022b-63e6-118b-4ce1e9da45a7.htm">Initiate<wbr />Shutdown<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ec29cf90-79c7-f8d0-87f4-c41807368745" href="ec29cf90-79c7-f8d0-87f4-c41807368745.htm">Input<wbr />Type</a>
+    </li>
+    <li>
+      <a id="5bcb7608-0706-3af9-16b0-33f5c9ab76dd" href="5bcb7608-0706-3af9-16b0-33f5c9ab76dd.htm">Ip<wbr />Stats<wbr />Forwarding</a>
+    </li>
+    <li>
+      <a id="e63247c8-c4bc-cf62-2658-0133dd8e8897" href="e63247c8-c4bc-cf62-2658-0133dd8e8897.htm">IShell<wbr />Item<wbr />Image<wbr />Factory<wbr />Get<wbr />Image<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="7c6e0f71-12f4-db6d-2fd0-d0b845e2d056" href="7c6e0f71-12f4-db6d-2fd0-d0b845e2d056.htm">IShell<wbr />Link<wbr />Get<wbr />Path<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ac388084-4025-40c4-1f22-684cb5723175" href="ac388084-4025-40c4-1f22-684cb5723175.htm">IShell<wbr />Link<wbr />Resolve<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="147f0073-12c2-aacd-bbcb-133f201e74f8" href="147f0073-12c2-aacd-bbcb-133f201e74f8.htm">Keybd<wbr />Event<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="08b637e1-aee0-ac6f-65fd-9164d0d5472b" href="08b637e1-aee0-ac6f-65fd-9164d0d5472b.htm">Keyboard<wbr />Input<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="1a8d9412-7eb1-26be-64a4-43abc8af9fc2" href="1a8d9412-7eb1-26be-64a4-43abc8af9fc2.htm">Keyboard<wbr />Layout<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="39b36129-9b89-a005-d20d-107d9a3fc52a" href="39b36129-9b89-a005-d20d-107d9a3fc52a.htm">Keyboard<wbr />Low<wbr />Level<wbr />Hook<wbr />Struct<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="4e9db6f2-ac21-4000-9073-3ff2e0905690" href="4e9db6f2-ac21-4000-9073-3ff2e0905690.htm">Layered<wbr />Window<wbr />Attributes<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="20289c90-5d16-1fa8-260a-2dc918489ea3" href="20289c90-5d16-1fa8-260a-2dc918489ea3.htm">List<wbr />Box<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="31e8a121-0f1f-f6e3-02ff-ad2d0f9326d9" href="31e8a121-0f1f-f6e3-02ff-ad2d0f9326d9.htm">List<wbr />View<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="2c2ccb07-5c4a-8594-c84f-010023ba0952" href="2c2ccb07-5c4a-8594-c84f-010023ba0952.htm">Load<wbr />Image<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="76da1a03-858d-3ee8-c1f1-07798774b326" href="76da1a03-858d-3ee8-c1f1-07798774b326.htm">Load<wbr />Image<wbr />Type</a>
+    </li>
+    <li>
+      <a id="c14a7ff7-6b80-9afb-b304-d399bfc1e61f" href="c14a7ff7-6b80-9afb-b304-d399bfc1e61f.htm">Load<wbr />Library<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="652e703e-8a12-feb3-8f89-40db5f01f069" href="652e703e-8a12-feb3-8f89-40db5f01f069.htm">LParams</a>
+    </li>
+    <li>
+      <a id="64f79781-99c2-f201-164c-3974f885b68d" href="64f79781-99c2-f201-164c-3974f885b68d.htm">MCICommands</a>
+    </li>
+    <li>
+      <a id="3bac91d1-5158-9c00-c6bc-49b2f0ab0b9c" href="3bac91d1-5158-9c00-c6bc-49b2f0ab0b9c.htm">Memory<wbr />Allocation<wbr />Type</a>
+    </li>
+    <li>
+      <a id="f48740af-8543-91cc-f25b-064ac062108f" href="f48740af-8543-91cc-f25b-064ac062108f.htm">Memory<wbr />Free<wbr />Type</a>
+    </li>
+    <li>
+      <a id="d5d6701b-0537-b36c-4e12-97923553b5a7" href="d5d6701b-0537-b36c-4e12-97923553b5a7.htm">Memory<wbr />Protection<wbr />Options</a>
+    </li>
+    <li>
+      <a id="8f6b3b18-80a2-e705-be86-1949d774a2c0" href="8f6b3b18-80a2-e705-be86-1949d774a2c0.htm">Memory<wbr />Resource<wbr />Notification<wbr />Type</a>
+    </li>
+    <li>
+      <a id="6f7a6a95-13ee-1444-6d6c-f4914047b1de" href="6f7a6a95-13ee-1444-6d6c-f4914047b1de.htm">Memory<wbr />State</a>
+    </li>
+    <li>
+      <a id="ebf3187c-edf2-6cc6-1577-4a7576996a33" href="ebf3187c-edf2-6cc6-1577-4a7576996a33.htm">Memory<wbr />Type</a>
+    </li>
+    <li>
+      <a id="7df1214e-740c-b698-1c7a-2527df549bce" href="7df1214e-740c-b698-1c7a-2527df549bce.htm">Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="8e38d131-472b-821d-87a2-058bf916978d" href="8e38d131-472b-821d-87a2-058bf916978d.htm">Menu<wbr />Item<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="77dd0b89-405c-7285-e1f5-e6755907c749" href="77dd0b89-405c-7285-e1f5-e6755907c749.htm">Menu<wbr />Item<wbr />State</a>
+    </li>
+    <li>
+      <a id="1db0baa0-47b5-dd29-9e50-361382984ace" href="1db0baa0-47b5-dd29-9e50-361382984ace.htm">Menu<wbr />Item<wbr />Type</a>
+    </li>
+    <li>
+      <a id="1cdcfaa6-7682-9608-7999-821dd982b57c" href="1cdcfaa6-7682-9608-7999-821dd982b57c.htm">Menu<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="a07717a9-ec9c-5ad4-4b07-7be79c21ffd7" href="a07717a9-ec9c-5ad4-4b07-7be79c21ffd7.htm">Menu<wbr />Position</a>
+    </li>
+    <li>
+      <a id="f92cd369-0922-7fc3-9115-9e5403336975" href="f92cd369-0922-7fc3-9115-9e5403336975.htm">Menu<wbr />Style</a>
+    </li>
+    <li>
+      <a id="f27dea0f-ffa1-f0a1-9ec4-496e6428b25c" href="f27dea0f-ffa1-f0a1-9ec4-496e6428b25c.htm">Message<wbr />Filter<wbr />Info</a>
+    </li>
+    <li>
+      <a id="c5b27d81-e4c5-7628-4d86-ec6fcf7641cd" href="c5b27d81-e4c5-7628-4d86-ec6fcf7641cd.htm">Mini<wbr />Dump<wbr />Type</a>
+    </li>
+    <li>
+      <a id="b595ae8e-dc48-203e-a1d2-31030e73c3a6" href="b595ae8e-dc48-203e-a1d2-31030e73c3a6.htm">Monitor<wbr />From<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="562ff69d-8181-6191-cb70-de26e7afda3a" href="562ff69d-8181-6191-cb70-de26e7afda3a.htm">Monitor<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="d4129705-5e4e-6caa-ba91-42fb9e98e442" href="d4129705-5e4e-6caa-ba91-42fb9e98e442.htm">Mouse<wbr />Event<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="733453b4-6afa-7e56-b1fb-326b6ca4a4c5" href="733453b4-6afa-7e56-b1fb-326b6ca4a4c5.htm">Mouse<wbr />Input<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="78013546-871f-1eff-97a6-816d274b6832" href="78013546-871f-1eff-97a6-816d274b6832.htm">Mouse<wbr />Low<wbr />Level<wbr />Hook<wbr />Struct<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="601bbfe1-a252-c957-263e-2595f13b4ad3" href="601bbfe1-a252-c957-263e-2595f13b4ad3.htm">Mui<wbr />Language<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="2faf8161-5e01-f060-44b4-4db07fa71d19" href="2faf8161-5e01-f060-44b4-4db07fa71d19.htm">Multi<wbr />Byte<wbr />Char<wbr />Conversion<wbr />Type</a>
+    </li>
+    <li>
+      <a id="026558e0-632c-0468-5892-bb31e2950894" href="026558e0-632c-0468-5892-bb31e2950894.htm">Mutex<wbr />Information<wbr />Class</a>
+    </li>
+    <li>
+      <a id="2a43e9a4-4518-880b-d958-68401beef3ed" href="2a43e9a4-4518-880b-d958-68401beef3ed.htm">Native<wbr />Hotkey<wbr />Modifiers</a>
+    </li>
+    <li>
+      <a id="4718f047-3333-f2ed-b3af-e1ebc0ac65a5" href="4718f047-3333-f2ed-b3af-e1ebc0ac65a5.htm">Native<wbr />Window<wbr />State</a>
+    </li>
+    <li>
+      <a id="472a24ca-d8f0-fccc-e153-ec0cfed2c842" href="472a24ca-d8f0-fccc-e153-ec0cfed2c842.htm">Nc<wbr />Rendering<wbr />Policy<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="dc1ee120-5670-b8c0-51a3-069eafd425a7" href="dc1ee120-5670-b8c0-51a3-069eafd425a7.htm">Network<wbr />Error<wbr />Code</a>
+    </li>
+    <li>
+      <a id="05688864-4c32-59be-d178-e8d8cc36997d" href="05688864-4c32-59be-d178-e8d8cc36997d.htm">NTStatus</a>
+    </li>
+    <li>
+      <a id="642f9ef8-2b69-9d6c-a618-eabb1c8a1415" href="642f9ef8-2b69-9d6c-a618-eabb1c8a1415.htm">Object<wbr />Handle<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="f34a3b51-bea3-9e92-63bb-de8e8621727a" href="f34a3b51-bea3-9e92-63bb-de8e8621727a.htm">Offer<wbr />Virtual<wbr />Memory<wbr />Priority</a>
+    </li>
+    <li>
+      <a id="d0f6060a-0ba5-11e6-b2f4-b2355f5d7139" href="d0f6060a-0ba5-11e6-b2f4-b2355f5d7139.htm">Open<wbr />As<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="fecc3a51-fa35-6f95-8ef5-496287b33fdc" href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">Open<wbr />Folder<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="92d49f0e-7865-8034-113a-945fca3df644" href="92d49f0e-7865-8034-113a-945fca3df644.htm">Path<wbr />Options</a>
+    </li>
+    <li>
+      <a id="220adb09-d19e-f875-e0ca-f8ae3cfb563a" href="220adb09-d19e-f875-e0ca-f8ae3cfb563a.htm">Path<wbr />Resolve<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="a21ae5dd-e4a4-926c-2ffb-44db1c90585d" href="a21ae5dd-e4a4-926c-2ffb-44db1c90585d.htm">Peek<wbr />Message<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="295e44b4-9295-3e7a-10a0-6b9986e50829" href="295e44b4-9295-3e7a-10a0-6b9986e50829.htm">Popup<wbr />Window<wbr />Position<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="8298355d-4587-2862-b671-ac2afc2a7c7f" href="8298355d-4587-2862-b671-ac2afc2a7c7f.htm">Power<wbr />Plan<wbr />Access</a>
+    </li>
+    <li>
+      <a id="f8ed6f61-56d5-3c6c-c503-50e5b6d0cdec" href="f8ed6f61-56d5-3c6c-c503-50e5b6d0cdec.htm">Privilege<wbr />States</a>
+    </li>
+    <li>
+      <a id="d07314a9-d7cc-e694-ad84-6551ad2a407f" href="d07314a9-d7cc-e694-ad84-6551ad2a407f.htm">Process<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="965f7f83-751f-e734-3484-b418f8f96838" href="965f7f83-751f-e734-3484-b418f8f96838.htm">Process<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="06077df8-c066-d53a-cf79-23e4a14a16d2" href="06077df8-c066-d53a-cf79-23e4a14a16d2.htm">Process<wbr />Information<wbr />Class</a>
+    </li>
+    <li>
+      <a id="8e801004-abdd-d74d-b9de-aa3338e71768" href="8e801004-abdd-d74d-b9de-aa3338e71768.htm">Process<wbr />Logon<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="88be08b1-9277-2a1c-9a09-c67cf5e9a0e1" href="88be08b1-9277-2a1c-9a09-c67cf5e9a0e1.htm">Process<wbr />Name<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="af98d53c-45ed-44cb-b036-953afa46d5cd" href="af98d53c-45ed-44cb-b036-953afa46d5cd.htm">Processor<wbr />Architecture</a>
+    </li>
+    <li>
+      <a id="f52486dd-b127-73b6-0b82-5f30a99407a2" href="f52486dd-b127-73b6-0b82-5f30a99407a2.htm">Processor<wbr />Feature</a>
+    </li>
+    <li>
+      <a id="cf607bd3-4cc8-35b1-cce0-0be234fc100e" href="cf607bd3-4cc8-35b1-cce0-0be234fc100e.htm">Process<wbr />Privileges</a>
+    </li>
+    <li>
+      <a id="a91ad6cc-5061-cacd-f8b4-9fba0fe56a55" href="a91ad6cc-5061-cacd-f8b4-9fba0fe56a55.htm">Process<wbr />Startup<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="50a69385-36fa-a755-e532-e55afcd4596d" href="50a69385-36fa-a755-e532-e55afcd4596d.htm">Progress<wbr />Bar<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="2cd289de-92f8-1f6e-a9a9-77a114564781" href="2cd289de-92f8-1f6e-a9a9-77a114564781.htm">Progress<wbr />Dialog<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="8d633a99-3897-e44c-a6a2-1447577af949" href="8d633a99-3897-e44c-a6a2-1447577af949.htm">Progress<wbr />Dialog<wbr />Timer<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="8372d818-03d2-1757-b8f5-5b6a589a3f68" href="8372d818-03d2-1757-b8f5-5b6a589a3f68.htm">Pss<wbr />Capture<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ab739170-56ca-fd49-b430-af3f442f3fa4" href="ab739170-56ca-fd49-b430-af3f442f3fa4.htm">Pss<wbr />Duplicate<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="192d2f00-9fb3-5417-173f-1274c8fa28d1" href="192d2f00-9fb3-5417-173f-1274c8fa28d1.htm">Pss<wbr />Process<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="d9e50226-d09e-804b-4dad-7fa6139f8f1f" href="d9e50226-d09e-804b-4dad-7fa6139f8f1f.htm">Pss<wbr />Query<wbr />Information<wbr />Class</a>
+    </li>
+    <li>
+      <a id="2d465878-4cdd-7b75-0b0f-c82106373428" href="2d465878-4cdd-7b75-0b0f-c82106373428.htm">Query<wbr />Assembly<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="a93d6863-0c5c-856e-5b07-ee0165e3d3cb" href="a93d6863-0c5c-856e-5b07-ee0165e3d3cb.htm">Query<wbr />Display<wbr />Config<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="c3649668-dc8f-2421-3011-39b4c7f061f6" href="c3649668-dc8f-2421-3011-39b4c7f061f6.htm">Query<wbr />User<wbr />Notification<wbr />State</a>
+    </li>
+    <li>
+      <a id="5399c403-72a8-d3e7-df87-87fde65f5df8" href="5399c403-72a8-d3e7-df87-87fde65f5df8.htm">Queue<wbr />Status<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="cfbb3f3b-ba7a-974b-b956-19ed597d806a" href="cfbb3f3b-ba7a-974b-b956-19ed597d806a.htm">Raw<wbr />Input<wbr />Device<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="affd9250-b9c1-5f17-d31c-aa5c1f5816dc" href="affd9250-b9c1-5f17-d31c-aa5c1f5816dc.htm">Raw<wbr />Keyboard<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="a1995655-b0e0-f68d-0495-62eea9d3136c" href="a1995655-b0e0-f68d-0495-62eea9d3136c.htm">Raw<wbr />Mouse<wbr />Buttons</a>
+    </li>
+    <li>
+      <a id="a6996b48-d9a9-da00-2087-c2a611e40d7a" href="a6996b48-d9a9-da00-2087-c2a611e40d7a.htm">Raw<wbr />Mouse<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="1ee430f4-e510-2c34-dff7-aa508b526396" href="1ee430f4-e510-2c34-dff7-aa508b526396.htm">Redraw<wbr />Window<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="52c729d3-3fa9-997a-f5a7-adf02dcef919" href="52c729d3-3fa9-997a-f5a7-adf02dcef919.htm">Region<wbr />Combine<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="e490c0e8-a3ce-6274-c0d2-37ec43e2dace" href="e490c0e8-a3ce-6274-c0d2-37ec43e2dace.htm">Region<wbr />Complexity</a>
+    </li>
+    <li>
+      <a id="fa7c4557-8bcd-ea85-0ecc-a04d2b860a4a" href="fa7c4557-8bcd-ea85-0ecc-a04d2b860a4a.htm">Reg<wbr />Notify<wbr />Change<wbr />Filter</a>
+    </li>
+    <li>
+      <a id="7d367eea-2627-c5d2-6367-9ba54291bc49" href="7d367eea-2627-c5d2-6367-9ba54291bc49.htm">Reparse<wbr />Data<wbr />Buffer<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="41b9ac3c-b09e-e4d8-ffdf-9601ed9031ba" href="41b9ac3c-b09e-e4d8-ffdf-9601ed9031ba.htm">Reparse<wbr />Point<wbr />Tags</a>
+    </li>
+    <li>
+      <a id="60035539-aad7-9f6b-1969-8a4082a673a4" href="60035539-aad7-9f6b-1969-8a4082a673a4.htm">Resource<wbr />Type</a>
+    </li>
+    <li>
+      <a id="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4" href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">Scroll<wbr />Bar<wbr />Orientation</a>
+    </li>
+    <li>
+      <a id="6f70de14-0b29-3560-8369-a590344588d1" href="6f70de14-0b29-3560-8369-a590344588d1.htm">Scroll<wbr />Info<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="dd01f420-c2e9-6a5e-71f8-1eaabc75c710" href="dd01f420-c2e9-6a5e-71f8-1eaabc75c710.htm">Section<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="58980eec-3387-dc34-5d4a-96071b31c035" href="58980eec-3387-dc34-5d4a-96071b31c035.htm">Section<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="78894838-6150-1cc9-6cee-761f23555d5b" href="78894838-6150-1cc9-6cee-761f23555d5b.htm">Section<wbr />Inherit</a>
+    </li>
+    <li>
+      <a id="fb0e4cbc-be3a-eaab-057c-a0c2425808ad" href="fb0e4cbc-be3a-eaab-057c-a0c2425808ad.htm">Security<wbr />Impersonation<wbr />Level</a>
+    </li>
+    <li>
+      <a id="0d8736e4-0116-ea3c-25e1-78278a7007a6" href="0d8736e4-0116-ea3c-25e1-78278a7007a6.htm">Security<wbr />Information</a>
+    </li>
+    <li>
+      <a id="9613cf2b-b37a-9223-42ef-e879132de0a7" href="9613cf2b-b37a-9223-42ef-e879132de0a7.htm">Send<wbr />Message<wbr />Timeout<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="1933913e-3d9a-b5ab-9453-df9926d4f639" href="1933913e-3d9a-b5ab-9453-df9926d4f639.htm">Set<wbr />Display<wbr />Config<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="4f51184c-b4a9-0b6a-7715-7713f154478c" href="4f51184c-b4a9-0b6a-7715-7713f154478c.htm">Set<wbr />Foreground<wbr />Window<wbr />Lock<wbr />Modes</a>
+    </li>
+    <li>
+      <a id="cb1d8844-cefb-3766-0719-c8f778bcbeba" href="cb1d8844-cefb-3766-0719-c8f778bcbeba.htm">Set<wbr />Process<wbr />Working<wbr />Set<wbr />Size<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="da268d7e-7530-0373-c319-d61d961a125a" href="da268d7e-7530-0373-c319-d61d961a125a.htm">Setup<wbr />Api<wbr />Device<wbr />Fiter</a>
+    </li>
+    <li>
+      <a id="e74ad644-426f-0d1e-89f3-778eb9e8b9e8" href="e74ad644-426f-0d1e-89f3-778eb9e8b9e8.htm">Set<wbr />Window<wbr />Pos<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="d2a3b9c9-dea9-b98a-cc92-d33cf743fe53" href="d2a3b9c9-dea9-b98a-cc92-d33cf743fe53.htm">SHChange<wbr />Notify<wbr />Event<wbr />ID</a>
+    </li>
+    <li>
+      <a id="d9e10712-7525-64d1-b583-498e354a6b2e" href="d9e10712-7525-64d1-b583-498e354a6b2e.htm">SHChange<wbr />Notify<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="762e29f6-97cb-30ed-a4dd-920ac457458b" href="762e29f6-97cb-30ed-a4dd-920ac457458b.htm">Shell<wbr />Add<wbr />To<wbr />Recent<wbr />Docs<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="a9135280-6e42-de9f-ddce-afe689d62fab" href="a9135280-6e42-de9f-ddce-afe689d62fab.htm">Shell<wbr />Folder<wbr />Enum<wbr />Objects<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="854f8d87-c908-517a-0cdd-36b3be082401" href="854f8d87-c908-517a-0cdd-36b3be082401.htm">Shell<wbr />Folderm<wbr />Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="37d5bc90-8848-0504-7f7f-29d511131fe7" href="37d5bc90-8848-0504-7f7f-29d511131fe7.htm">Shell<wbr />Item<wbr />Attributes<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="7c65804c-85b5-99f0-51a3-6bc7551fe830" href="7c65804c-85b5-99f0-51a3-6bc7551fe830.htm">Shell<wbr />Item<wbr />Compare<wbr />Hint</a>
+    </li>
+    <li>
+      <a id="0314c330-0420-d7fa-f16f-b09e0890114a" href="0314c330-0420-d7fa-f16f-b09e0890114a.htm">Shell<wbr />Item<wbr />Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="64eb5717-a1d9-19d3-6b9c-d365d1a94a02" href="64eb5717-a1d9-19d3-6b9c-d365d1a94a02.htm">Shell<wbr />State<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="38fffdc2-3147-449e-7bf8-c6be4ce56d56" href="38fffdc2-3147-449e-7bf8-c6be4ce56d56.htm">SHEmpty<wbr />Recycle<wbr />Bin<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0694efe6-63fc-7358-fa0e-f7b9af6a3f0a" href="0694efe6-63fc-7358-fa0e-f7b9af6a3f0a.htm">SHGet<wbr />File<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="2c04e7f2-581d-c4d7-7ce3-39a0344db139" href="2c04e7f2-581d-c4d7-7ce3-39a0344db139.htm">SHGet<wbr />New<wbr />Link<wbr />Info<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="902456b8-bcee-1fe7-2bc0-2cf71672250e" href="902456b8-bcee-1fe7-2bc0-2cf71672250e.htm">SHObject<wbr />Properties<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="56579fda-6077-c572-4ce6-5b60fa5ed936" href="56579fda-6077-c572-4ce6-5b60fa5ed936.htm">SHUpdate<wbr />Image<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="b2c6fa2f-a81e-0a05-0f69-be709d15e82f" href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">Shutdown<wbr />Planning</a>
+    </li>
+    <li>
+      <a id="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac" href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">Shutdown<wbr />Reason</a>
+    </li>
+    <li>
+      <a id="ee4290a1-9d26-ddfc-989c-cb57c9d393f6" href="ee4290a1-9d26-ddfc-989c-cb57c9d393f6.htm">Special<wbr />Window<wbr />Handles</a>
+    </li>
+    <li>
+      <a id="654bd5a6-eb13-47dc-28a6-63314a36c5d2" href="654bd5a6-eb13-47dc-28a6-63314a36c5d2.htm">Standard<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="5acf477f-fefb-b709-b8a1-8ac0d29a5608" href="5acf477f-fefb-b709-b8a1-8ac0d29a5608.htm">Standard<wbr />Device</a>
+    </li>
+    <li>
+      <a id="81d81f4d-59bc-1311-2560-ef169f9e8369" href="81d81f4d-59bc-1311-2560-ef169f9e8369.htm">Storage<wbr />Mode<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="4cc26bc5-4c65-2700-e053-6b1035bb6272" href="4cc26bc5-4c65-2700-e053-6b1035bb6272.htm">Str<wbr />Format<wbr />Byte<wbr />Size<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="dcc490f7-4a5e-5e70-c83b-769d09853239" href="dcc490f7-4a5e-5e70-c83b-769d09853239.htm">Symbolic<wbr />Link<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="bb888da4-0b52-fef3-d306-483f1e8e5146" href="bb888da4-0b52-fef3-d306-483f1e8e5146.htm">Sym<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="ed211f51-7406-97e2-c3ff-7877b2f3e8d4" href="ed211f51-7406-97e2-c3ff-7877b2f3e8d4.htm">Sym<wbr />Load<wbr />Module<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="a42b281f-a4c9-5374-85e1-8e17ecbddbe1" href="a42b281f-a4c9-5374-85e1-8e17ecbddbe1.htm">Sym<wbr />Option<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="f1dfb96e-9da2-a62f-ce5b-23748b0bb1fd" href="f1dfb96e-9da2-a62f-ce5b-23748b0bb1fd.htm">Sym<wbr />Tag<wbr />Enum</a>
+    </li>
+    <li>
+      <a id="fe64db0c-76bf-5521-0e16-dc23b3786931" href="fe64db0c-76bf-5521-0e16-dc23b3786931.htm">System<wbr />Cursor<wbr />Id</a>
+    </li>
+    <li>
+      <a id="3960a837-c738-5e87-652f-5fa7acd604d6" href="3960a837-c738-5e87-652f-5fa7acd604d6.htm">System<wbr />Parameters<wbr />Action<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="e3fb14b7-6f68-f3a6-92f6-9d97cca03c24" href="e3fb14b7-6f68-f3a6-92f6-9d97cca03c24.htm">System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="82b1c1a0-c3ba-c028-8467-f097a5a9a1ca" href="82b1c1a0-c3ba-c028-8467-f097a5a9a1ca.htm">Taskbar<wbr />Progress<wbr />Bar<wbr />State</a>
+    </li>
+    <li>
+      <a id="31a4d782-e183-df70-0fc7-3cc0b96ece8e" href="31a4d782-e183-df70-0fc7-3cc0b96ece8e.htm">Ternary<wbr />Raster<wbr />Operations</a>
+    </li>
+    <li>
+      <a id="75d06b83-854b-4327-ffe7-e2dea37acc9e" href="75d06b83-854b-4327-ffe7-e2dea37acc9e.htm">Thread<wbr />Access<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="d187496e-6080-a492-58ec-ec6b3f9da61b" href="d187496e-6080-a492-58ec-ec6b3f9da61b.htm">Thread<wbr />Error<wbr />Mode</a>
+    </li>
+    <li>
+      <a id="0cc86932-487b-35ec-078a-9b2f78ac7c05" href="0cc86932-487b-35ec-078a-9b2f78ac7c05.htm">Thumbnail<wbr />Alpha<wbr />Type</a>
+    </li>
+    <li>
+      <a id="5dea7037-4abd-e6f0-9ccd-bdb9f217ecd9" href="5dea7037-4abd-e6f0-9ccd-bdb9f217ecd9.htm">Thumbnail<wbr />Cache<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="cd8974ba-5fb5-fdfe-e7f7-97f96b6c92fc" href="cd8974ba-5fb5-fdfe-e7f7-97f96b6c92fc.htm">Thumbnail<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="cb489b79-5681-81c6-d8ab-9a2a606973c7" href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">Token<wbr />Access</a>
+    </li>
+    <li>
+      <a id="9b8bd2d4-63d9-e69a-24dc-8e86196eaab4" href="9b8bd2d4-63d9-e69a-24dc-8e86196eaab4.htm">Token<wbr />Information<wbr />Class</a>
+    </li>
+    <li>
+      <a id="dcb330f5-a156-a8cd-1663-e9f5e72a262b" href="dcb330f5-a156-a8cd-1663-e9f5e72a262b.htm">Token<wbr />Type</a>
+    </li>
+    <li>
+      <a id="4ba62aea-6c56-3e14-e9f4-abaf5714cf18" href="4ba62aea-6c56-3e14-e9f4-abaf5714cf18.htm">Tool<wbr />Bar<wbr />Button<wbr />Info<wbr />Mask</a>
+    </li>
+    <li>
+      <a id="5d8bc2ac-615b-526e-19b2-aeea47f4872d" href="5d8bc2ac-615b-526e-19b2-aeea47f4872d.htm">Toolbar<wbr />Button<wbr />States</a>
+    </li>
+    <li>
+      <a id="86276df7-9da5-8498-bb49-b13607ad9f18" href="86276df7-9da5-8498-bb49-b13607ad9f18.htm">Toolbar<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="b1638372-d7de-9662-d4f0-ccca562c73a8" href="b1638372-d7de-9662-d4f0-ccca562c73a8.htm">Transfer<wbr />Source<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="f06b4977-c381-90d2-7601-b769a7fbba01" href="f06b4977-c381-90d2-7601-b769a7fbba01.htm">Update<wbr />Layered<wbr />Windowflags</a>
+    </li>
+    <li>
+      <a id="1dbed88b-017c-1f47-1eba-c2e2e81a7850" href="1dbed88b-017c-1f47-1eba-c2e2e81a7850.htm">Virtual<wbr />Key<wbr />Mapping<wbr />Types</a>
+    </li>
+    <li>
+      <a id="d59c9687-c273-869a-b0d1-4a09d5db6b19" href="d59c9687-c273-869a-b0d1-4a09d5db6b19.htm">Virtual<wbr />Keys</a>
+    </li>
+    <li>
+      <a id="960344f5-357e-dc44-9fa7-0f6ebdafebe1" href="960344f5-357e-dc44-9fa7-0f6ebdafebe1.htm">Volume<wbr />Information<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="0503c860-1e15-5ea9-2fde-95856e813bac" href="0503c860-1e15-5ea9-2fde-95856e813bac.htm">Wait<wbr />Object<wbr />Result</a>
+    </li>
+    <li>
+      <a id="5e88115b-9e7c-e3a9-198c-63c32b01a474" href="5e88115b-9e7c-e3a9-198c-63c32b01a474.htm">Wer<wbr />Fault<wbr />Reporting</a>
+    </li>
+    <li>
+      <a id="fc385b6b-50a7-6a3b-2e33-c613cd644eeb" href="fc385b6b-50a7-6a3b-2e33-c613cd644eeb.htm">Wer<wbr />Register<wbr />File<wbr />Type</a>
+    </li>
+    <li>
+      <a id="4462bf97-96ea-e6f7-e70c-983ec9da308d" href="4462bf97-96ea-e6f7-e70c-983ec9da308d.htm">Wer<wbr />Register<wbr />File<wbr />Type<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="041c1d1d-0bfa-50f0-0b22-c54c5dbde7c8" href="041c1d1d-0bfa-50f0-0b22-c54c5dbde7c8.htm">Wide<wbr />Char<wbr />Conversion<wbr />Type</a>
+    </li>
+    <li>
+      <a id="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de" href="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de.htm">Win<wbr />32Error<wbr />Code</a>
+    </li>
+    <li>
+      <a id="711b8f34-7ccc-dee7-4fd5-c3136de96ee9" href="711b8f34-7ccc-dee7-4fd5-c3136de96ee9.htm">Window<wbr />Animation</a>
+    </li>
+    <li>
+      <a id="8fdd4e00-cf10-90a5-178a-eedb1c25918f" href="8fdd4e00-cf10-90a5-178a-eedb1c25918f.htm">Window<wbr />Hit<wbr />Test<wbr />Regions</a>
+    </li>
+    <li>
+      <a id="3a59b5b4-cf34-a7e9-c42f-22aa6ec9629f" href="3a59b5b4-cf34-a7e9-c42f-22aa6ec9629f.htm">Window<wbr />Long<wbr />Values</a>
+    </li>
+    <li>
+      <a id="408e96a1-f83e-f5c4-2cbc-88ec497ecec4" href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">Window<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="56b094ae-5dbb-c9a9-3b7c-e9aaa12c2f78" href="56b094ae-5dbb-c9a9-3b7c-e9aaa12c2f78.htm">Windows<wbr />Beep<wbr />Type</a>
+    </li>
+    <li>
+      <a id="d7bdcb4a-ffec-76be-4ec1-4ee33fb8858f" href="d7bdcb4a-ffec-76be-4ec1-4ee33fb8858f.htm">Windows<wbr />Credentials<wbr />Dialog<wbr />Options</a>
+    </li>
+    <li>
+      <a id="3b98c283-aabd-702e-b53f-d2cfb585972a" href="3b98c283-aabd-702e-b53f-d2cfb585972a.htm">Window<wbr />Skip<wbr />Options</a>
+    </li>
+    <li>
+      <a id="df4dc5bd-3c2b-b3b6-13b4-da5e97785393" href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">Window<wbr />Styles</a>
+    </li>
+    <li>
+      <a id="4dc73a9b-894c-9f5d-d5f5-702a9fec1839" href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">Window<wbr />Styles<wbr />Ex</a>
+    </li>
+    <li>
+      <a id="568a781d-5621-e3e8-047c-0277896699d2" href="568a781d-5621-e3e8-047c-0277896699d2.htm">Win<wbr />Mm<wbr />Result</a>
+    </li>
+    <li>
+      <a id="39a63f45-2939-af58-f0dd-412de87d1ea7" href="39a63f45-2939-af58-f0dd-412de87d1ea7.htm">WParams</a>
+    </li>
+  </tocItems>
+</toc>
