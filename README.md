@@ -4,7 +4,7 @@
 
 ---
 
-# [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+ - # [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
 # [**📧 Contact for support**](mailto:csg1986@hotmail.com)
 
