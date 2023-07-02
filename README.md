@@ -9,6 +9,11 @@
 
 ---
 
+# **💲 Purchase**
+ - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
+
+---
+
 # **✔️ Features**
 
 + ### The right tool to solve (almost) all your problems
@@ -24,13 +29,8 @@
 
 ---
 
-# **ℹ️ Online Documentation **
+# **ℹ️ Online Documentation**
  - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
-
----
-
-# **💲 Purchase**
- - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
 
 ---
 
@@ -56,7 +56,7 @@
 
 ---
 
-## ⚙️ Main assemblies and namespaces
+## **⚙️ Main assemblies and namespaces**
 
 | Name | Description |
 | ------ | ----------- |
