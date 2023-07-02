@@ -10,6 +10,8 @@
 
 # [**📙 Online Documentation**](https://elektrostudios.github.io/DevCase.github.io/)
 
+# [**📕 Offline Documentation**](DevCase%20Class%20Library%205.chm)
+
 # [**📋 Version History / Changelog**](Changelog.md)
 
 &nbsp;
