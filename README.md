@@ -3,13 +3,33 @@
 #### Empowering Modern Rapid Application Development
 &nbsp;
 
-> #### DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-> &nbsp;
-> #### Elevate your development with DevCase Class Library - the ultimate companion for modern-day developers. Empowered by its unparalleled capabilities, you can transform your ideas into remarkable software solutions, revolutionizing the way you approach application development. Experience the future of Rapid Application Development today.
+---
+&nbsp;
+
+
+# [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+
+# [**📧 Contact for support**](mailto:csg1986@hotmail.com)
+
+# [**📙 Online Documentation**](https://elektrostudios.github.io/DevCase.github.io/)
+
+&nbsp;
+
+---
+
+# **ℹ️ What is DevCase Class Library?**
+&nbsp;
+
+DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
+
+&nbsp;
+
+Elevate your development with DevCase Class Library - the ultimate companion for modern-day developers. Empowered by its unparalleled capabilities, you can transform your ideas into remarkable software solutions, revolutionizing the way you approach application development. Experience the future of Rapid Application Development today.
 
 ---
 
 # **✔️ Features**
+&nbsp;
 
 + ### The right tool to solve (almost) all your problems
   * The DevCase Class Library is a comprehensive collection comprising over 100 distinct library files, each tailored to provide an extensive range of capabilities across diverse scenarios. 
@@ -24,19 +44,35 @@
 
 ---
 
-# **💲 Purchase**
- - __*[Click here to purchase DevCase Class Library at CodeCanyon.net](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)*__ 
+# **❤️ Benefits**
+&nbsp;
 
----
++ ### Unlock the Potential
+  * With DevCase Class Library, you gain access to a vast collection of innovative and powerful APIs and extensions, meticulously crafted to streamline your development process. No longer bound by mundane and repetitive tasks, you can focus your creativity on building remarkable applications that fulfill your business or personal needs.
 
-# **ℹ️ Online Documentation**
- - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
++ ### Accelerate Development
+  * DevCase Class Library empowers you to accomplish in few minutes what would traditionally take weeks or even months. Through its intuitive namespaces and optimized workflows, you can swiftly prototype, iterate, and deploy robust applications. Boost your productivity and stay one step ahead in today's fast-paced world.
+
++ ### Unleash Innovation
+  * Fuel your imagination with the extensive capabilities of DevCase Class Library. Seamlessly integrate and leverage its advanced features to create bespoke solutions that cater to unique requirements. From responsive user interfaces to intricate backend logic, DevCase equips you with the tools to turn ambitious ideas into tangible realities.
+
++ ### Maximize Efficiency
+  * Experience the efficiency of DevCase's meticulously crafted libraries. By harnessing its rich set of pre-built components, you can expedite your development cycle, reducing time and effort without compromising quality. DevCase empowers you to deliver high-performance, scalable, and maintainable applications that surpass expectations.
+
++ ### Seamless Integration
+  * DevCase Class Library seamlessly integrates with your existing development environment, ensuring a smooth transition without disruption. Whether you're working on new projects or enhancing legacy systems, this versatile framework harmoniously aligns with your coding practices and preferences, unleashing your full potential.
+
++ ### Stay Ahead
+  * In an ever-evolving technological landscape, DevCase Class Library equips you with the agility and adaptability to stay ahead of the curve. Benefit from regular updates and enhancements that keep you at the forefront of innovation, enabling you to embrace emerging trends and technologies with ease.
 
 ---
 
 # **🤷‍ But what specific things can I achieve using the DevCase Class Library?**
+&nbsp;
 
 The capabilities provided by the 100+ library files that composes the DevCase class library cannot be summarized in a few paragraphs, but here is a great list of interesting tasks that were achieved by using the members provided in the namespaces from the DevCase class library:
+
+&nbsp;
 
 | Task |
 | ------ |
@@ -107,33 +143,30 @@ The capabilities provided by the 100+ library files that composes the DevCase cl
 
 ---
 
-# **❤️ Benefits**
+# **🙏🏻 Better can you give me complete code examples?**
+&nbsp;
 
-+ ### Unlock the Potential
-  * With DevCase Class Library, you gain access to a vast collection of innovative and powerful APIs and extensions, meticulously crafted to streamline your development process. No longer bound by mundane and repetitive tasks, you can focus your creativity on building remarkable applications that fulfill your business or personal needs.
+Listed below are some open source software repositories that were developed with the power of the DevCase Class Library. The source code of each of these repositories includes a small portion (free to use) of the members of the DevCase Class Library that were essential for the development of these applications:
 
-+ ### Accelerate Development
-  * DevCase Class Library empowers you to accomplish in few minutes what would traditionally take weeks or even months. Through its intuitive namespaces and optimized workflows, you can swiftly prototype, iterate, and deploy robust applications. Boost your productivity and stay one step ahead in today's fast-paced world.
+ - __*[https://github.com/ElektroStudios/Easy-Link-File-Viewer](https://github.com/ElektroStudios/Easy-Link-File-Viewer)*__ 
+ - __*[https://github.com/ElektroStudios/S.M.A.R.T.-Tool-for-.NET](https://github.com/ElektroStudios/S.M.A.R.T.-Tool-for-.NET)*__ 
+ - __*[https://github.com/ElektroStudios/HardwareStress](https://github.com/ElektroStudios/HardwareStress)*__ 
 
-+ ### Unleash Innovation
-  * Fuel your imagination with the extensive capabilities of DevCase Class Library. Seamlessly integrate and leverage its advanced features to create bespoke solutions that cater to unique requirements. From responsive user interfaces to intricate backend logic, DevCase equips you with the tools to turn ambitious ideas into tangible realities.
+Also, from time to time you could find more full examples in other of my GitHub repositories:
 
-+ ### Maximize Efficiency
-  * Experience the efficiency of DevCase's meticulously crafted libraries. By harnessing its rich set of pre-built components, you can expedite your development cycle, reducing time and effort without compromising quality. DevCase empowers you to deliver high-performance, scalable, and maintainable applications that surpass expectations.
-
-+ ### Seamless Integration
-  * DevCase Class Library seamlessly integrates with your existing development environment, ensuring a smooth transition without disruption. Whether you're working on new projects or enhancing legacy systems, this versatile framework harmoniously aligns with your coding practices and preferences, unleashing your full potential.
-
-+ ### Stay Ahead
-  * In an ever-evolving technological landscape, DevCase Class Library equips you with the agility and adaptability to stay ahead of the curve. Benefit from regular updates and enhancements that keep you at the forefront of innovation, enabling you to embrace emerging trends and technologies with ease.
+ - __*[https://github.com/ElektroStudios?tab=repositories](https://github.com/ElektroStudios?tab=repositories)*__ 
 
 ---
 
 # **⚙️ Main assemblies and namespaces**
 
+&nbsp;
+
 Listed below are the names of the main namespaces that are shared by the 100+ library files that composes the DevCase Class Library, and a brief summary of their general purpose:
 
-| Assembly Name / Namespace | Description |
+&nbsp;
+
+| File Name / Namespace | Summary |
 | ------ | ----------- |
 | DevCase.Runtime | This assembly is specifically designed to enhance the runtime performance of DevCase's libraries by focusing on memory and resource optimization, while it also offers some reusable utilities for the programmer.
 | DevCase.UI | Create visually stunning and intuitive user interfaces with the user-controls contained in DevCase.UI namespaces. This namespace offers a wide range of UI components, dialogs, controls, and styling options to enhance the aesthetics and user experience of your applications. DevCase.UI namespace empowers you to create captivating interfaces that leave a lasting impression.
