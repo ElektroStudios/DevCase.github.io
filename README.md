@@ -4,8 +4,6 @@
 &nbsp;
 
 ---
-&nbsp;
-
 
 # [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
@@ -21,8 +19,6 @@
 &nbsp;
 
 DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-
-&nbsp;
 
 Elevate your development with DevCase Class Library - the ultimate companion for modern-day developers. Empowered by its unparalleled capabilities, you can transform your ideas into remarkable software solutions, revolutionizing the way you approach application development. Experience the future of Rapid Application Development today.
 
