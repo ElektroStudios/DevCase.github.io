@@ -4,7 +4,7 @@
 
 ---
 
- - # [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+# [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
 # [**📧 Contact for support**](mailto:csg1986@hotmail.com)
 
@@ -23,7 +23,6 @@ Elevate your development with DevCase Class Library - the ultimate companion for
 ---
 
 # **✔️ Features**
-&nbsp;
 
 + ### The right tool to solve (almost) all your problems
   * The DevCase Class Library is a comprehensive collection comprising over 100 distinct library files, each tailored to provide an extensive range of capabilities across diverse scenarios. 
@@ -35,6 +34,28 @@ Elevate your development with DevCase Class Library - the ultimate companion for
 
 + ### Help is ~~on the way~~ right here
   * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
+
+---
+
+# **❤️ Benefits**
+
++ ### Unlock the Potential
+  * With DevCase Class Library, you gain access to a vast collection of innovative and powerful APIs and extensions, meticulously crafted to streamline your development process. No longer bound by mundane and repetitive tasks, you can focus your creativity on building remarkable applications that fulfill your business or personal needs.
+
++ ### Accelerate Development
+  * DevCase Class Library empowers you to accomplish in few minutes what would traditionally take weeks or even months. Through its intuitive namespaces and optimized workflows, you can swiftly prototype, iterate, and deploy robust applications. Boost your productivity and stay one step ahead in today's fast-paced world.
+
++ ### Unleash Innovation
+  * Fuel your imagination with the extensive capabilities of DevCase Class Library. Seamlessly integrate and leverage its advanced features to create bespoke solutions that cater to unique requirements. From responsive user interfaces to intricate backend logic, DevCase equips you with the tools to turn ambitious ideas into tangible realities.
+
++ ### Maximize Efficiency
+  * Experience the efficiency of DevCase's meticulously crafted libraries. By harnessing its rich set of pre-built components, you can expedite your development cycle, reducing time and effort without compromising quality. DevCase empowers you to deliver high-performance, scalable, and maintainable applications that surpass expectations.
+
++ ### Seamless Integration
+  * DevCase Class Library seamlessly integrates with your existing development environment, ensuring a smooth transition without disruption. Whether you're working on new projects or enhancing legacy systems, this versatile framework harmoniously aligns with your coding practices and preferences, unleashing your full potential.
+
++ ### Stay Ahead
+  * In an ever-evolving technological landscape, DevCase Class Library equips you with the agility and adaptability to stay ahead of the curve. Benefit from regular updates and enhancements that keep you at the forefront of innovation, enabling you to embrace emerging trends and technologies with ease.
 
 ---
 
@@ -60,28 +81,6 @@ DevCase.Core.Networking | Simplify network communication and connectivity with D
 DevCase.Core.Security | Ensure the integrity and confidentiality of your applications with DevCase.Core.Security namespaces, which provides a comprehensive suite of security APIs. Implement encryption, access control, secure communication, and other security measures with ease, bolstering the protection of your applications.
 DevCase.Core.Windows | Take the Microsoft Windows operating system management to the next level with DevCase.Core.Windows namespaces, which provides a wealth of powerful APIs tailored specifically for Windows manipulation, from simple desktop and taskbar tasks, control panel and recycle bin management, to advanced system tweaking. Unlock the full potential of Windows development with DevCase.Core.Windows.
 DevCase.Core.ThirdParty | Unlock an extensive array of third-party integrations with DevCase.ThirdParty*.dll assemblies, which includes namespaces that seamlessly incorporates a multitude of popular libraries and APIs, enabling you to harness the power of industry-leading technologies. From media processing to network services like Google and Microsoft, and productivity tools. DevCase.ThirdParty ensures you have access to the best tools to meet your application's requirements.
-
----
-
-# **❤️ Benefits**
-
-+ ### Unlock the Potential
-  * With DevCase Class Library, you gain access to a vast collection of innovative and powerful APIs and extensions, meticulously crafted to streamline your development process. No longer bound by mundane and repetitive tasks, you can focus your creativity on building remarkable applications that fulfill your business or personal needs.
-
-+ ### Accelerate Development
-  * DevCase Class Library empowers you to accomplish in few minutes what would traditionally take weeks or even months. Through its intuitive namespaces and optimized workflows, you can swiftly prototype, iterate, and deploy robust applications. Boost your productivity and stay one step ahead in today's fast-paced world.
-
-+ ### Unleash Innovation
-  * Fuel your imagination with the extensive capabilities of DevCase Class Library. Seamlessly integrate and leverage its advanced features to create bespoke solutions that cater to unique requirements. From responsive user interfaces to intricate backend logic, DevCase equips you with the tools to turn ambitious ideas into tangible realities.
-
-+ ### Maximize Efficiency
-  * Experience the efficiency of DevCase's meticulously crafted libraries. By harnessing its rich set of pre-built components, you can expedite your development cycle, reducing time and effort without compromising quality. DevCase empowers you to deliver high-performance, scalable, and maintainable applications that surpass expectations.
-
-+ ### Seamless Integration
-  * DevCase Class Library seamlessly integrates with your existing development environment, ensuring a smooth transition without disruption. Whether you're working on new projects or enhancing legacy systems, this versatile framework harmoniously aligns with your coding practices and preferences, unleashing your full potential.
-
-+ ### Stay Ahead
-  * In an ever-evolving technological landscape, DevCase Class Library equips you with the agility and adaptability to stay ahead of the curve. Benefit from regular updates and enhancements that keep you at the forefront of innovation, enabling you to embrace emerging trends and technologies with ease.
 
 ---
 
