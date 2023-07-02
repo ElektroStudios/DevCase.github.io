@@ -1,28 +1,12 @@
 # **DevCase Class Library 5.0**
 
 #### Empowering Modern Rapid Application Development
+&nbsp;
 
-::: warning
-DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-:::
----
+> #### DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
+> &nbsp;
+> #### Elevate your development with DevCase Class Library - the ultimate companion for modern-day developers. Empowered by its unparalleled capabilities, you can transform your ideas into remarkable software solutions, revolutionizing the way you approach application development. Experience the future of Rapid Application Development today.
 
-::: info
-info
-DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-:::
----
-
-::: information
-information
-DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-:::
----
-
-::: error
-error
-DevCase Class Library revolutionizes the landscape of software development, presenting a dynamic and comprehensive Rapid Application Development (RAD) utility framework. Designed for all kind of C# and VB.NET programmers, this cutting-edge solution expands upon the core .NET assemblies, elevating your developer toolbox to unprecedented heights.
-:::
 ---
 
 # **💲 Purchase**
@@ -50,26 +34,19 @@ DevCase Class Library revolutionizes the landscape of software development, pres
 + ### Stay Ahead
   * In an ever-evolving technological landscape, DevCase Class Library equips you with the agility and adaptability to stay ahead of the curve. Benefit from regular updates and enhancements that keep you at the forefront of innovation, enabling you to embrace emerging trends and technologies with ease.
 
-&nbsp;
-
-::: info
-##### **Elevate your development with DevCase Class Library - the ultimate companion for modern-day developers. Empowered by its unparalleled capabilities, you can transform your ideas into remarkable software solutions, revolutionizing the way you approach application development. Experience the future of Rapid Application Development today.**
-::: 
-
 ---
 
 # **ℹ️ Features**
 
-+ ### The right tool to solve your problems
++ ### The right tool to solve (almost) all your problems
   * The DevCase Class Library is a comprehensive collection comprising over 100 distinct library files, each tailored to provide an extensive range of capabilities across diverse scenarios. 
   * With its expansive repertoire, this class library equips developers with a powerful toolkit to address a wide spectrum of requirements. Whether you're building business applications, developing cutting-edge software solutions, or exploring innovative possibilities, the DevCase Class Library empowers you with an abundance of functionalities and features.
 
-> **Note**
-
 + ### For .NET Framework and .NET Core
-  *  This extensive collection of libraries are conveniently packaged to provide seamless support for .NET Framework 4.8 and above, as well as .NET Core 7.0 and above. This inclusive distribution ensures compatibility across various versions of the .NET platform, allowing developers to leverage the libraries' capabilities regardless of their preferred framework.
+  * This extensive collection of libraries are conveniently packaged to provide seamless support for .NET Framework 4.8 and above, as well as .NET Core 7.0 and above. This inclusive distribution ensures compatibility across various versions of the .NET platform, allowing developers to leverage the libraries' capabilities regardless of their preferred framework.
+  * Note that .NET Core support is a recent feature in DevCase Class Library and not all the functionality has been successfully ported.
 
-+ ### Help is on the way
++ ### Help is ~~on the way~~ right here
   * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
 
 ## Main assemblies and namespaces
