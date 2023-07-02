@@ -14,6 +14,11 @@
 
 ---
 
+# **ℹ️ Online Documentation**
+ - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
+
+---
+
 # **✔️ Features**
 
 + ### The right tool to solve (almost) all your problems
@@ -26,11 +31,6 @@
 
 + ### Help is ~~on the way~~ right here
   * All the members within this extensive collection libraries are meticulously documented to ensure clarity and ease of use. To make complex concepts more intuitive, the documentation includes comprehensive code examples in both Vb.NET and C# in many cases. These examples serve as invaluable resources, guiding developers through the implementation of various functionalities and illustrating best practices. With this rich documentation at your disposal, you can quickly grasp the libraries' capabilities, seamlessly integrate them into your projects, and accelerate your development process.
-
-&nbsp;
-
-# **ℹ️ Online Documentation**
- - __*[Click here to open the DevCase Class Library documentation](https://elektrostudios.github.io/DevCase.github.io/)*__ 
 
 ---
 
