@@ -10,8 +10,6 @@
 
 # [**📙 Online Documentation**](https://elektrostudios.github.io/DevCase.github.io/)
 
----
-
 &nbsp;
 
 # **ℹ️ What is DevCase Class Library?**
