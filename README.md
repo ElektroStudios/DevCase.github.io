@@ -10,8 +10,8 @@
 
 # [**📙 Online API Reference**](https://elektrostudios.github.io/DevCase.github.io/)
 
-# [**📕 Offline API Reference for NET Framework 4.8+**](DevCase%20API%20Reference%20%for%20NET%20Framework.chm)
-# [**📕 Offline API Reference for NET Core 6.0+**](DevCase%20API%20Reference%20%for%20NET%20Core.chm)
+# [**📕 Offline API Reference for NET Framework 4.8+**](DevCase%20API%20Reference%20for%20NET%20Framework.chm)
+# [**📕 Offline API Reference for NET Core 6.0+**](DevCase%20API%20Reference%20for%20NET%20Core.chm)
 
 # [**📋 Version History / Changelog**](Changelog.md)
 
@@ -66,7 +66,7 @@ Elevate your development with DevCase Class Library - the ultimate companion for
 
 Listed below are the names of the main namespaces that are shared by the 100+ library files that composes the DevCase Class Library, and a brief summary of their general purpose:
 
-| File Name / Namespace | Summary |
+| Namespace | Summary |
 | ------ | ----------- |
 | DevCase.Runtime | This assembly is specifically designed to enhance the runtime performance of DevCase's libraries by focusing on memory and resource optimization, while it also offers some reusable utilities for the programmer.
 | DevCase.UI | Create visually stunning and intuitive user interfaces with the user-controls contained in DevCase.UI namespaces. This namespace offers a wide range of UI components, dialogs, controls, and styling options to enhance the aesthetics and user experience of your applications. DevCase.UI namespace empowers you to create captivating interfaces that leave a lasting impression.
@@ -83,7 +83,7 @@ DevCase.Core.Media | Elevate your multimedia applications with DevCase.Core.Medi
 DevCase.Core.Networking | Simplify network communication and connectivity with DevCase.Core.Networking namespaces, which offers a set of robust APIs and utilities for network operations, enabling seamless interaction with remote services, data retrieval, and efficient data transmission. DevCase.Core.Networking empowers you to create reliable and high-performing networked applications.
 DevCase.Core.Security | Ensure the integrity and confidentiality of your applications with DevCase.Core.Security namespaces, which provides a comprehensive suite of security APIs. Implement encryption, access control, secure communication, and other security measures with ease, bolstering the protection of your applications.
 DevCase.Core.Windows | Take the Microsoft Windows operating system management to the next level with DevCase.Core.Windows namespaces, which provides a wealth of powerful APIs tailored specifically for Windows manipulation, from simple desktop and taskbar tasks, control panel and recycle bin management, to advanced system tweaking. Unlock the full potential of Windows development with DevCase.Core.Windows.
-DevCase.Core.ThirdParty | Unlock an extensive array of third-party integrations with DevCase.ThirdParty*.dll assemblies, which includes namespaces that seamlessly incorporates a multitude of popular libraries and APIs, enabling you to harness the power of industry-leading technologies. From media processing to network services like Google and Microsoft, and productivity tools. DevCase.ThirdParty ensures you have access to the best tools to meet your application's requirements.
+DevCase.ThirdParty | Unlock an extensive array of third-party integrations with DevCase.ThirdParty*.dll assemblies, which includes namespaces that seamlessly incorporates a multitude of popular libraries and APIs, enabling you to harness the power of industry-leading technologies. From media processing to network services like Google and Microsoft, and productivity tools. DevCase.ThirdParty ensures you have access to the best tools to meet your application's requirements.
 
 ---
 
