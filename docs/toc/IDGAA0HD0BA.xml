@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="fd8009ca-bcdf-872d-865e-c95cb25dde93.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="14cccf94-271f-5bed-c566-25e99432d90d.htm">String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="31cd5657-750b-26da-25a4-c5b2998dcdaf.htm">Methods</a>
+    </li>
+    <li>
+      <a href="470b2f69-0528-89e4-ff8b-b5cd4ed4c9a1.htm">Word<wbr />Wrap</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="875c360c-f110-f6c3-0e44-c3279a286c22" href="875c360c-f110-f6c3-0e44-c3279a286c22.htm">Word<wbr />Wrap(<wbr />String<wbr />Builder, Int<wbr />32, Boolean)</a>
+    </li>
+    <li>
+      <a id="e4609cbe-b135-8200-2d85-9becfb188cc8" href="e4609cbe-b135-8200-2d85-9becfb188cc8.htm">Word<wbr />Wrap(<wbr />String<wbr />Builder, Int<wbr />32, Font)</a>
+    </li>
+  </tocItems>
+</toc>

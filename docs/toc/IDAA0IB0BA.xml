@@ -2,77 +2,73 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="53489cf3-720b-f345-d30d-b520e76da7ed.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Form<wbr />Extensions</a>
+      <a href="e9eb9e49-a4e6-20b5-9431-9069bf2db51f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />File<wbr />Stream<wbr />Extensions</a>
     </li>
     <li>
-      <a href="98ea0b8f-54d4-ea94-e119-aff4f4515f92.htm">Form<wbr />Extensions</a>
+      <a href="391615ed-1496-f9b9-5ea5-493a730a114e.htm">File<wbr />Stream<wbr />Extensions</a>
     </li>
     <li>
-      <a href="c8a0a839-cd2e-83a4-491e-6e4403d5af9f.htm">Methods</a>
+      <a href="5ec32160-09aa-8ac2-079e-8515498d0011.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="ec0b0e2e-4746-7e20-1b2f-89929759f606" class="has-submenu" href="ec0b0e2e-4746-7e20-1b2f-89929759f606.htm">
-        <span data-tocFile="../toc/IDAAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="2c54dc80-eba6-2b16-f941-a8023172d35b" href="2c54dc80-eba6-2b16-f941-a8023172d35b.htm">Copy<wbr />To</a>
+    </li>
+    <li>
+      <a id="fdf7f27d-13f4-8d94-6da1-0aa892bd7213" class="has-submenu" href="fdf7f27d-13f4-8d94-6da1-0aa892bd7213.htm">
+        <span data-tocFile="../toc/IDBAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>For<wbr />Each<wbr />Control</a>
+        </span>Equals</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="697e8917-97d5-ca2c-6706-81de6ad4475c" href="697e8917-97d5-ca2c-6706-81de6ad4475c.htm">Get<wbr />Event<wbr />Handlers</a>
+      <a id="c1033b8e-19e3-3b19-3e8b-1c373b0acd0f" href="c1033b8e-19e3-3b19-3e8b-1c373b0acd0f.htm">Equals<wbr />Async</a>
     </li>
     <li>
-      <a id="20e15c39-4ff7-300f-01c6-33b942ace104" href="20e15c39-4ff7-300f-01c6-33b942ace104.htm">Get<wbr />Horizontal<wbr />Border<wbr />Size</a>
-    </li>
-    <li>
-      <a id="3811ebb3-5bc8-7f7b-b393-e6e1b2f33053" class="has-submenu" href="3811ebb3-5bc8-7f7b-b393-e6e1b2f33053.htm">
+      <a id="37332629-fd58-e19e-e3f7-bd797dcc745b" class="has-submenu" href="37332629-fd58-e19e-e3f7-bd797dcc745b.htm">
         <span data-tocFile="../toc/IDDAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Get<wbr />Next<wbr />Control</a>
+        </span>Index<wbr />Of</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="3e7fba46-9224-1df9-ef33-f550d4189632" href="3e7fba46-9224-1df9-ef33-f550d4189632.htm">Get<wbr />Title<wbr />Bar<wbr />Bounds</a>
-    </li>
-    <li>
-      <a id="30e5ae57-4167-dbbf-5b07-09a1e048adda" href="30e5ae57-4167-dbbf-5b07-09a1e048adda.htm">Get<wbr />Vertical<wbr />Border<wbr />Size</a>
-    </li>
-    <li>
-      <a id="964f7c9b-780a-f51a-aac6-98b7968f300e" class="has-submenu" href="964f7c9b-780a-f51a-aac6-98b7968f300e.htm">
-        <span data-tocFile="../toc/IDGAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="356be35a-d5ae-e097-d569-a07cbde7b27c" class="has-submenu" href="356be35a-d5ae-e097-d569-a07cbde7b27c.htm">
+        <span data-tocFile="../toc/IDEAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Invoke<wbr />UIType<wbr />Editor</a>
+        </span>Read<wbr />To<wbr />End</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="100f6d12-53f6-0760-6126-fb12c15e207e" class="has-submenu" href="100f6d12-53f6-0760-6126-fb12c15e207e.htm">
-        <span data-tocFile="../toc/IDHAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="1a8ca4bc-8d2d-27e8-5537-5cf10c2f31d0" class="has-submenu" href="1a8ca4bc-8d2d-27e8-5537-5cf10c2f31d0.htm">
+        <span data-tocFile="../toc/IDFAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Lock<wbr />Form<wbr />Region<wbr />To<wbr />Controls</a>
+        </span>Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="84f96d9c-fcbc-400f-c2d2-9162701ddbca" class="has-submenu" href="84f96d9c-fcbc-400f-c2d2-9162701ddbca.htm">
-        <span data-tocFile="../toc/IDIAA0IB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Resume<wbr />Drawing</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="aa4a9c42-43ad-1355-dc3d-95e886cdb73f" href="aa4a9c42-43ad-1355-dc3d-95e886cdb73f.htm">Seek<wbr />To<wbr />Begin</a>
     </li>
     <li>
-      <a id="fecca465-b595-4efc-3ad5-b82ac9205e57" href="fecca465-b595-4efc-3ad5-b82ac9205e57.htm">Set<wbr />Visual<wbr />Style</a>
+      <a id="e3b92c3c-62c7-18a6-491d-639501997517" href="e3b92c3c-62c7-18a6-491d-639501997517.htm">Seek<wbr />To<wbr />End</a>
     </li>
     <li>
-      <a id="78f2334c-c65e-f7bc-2d77-4399e7f79e83" href="78f2334c-c65e-f7bc-2d77-4399e7f79e83.htm">Suspend<wbr />Drawing</a>
+      <a id="a39b8f52-38d9-00c4-aa74-7610ff88abbb" href="a39b8f52-38d9-00c4-aa74-7610ff88abbb.htm">To<wbr />Array</a>
+    </li>
+    <li>
+      <a id="70fc7999-b2a8-0262-ec37-d161006ae8c2" href="70fc7999-b2a8-0262-ec37-d161006ae8c2.htm">To<wbr />Memory<wbr />Stream</a>
+    </li>
+    <li>
+      <a id="9b7775a3-9cef-d258-4fc8-c76564b954f6" href="9b7775a3-9cef-d258-4fc8-c76564b954f6.htm">To<wbr />Stream</a>
     </li>
   </tocItems>
 </toc>

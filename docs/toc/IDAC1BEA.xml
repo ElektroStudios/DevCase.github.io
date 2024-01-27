@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
+    </li>
+    <li>
+      <a href="1158647a-b550-1317-8fc0-367bb975b367.htm">Dev<wbr />Web<wbr />Browser</a>
+    </li>
+    <li>
+      <a href="ad186cb6-f582-b599-0f0a-a601a6443236.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8f77bd04-4ed9-1a47-9bda-7df5352046f8.htm">Navigate</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4043cee8-5db1-eed4-a376-f329851ad73b" href="4043cee8-5db1-eed4-a376-f329851ad73b.htm">Navigate(<wbr />String, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="43acf980-234e-131c-a2a5-a01e32a99977" href="43acf980-234e-131c-a2a5-a01e32a99977.htm">Navigate(<wbr />Uri, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="0cddcfcd-3cab-0f24-752e-d417ad8ff64c" href="0cddcfcd-3cab-0f24-752e-d417ad8ff64c.htm">Navigate(<wbr />String, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="d7437c60-6728-e5c1-3e20-f136f72409d8" href="d7437c60-6728-e5c1-3e20-f136f72409d8.htm">Navigate(<wbr />Uri, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+  </tocItems>
+</toc>

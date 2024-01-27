@@ -2,64 +2,124 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="e5f5fbf4-8052-2d53-97c4-542b6f87f2bc.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Double<wbr />Extensions</a>
+      <a href="172aa538-917c-bb10-6333-29d819c3d7ed.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Directory<wbr />Info<wbr />Extensions</a>
     </li>
     <li>
-      <a href="29b9ac13-d1d2-da0b-3315-d4fadc32bf7b.htm">Double<wbr />Extensions</a>
+      <a href="35823a3a-a46a-ea56-c8c6-53aa2b2d3099.htm">Directory<wbr />Info<wbr />Extensions</a>
     </li>
     <li>
-      <a href="480e4036-0b77-7043-df9a-2e769a074ed6.htm">Methods</a>
+      <a href="2aea50ce-7442-4f39-2a2d-b22e6f36382b.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="04f8db9c-59e4-063a-2a74-b05df94c76c9" href="04f8db9c-59e4-063a-2a74-b05df94c76c9.htm">Difference<wbr />Of</a>
+      <a id="9738c809-8448-3f5c-5f81-2c746553e183" href="9738c809-8448-3f5c-5f81-2c746553e183.htm">Contains<wbr />File</a>
     </li>
     <li>
-      <a id="8571c1a6-236f-eab8-34f4-3e4a3dc07238" class="has-submenu" href="8571c1a6-236f-eab8-34f4-3e4a3dc07238.htm">
-        <span data-tocFile="../toc/IDBAA5BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="044346bb-bab6-ccd3-e0f0-9b7672f88aa2" href="044346bb-bab6-ccd3-e0f0-9b7672f88aa2.htm">Contains<wbr />Files</a>
+    </li>
+    <li>
+      <a id="e9b76a9c-f7bb-793a-3a40-5393c4cc4f9d" href="e9b76a9c-f7bb-793a-3a40-5393c4cc4f9d.htm">Contains<wbr />Folder</a>
+    </li>
+    <li>
+      <a id="a659c810-38bb-b9b0-7993-547abb7f7bb4" href="a659c810-38bb-b9b0-7993-547abb7f7bb4.htm">Contains<wbr />Folders</a>
+    </li>
+    <li>
+      <a id="3d299e1b-fa23-ded5-88ca-33a0433a7e33" class="has-submenu" href="3d299e1b-fa23-ded5-88ca-33a0433a7e33.htm">
+        <span data-tocFile="../toc/IDEAA5BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Formatted</a>
+        </span>Copy<wbr />To</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="a1f06b99-ae66-41ed-0c0a-ce23492d2c76" href="a1f06b99-ae66-41ed-0c0a-ce23492d2c76.htm">Fraction<wbr />By</a>
+      <a id="2b33329f-8da4-6929-54ec-4d830d8ca5ae" class="has-submenu" href="2b33329f-8da4-6929-54ec-4d830d8ca5ae.htm">
+        <span data-tocFile="../toc/IDFAA5BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />All<wbr />Directories</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="0598d793-fd2d-43ab-936c-5785cb718e06" href="0598d793-fd2d-43ab-936c-5785cb718e06.htm">Get<wbr />Decimal<wbr />Places</a>
+      <a id="d8a339f1-b8ed-ea1f-57ec-be0ffa2e9ee8" class="has-submenu" href="d8a339f1-b8ed-ea1f-57ec-be0ffa2e9ee8.htm">
+        <span data-tocFile="../toc/IDGAA5BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Create<wbr />Zip<wbr />File</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="317bafca-195a-446d-9c38-111c792febc5" href="317bafca-195a-446d-9c38-111c792febc5.htm">Is<wbr />Divisible<wbr />By</a>
+      <a id="2741107f-0f8b-94ac-fea3-92d6b7eba40d" href="2741107f-0f8b-94ac-fea3-92d6b7eba40d.htm">Extract<wbr />Icon</a>
     </li>
     <li>
-      <a id="f14c44e3-1de5-9764-f8e6-74729b94a372" href="f14c44e3-1de5-9764-f8e6-74729b94a372.htm">Is<wbr />Even</a>
+      <a id="57557e5f-e6fc-3c91-e666-20820eda1995" class="has-submenu" href="57557e5f-e6fc-3c91-e666-20820eda1995.htm">
+        <span data-tocFile="../toc/IDIAA5BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Force<wbr />Delete</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="46efda7a-948f-328a-67f9-f40673c3d263" href="46efda7a-948f-328a-67f9-f40673c3d263.htm">Is<wbr />In<wbr />Range<wbr />Of</a>
+      <a id="2247960d-3d9d-592f-8a6c-b0fee86e9745" href="2247960d-3d9d-592f-8a6c-b0fee86e9745.htm">Get<wbr />Size</a>
     </li>
     <li>
-      <a id="505467a7-a736-8f21-17d7-f73fc1af5746" href="505467a7-a736-8f21-17d7-f73fc1af5746.htm">Is<wbr />Multiple<wbr />Of</a>
+      <a id="28dac261-f3de-bd1a-d98a-545c8b1307f0" href="28dac261-f3de-bd1a-d98a-545c8b1307f0.htm">Has<wbr />Parent</a>
     </li>
     <li>
-      <a id="95581ae2-205b-3e2c-12c5-a432c935a1b3" href="95581ae2-205b-3e2c-12c5-a432c935a1b3.htm">Is<wbr />Negative</a>
+      <a id="2bbe3f31-5ef6-fb8e-b3dc-87527fc6cddb" href="2bbe3f31-5ef6-fb8e-b3dc-87527fc6cddb.htm">Has<wbr />Rights</a>
     </li>
     <li>
-      <a id="a65487dc-163d-0125-2e15-c3a6e11e05f1" href="a65487dc-163d-0125-2e15-c3a6e11e05f1.htm">Is<wbr />Odd</a>
+      <a id="6aa0d101-011f-1e57-0d48-fac6c845dea2" href="6aa0d101-011f-1e57-0d48-fac6c845dea2.htm">Is<wbr />Empty</a>
     </li>
     <li>
-      <a id="f7db215f-4acc-2117-6b51-1c1a175a1854" href="f7db215f-4acc-2117-6b51-1c1a175a1854.htm">Is<wbr />Positive</a>
+      <a id="5bcde640-5480-5d63-0aed-10d0091ca928" href="5bcde640-5480-5d63-0aed-10d0091ca928.htm">Is<wbr />Hidden</a>
     </li>
     <li>
-      <a id="a20dd459-520a-154d-c3a4-e33dfa968003" href="a20dd459-520a-154d-c3a4-e33dfa968003.htm">Percentage<wbr />Of</a>
+      <a id="2bf2368c-7f5b-33f6-896d-d12194cf61d8" href="2bf2368c-7f5b-33f6-896d-d12194cf61d8.htm">Is<wbr />Read<wbr />Only</a>
+    </li>
+    <li>
+      <a id="04c20c87-e8d6-09c5-6c3f-42ddd8023378" href="04c20c87-e8d6-09c5-6c3f-42ddd8023378.htm">Is<wbr />Root<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="31a28926-c548-cc0f-30e6-9bde3872e63d" href="31a28926-c548-cc0f-30e6-9bde3872e63d.htm">Is<wbr />System</a>
+    </li>
+    <li>
+      <a id="b0efb7af-634b-695b-656b-2896a2dc8f90" href="b0efb7af-634b-695b-656b-2896a2dc8f90.htm">Move<wbr />To</a>
+    </li>
+    <li>
+      <a id="e9789b6c-07a7-965a-6fcc-71921008c51a" href="e9789b6c-07a7-965a-6fcc-71921008c51a.htm">Open<wbr />In<wbr />Explorer</a>
+    </li>
+    <li>
+      <a id="4a96bede-1984-2810-0d22-3f6db7605c66" href="4a96bede-1984-2810-0d22-3f6db7605c66.htm">Order<wbr />By<wbr />Creation<wbr />Time</a>
+    </li>
+    <li>
+      <a id="24dcad5a-ae53-17b9-6289-091975d4ebcf" href="24dcad5a-ae53-17b9-6289-091975d4ebcf.htm">Order<wbr />By<wbr />Last<wbr />Access<wbr />Time</a>
+    </li>
+    <li>
+      <a id="1deff2cb-7b45-b0d3-0d35-c5d4045aa038" href="1deff2cb-7b45-b0d3-0d35-c5d4045aa038.htm">Order<wbr />By<wbr />Last<wbr />Write<wbr />Time</a>
+    </li>
+    <li>
+      <a id="62aeca3c-4ecf-587b-2d30-0ef076b2a4e8" href="62aeca3c-4ecf-587b-2d30-0ef076b2a4e8.htm">Order<wbr />By<wbr />Name<wbr />Alphabetical</a>
+    </li>
+    <li>
+      <a id="395ec7de-1f18-2f60-456c-35bb0dec3024" href="395ec7de-1f18-2f60-456c-35bb0dec3024.htm">Order<wbr />By<wbr />Name<wbr />Natural</a>
+    </li>
+    <li>
+      <a id="17a2e31a-6106-db4a-36b1-7d83fb576a53" href="17a2e31a-6106-db4a-36b1-7d83fb576a53.htm">Recycle</a>
+    </li>
+    <li>
+      <a id="c6efe7de-7ae6-ef69-af39-682c6fd76feb" href="c6efe7de-7ae6-ef69-af39-682c6fd76feb.htm">Rename</a>
+    </li>
+    <li>
+      <a id="6a549bf5-9afb-de51-3a89-53ebf953e0ef" href="6a549bf5-9afb-de51-3a89-53ebf953e0ef.htm">Set<wbr />Rights</a>
+    </li>
+    <li>
+      <a id="db812d1d-32e9-531a-3bc0-dd167b164480" href="db812d1d-32e9-531a-3bc0-dd167b164480.htm">To<wbr />Shell<wbr />Item</a>
     </li>
   </tocItems>
 </toc>

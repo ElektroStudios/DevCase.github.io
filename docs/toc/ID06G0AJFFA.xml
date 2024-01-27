@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="5d6f5312-67bb-ece2-6725-13bc321f2ab6.htm">Open<wbr />Thread</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bd026ef2-f694-1b1d-2ec8-8c660babe5bf" href="bd026ef2-f694-1b1d-2ec8-8c660babe5bf.htm">Open<wbr />Thread(<wbr />Generic<wbr />Access<wbr />Rights, Boolean, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="92ebf888-a7cd-3d0f-907a-a3874bb65d45" href="92ebf888-a7cd-3d0f-907a-a3874bb65d45.htm">Open<wbr />Thread(<wbr />Thread<wbr />Access<wbr />Rights, Boolean, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

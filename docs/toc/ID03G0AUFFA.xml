@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="04ce2aca-e221-5ca5-f21a-508b4f4fdbfa.htm">Redraw<wbr />Window</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a8a147d2-17f8-2001-448f-2736e727736b" href="a8a147d2-17f8-2001-448f-2736e727736b.htm">Redraw<wbr />Window(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="8ab16c47-b733-17c3-cd17-cec5af3124d3" href="8ab16c47-b733-17c3-cd17-cec5af3124d3.htm">Redraw<wbr />Window(<wbr />Int<wbr />Ptr, Rectangle, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="dd0a8de3-4cd5-8f97-479e-ab6fcdec78d7" href="dd0a8de3-4cd5-8f97-479e-ab6fcdec78d7.htm">Redraw<wbr />Window(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="2a4de98d-e62b-1179-4236-dde70baf064d" href="2a4de98d-e62b-1179-4236-dde70baf064d.htm">Redraw<wbr />Window(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="d72c7517-45f4-bc5f-4c74-c02465ecb383" href="d72c7517-45f4-bc5f-4c74-c02465ecb383.htm">Redraw<wbr />Window(<wbr />Safe<wbr />Handle, Rectangle, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="2ce1655c-41aa-5870-a8fd-5518c3371340" href="2ce1655c-41aa-5870-a8fd-5518c3371340.htm">Redraw<wbr />Window(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Int<wbr />Ptr, Redraw<wbr />Window<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

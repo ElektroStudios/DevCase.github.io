@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="c81cb404-5bb7-9dd3-aa45-56ec13b13c45.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Json</a>
+    </li>
+    <li>
+      <a href="c1126cd7-731b-819f-630f-7ac3063cbc31.htm">Util<wbr />Json</a>
+    </li>
+    <li>
+      <a href="b37b5747-67d3-e2a7-797a-4a2e41c2b298.htm">Methods</a>
+    </li>
+    <li>
+      <a href="dbf8d34a-68cb-5bec-00b0-108b7d9a0784.htm">Parse<wbr />Json<wbr />Lightweight</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3eea7497-3f9e-0e86-250f-4a77b15cdaba" href="3eea7497-3f9e-0e86-250f-4a77b15cdaba.htm">Parse<wbr />Json<wbr />Lightweight(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="2842899c-e3b1-2629-2b5e-32085fdbcbe8" href="2842899c-e3b1-2629-2b5e-32085fdbcbe8.htm">Parse<wbr />Json<wbr />Lightweight&lt;TValue&gt;(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -68,6 +68,9 @@
     </li>
     <li>
       <a id="966d38eb-e249-86d4-3980-972921f00160" href="966d38eb-e249-86d4-3980-972921f00160.htm">Char<wbr />Info<wbr />Attributes</a>
+    </li>
+    <li>
+      <a id="bfc6039e-836a-4f26-1f7a-b1cf2c40ac6d" href="bfc6039e-836a-4f26-1f7a-b1cf2c40ac6d.htm">Class<wbr />Long<wbr />Values</a>
     </li>
     <li>
       <a id="cbfec852-bc18-65c1-3729-e86db8596fc8" href="cbfec852-bc18-65c1-3729-e86db8596fc8.htm">Clip<wbr />Box<wbr />Complexity</a>
@@ -173,6 +176,27 @@
     </li>
     <li>
       <a id="0158674c-ea1b-0390-f241-55ed83b8db7a" href="0158674c-ea1b-0390-f241-55ed83b8db7a.htm">Dpi<wbr />Awareness</a>
+    </li>
+    <li>
+      <a id="21b55e2c-73cf-d68c-ec74-51ec6a4bbb6d" href="21b55e2c-73cf-d68c-ec74-51ec6a4bbb6d.htm">Draw<wbr />Edge<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="fdcc1d45-72f0-54ad-cfd5-b988a7f256d7" href="fdcc1d45-72f0-54ad-cfd5-b988a7f256d7.htm">Draw<wbr />Edge<wbr />Type</a>
+    </li>
+    <li>
+      <a id="d9418faf-acd2-8e57-bdcf-044281156113" href="d9418faf-acd2-8e57-bdcf-044281156113.htm">Draw<wbr />Frame<wbr />Control<wbr />Button<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="1911d40f-d4e3-d3c3-6648-6efd5866e7f3" href="1911d40f-d4e3-d3c3-6648-6efd5866e7f3.htm">Draw<wbr />Frame<wbr />Control<wbr />Caption<wbr />Type</a>
+    </li>
+    <li>
+      <a id="4847ca4d-63ce-92a1-48e3-e6bfe489f20c" href="4847ca4d-63ce-92a1-48e3-e6bfe489f20c.htm">Draw<wbr />Frame<wbr />Control<wbr />Menu<wbr />Type</a>
+    </li>
+    <li>
+      <a id="5dd22df5-e264-7080-be56-762176d7ec62" href="5dd22df5-e264-7080-be56-762176d7ec62.htm">Draw<wbr />Frame<wbr />Control<wbr />Scroll<wbr />Flags</a>
+    </li>
+    <li>
+      <a id="af4b56d3-5554-f8bf-19b5-cd5f508d244a" href="af4b56d3-5554-f8bf-19b5-cd5f508d244a.htm">Draw<wbr />Frame<wbr />Control<wbr />Type</a>
     </li>
     <li>
       <a id="4e8f8600-81be-2063-b53d-d553a863edfb" href="4e8f8600-81be-2063-b53d-d553a863edfb.htm">Duplicate<wbr />Handle<wbr />Options</a>
@@ -682,6 +706,9 @@
       <a id="5acf477f-fefb-b709-b8a1-8ac0d29a5608" href="5acf477f-fefb-b709-b8a1-8ac0d29a5608.htm">Standard<wbr />Device</a>
     </li>
     <li>
+      <a id="34fd7618-dae7-1ed0-9416-8ecb9ac7aa6f" href="34fd7618-dae7-1ed0-9416-8ecb9ac7aa6f.htm">Stock<wbr />Objects</a>
+    </li>
+    <li>
       <a id="81d81f4d-59bc-1311-2560-ef169f9e8369" href="81d81f4d-59bc-1311-2560-ef169f9e8369.htm">Storage<wbr />Mode<wbr />Flags</a>
     </li>
     <li>
@@ -749,6 +776,9 @@
     </li>
     <li>
       <a id="86276df7-9da5-8498-bb49-b13607ad9f18" href="86276df7-9da5-8498-bb49-b13607ad9f18.htm">Toolbar<wbr />Messages</a>
+    </li>
+    <li>
+      <a id="62765975-585c-4e51-35ec-8c4f45f4ba17" href="62765975-585c-4e51-35ec-8c4f45f4ba17.htm">Track<wbr />Popup<wbr />Menu<wbr />Flags</a>
     </li>
     <li>
       <a id="b1638372-d7de-9662-d4f0-ccca562c73a8" href="b1638372-d7de-9662-d4f0-ccca562c73a8.htm">Transfer<wbr />Source<wbr />Flags</a>

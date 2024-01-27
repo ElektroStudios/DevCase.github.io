@@ -18,14 +18,14 @@
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="DevCase.Extensions.FileInfoExtensions" />
     <meta name="guid" content="b679d244-e734-94ad-9118-85ecd581cd21" />
-    <meta name="tocFile" content="../toc/IDA0GB0BA.xml" />
+    <meta name="tocFile" content="../toc/IDA0HB0BA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -85,7 +85,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -94,20 +94,21 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>File<wbr />Info<wbr />Extensions Methods</h1>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="IDFDASection">
+            <div id="IDIDASection">
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
                     <a href="82d80446-3849-ad4d-5481-86bfea4e75c0.htm">ContainsFilename</a>
                   </td>
                   <td>
- Determines whether the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_0" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_1" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> contains an element with the specified file name.
+ Determines whether the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_0" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_1" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> contains an element with the specified file name.
  </td>
                 </tr>
                 <tr>
@@ -117,7 +118,7 @@
                   <td>
  Copies the source file to the specified directory.
  <p />
- If the target file already exists, an <a href="https://learn.microsoft.com/dotnet/api/system.io.ioexception" target="_top" rel="noopener noreferrer">IOException</a> is thrown.
+ If the target file already exists, an <span class="noLink">IOException</span> is thrown.
  </td>
                 </tr>
                 <tr>
@@ -151,7 +152,7 @@
                   <td>
  Creates a zip archive from the specified file, 
  using the source filename to create the zip file, 
- with <a href="https://learn.microsoft.com/dotnet/api/system.io.compression.compressionlevel" target="_top" rel="noopener noreferrer">Optimal</a> compression level.
+ with <span class="noLink">Optimal</span> compression level.
  </td>
                 </tr>
                 <tr>
@@ -171,7 +172,7 @@
                   <td>
  Creates a zip archive from the specified file, 
  using the specified filepath to create the zip file, 
- with <a href="https://learn.microsoft.com/dotnet/api/system.io.compression.compressionlevel" target="_top" rel="noopener noreferrer">Optimal</a> compression level.
+ with <span class="noLink">Optimal</span> compression level.
  </td>
                 </tr>
                 <tr>
@@ -181,7 +182,7 @@
                   <td>
  Creates a zip archive from the specified file, 
  using the specified filepath to create the zip file, 
- with <a href="https://learn.microsoft.com/dotnet/api/system.io.compression.compressionlevel" target="_top" rel="noopener noreferrer">Optimal</a> compression level.
+ with <span class="noLink">Optimal</span> compression level.
  </td>
                 </tr>
                 <tr>
@@ -206,9 +207,9 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_top" rel="noopener noreferrer">Equals</a>
+                    <span class="noLink">Equals</span>
                   </td>
-                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -218,6 +219,22 @@
  Extracts the icon associated for the source file.
  <p />
  Note: the maximum size of the returned icon only can be 32x32.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="bc55f209-1bd8-5561-68af-616c748e7e06.htm">ForceDelete</a>
+                  </td>
+                  <td>
+ Forces the permanent deletion of the specified file by removing the read-only attribute and deleting it.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e35d3c5e-939e-aafc-02c7-34317f5b31fd.htm">ForceRecycle</a>
+                  </td>
+                  <td>
+ Forces the recycling of the specified file by removing the read-only attribute and sending it to the recycle bin.
  </td>
                 </tr>
                 <tr>
@@ -246,9 +263,9 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode" target="_top" rel="noopener noreferrer">GetHashCode</a>
+                    <span class="noLink">GetHashCode</span>
                   </td>
-                  <td>Serves as the default hash function.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Serves as the default hash function.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -260,9 +277,9 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype" target="_top" rel="noopener noreferrer">GetType</a>
+                    <span class="noLink">GetType</span>
                   </td>
-                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_top" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Gets the <span class="noLink">Type</span> of the current instance.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -290,13 +307,31 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="604ea98a-e4c9-a239-afc8-bc74f0041732.htm">IsHidden</a>
+                  </td>
+                  <td>
+ Determines whether the source file is hidden,
+ i.e., it has the <span class="noLink">Hidden</span> attribute.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7a51f20f-55e1-acfa-539f-92b0357a0d28.htm">IsSystem</a>
+                  </td>
+                  <td>
+ Determines whether the source file is a system file,
+ i.e., it has the <span class="noLink">System</span> attribute.
+ </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="e7779202-5b51-dc3a-9671-805188ec47a0.htm">Lock(FileInfo)</a>
                   </td>
                   <td>
  Locks read/write access to the specified file for other applications 
  (during the lifetime of the current application).
  <p />
- To unlock the file, just dispose the returned <a href="https://learn.microsoft.com/dotnet/api/system.io.filestream" target="_top" rel="noopener noreferrer">FileStream</a> object.
+ To unlock the file, just dispose the returned <span class="noLink">FileStream</span> object.
  </td>
                 </tr>
                 <tr>
@@ -307,7 +342,7 @@
  Locks read/write access to the specified file for other applications 
  (during the lifetime of the current application).
  <p />
- To unlock the file, just dispose the returned <a href="https://learn.microsoft.com/dotnet/api/system.io.filestream" target="_top" rel="noopener noreferrer">FileStream</a> object.
+ To unlock the file, just dispose the returned <span class="noLink">FileStream</span> object.
  </td>
                 </tr>
                 <tr>
@@ -317,7 +352,7 @@
                   <td>
  Moves the source file to the specified directory.
  <p />
- If the target file already exists, an <a href="https://learn.microsoft.com/dotnet/api/system.io.ioexception" target="_top" rel="noopener noreferrer">IOException</a> is thrown.
+ If the target file already exists, an <span class="noLink">IOException</span> is thrown.
  </td>
                 </tr>
                 <tr>
@@ -341,7 +376,7 @@
                     <a href="ca3e5f09-92e4-4190-e522-2c80c77291f2.htm">OrderByCreationTime</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> by their <a href="https://learn.microsoft.com/dotnet/api/system.io.filesysteminfo.creationtime#system-io-filesysteminfo-creationtime" target="_top" rel="noopener noreferrer">CreationTime</a> property.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_2" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_3" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> by their <span class="noLink">CreationTime</span> property.
  </td>
                 </tr>
                 <tr>
@@ -349,7 +384,7 @@
                     <a href="284f27d7-0255-2f56-02cf-3926de588ebb.htm">OrderByFileSize</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_4" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_5" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> by their <a href="https://learn.microsoft.com/dotnet/api/system.io.fileinfo.length#system-io-fileinfo-length" target="_top" rel="noopener noreferrer">Length</a> property.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_4" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_5" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> by their <span class="noLink">Length</span> property.
  </td>
                 </tr>
                 <tr>
@@ -357,7 +392,7 @@
                     <a href="9797f8ba-52f0-e8e0-7989-1f90d8a243c8.htm">OrderByLastAccessTime</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> by their <a href="https://learn.microsoft.com/dotnet/api/system.io.filesysteminfo.lastaccesstime#system-io-filesysteminfo-lastaccesstime" target="_top" rel="noopener noreferrer">LastAccessTime</a> property.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> by their <span class="noLink">LastAccessTime</span> property.
  </td>
                 </tr>
                 <tr>
@@ -365,7 +400,7 @@
                     <a href="df24f58b-3f56-01af-f6ac-8aa12530159d.htm">OrderByLastWriteTime</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> by their <a href="https://learn.microsoft.com/dotnet/api/system.io.filesysteminfo.lastwritetime#system-io-filesysteminfo-lastwritetime" target="_top" rel="noopener noreferrer">LastWriteTime</a> property.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> by their <span class="noLink">LastWriteTime</span> property.
  </td>
                 </tr>
                 <tr>
@@ -373,8 +408,8 @@
                     <a href="c5241d10-8186-e4d7-16ab-ab5456e79414.htm">OrderByNameAlphabetical</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_10" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_11" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
- by their <a href="https://learn.microsoft.com/dotnet/api/system.io.fileinfo.name#system-io-fileinfo-name" target="_top" rel="noopener noreferrer">Name</a> property using alphabetical order.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_10" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_11" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
+ by their <span class="noLink">Name</span> property using alphabetical order.
  <p /><a href="https://en.wikipedia.org/wiki/Alphabetical_order" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Alphabetical_order</a></td>
                 </tr>
                 <tr>
@@ -382,8 +417,8 @@
                     <a href="be4a9829-ce75-4290-2c1b-e494aca7dd26.htm">OrderByNameNatural</a>
                   </td>
                   <td>
- Sorts the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA7F7CDAF_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
- by their <a href="https://learn.microsoft.com/dotnet/api/system.io.fileinfo.name#system-io-fileinfo-name" target="_top" rel="noopener noreferrer">Name</a> property using natural order.
+ Sorts the elements of the source <span class="noLink">IEnumerable<span id="LSTA7F7CDAF_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA7F7CDAF_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
+ by their <span class="noLink">Name</span> property using natural order.
  <p /><a href="https://en.wikipedia.org/wiki/Natural_sort_order" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Natural_sort_order</a></td>
                 </tr>
                 <tr>
@@ -439,14 +474,14 @@
                     <a href="67b50c68-f86f-6351-384f-c9107af93ee7.htm">ToShellItem</a>
                   </td>
                   <td>
- Converts the source <a href="https://learn.microsoft.com/dotnet/api/system.io.fileinfo" target="_top" rel="noopener noreferrer">FileInfo</a> to <a href="906d663d-5b06-4539-3d15-46a89ea94fd8.htm">IShellItem</a>.
+ Converts the source <span class="noLink">FileInfo</span> to <a href="906d663d-5b06-4539-3d15-46a89ea94fd8.htm">IShellItem</a>.
  </td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring" target="_top" rel="noopener noreferrer">ToString</a>
+                    <span class="noLink">ToString</span>
                   </td>
-                  <td>Returns a string that represents the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Returns a string that represents the current object.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
               </table>
             </div>
@@ -497,7 +532,34 @@
                     <a href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">IsDisposable</a>
                   </td>
                   <td>
- Determines whether the specified object is disposable.
+ Determines whether the specified object is a disposable type 
+ (i.e., it implements <span class="noLink">IDisposable</span> interface).
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b6518cbc-eac7-374e-f53c-70aa031bf15b.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a447b4b7-8d2e-a234-f910-4749678e12f8.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4ed5be38-075c-b944-23d9-9298e43d9f2a.htm">ThrowIfNull<span id="LSTA7F7CDAF_20" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>TException<span id="LSTA7F7CDAF_21" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Throws the specified exception if the source object is null.
  <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
                 </tr>
               </table>
@@ -546,9 +608,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");

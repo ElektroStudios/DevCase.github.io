@@ -2,33 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="a909f465-e583-56d4-9254-8fad1456ae79.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Frame<wbr />Extensions</a>
+      <a href="1b60fdfe-f3a5-2927-2225-3a8032aa335f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Extensions</a>
     </li>
     <li>
-      <a href="5d8d5881-0bdb-9662-3c29-18f2a22feead.htm">Bitmap<wbr />Frame<wbr />Extensions</a>
+      <a href="75e2efcc-b97d-bb83-ec87-a9368b85284a.htm">Bitmap<wbr />Extensions</a>
     </li>
     <li>
-      <a href="22e8ea84-8161-d9f0-a73b-9217acfd54a5.htm">Methods</a>
+      <a href="83877e93-d21f-48c0-4108-e92d6b577b36.htm">Methods</a>
     </li>
     <li>
-      <a href="4141fe61-631f-7a04-a01e-5064af5b93e7.htm">To<wbr />Bitmap</a>
+      <a href="bbf7de23-03e8-397e-efe9-26f16dfa1df2.htm">Apply<wbr />Color<wbr />Matrix</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="b772a128-94dd-3467-e42d-f7e98d215ecc" href="b772a128-94dd-3467-e42d-f7e98d215ecc.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Frame)</a>
+      <a id="a66aad1d-77e5-0690-5f2e-3e3d8a8ebb49" href="a66aad1d-77e5-0690-5f2e-3e3d8a8ebb49.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Bitmap, Color<wbr />Matrix)</a>
     </li>
     <li>
-      <a id="de592e9b-e0b0-0d62-1142-ac29edea6baf" href="de592e9b-e0b0-0d62-1142-ac29edea6baf.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Frame, Pixel<wbr />Format)</a>
+      <a id="6c43226b-4b58-f843-0889-8a7d1edcc096" href="6c43226b-4b58-f843-0889-8a7d1edcc096.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Bitmap, Color<wbr />Matrix, Graphics<wbr />Quality<wbr />Container)</a>
     </li>
   </tocItems>
 </toc>

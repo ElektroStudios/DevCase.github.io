@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="4e5c0fca-a7c6-1942-a790-085cdbca0137.htm">Window<wbr />From<wbr />Point</a>
+      <a href="3824195b-60a6-d0e3-cd82-58c05c48db1d.htm">Validate<wbr />Rgn</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="d1299890-0bf0-3929-3e34-638f4dfd00bf" href="d1299890-0bf0-3929-3e34-638f4dfd00bf.htm">Window<wbr />From<wbr />Point(<wbr />Native<wbr />Point)</a>
+      <a id="8c2327ea-5d67-f7d1-f393-3b4a5990dc49" href="8c2327ea-5d67-f7d1-f393-3b4a5990dc49.htm">Validate<wbr />Rgn(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="dea0bf94-e33a-ded1-12cb-dd8ca3903084" href="dea0bf94-e33a-ded1-12cb-dd8ca3903084.htm">Window<wbr />From<wbr />Point(<wbr />Point)</a>
+      <a id="9ee02a8d-18fd-1292-435d-99fedac3c1ed" href="9ee02a8d-18fd-1292-435d-99fedac3c1ed.htm">Validate<wbr />Rgn(<wbr />Safe<wbr />Handle, Safe<wbr />Handle)</a>
     </li>
   </tocItems>
 </toc>

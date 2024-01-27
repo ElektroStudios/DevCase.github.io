@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
@@ -26,6 +26,9 @@
   <tocItems>
     <li>
       <a id="0c040c2b-e76e-180f-b707-7f75aaaac220" href="0c040c2b-e76e-180f-b707-7f75aaaac220.htm">Get<wbr />Html<wbr />XPaths</a>
+    </li>
+    <li>
+      <a id="2509f8d9-f930-5ab9-4875-5b60f125f5be" href="2509f8d9-f930-5ab9-4875-5b60f125f5be.htm">Strip<wbr />Html</a>
     </li>
   </tocItems>
 </toc>

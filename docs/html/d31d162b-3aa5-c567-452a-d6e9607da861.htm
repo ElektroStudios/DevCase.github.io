@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>User<wbr />32<span id="LST89ECA2A1_0" data-languageSpecificText="cpp=::|nu=."></span>Create<wbr />Window<wbr />Ex Method</h1>
             <div class="summary">
@@ -105,89 +106,89 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="identifier">CreateWindowEx</span>(
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">IntPtr</span> <span class="identifier">CreateWindowEx</span>(
 	<a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a> <span class="parameter">exStyle</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">className</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">windowName</span>,
+	<span class="noLink">string</span> <span class="parameter">className</span>,
+	<span class="noLink">string</span> <span class="parameter">windowName</span>,
 	<a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a> <span class="parameter">style</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">x</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">y</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">width</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">height</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWndParent</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hMenu</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hInstance</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">param</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet := CharSet.Auto, BestFitMapping := false, 
+	<span class="noLink">int</span> <span class="parameter">x</span>,
+	<span class="noLink">int</span> <span class="parameter">y</span>,
+	<span class="noLink">int</span> <span class="parameter">width</span>,
+	<span class="noLink">int</span> <span class="parameter">height</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hWndParent</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hMenu</span>,
+	<span class="noLink">IntPtr</span> <span class="parameter">hInstance</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">param</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet := CharSet.Auto, BestFitMapping := false, 
 	ThrowOnUnmappableChar := true, SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">CreateWindowEx</span> ( 
 	<span class="parameter">exStyle</span> <span class="keyword">As</span> <a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a>,
-	<span class="parameter">className</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
-	<span class="parameter">windowName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
+	<span class="parameter">className</span> <span class="keyword">As</span> <span class="noLink">String</span>,
+	<span class="parameter">windowName</span> <span class="keyword">As</span> <span class="noLink">String</span>,
 	<span class="parameter">style</span> <span class="keyword">As</span> <a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a>,
-	<span class="parameter">x</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
-	<span class="parameter">y</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
-	<span class="parameter">width</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
-	<span class="parameter">height</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">hWndParent</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">hMenu</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	<span class="parameter">hInstance</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">param</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+	<span class="parameter">x</span> <span class="keyword">As</span> <span class="noLink">Integer</span>,
+	<span class="parameter">y</span> <span class="keyword">As</span> <span class="noLink">Integer</span>,
+	<span class="parameter">width</span> <span class="keyword">As</span> <span class="noLink">Integer</span>,
+	<span class="parameter">height</span> <span class="keyword">As</span> <span class="noLink">Integer</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">hWndParent</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">hMenu</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	<span class="parameter">hInstance</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">param</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+) <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
 <span class="keyword">Dim</span> <span class="parameter">exStyle</span> <span class="keyword">As</span> <a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a>
-<span class="keyword">Dim</span> <span class="parameter">className</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
-<span class="keyword">Dim</span> <span class="parameter">windowName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
+<span class="keyword">Dim</span> <span class="parameter">className</span> <span class="keyword">As</span> <span class="noLink">String</span>
+<span class="keyword">Dim</span> <span class="parameter">windowName</span> <span class="keyword">As</span> <span class="noLink">String</span>
 <span class="keyword">Dim</span> <span class="parameter">style</span> <span class="keyword">As</span> <a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a>
-<span class="keyword">Dim</span> <span class="parameter">x</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
-<span class="keyword">Dim</span> <span class="parameter">y</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
-<span class="keyword">Dim</span> <span class="parameter">width</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
-<span class="keyword">Dim</span> <span class="parameter">height</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
-<span class="keyword">Dim</span> <span class="parameter">hWndParent</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">hMenu</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">hInstance</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">param</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">x</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
+<span class="keyword">Dim</span> <span class="parameter">y</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
+<span class="keyword">Dim</span> <span class="parameter">width</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
+<span class="keyword">Dim</span> <span class="parameter">height</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
+<span class="keyword">Dim</span> <span class="parameter">hWndParent</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">hMenu</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">hInstance</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">param</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
 <span class="parameter">returnValue</span> = <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User32</a>.<span class="identifier">CreateWindowEx</span>(<span class="parameter">exStyle</span>, 
 	<span class="parameter">className</span>, <span class="parameter">windowName</span>, <span class="parameter">style</span>, <span class="parameter">x</span>, <span class="parameter">y</span>, 
 	<span class="parameter">width</span>, <span class="parameter">height</span>, <span class="parameter">hWndParent</span>, <span class="parameter">hMenu</span>, 
 	<span class="parameter">hInstance</span>, <span class="parameter">param</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"User32.dll", CharSet = CharSet::Auto, BestFitMapping = false, 
+[<span class="noLink">DllImportAttribute</span>(L"User32.dll", CharSet = CharSet::Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="identifier">CreateWindowEx</span>(
+<span class="keyword">static</span> <span class="noLink">IntPtr</span> <span class="identifier">CreateWindowEx</span>(
 	<a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a> <span class="parameter">exStyle</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">className</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">windowName</span>, 
+	<span class="noLink">String</span>^ <span class="parameter">className</span>, 
+	<span class="noLink">String</span>^ <span class="parameter">windowName</span>, 
 	<a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a> <span class="parameter">style</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">x</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">y</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">width</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">height</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWndParent</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hMenu</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hInstance</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">param</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
+	<span class="noLink">int</span> <span class="parameter">x</span>, 
+	<span class="noLink">int</span> <span class="parameter">y</span>, 
+	<span class="noLink">int</span> <span class="parameter">width</span>, 
+	<span class="noLink">int</span> <span class="parameter">height</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hWndParent</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hMenu</span>, 
+	<span class="noLink">IntPtr</span> <span class="parameter">hInstance</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">param</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">CreateWindowEx</span> : 
         <span class="parameter">exStyle</span> : <a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a> * 
-        <span class="parameter">className</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
-        <span class="parameter">windowName</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
+        <span class="parameter">className</span> : <span class="noLink">string</span> * 
+        <span class="parameter">windowName</span> : <span class="noLink">string</span> * 
         <span class="parameter">style</span> : <a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a> * 
-        <span class="parameter">x</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
-        <span class="parameter">y</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
-        <span class="parameter">width</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
-        <span class="parameter">height</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">hWndParent</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">hMenu</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        <span class="parameter">hInstance</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">param</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">exStyle</span>  <a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a></dt><dd>
+        <span class="parameter">x</span> : <span class="noLink">int</span> * 
+        <span class="parameter">y</span> : <span class="noLink">int</span> * 
+        <span class="parameter">width</span> : <span class="noLink">int</span> * 
+        <span class="parameter">height</span> : <span class="noLink">int</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">hWndParent</span> : <span class="noLink">IntPtr</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">hMenu</span> : <span class="noLink">IntPtr</span> * 
+        <span class="parameter">hInstance</span> : <span class="noLink">IntPtr</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">param</span> : <span class="noLink">IntPtr</span> <span class="keyword">-&gt;</span> <span class="noLink">IntPtr</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">exStyle</span>  <a href="4dc73a9b-894c-9f5d-d5f5-702a9fec1839.htm">WindowStylesEx</a></dt><dd>
  The extended window style of the window being created.
- </dd><dt class="has-text-weight-normal"><span class="parameter">className</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">className</span>  <span class="noLink">String</span></dt><dd>
  A null-terminated string or a class atom created by a previous call to the RegisterClass or RegisterClassEx function. 
  <p />
  The atom must be in the low-order word of <span class="parameter">className</span>; the high-order word must be zero. 
@@ -198,7 +199,7 @@
  provided that the module that registers the class is also the module that creates the window. 
  <p />
  The class name can also be any of the predefined system class names.
- </dd><dt class="has-text-weight-normal"><span class="parameter">windowName</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">windowName</span>  <span class="noLink">String</span></dt><dd>
  The window name. 
  <p />
  If the window style specifies a title bar, the window title pointed to by lpWindowName is displayed in the title bar. 
@@ -211,7 +212,7 @@
  To specify an identifier, use the syntax "#num".
  </dd><dt class="has-text-weight-normal"><span class="parameter">style</span>  <a href="df4dc5bd-3c2b-b3b6-13b4-da5e97785393.htm">WindowStyles</a></dt><dd>
  The style of the window being created. 
- </dd><dt class="has-text-weight-normal"><span class="parameter">x</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">x</span>  <span class="noLink">Int32</span></dt><dd>
  The initial horizontal position of the window. 
  <p />
  For an overlapped or pop-up window, the x parameter is the initial x-coordinate of the window's upper-left corner, in screen coordinates. 
@@ -223,7 +224,7 @@
  <p />
  CW_USEDEFAULT is valid only for overlapped windows; 
  if it is specified for a pop-up or child window, the x and y parameters are set to zero.
- </dd><dt class="has-text-weight-normal"><span class="parameter">y</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">y</span>  <span class="noLink">Int32</span></dt><dd>
  The initial vertical position of the window. 
  <p />
  For an overlapped or pop-up window, the y parameter is the initial y-coordinate of the window's upper-left corner, in screen coordinates. 
@@ -241,7 +242,7 @@
  <p />
  If the y parameter is some other value, then the window manager calls 
  <a href="df00774c-f311-e85e-46ef-c4c1a317c704.htm">ShowWindow(IntPtr, NativeWindowState)</a> with that value as the <span class="code">windowState</span> (<span class="code">nCmdShow</span>) parameter.
- </dd><dt class="has-text-weight-normal"><span class="parameter">width</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">width</span>  <span class="noLink">Int32</span></dt><dd>
  The width, in device units, of the window. 
  <p />
  For overlapped windows, nWidth is the window's width, in screen coordinates, or CW_USEDEFAULT. 
@@ -252,13 +253,13 @@
  <p />
  CW_USEDEFAULT is valid only for overlapped windows; 
  if CW_USEDEFAULT is specified for a pop-up or child window, the nWidth and nHeight parameter are set to zero.
- </dd><dt class="has-text-weight-normal"><span class="parameter">height</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">height</span>  <span class="noLink">Int32</span></dt><dd>
  The height, in device units, of the window. 
  <p />
  For overlapped windows, nHeight is the window's height, in screen coordinates. 
  <p />
  If the <span class="parameter">width</span> parameter is set to CW_USEDEFAULT, the system ignores nHeight.
- </dd><dt class="has-text-weight-normal"><span class="parameter">hWndParent</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">hWndParent</span>  <span class="noLink">IntPtr</span>  (Optional)</dt><dd>
  A handle to the parent or owner window of the window being created. 
  <p />
  To create a child window or an owned window, supply a valid window handle. 
@@ -266,7 +267,7 @@
  This parameter is optional for pop-up windows.
  <p />
  To create a message-only window, supply HWND_MESSAGE or a handle to an existing message-only window.
- </dd><dt class="has-text-weight-normal"><span class="parameter">hMenu</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">hMenu</span>  <span class="noLink">IntPtr</span>  (Optional)</dt><dd>
  A handle to a menu, or specifies a child-window identifier, depending on the window style. 
  <p />
  For an overlapped or pop-up window, <span class="parameter">hMenu</span> identifies the menu to be used with the window; 
@@ -276,9 +277,9 @@
  an integer value used by a dialog box control to notify its parent about events. 
  <p />
  The application determines the child-window identifier; it must be unique for all child windows with the same parent window.
- </dd><dt class="has-text-weight-normal"><span class="parameter">hInstance</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">hInstance</span>  <span class="noLink">IntPtr</span></dt><dd>
  A handle to the instance of the module to be associated with the window.
- </dd><dt class="has-text-weight-normal"><span class="parameter">param</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">param</span>  <span class="noLink">IntPtr</span>  (Optional)</dt><dd>
  Pointer to a value to be passed to the window through the CREATESTRUCT structure (lpCreateParams member) 
  pointed to by the lParam param of the <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Create</a> message. 
  This message is sent to the created window by this function before it returns.
@@ -288,11 +289,11 @@
  <p />
  If an MDI client window calls <span class="selflink">CreateWindowEx(WindowStylesEx, String, String, WindowStyles, Int32, Int32, Int32, Int32, IntPtr, IntPtr, IntPtr, IntPtr)</span> to create an MDI child window,
  <span class="parameter">param</span> should point to a MDICREATESTRUCT structure. 
- <p /><span class="parameter">param</span> may be <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a> if no additional data is needed.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a><br />
+ <p /><span class="parameter">param</span> may be <span class="noLink">Zero</span> if no additional data is needed.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">IntPtr</span><br />
  If the function succeeds, the return value is a handle to the new window.
  <p />
- If the function fails, the return value is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>.
+ If the function fails, the return value is <span class="noLink">Zero</span>.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
@@ -353,9 +354,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -386,7 +387,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

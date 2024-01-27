@@ -19,14 +19,14 @@
     <meta name="container" content="DevCase.Win32.NativeMethods" />
     <meta name="guid" content="90b88abe-9d11-10d7-0951-2b015365c732" />
     <meta name="Description" content="Sets the parameters of a scroll bar, including the minimum and maximum scrolling positions, the page size, and the position of the scroll box (thumb). The function also redraws the scroll bar, if requested." />
-    <meta name="tocFile" content="../toc/ID03H0AUFFA.xml" />
+    <meta name="tocFile" content="../toc/ID0CI0AUFFA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>User<wbr />32<span id="LSTCBD8F006_0" data-languageSpecificText="cpp=::|nu=."></span>Set<wbr />Scroll<wbr />Info(Int<wbr />Ptr, Scroll<wbr />Bar<wbr />Orientation, Scroll<wbr />Info<span id="LSTCBD8F006_1" data-languageSpecificText="cpp=%"></span>, Boolean) Method</h1>
             <div class="summary">
@@ -108,41 +109,41 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="identifier">SetScrollInfo</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWnd</span>,
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("User32.dll", SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">int</span> <span class="identifier">SetScrollInfo</span>(
+	<span class="noLink">IntPtr</span> <span class="parameter">hWnd</span>,
 	<a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a> <span class="parameter">bar</span>,
 	<span class="keyword">ref</span> <a href="ca8d7942-907d-c504-3440-288e76f7d104.htm">ScrollInfo</a> <span class="parameter">refScrollInfo</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">redraw</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", SetLastError := true&gt;]
+	<span class="noLink">bool</span> <span class="parameter">redraw</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">SetScrollInfo</span> ( 
-	<span class="parameter">hWnd</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
+	<span class="parameter">hWnd</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
 	<span class="parameter">bar</span> <span class="keyword">As</span> <a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a>,
 	<span class="keyword">ByRef</span> <span class="parameter">refScrollInfo</span> <span class="keyword">As</span> <a href="ca8d7942-907d-c504-3440-288e76f7d104.htm">ScrollInfo</a>,
-	<span class="parameter">redraw</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+	<span class="parameter">redraw</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
+) <span class="keyword">As</span> <span class="noLink">Integer</span>
 
-<span class="keyword">Dim</span> <span class="parameter">hWnd</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">hWnd</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 <span class="keyword">Dim</span> <span class="parameter">bar</span> <span class="keyword">As</span> <a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a>
 <span class="keyword">Dim</span> <span class="parameter">refScrollInfo</span> <span class="keyword">As</span> <a href="ca8d7942-907d-c504-3440-288e76f7d104.htm">ScrollInfo</a>
-<span class="keyword">Dim</span> <span class="parameter">redraw</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">redraw</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
 
 <span class="parameter">returnValue</span> = <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User32</a>.<span class="identifier">SetScrollInfo</span>(<span class="parameter">hWnd</span>, 
 	<span class="parameter">bar</span>, <span class="parameter">refScrollInfo</span>, <span class="parameter">redraw</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"User32.dll", SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="identifier">SetScrollInfo</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWnd</span>, 
+[<span class="noLink">DllImportAttribute</span>(L"User32.dll", SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">int</span> <span class="identifier">SetScrollInfo</span>(
+	<span class="noLink">IntPtr</span> <span class="parameter">hWnd</span>, 
 	<a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a> <span class="parameter">bar</span>, 
 	<a href="ca8d7942-907d-c504-3440-288e76f7d104.htm">ScrollInfo</a>% <span class="parameter">refScrollInfo</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">redraw</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", SetLastError = true)&gt;]
+	<span class="noLink">bool</span> <span class="parameter">redraw</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">SetScrollInfo</span> : 
-        <span class="parameter">hWnd</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
+        <span class="parameter">hWnd</span> : <span class="noLink">IntPtr</span> * 
         <span class="parameter">bar</span> : <a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a> * 
         <span class="parameter">refScrollInfo</span> : <a href="ca8d7942-907d-c504-3440-288e76f7d104.htm">ScrollInfo</a> <span class="keyword">byref</span> * 
-        <span class="parameter">redraw</span> : <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hWnd</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+        <span class="parameter">redraw</span> : <span class="noLink">bool</span> <span class="keyword">-&gt;</span> <span class="noLink">int</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hWnd</span>  <span class="noLink">IntPtr</span></dt><dd>
  A handle to a scroll bar control or a window with a standard scroll bar, 
  depending on the value of the <span class="parameter">bar</span> parameter.
  </dd><dt class="has-text-weight-normal"><span class="parameter">bar</span>  <a href="a3b48d9e-c9e5-0d53-8d8b-6808cbac1ec4.htm">ScrollBarOrientation</a></dt><dd>
@@ -154,11 +155,11 @@
  set the <a href="cf35512b-7755-16dd-d23b-a5a121d81e79.htm">SizeOfStruct</a> member to <span class="code">Marshal.SizeOf(Of ScrollInfo)</span>, 
  and set the <a href="6b2b3de7-cdb1-cdd2-3b5d-2488c23a10b7.htm">Mask</a> member to specify the scroll bar parameters to set, 
  and specify the new parameter values in the appropriate members
- </dd><dt class="has-text-weight-normal"><span class="parameter">redraw</span>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">redraw</span>  <span class="noLink">Boolean</span></dt><dd>
  Specifies whether the scroll bar is redrawn to reflect the changes to the scroll bar.
  <p />
  If this parameter is <span class="keyword"><span id="LSTCBD8F006_4" data-languageSpecificText="vb=True|nu=true"></span></span>, the scroll bar is redrawn, otherwise, it is not redrawn. 
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a><br />
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Int32</span><br />
  The return value is the current position of the scroll box.
  </div>
             <h2 class="quickLinkHeader">
@@ -223,9 +224,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -256,7 +257,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

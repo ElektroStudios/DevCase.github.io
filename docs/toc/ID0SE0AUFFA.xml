@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="dfce1676-7ede-b6e1-5f38-3f802ae7849a.htm">Get<wbr />Window<wbr />Placement</a>
+      <a href="3bb48a7b-dd54-d48c-160b-88a2d4209cce.htm">Get<wbr />Window<wbr />Info</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="855c41c9-1e5d-de33-b4e0-069057c02103" href="855c41c9-1e5d-de33-b4e0-069057c02103.htm">Get<wbr />Window<wbr />Placement(<wbr />Int<wbr />Ptr, Window<wbr />Placement)</a>
+      <a id="fdd811fd-e993-02d4-9ac0-e8f0a7d1840b" href="fdd811fd-e993-02d4-9ac0-e8f0a7d1840b.htm">Get<wbr />Window<wbr />Info(<wbr />Int<wbr />Ptr, Native<wbr />Window<wbr />Info)</a>
     </li>
     <li>
-      <a id="45a147dc-dc1e-22f8-14d2-2a3fbebcade4" href="45a147dc-dc1e-22f8-14d2-2a3fbebcade4.htm">Get<wbr />Window<wbr />Placement(<wbr />Safe<wbr />Handle, Window<wbr />Placement)</a>
+      <a id="748af6be-fc5f-9324-8cd5-2faf124104c0" href="748af6be-fc5f-9324-8cd5-2faf124104c0.htm">Get<wbr />Window<wbr />Info(<wbr />Safe<wbr />Handle, Native<wbr />Window<wbr />Info)</a>
     </li>
   </tocItems>
 </toc>

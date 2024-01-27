@@ -2,24 +2,24 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="dfc5b2df-15fe-e7c2-2c6d-301b190867ac.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Thread<wbr />Extensions</a>
+      <a href="ebf4a5b1-29ae-d8b9-e3d7-823eb9acd673.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Collection<wbr />Extensions</a>
     </li>
     <li>
-      <a href="267a4b02-306c-f7b7-10a1-6fcf9ca27ffd.htm">Thread<wbr />Extensions</a>
+      <a href="09940579-b32e-9f11-b909-6b752de17a42.htm">String<wbr />Collection<wbr />Extensions</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="59519aa8-138d-5423-f3e4-c2d8d90a5119" class="has-submenu" href="59519aa8-138d-5423-f3e4-c2d8d90a5119.htm">
+      <a id="8bd74a72-f065-7776-8a27-161891e4f98c" class="has-submenu" href="8bd74a72-f065-7776-8a27-161891e4f98c.htm">
         <span data-tocFile="../toc/IDAA0ID0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>

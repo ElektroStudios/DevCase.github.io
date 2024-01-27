@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="6de4bb7d-1b98-9d5d-2ba8-6b55edc9ac8e.htm">Get<wbr />File<wbr />Size<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="765f7f14-ccdb-31be-afdc-857d143b3bf0" href="765f7f14-ccdb-31be-afdc-857d143b3bf0.htm">Get<wbr />File<wbr />Size<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="5fc73963-2cf0-ffe1-1eea-e2f8819d8bfb" href="5fc73963-2cf0-ffe1-1eea-e2f8819d8bfb.htm">Get<wbr />File<wbr />Size<wbr />Ex(<wbr />Safe<wbr />File<wbr />Handle, Int<wbr />64)</a>
+    </li>
+  </tocItems>
+</toc>

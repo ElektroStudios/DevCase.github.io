@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Util<wbr />Dism<span id="LSTEEC40099_0" data-languageSpecificText="cpp=::|nu=."></span>Copy<wbr />Driver<wbr />Package<wbr />To<wbr />Disk(DismDriverPackage, String, Func<span id="LSTEEC40099_1" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span>DismDriverPackage, String<span id="LSTEEC40099_2" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>, Boolean) Method</h1>
             <div class="summary">
@@ -105,54 +106,61 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="a3beb9e2-29fe-e097-db9a-6a450f533e23.htm">DevCase.ThirdParty.Dism</a><br /><strong>Assembly:</strong> DevCase.ThirdParty.Dism (in DevCase.ThirdParty.Dism.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="identifier">CopyDriverPackageToDisk</span>(
+              <strong>Namespace:</strong> <a href="a3beb9e2-29fe-e097-db9a-6a450f533e23.htm">DevCase.ThirdParty.Dism</a><br /><strong>Assembly:</strong> DevCase.net48.ThirdParty.Dism (in DevCase.net48.ThirdParty.Dism.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="identifier">CopyDriverPackageToDisk</span>(
 	<span class="noLink">DismDriverPackage</span> <span class="parameter">driverPackage</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">destinationDirPath</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a>&lt;<span class="noLink">DismDriverPackage</span>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a>&gt; <span class="parameter">subDirectoryName</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">overwrite</span>
+	<span class="noLink">string</span> <span class="parameter">destinationDirPath</span>,
+	<span class="noLink">Func</span>&lt;<span class="noLink">DismDriverPackage</span>, <span class="noLink">string</span>&gt; <span class="parameter">subDirectoryName</span>,
+	<span class="noLink">bool</span> <span class="parameter">overwrite</span>
 )</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Sub</span> <span class="identifier">CopyDriverPackageToDisk</span> ( 
 	<span class="parameter">driverPackage</span> <span class="keyword">As</span> <span class="noLink">DismDriverPackage</span>,
-	<span class="parameter">destinationDirPath</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
-	<span class="parameter">subDirectoryName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a>(<span class="keyword">Of</span> <span class="noLink">DismDriverPackage</span>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>),
-	<span class="parameter">overwrite</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	<span class="parameter">destinationDirPath</span> <span class="keyword">As</span> <span class="noLink">String</span>,
+	<span class="parameter">subDirectoryName</span> <span class="keyword">As</span> <span class="noLink">Func</span>(<span class="keyword">Of</span> <span class="noLink">DismDriverPackage</span>, <span class="noLink">String</span>),
+	<span class="parameter">overwrite</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 )
 
 <span class="keyword">Dim</span> <span class="parameter">driverPackage</span> <span class="keyword">As</span> <span class="noLink">DismDriverPackage</span>
-<span class="keyword">Dim</span> <span class="parameter">destinationDirPath</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
-<span class="keyword">Dim</span> <span class="parameter">subDirectoryName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a>(<span class="keyword">Of</span> <span class="noLink">DismDriverPackage</span>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>)
-<span class="keyword">Dim</span> <span class="parameter">overwrite</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">destinationDirPath</span> <span class="keyword">As</span> <span class="noLink">String</span>
+<span class="keyword">Dim</span> <span class="parameter">subDirectoryName</span> <span class="keyword">As</span> <span class="noLink">Func</span>(<span class="keyword">Of</span> <span class="noLink">DismDriverPackage</span>, <span class="noLink">String</span>)
+<span class="keyword">Dim</span> <span class="parameter">overwrite</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <a href="8704e05b-a45d-dc00-4c71-87aaeef7acc8.htm">UtilDism</a>.<span class="identifier">CopyDriverPackageToDisk</span>(<span class="parameter">driverPackage</span>, 
 	<span class="parameter">destinationDirPath</span>, <span class="parameter">subDirectoryName</span>, 
 	<span class="parameter">overwrite</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
 <span class="keyword">static</span> <span class="keyword">void</span> <span class="identifier">CopyDriverPackageToDisk</span>(
 	<span class="noLink">DismDriverPackage</span>^ <span class="parameter">driverPackage</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">destinationDirPath</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a>&lt;<span class="noLink">DismDriverPackage</span>^, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^&gt;^ <span class="parameter">subDirectoryName</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">overwrite</span>
+	<span class="noLink">String</span>^ <span class="parameter">destinationDirPath</span>, 
+	<span class="noLink">Func</span>&lt;<span class="noLink">DismDriverPackage</span>^, <span class="noLink">String</span>^&gt;^ <span class="parameter">subDirectoryName</span>, 
+	<span class="noLink">bool</span> <span class="parameter">overwrite</span>
 )</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">CopyDriverPackageToDisk</span> : 
         <span class="parameter">driverPackage</span> : <span class="noLink">DismDriverPackage</span> * 
-        <span class="parameter">destinationDirPath</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
-        <span class="parameter">subDirectoryName</span> : <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a>&lt;<span class="noLink">DismDriverPackage</span>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a>&gt; * 
-        <span class="parameter">overwrite</span> : <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="keyword">-&gt;</span> <span class="keyword">unit</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4>Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">driverPackage</span>  <span class="noLink">DismDriverPackage</span></dt><dd>
+        <span class="parameter">destinationDirPath</span> : <span class="noLink">string</span> * 
+        <span class="parameter">subDirectoryName</span> : <span class="noLink">Func</span>&lt;<span class="noLink">DismDriverPackage</span>, <span class="noLink">string</span>&gt; * 
+        <span class="parameter">overwrite</span> : <span class="noLink">bool</span> <span class="keyword">-&gt;</span> <span class="keyword">unit</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4>Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">driverPackage</span>  <span class="noLink">DismDriverPackage</span></dt><dd>
  A <span class="noLink">DismDriverPackage</span> object that represents the driver files to copy.
- </dd><dt class="has-text-weight-normal"><span class="parameter">destinationDirPath</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">destinationDirPath</span>  <span class="noLink">String</span></dt><dd>
  The destination directory path where to copy the driver files.
- </dd><dt class="has-text-weight-normal"><span class="parameter">subDirectoryName</span>  <a href="https://learn.microsoft.com/dotnet/api/system.func-2" target="_top" rel="noopener noreferrer">Func</a><span id="LSTEEC40099_3" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="noLink">DismDriverPackage</span>, <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a><span id="LSTEEC40099_4" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">subDirectoryName</span>  <span class="noLink">Func</span><span id="LSTEEC40099_3" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="noLink">DismDriverPackage</span>, <span class="noLink">String</span><span id="LSTEEC40099_4" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dt><dd>
  Creates a custom subdirectory in the destination directory 
  with the specified folder name based on the <span class="noLink">DismDriverPackage</span> object properties.
  <p />
  This value can be <span class="keyword"><span id="LSTEEC40099_5" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>, in which case 
  the directory name of <span class="noLink">OriginalFileName<span id="LSTEEC40099_6" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> property is used as the name for the subdirectory. 
  (E.g: "{DESTINATION_DIRECTORY}\ipsfullhd.inf_amd64_ce187df9e604b5d6\" )
- </dd><dt class="has-text-weight-normal"><span class="parameter">overwrite</span>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">overwrite</span>  <span class="noLink">Boolean</span></dt><dd>
  A value indicating whether to overwrite any existing files in the destination directory.
  </dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDBCSection">
+ Note: Some functionalities of this assembly may require to install one or all of the listed NuGet packages:
+ <p /><a href="https://www.nuget.org/packages/Microsoft.Dism" target="_blank" rel="noopener noreferrer">Microsoft.Dism by jeffkl</a></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
               </span>Example</h2>
-            <div id="IDBCSection"> This is a code example.
+            <div id="IDCCSection"> This is a code example.
  <div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-VB.NET">Dim destinationDirPath As String = "C:\Drivers_Test"
 Dim subdirectoryName As Func(Of DismDriverPackage, String) =
     Function(x) ($"[{x.ClassName}] {x.ProviderName} ({DismDriverPackageExtensions.GetPackageDirectoryInfName(x)} v{x.Version})\{DismDriverPackageExtensions.GetPackageDirectory(x).Name}")
@@ -193,6 +201,9 @@ Next</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippet
                   <a class="quickLink">Definition</a>
                 </li>
                 <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
                   <a class="quickLink">Example</a>
                 </li>
                 <li>
@@ -213,9 +224,9 @@ Next</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippet
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -246,7 +257,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

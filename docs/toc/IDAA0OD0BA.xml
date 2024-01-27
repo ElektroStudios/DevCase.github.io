@@ -2,27 +2,44 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="3656d39a-1da5-7905-95de-8704d86b0fc3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />UInt<wbr />Ptr<wbr />Extensions</a>
+      <a href="60d34a0a-1b62-fd84-bcef-1a9ddfda63f1.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Time<wbr />Span<wbr />Extensions</a>
     </li>
     <li>
-      <a href="b8a9f648-696b-4f5f-b3a6-79bcbe08d5a7.htm">UInt<wbr />Ptr<wbr />Extensions</a>
+      <a href="99808e05-f4db-da61-b0d9-ffa73aac14f8.htm">Time<wbr />Span<wbr />Extensions</a>
     </li>
     <li>
-      <a href="b5a9fb63-1f42-205c-c3ed-c441ecadc974.htm">Methods</a>
+      <a href="d3c2c0cf-8de8-58ac-3354-a93f808e625a.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="1900f3c6-0cb4-be2e-d2aa-2780367fee3c" href="1900f3c6-0cb4-be2e-d2aa-2780367fee3c.htm">Marshal<wbr />As&lt;T&gt;</a>
+      <a id="8c0928c3-42fd-38e6-de63-aa815de62129" class="has-submenu" href="8c0928c3-42fd-38e6-de63-aa815de62129.htm">
+        <span data-tocFile="../toc/IDAAA0OD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Hour<wbr />In<wbr />Range</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7db652d9-015a-b106-83a7-1f61037f9180" class="has-submenu" href="7db652d9-015a-b106-83a7-1f61037f9180.htm">
+        <span data-tocFile="../toc/IDBAA0OD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />In<wbr />Range</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="af59684e-d4ce-160d-057c-a5faab962bf4" href="af59684e-d4ce-160d-057c-a5faab962bf4.htm">Is<wbr />Negative</a>
+    </li>
+    <li>
+      <a id="f8461eeb-155c-5c72-b9b9-ccefa1746e76" href="f8461eeb-155c-5c72-b9b9-ccefa1746e76.htm">Is<wbr />Positive</a>
     </li>
   </tocItems>
 </toc>

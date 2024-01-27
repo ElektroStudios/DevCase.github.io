@@ -2,65 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="f815ddbd-664b-e220-5f20-285b53a98c19.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IWin<wbr />32Window<wbr />Extensions</a>
+      <a href="be49c302-ccc9-38da-02b8-be8c4f49ec85.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IGrouping<wbr />Extensions</a>
     </li>
     <li>
-      <a href="349893b2-b7fd-8d03-00d2-77f43b19de3a.htm">IWin<wbr />32Window<wbr />Extensions</a>
+      <a href="2047ee71-fa4f-5601-f2c7-722af5024e3f.htm">IGrouping<wbr />Extensions</a>
     </li>
     <li>
-      <a href="4b4b7bac-9f29-49a0-54ab-7ae362348830.htm">Methods</a>
+      <a href="61cbd8e2-80b9-e1fa-aed5-8f9a973d7851.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="5fad0729-7c43-70f9-097d-e8c60a1f0f7d" href="5fad0729-7c43-70f9-097d-e8c60a1f0f7d.htm">Get<wbr />Window<wbr />Info</a>
-    </li>
-    <li>
-      <a id="667a1411-7f58-38c0-8a97-5da509d97bc3" class="has-submenu" href="667a1411-7f58-38c0-8a97-5da509d97bc3.htm">
-        <span data-tocFile="../toc/IDBAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="aea13193-0dd4-adb3-17b4-d5bcc5956661" class="has-submenu" href="aea13193-0dd4-adb3-17b4-d5bcc5956661.htm">
+        <span data-tocFile="../toc/IDAAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Post<wbr />Message</a>
+        </span>Join<wbr />By<wbr />First<wbr />Group<wbr />Element</a>
       <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="76822d9b-e5b5-5953-e1f9-0db84222df2d" class="has-submenu" href="76822d9b-e5b5-5953-e1f9-0db84222df2d.htm">
-        <span data-tocFile="../toc/IDCAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Resume<wbr />Drawing</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="a0c1bf67-6229-57cd-3461-b11bd93f734b" class="has-submenu" href="a0c1bf67-6229-57cd-3461-b11bd93f734b.htm">
-        <span data-tocFile="../toc/IDDAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Send<wbr />Key<wbr />Async</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="d2d7b2d4-2bd9-1236-1388-c2d59906b120" class="has-submenu" href="d2d7b2d4-2bd9-1236-1388-c2d59906b120.htm">
-        <span data-tocFile="../toc/IDEAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Send<wbr />Message</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="781f6ca5-f8d5-0043-4d2e-d2487252934b" class="has-submenu" href="781f6ca5-f8d5-0043-4d2e-d2487252934b.htm">
-        <span data-tocFile="../toc/IDFAA02B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Send<wbr />Mouse<wbr />Button</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="91d9b3e8-c9d2-c532-2bbc-3047a8fc7eb9" href="91d9b3e8-c9d2-c532-2bbc-3047a8fc7eb9.htm">Suspend<wbr />Drawing</a>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,21 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="d32278a6-0dcb-9145-24bd-2c7eb373203a.htm">Enable<wbr />Menu<wbr />Item</a>
+      <a href="f8f03a37-382e-0d82-7e5a-8155a2b32923.htm">Draw<wbr />Frame<wbr />Control</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="6fb5e79c-2df9-9a7c-3881-4cec24e095fc" href="6fb5e79c-2df9-9a7c-3881-4cec24e095fc.htm">Enable<wbr />Menu<wbr />Item(<wbr />Int<wbr />Ptr, UInt<wbr />32, Int<wbr />32)</a>
+      <a id="d0720672-8745-02bc-f7fd-3dfd2588c2d9" href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">Draw<wbr />Frame<wbr />Control(<wbr />Int<wbr />Ptr, Rectangle, Draw<wbr />Frame<wbr />Control<wbr />Type, Draw<wbr />Frame<wbr />Control<wbr />Button<wbr />Flags)</a>
     </li>
     <li>
-      <a id="bb527a5f-38bb-b4fa-a56a-4730239ece4b" href="bb527a5f-38bb-b4fa-a56a-4730239ece4b.htm">Enable<wbr />Menu<wbr />Item(<wbr />Safe<wbr />Handle, UInt<wbr />32, Int<wbr />32)</a>
+      <a id="08ed34cf-2542-57a2-3cd0-b64740fef3a7" href="08ed34cf-2542-57a2-3cd0-b64740fef3a7.htm">Draw<wbr />Frame<wbr />Control(<wbr />Int<wbr />Ptr, Rectangle, Draw<wbr />Frame<wbr />Control<wbr />Type, Draw<wbr />Frame<wbr />Control<wbr />Caption<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="4097b5ef-e237-3bfb-9686-2eb4b0bdd938" href="4097b5ef-e237-3bfb-9686-2eb4b0bdd938.htm">Draw<wbr />Frame<wbr />Control(<wbr />Int<wbr />Ptr, Rectangle, Draw<wbr />Frame<wbr />Control<wbr />Type, Draw<wbr />Frame<wbr />Control<wbr />Menu<wbr />Type)</a>
+    </li>
+    <li>
+      <a id="35ab07b7-7f73-c944-c423-02936a11cf18" href="35ab07b7-7f73-c944-c423-02936a11cf18.htm">Draw<wbr />Frame<wbr />Control(<wbr />Int<wbr />Ptr, Rectangle, Draw<wbr />Frame<wbr />Control<wbr />Type, Draw<wbr />Frame<wbr />Control<wbr />Scroll<wbr />Flags)</a>
     </li>
   </tocItems>
 </toc>

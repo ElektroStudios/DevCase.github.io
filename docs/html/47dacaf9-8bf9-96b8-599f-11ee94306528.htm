@@ -19,14 +19,14 @@
     <meta name="container" content="DevCase.Win32.NativeMethods" />
     <meta name="guid" content="47dacaf9-8bf9-96b8-599f-11ee94306528" />
     <meta name="Description" content="Reads data from an area of memory in a specified process. The entire area to be read must be accessible or the operation fails." />
-    <meta name="tocFile" content="../toc/ID0SH0AJFFA.xml" />
+    <meta name="tocFile" content="../toc/ID0TH0AJFFA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Kernel<wbr />32<span id="LSTE94734A8_0" data-languageSpecificText="cpp=::|nu=."></span>Read<wbr />Process<wbr />Memory(Int<wbr />Ptr, Int<wbr />Ptr, String<wbr />Builder, Int<wbr />Ptr, Int<wbr />Ptr<span id="LSTE94734A8_1" data-languageSpecificText="cpp=%"></span>) Method</h1>
             <div class="summary">
@@ -107,63 +108,63 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">ReadProcessMemory</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hProcess</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">baseAddress</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a> <span class="parameter">buffer</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">size</span>,
-	<span class="keyword">ref</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">refNumberOfBytesRead</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet := CharSet.Unicode, SetLastError := true&gt;]
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">ReadProcessMemory</span>(
+	<span class="noLink">IntPtr</span> <span class="parameter">hProcess</span>,
+	<span class="noLink">IntPtr</span> <span class="parameter">baseAddress</span>,
+	<span class="noLink">StringBuilder</span> <span class="parameter">buffer</span>,
+	<span class="noLink">IntPtr</span> <span class="parameter">size</span>,
+	<span class="keyword">ref</span> <span class="noLink">IntPtr</span> <span class="parameter">refNumberOfBytesRead</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet := CharSet.Unicode, SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">ReadProcessMemory</span> ( 
-	<span class="parameter">hProcess</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	<span class="parameter">baseAddress</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="parameter">buffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>,
-	<span class="parameter">size</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	<span class="keyword">ByRef</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	<span class="parameter">hProcess</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	<span class="parameter">baseAddress</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	&lt;<span class="noLink">OutAttribute</span>&gt; <span class="parameter">buffer</span> <span class="keyword">As</span> <span class="noLink">StringBuilder</span>,
+	<span class="parameter">size</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	<span class="keyword">ByRef</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">hProcess</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">baseAddress</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">buffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>
-<span class="keyword">Dim</span> <span class="parameter">size</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">hProcess</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">baseAddress</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">buffer</span> <span class="keyword">As</span> <span class="noLink">StringBuilder</span>
+<span class="keyword">Dim</span> <span class="parameter">size</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32</a>.<span class="identifier">ReadProcessMemory</span>(<span class="parameter">hProcess</span>, 
 	<span class="parameter">baseAddress</span>, <span class="parameter">buffer</span>, <span class="parameter">size</span>, <span class="parameter">refNumberOfBytesRead</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Kernel32.dll", CharSet = CharSet::Unicode, SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">ReadProcessMemory</span>(
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hProcess</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">baseAddress</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>^ <span class="parameter">buffer</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">size</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>% <span class="parameter">refNumberOfBytesRead</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)&gt;]
+[<span class="noLink">DllImportAttribute</span>(L"Kernel32.dll", CharSet = CharSet::Unicode, SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">ReadProcessMemory</span>(
+	[<span class="noLink">InAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hProcess</span>, 
+	[<span class="noLink">InAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">baseAddress</span>, 
+	[<span class="noLink">OutAttribute</span>] <span class="noLink">StringBuilder</span>^ <span class="parameter">buffer</span>, 
+	<span class="noLink">IntPtr</span> <span class="parameter">size</span>, 
+	<span class="noLink">IntPtr</span>% <span class="parameter">refNumberOfBytesRead</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">ReadProcessMemory</span> : 
-        <span class="parameter">hProcess</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        <span class="parameter">baseAddress</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        <span class="parameter">buffer</span> : <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a> <span class="keyword">byref</span> * 
-        <span class="parameter">size</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        <span class="parameter">refNumberOfBytesRead</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hProcess</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+        <span class="parameter">hProcess</span> : <span class="noLink">IntPtr</span> * 
+        <span class="parameter">baseAddress</span> : <span class="noLink">IntPtr</span> * 
+        <span class="parameter">buffer</span> : <span class="noLink">StringBuilder</span> <span class="keyword">byref</span> * 
+        <span class="parameter">size</span> : <span class="noLink">IntPtr</span> * 
+        <span class="parameter">refNumberOfBytesRead</span> : <span class="noLink">IntPtr</span> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hProcess</span>  <span class="noLink">IntPtr</span></dt><dd>
  A handle to the process with memory that is being read.
  <p />
  The handle must have PROCESS_VM_READ access to the process.
- </dd><dt class="has-text-weight-normal"><span class="parameter">baseAddress</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">baseAddress</span>  <span class="noLink">IntPtr</span></dt><dd>
  A pointer to the base address in the specified process from which to read.
  <p />
  Before any data transfer occurs, the system verifies that all data in the base address and memory of the
  specified size is accessible for read access, and if it is not accessible the function fails.
- </dd><dt class="has-text-weight-normal"><span class="parameter">buffer</span>  <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">buffer</span>  <span class="noLink">StringBuilder</span></dt><dd>
  A pointer to a buffer that receives the contents from the address space of the specified process.
- </dd><dt class="has-text-weight-normal"><span class="parameter">size</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">size</span>  <span class="noLink">IntPtr</span></dt><dd>
  The number of bytes to be read from the specified process.
- </dd><dt class="has-text-weight-normal"><span class="parameter">refNumberOfBytesRead</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a><span id="LSTE94734A8_2" data-languageSpecificText="cpp=%"></span></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refNumberOfBytesRead</span>  <span class="noLink">IntPtr</span><span id="LSTE94734A8_2" data-languageSpecificText="cpp=%"></span></dt><dd>
  A pointer to a variable that receives the number of bytes transferred into the specified buffer.
  <p />
  If <span class="parameter">refNumberOfBytesRead</span> is <span class="code">0</span>, the parameter is ignored.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br /><span class="keyword"><span id="LSTE94734A8_3" data-languageSpecificText="vb=True|nu=true"></span></span> If the function succeeds, <span class="keyword"><span id="LSTE94734A8_4" data-languageSpecificText="vb=False|nu=false"></span></span> otherwise.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br /><span class="keyword"><span id="LSTE94734A8_3" data-languageSpecificText="vb=True|nu=true"></span></span> If the function succeeds, <span class="keyword"><span id="LSTE94734A8_4" data-languageSpecificText="vb=False|nu=false"></span></span> otherwise.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
@@ -227,9 +228,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -260,7 +261,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

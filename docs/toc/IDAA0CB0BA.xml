@@ -2,54 +2,30 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="81b62de9-ddc7-022b-c598-a62a345d5a89.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Enum<wbr />Extensions</a>
+      <a href="9c3df6ef-24f3-3f45-878e-ff3050033dec.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Element<wbr />Host<wbr />Extensions</a>
     </li>
     <li>
-      <a href="fb760fa3-3cf4-3c79-2bb2-06434edb9134.htm">Enum<wbr />Extensions</a>
+      <a href="80d24d83-0333-f760-d9c2-0f3b3fd81a68.htm">Element<wbr />Host<wbr />Extensions</a>
     </li>
     <li>
-      <a href="4b3fdc03-0f7c-ad98-8b5d-bd13b078cf9f.htm">Methods</a>
+      <a href="daedda3f-443e-474b-a850-3291c09e0c4e.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="08a22678-5043-bebe-abae-6ede27b36efb" href="08a22678-5043-bebe-abae-6ede27b36efb.htm">Add<wbr />Flag&lt;T&gt;</a>
+      <a id="55b982e9-c6b1-c845-9620-4fc293a969f7" href="55b982e9-c6b1-c845-9620-4fc293a969f7.htm">Get<wbr />Child<wbr />Location</a>
     </li>
     <li>
-      <a id="3088a778-7548-e7c9-4291-2821e76b17c1" href="3088a778-7548-e7c9-4291-2821e76b17c1.htm">Add<wbr />Flags&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="c3662238-0501-d9e3-5116-913b547d3e45" href="c3662238-0501-d9e3-5116-913b547d3e45.htm">Count<wbr />Flags</a>
-    </li>
-    <li>
-      <a id="cbc962bc-9b8b-731d-f52d-f4e5b0f4b0f5" href="cbc962bc-9b8b-731d-f52d-f4e5b0f4b0f5.htm">Flags&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="af53d10f-f96c-87d4-dceb-701dcd5e74be" href="af53d10f-f96c-87d4-dceb-701dcd5e74be.htm">For<wbr />Each<wbr />Flag&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="8825eceb-2051-0aaa-8e91-1e81dc9394b3" href="8825eceb-2051-0aaa-8e91-1e81dc9394b3.htm">Has<wbr />Duplicated<wbr />Values</a>
-    </li>
-    <li>
-      <a id="6fecabad-e90e-d26a-509a-a99e0aeafd98" href="6fecabad-e90e-d26a-509a-a99e0aeafd98.htm">Has<wbr />Flag<wbr />Any&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="91809f1b-061f-9015-09b7-ff2e08578f23" href="91809f1b-061f-9015-09b7-ff2e08578f23.htm">Has<wbr />Flags<wbr />Attribute</a>
-    </li>
-    <li>
-      <a id="9cf8234f-6a30-fd33-4f26-6f1e58592851" href="9cf8234f-6a30-fd33-4f26-6f1e58592851.htm">Remove<wbr />Flag&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="b9eb7267-397d-7e69-a8a2-a361da384d69" href="b9eb7267-397d-7e69-a8a2-a361da384d69.htm">Remove<wbr />Flags&lt;T&gt;</a>
+      <a id="82ceb878-83de-febc-b007-079dc82669fd" href="82ceb878-83de-febc-b007-079dc82669fd.htm">Set<wbr />Child<wbr />Location</a>
     </li>
   </tocItems>
 </toc>

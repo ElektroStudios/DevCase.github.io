@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="a36f680a-6e4b-d185-d0a3-15720809906b.htm">Set<wbr />Menu<wbr />Info</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="215dd404-891f-e296-3132-911bd89e2492" href="215dd404-891f-e296-3132-911bd89e2492.htm">Set<wbr />Menu<wbr />Info(<wbr />Int<wbr />Ptr, Menu<wbr />Info)</a>
+    </li>
+    <li>
+      <a id="33cc093b-8819-0a7e-1d1b-3d0501a84d26" href="33cc093b-8819-0a7e-1d1b-3d0501a84d26.htm">Set<wbr />Menu<wbr />Info(<wbr />Safe<wbr />Handle, Menu<wbr />Info)</a>
+    </li>
+  </tocItems>
+</toc>

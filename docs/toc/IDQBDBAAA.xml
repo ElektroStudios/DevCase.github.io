@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="0b6d1361-1698-8e02-99cf-0ead0f20ad0b.htm">Util<wbr />Console</a>
+    </li>
+    <li>
+      <a href="cdff5c9e-9c25-7457-6edb-0d6d2e8c02ee.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0cf1f8c9-4e9f-8657-9176-db90f6aa4bf6.htm">Write</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="952bbdac-42cd-81b9-2013-73fadc707fbf" href="952bbdac-42cd-81b9-2013-73fadc707fbf.htm">Write(<wbr />Char[], Boolean)</a>
+    </li>
+    <li>
+      <a id="158fbcf3-6a2f-d09c-70a1-b107cf9224de" href="158fbcf3-6a2f-d09c-70a1-b107cf9224de.htm">Write(<wbr />String, Boolean)</a>
+    </li>
+    <li>
+      <a id="8d0d6887-5da7-f503-6642-45fa01906783" href="8d0d6887-5da7-f503-6642-45fa01906783.htm">Write(<wbr />Char[], Int<wbr />32, Int<wbr />32, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f91095d0-417d-62a2-ed3f-cadfb326f584.htm">Create<wbr />Thread</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3804be19-a4ea-7859-b870-39f30c715d28" href="3804be19-a4ea-7859-b870-39f30c715d28.htm">Create<wbr />Thread(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="3b437d14-72b2-275c-445d-541fab8c8927" href="3b437d14-72b2-275c-445d-541fab8c8927.htm">Create<wbr />Thread(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Thread<wbr />Start, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="4d515edf-9ec8-938a-064f-ca8ad6055fea" href="4d515edf-9ec8-938a-064f-ca8ad6055fea.htm">Create<wbr />Thread(<wbr />Security<wbr />Attributes, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="30d8f564-173f-4bdb-c027-9431b5f075a1" href="30d8f564-173f-4bdb-c027-9431b5f075a1.htm">Create<wbr />Thread(<wbr />Security<wbr />Attributes, Int<wbr />Ptr, Thread<wbr />Start, Int<wbr />Ptr, Create<wbr />Thread<wbr />Flags, UInt<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

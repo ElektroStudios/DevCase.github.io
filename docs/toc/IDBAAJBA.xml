@@ -2,30 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="98721f6c-cbb6-5296-d507-c57ce0de2d1d.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Boolean<wbr />Extensions</a>
+      <a href="b9cde699-1d00-6d0c-3b49-df2829845cc1.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Source<wbr />Extensions</a>
     </li>
     <li>
-      <a href="3302b1b2-d1ae-04cc-e24c-22e674eaa790.htm">Boolean<wbr />Extensions</a>
+      <a href="00098026-4ca5-3b15-dff4-d3c485058a47.htm">Bitmap<wbr />Source<wbr />Extensions</a>
     </li>
     <li>
-      <a href="bb1a0ba7-6d1c-4baa-5a8f-4cb28a34e8e5.htm">Methods</a>
+      <a href="a7ed0981-0b48-805f-e35d-68859dcefc56.htm">Methods</a>
     </li>
     <li>
-      <a href="12557712-fac9-a73b-bc5f-e42af8f868e0.htm">To<wbr />String</a>
+      <a href="118bc7ec-79f7-719b-c85f-abfb3ab44d74.htm">To<wbr />Image</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="fbe83493-a118-f6e8-f41b-315e37567973" href="fbe83493-a118-f6e8-f41b-315e37567973.htm">To<wbr />String(<wbr />Boolean, String, String)</a>
+      <a id="08a360c6-da68-7f4e-7766-78e02a160c74" href="08a360c6-da68-7f4e-7766-78e02a160c74.htm">To<wbr />Image(<wbr />Bitmap<wbr />Source)</a>
+    </li>
+    <li>
+      <a id="d5400213-e464-e3d3-5466-d4e9f1cfff55" href="d5400213-e464-e3d3-5466-d4e9f1cfff55.htm">To<wbr />Image(<wbr />Bitmap<wbr />Source, Pixel<wbr />Format)</a>
     </li>
   </tocItems>
 </toc>

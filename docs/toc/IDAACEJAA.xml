@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="8ab07c8e-093e-f18c-7751-95870e4093d7.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Passwords</a>
+    </li>
+    <li>
+      <a href="9e8a5b3d-7e45-1eb4-8265-b63acd097fe8.htm">Util<wbr />Passwords</a>
+    </li>
+    <li>
+      <a href="de5f5a2d-05f8-d3f1-126e-f81860c3e0e1.htm">Methods</a>
+    </li>
+    <li>
+      <a href="304a41ca-b956-12b2-0aff-f742cf28f739.htm">Generate<wbr />Memorable<wbr />Password</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e403a686-98e2-e512-008d-072a2447104d" href="e403a686-98e2-e512-008d-072a2447104d.htm">Generate<wbr />Memorable<wbr />Password(<wbr />Memorable<wbr />Password<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="b6640445-0bb6-1981-1a6e-34133c808df7" href="b6640445-0bb6-1981-1a6e-34133c808df7.htm">Generate<wbr />Memorable<wbr />Password(<wbr />Memorable<wbr />Password<wbr />Options, IEnumerable&lt;String&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

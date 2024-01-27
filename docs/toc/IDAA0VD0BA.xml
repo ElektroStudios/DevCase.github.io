@@ -2,27 +2,34 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="56442383-1ea0-6e82-05e0-8031ec44b25d.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Web<wbr />Request<wbr />Extensions</a>
+      <a href="63bef17b-d6db-2ce4-3889-78e76da3f15b.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Uri<wbr />Extensions</a>
     </li>
     <li>
-      <a href="be312560-d4d3-b5dd-eaf7-9bf6b525d288.htm">Web<wbr />Request<wbr />Extensions</a>
+      <a href="85e0e8f5-337e-209f-619a-5a9296e1a772.htm">Uri<wbr />Extensions</a>
     </li>
     <li>
-      <a href="75f35040-6320-834e-3e7f-921bb02402e5.htm">Methods</a>
+      <a href="484c4ac0-6894-cb48-bc5e-26f631441e18.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="2cacd951-3551-e0ab-5091-bce6d1d8d5dd" href="2cacd951-3551-e0ab-5091-bce6d1d8d5dd.htm">Get<wbr />Response<wbr />Safe</a>
+      <a id="bd3f6b82-01d9-1e58-1ef8-37bcdf6b04fe" href="bd3f6b82-01d9-1e58-1ef8-37bcdf6b04fe.htm">Get<wbr />Base<wbr />Domain</a>
+    </li>
+    <li>
+      <a id="0474c827-bf60-65ac-1ee8-20af7d283768" class="has-submenu" href="0474c827-bf60-65ac-1ee8-20af7d283768.htm">
+        <span data-tocFile="../toc/IDBAA0VD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Name<wbr />Value<wbr />Collection</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,33 +14,25 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+      <a href="e0369eb4-e8c9-a51a-4e41-d32f59e3eff5.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Reg<wbr />Ex</a>
     </li>
     <li>
-      <a href="99480abc-3f7c-7227-cf5c-9ff975ed7df9.htm">Texfile<wbr />Lines</a>
+      <a href="2dfebbba-0a2b-5db8-1ae0-4454a0144450.htm">Match<wbr />Position<wbr />Info</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="be30912a-2edf-831e-2f04-9b5dc3398187" class="has-submenu" href="be30912a-2edf-831e-2f04-9b5dc3398187.htm">
-        <span data-tocFile="../toc/IDAAFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Constructors</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="a342ade5-4977-460f-b6e0-7280a02c1815" href="a342ade5-4977-460f-b6e0-7280a02c1815.htm">Constructor</a>
     </li>
     <li>
-      <a id="c7514be0-5360-7072-f0b4-59626b25a878" class="has-submenu" href="c7514be0-5360-7072-f0b4-59626b25a878.htm">
+      <a id="61bdc796-0ab1-d5e0-dc8c-c3e1ce81041f" class="has-submenu" href="61bdc796-0ab1-d5e0-dc8c-c3e1ce81041f.htm">
         <span data-tocFile="../toc/IDBAFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="cacb885b-116e-ed45-c106-f8a67628d66a" class="has-submenu" href="cacb885b-116e-ed45-c106-f8a67628d66a.htm">
-        <span data-tocFile="../toc/IDCAFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Methods</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="afa0417b-3817-dcf2-616a-0c01f0d79811" href="afa0417b-3817-dcf2-616a-0c01f0d79811.htm">Methods</a>
     </li>
   </tocItems>
 </toc>

@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Util<wbr />Reflection<span id="LSTEFC1EA8D_0" data-languageSpecificText="cpp=::|nu=."></span>Get<wbr />Field<wbr />Value<span id="LSTEFC1EA8D_1" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="typeparameter">T</span><span id="LSTEFC1EA8D_2" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>(Object, String, <span class="typeparameter">T</span>, Binding<wbr />Flags) Method</h1>
             <div class="summary">
@@ -105,23 +106,23 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">DevCase.Core.Diagnostics.Assembly.Reflection</a><br /><strong>Assembly:</strong> DevCase.Core.Diagnostics.Common (in DevCase.Core.Diagnostics.Common.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> T <span class="identifier">GetFieldValue</span>&lt;T&gt;(
-	<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a> <span class="parameter">obj</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">fieldName</span>,
+              <strong>Namespace:</strong> <a href="c8d84914-3e2c-765d-fded-d4cb1fcf5e5c.htm">DevCase.Core.Diagnostics.Assembly.Reflection</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> T <span class="identifier">GetFieldValue</span>&lt;T&gt;(
+	<span class="noLink">Object</span> <span class="parameter">obj</span>,
+	<span class="noLink">string</span> <span class="parameter">fieldName</span>,
 	T <span class="parameter">defaultIfEmpty</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a> <span class="parameter">bindingFlags</span> = <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Instance|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Static|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Public|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.NonPublic|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.FlattenHierarchy|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.GetProperty
+	<span class="noLink">BindingFlags</span> <span class="parameter">bindingFlags</span> = <span class="noLink">BindingFlags</span>.Instance|<span class="noLink">BindingFlags</span>.Static|<span class="noLink">BindingFlags</span>.Public|<span class="noLink">BindingFlags</span>.NonPublic|<span class="noLink">BindingFlags</span>.FlattenHierarchy|<span class="noLink">BindingFlags</span>.GetProperty
 )
 </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">GetFieldValue</span>(<span class="keyword">Of</span> T) ( 
-	<span class="parameter">obj</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>,
-	<span class="parameter">fieldName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
+	<span class="parameter">obj</span> <span class="keyword">As</span> <span class="noLink">Object</span>,
+	<span class="parameter">fieldName</span> <span class="keyword">As</span> <span class="noLink">String</span>,
 	<span class="parameter">defaultIfEmpty</span> <span class="keyword">As</span> T,
-	Optional <span class="parameter">bindingFlags</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a> = <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Instance <span class="keyword">Or</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Static <span class="keyword">Or</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Public <span class="keyword">Or</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.NonPublic <span class="keyword">Or</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.FlattenHierarchy <span class="keyword">Or</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.GetProperty
+	Optional <span class="parameter">bindingFlags</span> <span class="keyword">As</span> <span class="noLink">BindingFlags</span> = <span class="noLink">BindingFlags</span>.Instance <span class="keyword">Or</span> <span class="noLink">BindingFlags</span>.Static <span class="keyword">Or</span> <span class="noLink">BindingFlags</span>.Public <span class="keyword">Or</span> <span class="noLink">BindingFlags</span>.NonPublic <span class="keyword">Or</span> <span class="noLink">BindingFlags</span>.FlattenHierarchy <span class="keyword">Or</span> <span class="noLink">BindingFlags</span>.GetProperty
 ) <span class="keyword">As</span> T
 
-<span class="keyword">Dim</span> <span class="parameter">obj</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>
-<span class="keyword">Dim</span> <span class="parameter">fieldName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
+<span class="keyword">Dim</span> <span class="parameter">obj</span> <span class="keyword">As</span> <span class="noLink">Object</span>
+<span class="keyword">Dim</span> <span class="parameter">fieldName</span> <span class="keyword">As</span> <span class="noLink">String</span>
 <span class="keyword">Dim</span> <span class="parameter">defaultIfEmpty</span> <span class="keyword">As</span> T
-<span class="keyword">Dim</span> <span class="parameter">bindingFlags</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>
+<span class="keyword">Dim</span> <span class="parameter">bindingFlags</span> <span class="keyword">As</span> <span class="noLink">BindingFlags</span>
 
 <span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> T
 
@@ -129,25 +130,25 @@
 	<span class="parameter">fieldName</span>, <span class="parameter">defaultIfEmpty</span>, <span class="parameter">bindingFlags</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
 <span class="keyword">generic</span>&lt;<span class="keyword">typename</span> T&gt;
 <span class="keyword">static</span> T <span class="identifier">GetFieldValue</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>^ <span class="parameter">obj</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">fieldName</span>, 
+	<span class="noLink">Object</span>^ <span class="parameter">obj</span>, 
+	<span class="noLink">String</span>^ <span class="parameter">fieldName</span>, 
 	T <span class="parameter">defaultIfEmpty</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a> <span class="parameter">bindingFlags</span> = <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::Instance|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::Static|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::Public|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::NonPublic|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::FlattenHierarchy|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>::GetProperty
+	<span class="noLink">BindingFlags</span> <span class="parameter">bindingFlags</span> = <span class="noLink">BindingFlags</span>::Instance|<span class="noLink">BindingFlags</span>::Static|<span class="noLink">BindingFlags</span>::Public|<span class="noLink">BindingFlags</span>::NonPublic|<span class="noLink">BindingFlags</span>::FlattenHierarchy|<span class="noLink">BindingFlags</span>::GetProperty
 )</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">GetFieldValue</span> : 
-        <span class="parameter">obj</span> : <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a> * 
-        <span class="parameter">fieldName</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
+        <span class="parameter">obj</span> : <span class="noLink">Object</span> * 
+        <span class="parameter">fieldName</span> : <span class="noLink">string</span> * 
         <span class="parameter">defaultIfEmpty</span> : 'T * 
-        ?<span class="parameter">bindingFlags</span> : <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a> 
+        ?<span class="parameter">bindingFlags</span> : <span class="noLink">BindingFlags</span> 
 (* Defaults:
-        <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">bindingFlags</span> = defaultArg <span class="identifier">bindingFlags</span> <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Instance|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Static|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.Public|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.NonPublic|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.FlattenHierarchy|<a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>.GetProperty
+        <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">bindingFlags</span> = defaultArg <span class="identifier">bindingFlags</span> <span class="noLink">BindingFlags</span>.Instance|<span class="noLink">BindingFlags</span>.Static|<span class="noLink">BindingFlags</span>.Public|<span class="noLink">BindingFlags</span>.NonPublic|<span class="noLink">BindingFlags</span>.FlattenHierarchy|<span class="noLink">BindingFlags</span>.GetProperty
 *)
-<span class="keyword">-&gt;</span> 'T </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">obj</span>  <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a></dt><dd>
+<span class="keyword">-&gt;</span> 'T </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">obj</span>  <span class="noLink">Object</span></dt><dd>
  The source object from which to retrieve the field.
- </dd><dt class="has-text-weight-normal"><span class="parameter">fieldName</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">fieldName</span>  <span class="noLink">String</span></dt><dd>
  The name of the field to search for.
  </dd><dt class="has-text-weight-normal"><span class="parameter">defaultIfEmpty</span>  <span class="selflink"><span class="typeparameter">T</span></span></dt><dd>
  The default value to return in case of the property value is <span class="keyword"><span id="LSTEFC1EA8D_3" data-languageSpecificText="cpp=nullptr|vb=Nothing|nu=null"></span></span>.
- </dd><dt class="has-text-weight-normal"><span class="parameter">bindingFlags</span>  <a href="https://learn.microsoft.com/dotnet/api/system.reflection.bindingflags" target="_top" rel="noopener noreferrer">BindingFlags</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">bindingFlags</span>  <span class="noLink">BindingFlags</span>  (Optional)</dt><dd>
  Flags that controls binding and the way in which the search for members and types is conducted by Reflection.
  </dd></dl><h4 class="quickLinkHeader">Type Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">T</span></dt><dd>
  The type of the field to be returned.
@@ -173,13 +174,13 @@ Console.WriteLine(field)</code></pre></div></div><div class="codeSnippet is-hidd
               <table class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.argumentnullexception" target="_top" rel="noopener noreferrer">ArgumentNullException</a>
+                    <span class="noLink">ArgumentNullException</span>
                   </td>
                   <td />
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.argumentexception" target="_top" rel="noopener noreferrer">ArgumentException</a>
+                    <span class="noLink">ArgumentException</span>
                   </td>
                   <td>
  Field not found using the current flags.
@@ -248,9 +249,9 @@ Console.WriteLine(field)</code></pre></div></div><div class="codeSnippet is-hidd
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -281,7 +282,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

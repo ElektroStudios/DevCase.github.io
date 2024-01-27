@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Kernel<wbr />32<span id="LST7E72933F_0" data-languageSpecificText="cpp=::|nu=."></span>Heap<wbr />Size Method</h1>
             <div class="summary">
@@ -106,36 +107,36 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="identifier">HeapSize</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hHeap</span>,
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("Kernel32.dll", SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">int</span> <span class="identifier">HeapSize</span>(
+	<span class="noLink">IntPtr</span> <span class="parameter">hHeap</span>,
 	<a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a> <span class="parameter">flags</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">mem</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", SetLastError := true&gt;]
+	<span class="noLink">IntPtr</span> <span class="parameter">mem</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">HeapSize</span> ( 
-	<span class="parameter">hHeap</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
+	<span class="parameter">hHeap</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
 	<span class="parameter">flags</span> <span class="keyword">As</span> <a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a>,
-	<span class="parameter">mem</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+	<span class="parameter">mem</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+) <span class="keyword">As</span> <span class="noLink">Integer</span>
 
-<span class="keyword">Dim</span> <span class="parameter">hHeap</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">hHeap</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 <span class="keyword">Dim</span> <span class="parameter">flags</span> <span class="keyword">As</span> <a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a>
-<span class="keyword">Dim</span> <span class="parameter">mem</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">mem</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
 
 <span class="parameter">returnValue</span> = <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32</a>.<span class="identifier">HeapSize</span>(<span class="parameter">hHeap</span>, 
 	<span class="parameter">flags</span>, <span class="parameter">mem</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Kernel32.dll", SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="identifier">HeapSize</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hHeap</span>, 
+[<span class="noLink">DllImportAttribute</span>(L"Kernel32.dll", SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">int</span> <span class="identifier">HeapSize</span>(
+	<span class="noLink">IntPtr</span> <span class="parameter">hHeap</span>, 
 	<a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a> <span class="parameter">flags</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">mem</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", SetLastError = true)&gt;]
+	<span class="noLink">IntPtr</span> <span class="parameter">mem</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">HeapSize</span> : 
-        <span class="parameter">hHeap</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
+        <span class="parameter">hHeap</span> : <span class="noLink">IntPtr</span> * 
         <span class="parameter">flags</span> : <a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a> * 
-        <span class="parameter">mem</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hHeap</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+        <span class="parameter">mem</span> : <span class="noLink">IntPtr</span> <span class="keyword">-&gt;</span> <span class="noLink">int</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hHeap</span>  <span class="noLink">IntPtr</span></dt><dd>
  A handle to the heap in which the memory block resides. 
  <p />
  This handle is returned by either the <a href="3868568b-81cc-3b7a-b8f3-4eec4dce70b3.htm">HeapCreate(HeapFlags, UInt32, UInt32)</a> or 
@@ -145,20 +146,20 @@
  <p />
  Specifying a <a href="b96188eb-7c8c-970a-d42e-2a3564dc2bc6.htm">HeapFlags</a> value overrides the corresponding value specified in the <span class="code">options</span> parameter when
  the heap was created by using the <a href="3868568b-81cc-3b7a-b8f3-4eec4dce70b3.htm">HeapCreate(HeapFlags, UInt32, UInt32)</a> function.
- </dd><dt class="has-text-weight-normal"><span class="parameter">mem</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">mem</span>  <span class="noLink">IntPtr</span></dt><dd>
  A pointer to the memory block whose size the function will obtain. 
  <p />
  This is a pointer returned by the <a href="a9f6e8dd-b45d-b8d5-0b84-12d5bc21370b.htm">HeapAlloc(IntPtr, HeapFlags, UInt32)</a> 
  or <a href="1f715a6b-6792-9c71-08a0-6f10161df6c3.htm">HeapReAlloc(IntPtr, HeapFlags, IntPtr, UInt32)</a> function. 
  <p />
  The memory block must be from the heap specified by the <span class="parameter">hHeap</span> parameter.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a><br />
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Int32</span><br />
  If the function succeeds, the return value is the requested size of the allocated memory block, in bytes.
  <p />
  If the function fails, the return value is (SIZE_T)-1. 
  <p />
  The function does not call <a href="acf94b26-6800-f273-b4bf-2bdcc55d9ad0.htm">SetLastError(Win32ErrorCode)</a>. 
- An application cannot call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST7E72933F_2" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> for extended error information.
+ An application cannot call <span class="noLink">GetLastWin32Error<span id="LST7E72933F_2" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> for extended error information.
  <p />
  If the <span class="parameter">mem</span> parameter refers to a heap allocation that is not in the 
  heap specified by the <span class="parameter">hHeap</span> parameter, 
@@ -223,9 +224,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -256,7 +257,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

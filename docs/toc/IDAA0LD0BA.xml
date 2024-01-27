@@ -2,36 +2,45 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="185259e9-f0ab-f817-625a-9ae28963de3b.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Tree<wbr />View<wbr />Extensions</a>
+      <a href="0c501179-8ab4-4189-10cc-536df439da22.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Text<wbr />Box<wbr />Extensions</a>
     </li>
     <li>
-      <a href="5c47c50c-4a11-1b0c-0835-0a1486408c2b.htm">Tree<wbr />View<wbr />Extensions</a>
+      <a href="319c517e-d926-ae30-381e-46d0ff3dca22.htm">Text<wbr />Box<wbr />Extensions</a>
     </li>
     <li>
-      <a href="d83f9043-f7d7-a42d-8917-e2c8b4560437.htm">Methods</a>
+      <a href="323cc95a-0e05-1f0d-3538-ab8bb2d65cba.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="2bc7436e-725e-6cc0-1138-f73c8370a41a" href="2bc7436e-725e-6cc0-1138-f73c8370a41a.htm">Enumerate<wbr />All<wbr />Nodes</a>
+      <a id="52465563-6bdc-775e-1869-bc7df0272067" href="52465563-6bdc-775e-1869-bc7df0272067.htm">Clear<wbr />Selected<wbr />Text</a>
     </li>
     <li>
-      <a id="735092d0-7581-d387-594f-067c3d7c6e56" href="735092d0-7581-d387-594f-067c3d7c6e56.htm">Get<wbr />All<wbr />Nodes</a>
+      <a id="b34fcabe-f3c0-5f9f-987d-ca009e135b01" href="b34fcabe-f3c0-5f9f-987d-ca009e135b01.htm">Copy<wbr />All</a>
     </li>
     <li>
-      <a id="1176eca2-4dea-655e-b77a-e47fd18bff68" href="1176eca2-4dea-655e-b77a-e47fd18bff68.htm">Restore<wbr />Tree<wbr />State</a>
+      <a id="eb53f286-0f57-0860-d678-f4aa56029142" href="eb53f286-0f57-0860-d678-f4aa56029142.htm">Deserialize</a>
     </li>
     <li>
-      <a id="ec66a46e-dcc9-1c85-3ae4-5157967a2806" href="ec66a46e-dcc9-1c85-3ae4-5157967a2806.htm">Save<wbr />Tree<wbr />State</a>
+      <a id="d8f85e3b-a0c2-ed55-146c-418c056bf886" href="d8f85e3b-a0c2-ed55-146c-418c056bf886.htm">Serialize</a>
+    </li>
+    <li>
+      <a id="f683b919-04c0-af09-cc21-622f68c49714" href="f683b919-04c0-af09-cc21-622f68c49714.htm">Set<wbr />Caret<wbr />Pos</a>
+    </li>
+    <li>
+      <a id="078e1381-ad24-bcf3-e42f-746c46d44987" href="078e1381-ad24-bcf3-e42f-746c46d44987.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />Begin</a>
+    </li>
+    <li>
+      <a id="2aed7f08-92a5-bc82-f097-cdebe7bef424" href="2aed7f08-92a5-bc82-f097-cdebe7bef424.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />End</a>
     </li>
   </tocItems>
 </toc>

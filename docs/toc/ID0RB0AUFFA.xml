@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="511a80a7-7674-aaef-1675-a29b8f0129fa.htm">Draw<wbr />Edge</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5c3ee0d7-bfad-817f-12b0-aed14a3a8e75" href="5c3ee0d7-bfad-817f-12b0-aed14a3a8e75.htm">Draw<wbr />Edge(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle, Draw<wbr />Edge<wbr />Type, Draw<wbr />Edge<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="a18c5d91-5534-dc87-a3f5-2ece9b7cd49e" href="a18c5d91-5534-dc87-a3f5-2ece9b7cd49e.htm">Draw<wbr />Edge(<wbr />Int<wbr />Ptr, Rectangle, Draw<wbr />Edge<wbr />Type, Draw<wbr />Edge<wbr />Flags)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,36 +2,40 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="891f5e99-8ead-74fb-89f2-f8d5ebb37ed1.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Size<wbr />FExtensions</a>
+      <a href="10a357da-d490-d8dc-f0dc-8a2448914f57.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Secure<wbr />String<wbr />Extensions</a>
     </li>
     <li>
-      <a href="b07df6fa-89da-7530-a313-c51a48708b0a.htm">Size<wbr />FExtensions</a>
+      <a href="f40f960b-285f-b717-3cb2-f49f878907fc.htm">Secure<wbr />String<wbr />Extensions</a>
     </li>
     <li>
-      <a href="ad1b98e4-1122-029a-d1ae-60bbe58941b1.htm">Methods</a>
+      <a href="33bc1b9f-d30d-76e0-2d17-dee194170fc6.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="c87aeb50-be0e-66ab-b65a-cc39dfbdb510" href="c87aeb50-be0e-66ab-b65a-cc39dfbdb510.htm">Flip</a>
+      <a id="f606a3aa-395c-65db-31b5-54ead2a053a7" href="f606a3aa-395c-65db-31b5-54ead2a053a7.htm">Append<wbr />Chars</a>
     </li>
     <li>
-      <a id="521940e6-1ee4-4f0e-3804-3f3570804228" href="521940e6-1ee4-4f0e-3804-3f3570804228.htm">Intersect</a>
+      <a id="ac428c78-c27c-33e0-3f31-fde09d2523d5" href="ac428c78-c27c-33e0-3f31-fde09d2523d5.htm">Append<wbr />String</a>
     </li>
     <li>
-      <a id="89b70f47-5216-a344-1218-6b9a04533e53" href="89b70f47-5216-a344-1218-6b9a04533e53.htm">To<wbr />Size</a>
+      <a id="56ecae41-ea99-e3a6-3557-7b91db031d75" class="has-submenu" href="56ecae41-ea99-e3a6-3557-7b91db031d75.htm">
+        <span data-tocFile="../toc/IDCAA03C0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals<wbr />Ordinal</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="4da16a59-fd2c-3894-4839-2a20a37d2d04" href="4da16a59-fd2c-3894-4839-2a20a37d2d04.htm">Union</a>
+      <a id="b7c710c4-15a0-111a-f263-69c0adf4e262" href="b7c710c4-15a0-111a-f263-69c0adf4e262.htm">To<wbr />Managed<wbr />String</a>
     </li>
   </tocItems>
 </toc>

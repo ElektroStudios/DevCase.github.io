@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="7cb4bd54-a09a-2cc5-4897-c6d5509fd197.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Converters</a>
+    </li>
+    <li>
+      <a href="1908592d-2037-8166-8449-ac68a803a612.htm">File<wbr />Size<wbr />Converter</a>
+    </li>
+    <li>
+      <a href="c06d94b3-1410-a17d-3ccd-91d75e7e21cc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="856bf5c9-d2d1-b884-1ccd-8a5ad6049f7c.htm">Can<wbr />Convert<wbr />From</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8f64864c-b18a-395c-7521-9f9e97ae023d" href="8f64864c-b18a-395c-7521-9f9e97ae023d.htm">Can<wbr />Convert<wbr />From(<wbr />IType<wbr />Descriptor<wbr />Context, Type)</a>
+    </li>
+  </tocItems>
+</toc>

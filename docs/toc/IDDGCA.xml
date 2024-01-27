@@ -2,39 +2,28 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
     </li>
     <li>
-      <a href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+      <a href="c17d5ab0-1588-86cc-a16f-ab5938124500.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Comparers</a>
     </li>
     <li>
-      <a href="1f8de777-14c7-01c9-3b12-d43566792e55.htm">Lazy<wbr />Async&lt;T&gt;</a>
+      <a href="dee30008-258f-2f1f-1540-22ca5bc30444.htm">File<wbr />Info<wbr />Natural<wbr />Comparer</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="a30de3e4-5748-496a-0666-77e0881b24cc" class="has-submenu" href="a30de3e4-5748-496a-0666-77e0881b24cc.htm">
-        <span data-tocFile="../toc/IDADGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Constructors</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="b565aa6e-153f-f8fa-e78f-fa9591854e16" href="b565aa6e-153f-f8fa-e78f-fa9591854e16.htm">Constructor</a>
     </li>
     <li>
-      <a id="429af5e3-a3e2-1036-4c94-ee5e55255250" class="has-submenu" href="429af5e3-a3e2-1036-4c94-ee5e55255250.htm">
+      <a id="ccaef674-dc2b-d3f8-6e7a-e0efe4be93e6" class="has-submenu" href="ccaef674-dc2b-d3f8-6e7a-e0efe4be93e6.htm">
         <span data-tocFile="../toc/IDBDGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="58c4445d-6c1b-6599-b644-c21d48cac81c" class="has-submenu" href="58c4445d-6c1b-6599-b644-c21d48cac81c.htm">
-        <span data-tocFile="../toc/IDCDGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>

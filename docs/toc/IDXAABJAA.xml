@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -23,15 +23,15 @@
       <a href="f77cf6cd-9354-d2de-2f0a-bca9b940cd1b.htm">Methods</a>
     </li>
     <li>
-      <a href="ba3182c2-d2a4-7e1c-1398-b03a00abff8c.htm">Stairs<wbr />Encrypt</a>
+      <a href="f48261de-e05f-9e8c-6af1-9272d27549cb.htm">Polymorphic<wbr />Stairs<wbr />Encrypt</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="768f3622-9902-c2ab-3839-469602f5f945" href="768f3622-9902-c2ab-3839-469602f5f945.htm">Stairs<wbr />Encrypt(<wbr />Byte[], Byte[])</a>
+      <a id="6498f018-0dfc-5027-87dc-4d0b74d2dbee" href="6498f018-0dfc-5027-87dc-4d0b74d2dbee.htm">Polymorphic<wbr />Stairs<wbr />Encrypt(<wbr />Byte[], Byte[], UInt<wbr />32)</a>
     </li>
     <li>
-      <a id="a38c5f74-7e16-e5e2-44e6-3bc6b039d4be" href="a38c5f74-7e16-e5e2-44e6-3bc6b039d4be.htm">Stairs<wbr />Encrypt(<wbr />String, String, Encoding)</a>
+      <a id="8fa24fc5-e7dd-8b15-69f9-bd59ad0270d8" href="8fa24fc5-e7dd-8b15-69f9-bd59ad0270d8.htm">Polymorphic<wbr />Stairs<wbr />Encrypt(<wbr />String, String, Encoding, UInt<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

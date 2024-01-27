@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="7cb4bd54-a09a-2cc5-4897-c6d5509fd197.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Converters</a>
+    </li>
+    <li>
+      <a href="6821b734-d5c2-befc-7140-a5aa96405a2c.htm">Percentage<wbr />Type<wbr />Converter</a>
+    </li>
+    <li>
+      <a href="c8a4ff03-41eb-fd5a-7386-67e2dcb7ac99.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7761fe56-3120-a9d2-1674-9dfad4586185.htm">Can<wbr />Convert<wbr />From</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="41765fd2-3fa9-9cc7-3bcc-2be847997b2c" href="41765fd2-3fa9-9cc7-3bcc-2be847997b2c.htm">Can<wbr />Convert<wbr />From(<wbr />IType<wbr />Descriptor<wbr />Context, Type)</a>
+    </li>
+  </tocItems>
+</toc>

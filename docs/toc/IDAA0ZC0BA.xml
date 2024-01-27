@@ -2,73 +2,85 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="3e02158c-f1e7-6ad0-5ed0-f384ba156fd3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Short<wbr />Extensions</a>
+      <a href="50d38c34-b80e-e802-d628-2dcd3700e59a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Rich<wbr />Text<wbr />Box<wbr />Extensions</a>
     </li>
     <li>
-      <a href="d8ad8fe9-445d-92c2-bc1b-487ce64de7af.htm">Short<wbr />Extensions</a>
+      <a href="b16ac58f-0cea-c64b-0bf7-36845f9f3f94.htm">Rich<wbr />Text<wbr />Box<wbr />Extensions</a>
     </li>
     <li>
-      <a href="b9743cfc-5878-476f-e70e-98fd8912bcf6.htm">Methods</a>
+      <a href="d30f731d-1a9e-28b9-6567-4fb37d06067c.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="8b6c4c7b-f8da-6683-b2a2-27e3c45a97cc" href="8b6c4c7b-f8da-6683-b2a2-27e3c45a97cc.htm">Difference<wbr />Of</a>
-    </li>
-    <li>
-      <a id="d94e8aff-c271-195d-bc71-cf2735e79f8d" class="has-submenu" href="d94e8aff-c271-195d-bc71-cf2735e79f8d.htm">
-        <span data-tocFile="../toc/IDBAA0ZC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="710c2364-edd2-08eb-55ad-0a657fe7f661" class="has-submenu" href="710c2364-edd2-08eb-55ad-0a657fe7f661.htm">
+        <span data-tocFile="../toc/IDAAA0ZC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Formatted</a>
+        </span>Append<wbr />Colored<wbr />Text</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="d6de9e5e-e0c7-0d3a-e7e3-38815bf8592e" href="d6de9e5e-e0c7-0d3a-e7e3-38815bf8592e.htm">Fraction<wbr />By</a>
+      <a id="43bb3296-0b65-bad0-1d1b-045fa4f13209" href="43bb3296-0b65-bad0-1d1b-045fa4f13209.htm">Append<wbr />Text</a>
     </li>
     <li>
-      <a id="d7ec58fc-17ab-2a18-3b05-263e8081a8d1" href="d7ec58fc-17ab-2a18-3b05-263e8081a8d1.htm">Is<wbr />Divisible<wbr />By</a>
+      <a id="447b2514-d41e-8521-9fb3-c79b650cd017" href="447b2514-d41e-8521-9fb3-c79b650cd017.htm">Append<wbr />Text<wbr />And<wbr />Select</a>
     </li>
     <li>
-      <a id="33196f23-2469-7128-779a-a570080f543a" href="33196f23-2469-7128-779a-a570080f543a.htm">Is<wbr />Even</a>
+      <a id="51e9c985-ce27-dfd8-71e3-4b6c32e63243" href="51e9c985-ce27-dfd8-71e3-4b6c32e63243.htm">Clear<wbr />Selected<wbr />Text</a>
     </li>
     <li>
-      <a id="4d2e21be-27dd-a5ae-e89e-f40071efad35" href="4d2e21be-27dd-a5ae-e89e-f40071efad35.htm">Is<wbr />In<wbr />Range<wbr />Of</a>
+      <a id="ed2a6e9d-54b5-f07c-7cc0-a1a4b82585d0" class="has-submenu" href="ed2a6e9d-54b5-f07c-7cc0-a1a4b82585d0.htm">
+        <span data-tocFile="../toc/IDEAA0ZC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Colorize<wbr />Matches</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="ec98e303-1455-fb1f-cee7-15f51c37887d" href="ec98e303-1455-fb1f-cee7-15f51c37887d.htm">Is<wbr />Multiple<wbr />Of</a>
+      <a id="6c90b047-89f4-d3b9-d155-aadd9558071c" href="6c90b047-89f4-d3b9-d155-aadd9558071c.htm">Copy<wbr />All</a>
     </li>
     <li>
-      <a id="e2231490-01af-4c1c-c43f-20da651cc265" href="e2231490-01af-4c1c-c43f-20da651cc265.htm">Is<wbr />Negative</a>
+      <a id="e1c9eed9-aa38-fdc0-d450-29317b6c11a3" href="e1c9eed9-aa38-fdc0-d450-29317b6c11a3.htm">Deserialize</a>
     </li>
     <li>
-      <a id="8cac9246-0b90-5b49-2416-2907fd66cf50" href="8cac9246-0b90-5b49-2416-2907fd66cf50.htm">Is<wbr />Odd</a>
+      <a id="f7e85b5e-a6ca-7a0c-0843-8fc80d02ab46" class="has-submenu" href="f7e85b5e-a6ca-7a0c-0843-8fc80d02ab46.htm">
+        <span data-tocFile="../toc/IDHAA0ZC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Next</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="9f1072f6-0f16-fe47-48d2-c8a3f1dea37b" href="9f1072f6-0f16-fe47-48d2-c8a3f1dea37b.htm">Is<wbr />Positive</a>
+      <a id="6bb4b60a-9c20-e17f-17f8-d1c2ba5ca8e5" class="has-submenu" href="6bb4b60a-9c20-e17f-17f8-d1c2ba5ca8e5.htm">
+        <span data-tocFile="../toc/IDIAA0ZC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Iterate<wbr />Matches</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="eeded19e-dd87-76e8-042a-012b331b778c" href="eeded19e-dd87-76e8-042a-012b331b778c.htm">Is<wbr />Prime</a>
+      <a id="0fe6905c-bbab-0ade-9ace-4de2a52973c9" href="0fe6905c-bbab-0ade-9ace-4de2a52973c9.htm">Scroll<wbr />To<wbr />Bottom</a>
     </li>
     <li>
-      <a id="b7f95d19-d8c2-5dcd-fa24-cea73f01ca4e" href="b7f95d19-d8c2-5dcd-fa24-cea73f01ca4e.htm">Percentage<wbr />Of</a>
+      <a id="2dd38fc9-ce4d-de4f-457f-e5cb95217798" href="2dd38fc9-ce4d-de4f-457f-e5cb95217798.htm">Scroll<wbr />To<wbr />Top</a>
     </li>
     <li>
-      <a id="080b6246-52af-f4be-23a0-58a562065de0" href="080b6246-52af-f4be-23a0-58a562065de0.htm">To<wbr />CSharp<wbr />Hex</a>
+      <a id="5c6cda25-5d53-4e3e-4067-23a73b3db404" href="5c6cda25-5d53-4e3e-4067-23a73b3db404.htm">Serialize</a>
     </li>
     <li>
-      <a id="40b93450-1178-4592-0d75-fafffffc6005" href="40b93450-1178-4592-0d75-fafffffc6005.htm">To<wbr />Int<wbr />Ptr</a>
+      <a id="f4263753-e2cf-2901-7f02-237bcafd64eb" href="f4263753-e2cf-2901-7f02-237bcafd64eb.htm">Set<wbr />Caret<wbr />Pos</a>
     </li>
     <li>
-      <a id="f1b820a0-1e93-f8d0-4702-6b1b61c6abb4" href="f1b820a0-1e93-f8d0-4702-6b1b61c6abb4.htm">To<wbr />VBHex</a>
+      <a id="f2ae5f32-62b9-3bd3-9970-c32ba9df3196" href="f2ae5f32-62b9-3bd3-9970-c32ba9df3196.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />Begin</a>
+    </li>
+    <li>
+      <a id="a75bfe08-14fd-9d05-9613-48938fd8c5dc" href="a75bfe08-14fd-9d05-9613-48938fd8c5dc.htm">Set<wbr />Caret<wbr />Pos<wbr />To<wbr />End</a>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -16,8 +16,15 @@
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d" class="has-submenu" href="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d.htm">
+      <a id="6e3a98a6-fcfb-46b1-6f88-74c8a464b599" class="has-submenu" href="6e3a98a6-fcfb-46b1-6f88-74c8a464b599.htm">
         <span data-tocFile="../toc/IDAAEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Floating<wbr />Picture</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d" class="has-submenu" href="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d.htm">
+        <span data-tocFile="../toc/IDBAEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Text<wbr />Margins</a>
       <ul class="toc-menu is-hidden"> </ul>

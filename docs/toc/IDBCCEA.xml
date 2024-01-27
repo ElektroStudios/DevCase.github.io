@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -14,36 +14,48 @@
       <a href="25a5ec84-2f32-1b44-62b9-ce67b84af12f.htm">Dev<wbr />Case.<wbr />UI.<wbr />Dialogs</a>
     </li>
     <li>
-      <a href="b87afd42-545a-5069-b300-2d0da1143ceb.htm">Open<wbr />File<wbr />Or<wbr />Folder<wbr />Dialog</a>
+      <a href="b21afaf8-6d7d-093e-334c-25fbb8bda9ed.htm">Dev<wbr />Progress<wbr />Dialog</a>
     </li>
     <li>
-      <a href="c2c11cb4-ac52-5090-458b-4d19764090e4.htm">Properties</a>
+      <a href="63bba658-1516-5de1-963e-bdab8bfe7594.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="a80a2d24-1f84-ef3c-cf14-1d24a251b59d" href="a80a2d24-1f84-ef3c-cf14-1d24a251b59d.htm">Auto<wbr />Upgrade<wbr />Enabled</a>
+      <a id="50b0d0d8-e0ef-6526-2603-5cf17531420f" href="50b0d0d8-e0ef-6526-2603-5cf17531420f.htm">Auto<wbr />Time<wbr />Estimation</a>
     </li>
     <li>
-      <a id="1fbb960d-6513-2e81-b3af-38ada37eb2a2" href="1fbb960d-6513-2e81-b3af-38ada37eb2a2.htm">Custom<wbr />Places</a>
+      <a id="cbc1a232-47d2-2f95-e72e-ac5f31168a48" href="cbc1a232-47d2-2f95-e72e-ac5f31168a48.htm">Cancel<wbr />Message</a>
     </li>
     <li>
-      <a id="e3c2b41c-c8fa-37fe-4061-f78e0a1462f1" href="e3c2b41c-c8fa-37fe-4061-f78e0a1462f1.htm">Dereference<wbr />Links</a>
+      <a id="a252fb59-9d26-3307-77fd-bf803ca41a95" href="a252fb59-9d26-3307-77fd-bf803ca41a95.htm">Compact<wbr />Strings</a>
     </li>
     <li>
-      <a id="9b8b23ed-df78-f7e3-d5f2-2c104e3ec160" href="9b8b23ed-df78-f7e3-d5f2-2c104e3ec160.htm">Initial<wbr />Directory</a>
+      <a id="05a5c70c-f83f-7fca-0aa1-a71cd935e74b" href="05a5c70c-f83f-7fca-0aa1-a71cd935e74b.htm">Description</a>
     </li>
     <li>
-      <a id="f316feb8-8ee4-2ec9-f91d-39951c2deeae" href="f316feb8-8ee4-2ec9-f91d-39951c2deeae.htm">Item<wbr />Name</a>
+      <a id="e0deaf5e-6ee1-f033-213e-3022940df538" href="e0deaf5e-6ee1-f033-213e-3022940df538.htm">Detail</a>
     </li>
     <li>
-      <a id="a6cb1f21-af17-7789-dea4-71dc258d4712" href="a6cb1f21-af17-7789-dea4-71dc258d4712.htm">Restore<wbr />Directory</a>
+      <a id="6758d481-00cb-274a-926f-5a4e6b5905fc" href="6758d481-00cb-274a-926f-5a4e6b5905fc.htm">Hide<wbr />Time<wbr />Remaining</a>
     </li>
     <li>
-      <a id="1c5e4bfb-0e63-d054-0742-103a311e1c9f" href="1c5e4bfb-0e63-d054-0742-103a311e1c9f.htm">Show<wbr />Help</a>
+      <a id="c3d0a8de-9092-b764-878c-4beb5c2e8464" href="c3d0a8de-9092-b764-878c-4beb5c2e8464.htm">Is<wbr />Cancelled</a>
     </li>
     <li>
-      <a id="2bf32bf4-0083-9472-4856-fac52673cfbd" href="2bf32bf4-0083-9472-4856-fac52673cfbd.htm">Title</a>
+      <a id="70f0ed1e-e935-44a4-e250-a8d4c0bd1908" href="70f0ed1e-e935-44a4-e250-a8d4c0bd1908.htm">Minimize<wbr />Box</a>
+    </li>
+    <li>
+      <a id="5e0170ff-8aaa-670c-e4c4-4781f38758bb" href="5e0170ff-8aaa-670c-e4c4-4781f38758bb.htm">Modal</a>
+    </li>
+    <li>
+      <a id="d91966bf-6afd-c87e-fe49-b2aa9460e262" href="d91966bf-6afd-c87e-fe49-b2aa9460e262.htm">Show<wbr />Cancel<wbr />Button</a>
+    </li>
+    <li>
+      <a id="0b779d15-3cb7-2fe9-e66d-26316174c215" href="0b779d15-3cb7-2fe9-e66d-26316174c215.htm">Style</a>
+    </li>
+    <li>
+      <a id="11bfa926-74c3-881a-62e9-345ee072a5a9" href="11bfa926-74c3-881a-62e9-345ee072a5a9.htm">Title</a>
     </li>
   </tocItems>
 </toc>

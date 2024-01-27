@@ -19,14 +19,14 @@
     <meta name="container" content="DevCase.Win32.NativeMethods" />
     <meta name="guid" content="e72c390f-c104-8ae9-204a-d82ed4df2343" />
     <meta name="Description" content="Reads data from the specified file or input/output (I/O) device. Reads occur at the position specified by the file pointer if supported by the device. This function is designed for both synchronous and asynchronous operations." />
-    <meta name="tocFile" content="../toc/ID0RH0AJFFA.xml" />
+    <meta name="tocFile" content="../toc/ID0SH0AJFFA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Kernel<wbr />32<span id="LST772F82DC_0" data-languageSpecificText="cpp=::|nu=."></span>Read<wbr />File(Safe<wbr />File<wbr />Handle, <span id="LST772F82DC_1" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST772F82DC_2" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span>, UInt<wbr />32, UInt<wbr />32<span id="LST772F82DC_3" data-languageSpecificText="cpp=%"></span>, Int<wbr />Ptr) Method</h1>
             <div class="summary">
@@ -109,47 +110,47 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", ExactSpelling = true, SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">ReadFile</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a> <span class="parameter">hFile</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">byte</a>[] <span class="parameter">buffer</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint</a> <span class="parameter">numberOfBytesToRead</span>,
-	<span class="keyword">out</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint</a> <span class="parameter">refNumberOfBytesRead</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">overlapped</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", ExactSpelling := true, SetLastError := true&gt;]
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("Kernel32.dll", ExactSpelling = true, SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">ReadFile</span>(
+	<span class="noLink">SafeFileHandle</span> <span class="parameter">hFile</span>,
+	<span class="noLink">byte</span>[] <span class="parameter">buffer</span>,
+	<span class="noLink">uint</span> <span class="parameter">numberOfBytesToRead</span>,
+	<span class="keyword">out</span> <span class="noLink">uint</span> <span class="parameter">refNumberOfBytesRead</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">overlapped</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", ExactSpelling := true, SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">ReadFile</span> ( 
-	<span class="parameter">hFile</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>,
-	<span class="parameter">buffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a>(),
-	<span class="parameter">numberOfBytesToRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">overlapped</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	<span class="parameter">hFile</span> <span class="keyword">As</span> <span class="noLink">SafeFileHandle</span>,
+	<span class="parameter">buffer</span> <span class="keyword">As</span> <span class="noLink">Byte</span>(),
+	<span class="parameter">numberOfBytesToRead</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>,
+	&lt;<span class="noLink">OutAttribute</span>&gt; <span class="keyword">ByRef</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">overlapped</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">hFile</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>
-<span class="keyword">Dim</span> <span class="parameter">buffer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a>()
-<span class="keyword">Dim</span> <span class="parameter">numberOfBytesToRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
-<span class="keyword">Dim</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
-<span class="keyword">Dim</span> <span class="parameter">overlapped</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">hFile</span> <span class="keyword">As</span> <span class="noLink">SafeFileHandle</span>
+<span class="keyword">Dim</span> <span class="parameter">buffer</span> <span class="keyword">As</span> <span class="noLink">Byte</span>()
+<span class="keyword">Dim</span> <span class="parameter">numberOfBytesToRead</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
+<span class="keyword">Dim</span> <span class="parameter">refNumberOfBytesRead</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
+<span class="keyword">Dim</span> <span class="parameter">overlapped</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32</a>.<span class="identifier">ReadFile</span>(<span class="parameter">hFile</span>, 
 	<span class="parameter">buffer</span>, <span class="parameter">numberOfBytesToRead</span>, <span class="parameter">refNumberOfBytesRead</span>, 
 	<span class="parameter">overlapped</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Kernel32.dll", ExactSpelling = true, SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">ReadFile</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a>^ <span class="parameter">hFile</span>, 
-	<span class="keyword">array</span>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">unsigned char</a>&gt;^ <span class="parameter">buffer</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">unsigned int</a> <span class="parameter">numberOfBytesToRead</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">unsigned int</a>% <span class="parameter">refNumberOfBytesRead</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">overlapped</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", ExactSpelling = true, SetLastError = true)&gt;]
+[<span class="noLink">DllImportAttribute</span>(L"Kernel32.dll", ExactSpelling = true, SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">ReadFile</span>(
+	<span class="noLink">SafeFileHandle</span>^ <span class="parameter">hFile</span>, 
+	<span class="keyword">array</span>&lt;<span class="noLink">unsigned char</span>&gt;^ <span class="parameter">buffer</span>, 
+	<span class="noLink">unsigned int</span> <span class="parameter">numberOfBytesToRead</span>, 
+	[<span class="noLink">OutAttribute</span>] <span class="noLink">unsigned int</span>% <span class="parameter">refNumberOfBytesRead</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">overlapped</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", ExactSpelling = true, SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">ReadFile</span> : 
-        <span class="parameter">hFile</span> : <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a> * 
-        <span class="parameter">buffer</span> : <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">byte</a>[] * 
-        <span class="parameter">numberOfBytesToRead</span> : <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint32</a> * 
-        <span class="parameter">refNumberOfBytesRead</span> : <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint32</a> <span class="keyword">byref</span> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">overlapped</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hFile</span>  <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safefilehandle" target="_top" rel="noopener noreferrer">SafeFileHandle</a></dt><dd>
+        <span class="parameter">hFile</span> : <span class="noLink">SafeFileHandle</span> * 
+        <span class="parameter">buffer</span> : <span class="noLink">byte</span>[] * 
+        <span class="parameter">numberOfBytesToRead</span> : <span class="noLink">uint32</span> * 
+        <span class="parameter">refNumberOfBytesRead</span> : <span class="noLink">uint32</span> <span class="keyword">byref</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">overlapped</span> : <span class="noLink">IntPtr</span> <span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">hFile</span>  <span class="noLink">SafeFileHandle</span></dt><dd>
  A handle to the device (for example, a file, file stream, physical disk, 
  volume, console buffer, tape drive, socket, communications resource, mailslot, or pipe).
  <p />
@@ -160,15 +161,15 @@
  any handle that is opened with the <a href="0cdc7944-c002-6c71-e2c5-21dc23270caf.htm">Overlapped</a> flag by the 
  <a href="4c279059-6d21-48f1-fabd-e5a9fd291e4f.htm">CreateFile(String, FileAccessRights, FileShare, IntPtr, FileMode, CreateFileFlags, IntPtr)</a> function, 
  or a socket handle returned by the socket or accept function.
- </dd><dt class="has-text-weight-normal"><span class="parameter">buffer</span>  <span id="LST772F82DC_4" data-languageSpecificText="cpp=array&lt;"></span><a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a><span id="LST772F82DC_5" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">buffer</span>  <span id="LST772F82DC_4" data-languageSpecificText="cpp=array&lt;"></span><span class="noLink">Byte</span><span id="LST772F82DC_5" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>
  A pointer to the buffer that receives the data read from a file or device.
  <p />
  This buffer must remain valid for the duration of the read operation. 
  <p />
  The caller must not use this buffer until the read operation is completed.
- </dd><dt class="has-text-weight-normal"><span class="parameter">numberOfBytesToRead</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInt32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">numberOfBytesToRead</span>  <span class="noLink">UInt32</span></dt><dd>
  The maximum number of bytes to be read.
- </dd><dt class="has-text-weight-normal"><span class="parameter">refNumberOfBytesRead</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInt32</a><span id="LST772F82DC_6" data-languageSpecificText="cpp=%"></span></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refNumberOfBytesRead</span>  <span class="noLink">UInt32</span><span id="LST772F82DC_6" data-languageSpecificText="cpp=%"></span></dt><dd>
  A pointer to the variable that receives the number of bytes read 
  when using a synchronous <span class="parameter">hFile</span> parameter.
  <p /><a href="5ddba342-5f71-d011-0e24-835d33036f93.htm">ReadFile(SafeFileHandle, <span id="LST772F82DC_7" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST772F82DC_8" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, Int32<span id="LST772F82DC_9" data-languageSpecificText="cpp=%"></span>, NativeOverlapped<span id="LST772F82DC_10" data-languageSpecificText="cpp=%"></span>)</a> sets this value to zero before doing any work or error checking. 
@@ -176,7 +177,7 @@
  Use NULL for this parameter if this is an asynchronous operation to avoid potentially erroneous results.
  <p />
  This parameter can be NULL only when the <span class="parameter">overlapped</span> parameter is not NULL.
- </dd><dt class="has-text-weight-normal"><span class="parameter">overlapped</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">overlapped</span>  <span class="noLink">IntPtr</span>  (Optional)</dt><dd>
  A pointer to an OVERLAPPED structure is required if the 
  <span class="parameter">hFile</span> parameter was opened with <a href="0cdc7944-c002-6c71-e2c5-21dc23270caf.htm">Overlapped</a>, 
  otherwise it can be NULL.
@@ -190,14 +191,14 @@
  This offset is specified by setting the Offset and OffsetHigh members of the OVERLAPPED structure.
  <p />
  For an <span class="parameter">hFile</span> that does not support byte offsets, Offset and OffsetHigh are ignored.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br />
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br />
  If the function succeeds, the return value is <span class="keyword"><span id="LST772F82DC_11" data-languageSpecificText="vb=True|nu=true"></span></span>.
  <p />
  If the function fails, or is completing asynchronously, the return value is <span class="keyword"><span id="LST772F82DC_12" data-languageSpecificText="vb=False|nu=false"></span></span>.
  <p />
- To get extended error information, call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST772F82DC_13" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>.
+ To get extended error information, call <span class="noLink">GetLastWin32Error<span id="LST772F82DC_13" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>.
  <p />
- Note: The <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST772F82DC_14" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> code <a href="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de.htm">ERROR_IO_PENDING</a>
+ Note: The <span class="noLink">GetLastWin32Error<span id="LST772F82DC_14" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> code <a href="3c01115c-f2e9-a5d5-cbf3-0510ace8d7de.htm">ERROR_IO_PENDING</a>
  is not a failure; it means the read operation is pending completion asynchronously.
  </div>
             <h2 class="quickLinkHeader">
@@ -262,9 +263,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -295,7 +296,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

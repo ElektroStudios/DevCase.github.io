@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,27 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="282a55d7-1531-7d8f-f96f-02ffd609bc77.htm">Create<wbr />Hard<wbr />Link</a>
+      <a href="44d47141-30cc-13a6-a2e1-8b0ef5f37a26.htm">Create<wbr />File<wbr />W</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="21db5012-0bac-0fd5-6beb-017d76b92013" href="21db5012-0bac-0fd5-6beb-017d76b92013.htm">Create<wbr />Hard<wbr />Link(<wbr />String, String, Security<wbr />Attributes)</a>
+      <a id="3fafe751-835f-b932-0ba3-332c4c502c07" href="3fafe751-835f-b932-0ba3-332c4c502c07.htm">Create<wbr />File<wbr />W(<wbr />String, File<wbr />Access<wbr />Rights, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, Create<wbr />File<wbr />Flags, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="a615ff49-bee0-2536-958e-bce28f45e0e2" href="a615ff49-bee0-2536-958e-bce28f45e0e2.htm">Create<wbr />Hard<wbr />Link(<wbr />String, String, Int<wbr />Ptr)</a>
+      <a id="de5861e3-f53b-60b3-5b75-eba6cfd6ed41" href="de5861e3-f53b-60b3-5b75-eba6cfd6ed41.htm">Create<wbr />File<wbr />W(<wbr />String, File<wbr />Access<wbr />Rights, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, File<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="186d7c6d-2694-360c-2283-def89ab22055" href="186d7c6d-2694-360c-2283-def89ab22055.htm">Create<wbr />File<wbr />W(<wbr />String, File<wbr />Access<wbr />Rights, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, UInt<wbr />32, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a8405462-2a91-7a4a-92a5-81a85cde273d" href="a8405462-2a91-7a4a-92a5-81a85cde273d.htm">Create<wbr />File<wbr />W(<wbr />String, Int<wbr />32, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, Create<wbr />File<wbr />Flags, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="467f05a8-3258-3bfb-1e22-06a959bc0d48" href="467f05a8-3258-3bfb-1e22-06a959bc0d48.htm">Create<wbr />File<wbr />W(<wbr />String, Int<wbr />32, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, File<wbr />Attributes, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e6b8ebe8-6877-ed82-cde9-fdd12baa914f" href="e6b8ebe8-6877-ed82-cde9-fdd12baa914f.htm">Create<wbr />File<wbr />W(<wbr />String, Int<wbr />32, File<wbr />Share, Int<wbr />Ptr, File<wbr />Mode, UInt<wbr />32, Int<wbr />Ptr)</a>
     </li>
   </tocItems>
 </toc>

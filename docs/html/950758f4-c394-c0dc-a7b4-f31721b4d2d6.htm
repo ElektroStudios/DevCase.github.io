@@ -18,7 +18,7 @@
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="DevCase.Core.Networking.Common" />
     <meta name="guid" content="950758f4-c394-c0dc-a7b4-f31721b4d2d6" />
-    <meta name="Description" content="A extended component, with support for cookies and requests timeout." />
+    <meta name="Description" content="A extended component, that provides common methods for sending data to and receiving data from a resource identified by a URI, with additional support for cookies and requests timeout." />
     <meta name="tocFile" content="../toc/IDAIAA.xml" />
   </head>
   <body>
@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,31 +95,30 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Dev<wbr />Web<wbr />Client Class</h1>
             <div class="summary">
- A extended <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a> component, with support for cookies and requests timeout.
+ A extended <span class="noLink">WebClient</span> component, that provides common methods for sending data to 
+ and receiving data from a resource identified by a URI, 
+ with additional support for cookies and requests timeout.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">DevCase.Core.Networking.Common</a><br /><strong>Assembly:</strong> DevCase.Core.Networking (in DevCase.Core.Networking.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")]
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.comvisibleattribute" target="_top" rel="noopener noreferrer">ComVisibleAttribute</a>(<span class="keyword">true</span>)]
-<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">DevWebClient</span> : <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">GetType</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")&gt;
-&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.comvisibleattribute" target="_top" rel="noopener noreferrer">ComVisibleAttribute</a>(<span class="keyword">true</span>)&gt;
+              <strong>Namespace:</strong> <a href="7e7d960b-4ca2-6350-1379-1dcfa4cc0bda.htm">DevCase.Core.Networking.Common</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">ComVisibleAttribute</span>(<span class="keyword">true</span>)]
+<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">DevWebClient</span> : <span class="noLink">WebClient</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">ComVisibleAttribute</span>(<span class="keyword">true</span>)&gt;
 <span class="keyword">Public</span> <span class="keyword">Class</span> <span class="identifier">DevWebClient</span>
-	<span class="keyword">Inherits</span> <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>
+	<span class="keyword">Inherits</span> <span class="noLink">WebClient</span>
 
-<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">DevWebClient</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp">[<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), L"Component.bmp")]
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.comvisibleattribute" target="_top" rel="noopener noreferrer">ComVisibleAttribute</a>(<span class="keyword">true</span>)]
-<span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">DevWebClient</span> : <span class="keyword">public</span> <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")&gt;]
-[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.comvisibleattribute" target="_top" rel="noopener noreferrer">ComVisibleAttribute</a>(<span class="keyword">true</span>)&gt;]
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">DevWebClient</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp">[<span class="noLink">ComVisibleAttribute</span>(<span class="keyword">true</span>)]
+<span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">DevWebClient</span> : <span class="keyword">public</span> <span class="noLink">WebClient</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">ComVisibleAttribute</span>(<span class="keyword">true</span>)&gt;]
 <span class="keyword">type</span> <span class="identifier">DevWebClient</span> = 
     <span class="keyword">class</span>
-        <span class="keyword">inherit</span> <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>
-    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">DevWebClient</span></dd></dl></div>
+        <span class="keyword">inherit</span> <span class="noLink">WebClient</span>
+    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><span class="noLink">Object</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">MarshalByRefObject</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">Component</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">WebClient</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">DevWebClient</span></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -151,7 +150,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Constructors</h2>
-            <div id="IDYEASection">
+            <div id="ID2EASection">
               <table id="ConstructorList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -167,25 +166,25 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Properties</h2>
-            <div id="ID04B0EASection">
+            <div id="ID0AC0EASection">
               <table id="PropertyList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.baseaddress#system-net-webclient-baseaddress" target="_top" rel="noopener noreferrer">BaseAddress</a>
+                    <span class="noLink">BaseAddress</span>
                   </td>
-                  <td>Gets or sets the base URI for requests made by a <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets the base URI for requests made by a <span class="noLink">WebClient</span>.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.cachepolicy#system-net-webclient-cachepolicy" target="_top" rel="noopener noreferrer">CachePolicy</a>
+                    <span class="noLink">CachePolicy</span>
                   </td>
-                  <td>Gets or sets the application's cache policy for any resources obtained by this WebClient instance using <a href="https://learn.microsoft.com/dotnet/api/system.net.webrequest" target="_top" rel="noopener noreferrer">WebRequest</a> objects.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets the application's cache policy for any resources obtained by this WebClient instance using <span class="noLink">WebRequest</span> objects.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.container#system-componentmodel-component-container" target="_top" rel="noopener noreferrer">Container</a>
+                    <span class="noLink">Container</span>
                   </td>
-                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.icontainer" target="_top" rel="noopener noreferrer">IContainer</a> that contains the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Gets the <span class="noLink">IContainer</span> that contains the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -207,39 +206,39 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.credentials#system-net-webclient-credentials" target="_top" rel="noopener noreferrer">Credentials</a>
+                    <span class="noLink">Credentials</span>
                   </td>
-                  <td>Gets or sets the network credentials that are sent to the host and used to authenticate the request.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets the network credentials that are sent to the host and used to authenticate the request.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.encoding#system-net-webclient-encoding" target="_top" rel="noopener noreferrer">Encoding</a>
+                    <span class="noLink">Encoding</span>
                   </td>
-                  <td>Gets or sets the <a href="https://learn.microsoft.com/dotnet/api/system.text.encoding" target="_top" rel="noopener noreferrer">Encoding</a> used to upload and download strings.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets the <span class="noLink">Encoding</span> used to upload and download strings.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.headers#system-net-webclient-headers" target="_top" rel="noopener noreferrer">Headers</a>
+                    <span class="noLink">Headers</span>
                   </td>
-                  <td>Gets or sets a collection of header name/value pairs associated with the request.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets a collection of header name/value pairs associated with the request.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.isbusy#system-net-webclient-isbusy" target="_top" rel="noopener noreferrer">IsBusy</a>
+                    <span class="noLink">IsBusy</span>
                   </td>
-                  <td>Gets whether a Web request is in progress.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets whether a Web request is in progress.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.proxy#system-net-webclient-proxy" target="_top" rel="noopener noreferrer">Proxy</a>
+                    <span class="noLink">Proxy</span>
                   </td>
-                  <td>Gets or sets the proxy used by this <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a> object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets the proxy used by this <span class="noLink">WebClient</span> object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.querystring#system-net-webclient-querystring" target="_top" rel="noopener noreferrer">QueryString</a>
+                    <span class="noLink">QueryString</span>
                   </td>
-                  <td>Gets or sets a collection of query name/value pairs associated with the request.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets a collection of query name/value pairs associated with the request.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -252,21 +251,21 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.responseheaders#system-net-webclient-responseheaders" target="_top" rel="noopener noreferrer">ResponseHeaders</a>
+                    <span class="noLink">ResponseHeaders</span>
                   </td>
-                  <td>Gets a collection of header name/value pairs associated with the response.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets a collection of header name/value pairs associated with the response.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.site#system-componentmodel-component-site" target="_top" rel="noopener noreferrer">Site</a>
+                    <span class="noLink">Site</span>
                   </td>
-                  <td>Gets or sets the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.isite" target="_top" rel="noopener noreferrer">ISite</a> of the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Gets or sets the <span class="noLink">ISite</span> of the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.usedefaultcredentials#system-net-webclient-usedefaultcredentials" target="_top" rel="noopener noreferrer">UseDefaultCredentials</a>
+                    <span class="noLink">UseDefaultCredentials</span>
                   </td>
-                  <td>Gets or sets a <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a> value that controls whether the <a href="https://learn.microsoft.com/dotnet/api/system.net.credentialcache.defaultcredentials#system-net-credentialcache-defaultcredentials" target="_top" rel="noopener noreferrer">DefaultCredentials</a> are sent with requests.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Gets or sets a <span class="noLink">Boolean</span> value that controls whether the <span class="noLink">DefaultCredentials</span> are sent with requests.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
               </table>
             </div>
@@ -274,535 +273,535 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="IDZEASection">
+            <div id="ID3EASection">
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.cancelasync#system-net-webclient-cancelasync" target="_top" rel="noopener noreferrer">CancelAsync</a>
+                    <span class="noLink">CancelAsync</span>
                   </td>
-                  <td>Cancels a pending asynchronous operation.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Cancels a pending asynchronous operation.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.createobjref#system-marshalbyrefobject-createobjref(system-type)" target="_top" rel="noopener noreferrer">CreateObjRef</a>
+                    <span class="noLink">CreateObjRef</span>
                   </td>
-                  <td>Creates an object that contains all the relevant information required to generate a proxy used to communicate with a remote object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Creates an object that contains all the relevant information required to generate a proxy used to communicate with a remote object.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.dispose#system-componentmodel-component-dispose" target="_top" rel="noopener noreferrer">Dispose</a>
+                    <span class="noLink">Dispose</span>
                   </td>
-                  <td>Releases all resources used by the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Releases all resources used by the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddata#system-net-webclient-downloaddata(system-string)" target="_top" rel="noopener noreferrer">DownloadData(String)</a>
+                    <span class="noLink">DownloadData(String)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddata#system-net-webclient-downloaddata(system-uri)" target="_top" rel="noopener noreferrer">DownloadData(Uri)</a>
+                    <span class="noLink">DownloadData(Uri)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddataasync#system-net-webclient-downloaddataasync(system-uri)" target="_top" rel="noopener noreferrer">DownloadDataAsync(Uri)</a>
+                    <span class="noLink">DownloadDataAsync(Uri)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified as an asynchronous operation.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified as an asynchronous operation.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddataasync#system-net-webclient-downloaddataasync(system-uri-system-object)" target="_top" rel="noopener noreferrer">DownloadDataAsync(Uri, Object)</a>
+                    <span class="noLink">DownloadDataAsync(Uri, Object)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified as an asynchronous operation.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified as an asynchronous operation.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddatataskasync#system-net-webclient-downloaddatataskasync(system-string)" target="_top" rel="noopener noreferrer">DownloadDataTaskAsync(String)</a>
+                    <span class="noLink">DownloadDataTaskAsync(String)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddatataskasync#system-net-webclient-downloaddatataskasync(system-uri)" target="_top" rel="noopener noreferrer">DownloadDataTaskAsync(Uri)</a>
+                    <span class="noLink">DownloadDataTaskAsync(Uri)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">Byte</span> array from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfile#system-net-webclient-downloadfile(system-string-system-string)" target="_top" rel="noopener noreferrer">DownloadFile(String, String)</a>
+                    <span class="noLink">DownloadFile(String, String)</span>
                   </td>
-                  <td>Downloads the resource with the specified URI to a local file.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource with the specified URI to a local file.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfile#system-net-webclient-downloadfile(system-uri-system-string)" target="_top" rel="noopener noreferrer">DownloadFile(Uri, String)</a>
+                    <span class="noLink">DownloadFile(Uri, String)</span>
                   </td>
-                  <td>Downloads the resource with the specified URI to a local file.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource with the specified URI to a local file.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfileasync#system-net-webclient-downloadfileasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">DownloadFileAsync(Uri, String)</a>
+                    <span class="noLink">DownloadFileAsync(Uri, String)</span>
                   </td>
-                  <td>Downloads, to a local file, the resource with the specified URI. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads, to a local file, the resource with the specified URI. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfileasync#system-net-webclient-downloadfileasync(system-uri-system-string-system-object)" target="_top" rel="noopener noreferrer">DownloadFileAsync(Uri, String, Object)</a>
+                    <span class="noLink">DownloadFileAsync(Uri, String, Object)</span>
                   </td>
-                  <td>Downloads, to a local file, the resource with the specified URI. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads, to a local file, the resource with the specified URI. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfiletaskasync#system-net-webclient-downloadfiletaskasync(system-string-system-string)" target="_top" rel="noopener noreferrer">DownloadFileTaskAsync(String, String)</a>
+                    <span class="noLink">DownloadFileTaskAsync(String, String)</span>
                   </td>
-                  <td>Downloads the specified resource to a local file as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the specified resource to a local file as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfiletaskasync#system-net-webclient-downloadfiletaskasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">DownloadFileTaskAsync(Uri, String)</a>
+                    <span class="noLink">DownloadFileTaskAsync(Uri, String)</span>
                   </td>
-                  <td>Downloads the specified resource to a local file as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the specified resource to a local file as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstring#system-net-webclient-downloadstring(system-string)" target="_top" rel="noopener noreferrer">DownloadString(String)</a>
+                    <span class="noLink">DownloadString(String)</span>
                   </td>
-                  <td>Downloads the requested resource as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>. The resource to download is specified as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> containing the URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the requested resource as a <span class="noLink">String</span>. The resource to download is specified as a <span class="noLink">String</span> containing the URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstring#system-net-webclient-downloadstring(system-uri)" target="_top" rel="noopener noreferrer">DownloadString(Uri)</a>
+                    <span class="noLink">DownloadString(Uri)</span>
                   </td>
-                  <td>Downloads the requested resource as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>. The resource to download is specified as a <a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_top" rel="noopener noreferrer">Uri</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the requested resource as a <span class="noLink">String</span>. The resource to download is specified as a <span class="noLink">Uri</span>.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstringasync#system-net-webclient-downloadstringasync(system-uri)" target="_top" rel="noopener noreferrer">DownloadStringAsync(Uri)</a>
+                    <span class="noLink">DownloadStringAsync(Uri)</span>
                   </td>
-                  <td>Downloads the resource specified as a <a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_top" rel="noopener noreferrer">Uri</a>. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource specified as a <span class="noLink">Uri</span>. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstringasync#system-net-webclient-downloadstringasync(system-uri-system-object)" target="_top" rel="noopener noreferrer">DownloadStringAsync(Uri, Object)</a>
+                    <span class="noLink">DownloadStringAsync(Uri, Object)</span>
                   </td>
-                  <td>Downloads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstringtaskasync#system-net-webclient-downloadstringtaskasync(system-string)" target="_top" rel="noopener noreferrer">DownloadStringTaskAsync(String)</a>
+                    <span class="noLink">DownloadStringTaskAsync(String)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">String</span> from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstringtaskasync#system-net-webclient-downloadstringtaskasync(system-uri)" target="_top" rel="noopener noreferrer">DownloadStringTaskAsync(Uri)</a>
+                    <span class="noLink">DownloadStringTaskAsync(Uri)</span>
                   </td>
-                  <td>Downloads the resource as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Downloads the resource as a <span class="noLink">String</span> from the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_top" rel="noopener noreferrer">Equals</a>
+                    <span class="noLink">Equals</span>
                   </td>
-                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode" target="_top" rel="noopener noreferrer">GetHashCode</a>
+                    <span class="noLink">GetHashCode</span>
                   </td>
-                  <td>Serves as the default hash function.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Serves as the default hash function.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.getlifetimeservice#system-marshalbyrefobject-getlifetimeservice" target="_top" rel="noopener noreferrer">GetLifetimeService</a>
+                    <span class="noLink">GetLifetimeService</span>
                   </td>
-                  <td>Retrieves the current lifetime service object that controls the lifetime policy for this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Retrieves the current lifetime service object that controls the lifetime policy for this instance.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype" target="_top" rel="noopener noreferrer">GetType</a>
+                    <span class="noLink">GetType</span>
                   </td>
-                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_top" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Gets the <span class="noLink">Type</span> of the current instance.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.initializelifetimeservice#system-marshalbyrefobject-initializelifetimeservice" target="_top" rel="noopener noreferrer">InitializeLifetimeService</a>
+                    <span class="noLink">InitializeLifetimeService</span>
                   </td>
-                  <td>Obtains a lifetime service object to control the lifetime policy for this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Obtains a lifetime service object to control the lifetime policy for this instance.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openread#system-net-webclient-openread(system-string)" target="_top" rel="noopener noreferrer">OpenRead(String)</a>
+                    <span class="noLink">OpenRead(String)</span>
                   </td>
-                  <td>Opens a readable stream for the data downloaded from a resource with the URI specified as a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream for the data downloaded from a resource with the URI specified as a <span class="noLink">String</span>.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openread#system-net-webclient-openread(system-uri)" target="_top" rel="noopener noreferrer">OpenRead(Uri)</a>
+                    <span class="noLink">OpenRead(Uri)</span>
                   </td>
-                  <td>Opens a readable stream for the data downloaded from a resource with the URI specified as a <a href="https://learn.microsoft.com/dotnet/api/system.uri" target="_top" rel="noopener noreferrer">Uri</a><br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream for the data downloaded from a resource with the URI specified as a <span class="noLink">Uri</span><br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openreadasync#system-net-webclient-openreadasync(system-uri)" target="_top" rel="noopener noreferrer">OpenReadAsync(Uri)</a>
+                    <span class="noLink">OpenReadAsync(Uri)</span>
                   </td>
-                  <td>Opens a readable stream containing the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream containing the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openreadasync#system-net-webclient-openreadasync(system-uri-system-object)" target="_top" rel="noopener noreferrer">OpenReadAsync(Uri, Object)</a>
+                    <span class="noLink">OpenReadAsync(Uri, Object)</span>
                   </td>
-                  <td>Opens a readable stream containing the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream containing the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openreadtaskasync#system-net-webclient-openreadtaskasync(system-string)" target="_top" rel="noopener noreferrer">OpenReadTaskAsync(String)</a>
+                    <span class="noLink">OpenReadTaskAsync(String)</span>
                   </td>
-                  <td>Opens a readable stream containing the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream containing the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openreadtaskasync#system-net-webclient-openreadtaskasync(system-uri)" target="_top" rel="noopener noreferrer">OpenReadTaskAsync(Uri)</a>
+                    <span class="noLink">OpenReadTaskAsync(Uri)</span>
                   </td>
-                  <td>Opens a readable stream containing the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a readable stream containing the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwrite#system-net-webclient-openwrite(system-string)" target="_top" rel="noopener noreferrer">OpenWrite(String)</a>
+                    <span class="noLink">OpenWrite(String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwrite#system-net-webclient-openwrite(system-uri)" target="_top" rel="noopener noreferrer">OpenWrite(Uri)</a>
+                    <span class="noLink">OpenWrite(Uri)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwrite#system-net-webclient-openwrite(system-string-system-string)" target="_top" rel="noopener noreferrer">OpenWrite(String, String)</a>
+                    <span class="noLink">OpenWrite(String, String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwrite#system-net-webclient-openwrite(system-uri-system-string)" target="_top" rel="noopener noreferrer">OpenWrite(Uri, String)</a>
+                    <span class="noLink">OpenWrite(Uri, String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource, by using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource, by using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwriteasync#system-net-webclient-openwriteasync(system-uri)" target="_top" rel="noopener noreferrer">OpenWriteAsync(Uri)</a>
+                    <span class="noLink">OpenWriteAsync(Uri)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwriteasync#system-net-webclient-openwriteasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">OpenWriteAsync(Uri, String)</a>
+                    <span class="noLink">OpenWriteAsync(Uri, String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwriteasync#system-net-webclient-openwriteasync(system-uri-system-string-system-object)" target="_top" rel="noopener noreferrer">OpenWriteAsync(Uri, String, Object)</a>
+                    <span class="noLink">OpenWriteAsync(Uri, String, Object)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource, using the specified method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource, using the specified method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwritetaskasync#system-net-webclient-openwritetaskasync(system-string)" target="_top" rel="noopener noreferrer">OpenWriteTaskAsync(String)</a>
+                    <span class="noLink">OpenWriteTaskAsync(String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwritetaskasync#system-net-webclient-openwritetaskasync(system-uri)" target="_top" rel="noopener noreferrer">OpenWriteTaskAsync(Uri)</a>
+                    <span class="noLink">OpenWriteTaskAsync(Uri)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwritetaskasync#system-net-webclient-openwritetaskasync(system-string-system-string)" target="_top" rel="noopener noreferrer">OpenWriteTaskAsync(String, String)</a>
+                    <span class="noLink">OpenWriteTaskAsync(String, String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwritetaskasync#system-net-webclient-openwritetaskasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">OpenWriteTaskAsync(Uri, String)</a>
+                    <span class="noLink">OpenWriteTaskAsync(Uri, String)</span>
                   </td>
-                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Opens a stream for writing data to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.tostring#system-componentmodel-component-tostring" target="_top" rel="noopener noreferrer">ToString</a>
+                    <span class="noLink">ToString</span>
                   </td>
-                  <td>Returns a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> containing the name of the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>, if any. This method should not be overridden.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Returns a <span class="noLink">String</span> containing the name of the <span class="noLink">Component</span>, if any. This method should not be overridden.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddata#system-net-webclient-uploaddata(system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadData(String, <span id="LST37545DCA_1" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_2" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadData(String, <span id="LST37545DCA_1" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_2" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to a resource identified by a URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to a resource identified by a URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddata#system-net-webclient-uploaddata(system-uri-system-byte())" target="_top" rel="noopener noreferrer">UploadData(Uri, <span id="LST37545DCA_3" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_4" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadData(Uri, <span id="LST37545DCA_3" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_4" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to a resource identified by a URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to a resource identified by a URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddata#system-net-webclient-uploaddata(system-string-system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadData(String, String, <span id="LST37545DCA_5" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_6" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadData(String, String, <span id="LST37545DCA_5" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_6" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddata#system-net-webclient-uploaddata(system-uri-system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadData(Uri, String, <span id="LST37545DCA_7" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_8" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadData(Uri, String, <span id="LST37545DCA_7" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_8" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddataasync#system-net-webclient-uploaddataasync(system-uri-system-byte())" target="_top" rel="noopener noreferrer">UploadDataAsync(Uri, <span id="LST37545DCA_9" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_10" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataAsync(Uri, <span id="LST37545DCA_9" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_10" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to a resource identified by a URI, using the POST method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to a resource identified by a URI, using the POST method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddataasync#system-net-webclient-uploaddataasync(system-uri-system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadDataAsync(Uri, String, <span id="LST37545DCA_11" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_12" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataAsync(Uri, String, <span id="LST37545DCA_11" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_12" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer to a resource identified by a URI, using the specified method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to a resource identified by a URI, using the specified method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddataasync#system-net-webclient-uploaddataasync(system-uri-system-string-system-byte()-system-object)" target="_top" rel="noopener noreferrer">UploadDataAsync(Uri, String, <span id="LST37545DCA_13" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_14" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Object)</a>
+                    <span class="noLink">UploadDataAsync(Uri, String, <span id="LST37545DCA_13" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_14" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Object)</span>
                   </td>
-                  <td>Uploads a data buffer to a resource identified by a URI, using the specified method and identifying token.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer to a resource identified by a URI, using the specified method and identifying token.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddatataskasync#system-net-webclient-uploaddatataskasync(system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadDataTaskAsync(String, <span id="LST37545DCA_15" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_16" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataTaskAsync(String, <span id="LST37545DCA_15" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_16" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer that contains a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer that contains a <span class="noLink">Byte</span> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddatataskasync#system-net-webclient-uploaddatataskasync(system-uri-system-byte())" target="_top" rel="noopener noreferrer">UploadDataTaskAsync(Uri, <span id="LST37545DCA_17" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_18" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataTaskAsync(Uri, <span id="LST37545DCA_17" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_18" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer that contains a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer that contains a <span class="noLink">Byte</span> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddatataskasync#system-net-webclient-uploaddatataskasync(system-string-system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadDataTaskAsync(String, String, <span id="LST37545DCA_19" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_20" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataTaskAsync(String, String, <span id="LST37545DCA_19" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_20" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer that contains a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer that contains a <span class="noLink">Byte</span> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddatataskasync#system-net-webclient-uploaddatataskasync(system-uri-system-string-system-byte())" target="_top" rel="noopener noreferrer">UploadDataTaskAsync(Uri, String, <span id="LST37545DCA_21" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_22" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a>
+                    <span class="noLink">UploadDataTaskAsync(Uri, String, <span id="LST37545DCA_21" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LST37545DCA_22" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</span>
                   </td>
-                  <td>Uploads a data buffer that contains a <a href="https://learn.microsoft.com/dotnet/api/system.byte" target="_top" rel="noopener noreferrer">Byte</a> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads a data buffer that contains a <span class="noLink">Byte</span> array to the URI specified as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfile#system-net-webclient-uploadfile(system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFile(String, String)</a>
+                    <span class="noLink">UploadFile(String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource with the specified URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource with the specified URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfile#system-net-webclient-uploadfile(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadFile(Uri, String)</a>
+                    <span class="noLink">UploadFile(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource with the specified URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource with the specified URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfile#system-net-webclient-uploadfile(system-string-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFile(String, String, String)</a>
+                    <span class="noLink">UploadFile(String, String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfile#system-net-webclient-uploadfile(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFile(Uri, String, String)</a>
+                    <span class="noLink">UploadFile(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfileasync#system-net-webclient-uploadfileasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadFileAsync(Uri, String)</a>
+                    <span class="noLink">UploadFileAsync(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfileasync#system-net-webclient-uploadfileasync(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFileAsync(Uri, String, String)</a>
+                    <span class="noLink">UploadFileAsync(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfileasync#system-net-webclient-uploadfileasync(system-uri-system-string-system-string-system-object)" target="_top" rel="noopener noreferrer">UploadFileAsync(Uri, String, String, Object)</a>
+                    <span class="noLink">UploadFileAsync(Uri, String, String, Object)</span>
                   </td>
-                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to the specified resource, using the POST method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfiletaskasync#system-net-webclient-uploadfiletaskasync(system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFileTaskAsync(String, String)</a>
+                    <span class="noLink">UploadFileTaskAsync(String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfiletaskasync#system-net-webclient-uploadfiletaskasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadFileTaskAsync(Uri, String)</a>
+                    <span class="noLink">UploadFileTaskAsync(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfiletaskasync#system-net-webclient-uploadfiletaskasync(system-string-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFileTaskAsync(String, String, String)</a>
+                    <span class="noLink">UploadFileTaskAsync(String, String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfiletaskasync#system-net-webclient-uploadfiletaskasync(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadFileTaskAsync(Uri, String, String)</a>
+                    <span class="noLink">UploadFileTaskAsync(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified local file to a resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstring#system-net-webclient-uploadstring(system-string-system-string)" target="_top" rel="noopener noreferrer">UploadString(String, String)</a>
+                    <span class="noLink">UploadString(String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource, using the POST method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource, using the POST method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstring#system-net-webclient-uploadstring(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadString(Uri, String)</a>
+                    <span class="noLink">UploadString(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource, using the POST method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource, using the POST method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstring#system-net-webclient-uploadstring(system-string-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadString(String, String, String)</a>
+                    <span class="noLink">UploadString(String, String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstring#system-net-webclient-uploadstring(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadString(Uri, String, String)</a>
+                    <span class="noLink">UploadString(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringasync#system-net-webclient-uploadstringasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadStringAsync(Uri, String)</a>
+                    <span class="noLink">UploadStringAsync(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringasync#system-net-webclient-uploadstringasync(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadStringAsync(Uri, String, String)</a>
+                    <span class="noLink">UploadStringAsync(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringasync#system-net-webclient-uploadstringasync(system-uri-system-string-system-string-system-object)" target="_top" rel="noopener noreferrer">UploadStringAsync(Uri, String, String, Object)</a>
+                    <span class="noLink">UploadStringAsync(Uri, String, String, Object)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringtaskasync#system-net-webclient-uploadstringtaskasync(system-string-system-string)" target="_top" rel="noopener noreferrer">UploadStringTaskAsync(String, String)</a>
+                    <span class="noLink">UploadStringTaskAsync(String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringtaskasync#system-net-webclient-uploadstringtaskasync(system-uri-system-string)" target="_top" rel="noopener noreferrer">UploadStringTaskAsync(Uri, String)</a>
+                    <span class="noLink">UploadStringTaskAsync(Uri, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringtaskasync#system-net-webclient-uploadstringtaskasync(system-string-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadStringTaskAsync(String, String, String)</a>
+                    <span class="noLink">UploadStringTaskAsync(String, String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringtaskasync#system-net-webclient-uploadstringtaskasync(system-uri-system-string-system-string)" target="_top" rel="noopener noreferrer">UploadStringTaskAsync(Uri, String, String)</a>
+                    <span class="noLink">UploadStringTaskAsync(Uri, String, String)</span>
                   </td>
-                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified string to the specified resource as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvalues#system-net-webclient-uploadvalues(system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValues(String, NameValueCollection)</a>
+                    <span class="noLink">UploadValues(String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvalues#system-net-webclient-uploadvalues(system-uri-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValues(Uri, NameValueCollection)</a>
+                    <span class="noLink">UploadValues(Uri, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvalues#system-net-webclient-uploadvalues(system-string-system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValues(String, String, NameValueCollection)</a>
+                    <span class="noLink">UploadValues(String, String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvalues#system-net-webclient-uploadvalues(system-uri-system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValues(Uri, String, NameValueCollection)</a>
+                    <span class="noLink">UploadValues(Uri, String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI, using the specified method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI, using the specified method.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluesasync#system-net-webclient-uploadvaluesasync(system-uri-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesAsync(Uri, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesAsync(Uri, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluesasync#system-net-webclient-uploadvaluesasync(system-uri-system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesAsync(Uri, String, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesAsync(Uri, String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI, using the specified method. This method does not block the calling thread.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI, using the specified method. This method does not block the calling thread.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluesasync#system-net-webclient-uploadvaluesasync(system-uri-system-string-system-collections-specialized-namevaluecollection-system-object)" target="_top" rel="noopener noreferrer">UploadValuesAsync(Uri, String, NameValueCollection, Object)</a>
+                    <span class="noLink">UploadValuesAsync(Uri, String, NameValueCollection, Object)</span>
                   </td>
-                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI, using the specified method. This method does not block the calling thread, and allows the caller to pass an object to the method that is invoked when the operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the data in the specified name/value collection to the resource identified by the specified URI, using the specified method. This method does not block the calling thread, and allows the caller to pass an object to the method that is invoked when the operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluestaskasync#system-net-webclient-uploadvaluestaskasync(system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesTaskAsync(String, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesTaskAsync(String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluestaskasync#system-net-webclient-uploadvaluestaskasync(system-uri-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesTaskAsync(Uri, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesTaskAsync(Uri, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluestaskasync#system-net-webclient-uploadvaluestaskasync(system-string-system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesTaskAsync(String, String, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesTaskAsync(String, String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluestaskasync#system-net-webclient-uploadvaluestaskasync(system-uri-system-string-system-collections-specialized-namevaluecollection)" target="_top" rel="noopener noreferrer">UploadValuesTaskAsync(Uri, String, NameValueCollection)</a>
+                    <span class="noLink">UploadValuesTaskAsync(Uri, String, NameValueCollection)</span>
                   </td>
-                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Uploads the specified name/value collection to the resource identified by the specified URI as an asynchronous operation using a task object.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
               </table>
             </div>
@@ -810,79 +809,79 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Events</h2>
-            <div id="IDMEASection">
+            <div id="IDPEASection">
               <table id="EventList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.disposed#system-componentmodel-component-disposed" target="_top" rel="noopener noreferrer">Disposed</a>
+                    <span class="noLink">Disposed</span>
                   </td>
-                  <td>Occurs when the component is disposed by a call to the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.dispose#system-componentmodel-component-dispose" target="_top" rel="noopener noreferrer">Dispose<span id="LST37545DCA_23" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Occurs when the component is disposed by a call to the <span class="noLink">Dispose<span id="LST37545DCA_23" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> method.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloaddatacompleted#system-net-webclient-downloaddatacompleted" target="_top" rel="noopener noreferrer">DownloadDataCompleted</a>
+                    <span class="noLink">DownloadDataCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous data download operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous data download operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadfilecompleted#system-net-webclient-downloadfilecompleted" target="_top" rel="noopener noreferrer">DownloadFileCompleted</a>
+                    <span class="noLink">DownloadFileCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous file download operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous file download operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadprogresschanged#system-net-webclient-downloadprogresschanged" target="_top" rel="noopener noreferrer">DownloadProgressChanged</a>
+                    <span class="noLink">DownloadProgressChanged</span>
                   </td>
-                  <td>Occurs when an asynchronous download operation successfully transfers some or all of the data.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous download operation successfully transfers some or all of the data.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.downloadstringcompleted#system-net-webclient-downloadstringcompleted" target="_top" rel="noopener noreferrer">DownloadStringCompleted</a>
+                    <span class="noLink">DownloadStringCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous resource-download operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous resource-download operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openreadcompleted#system-net-webclient-openreadcompleted" target="_top" rel="noopener noreferrer">OpenReadCompleted</a>
+                    <span class="noLink">OpenReadCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous operation to open a stream containing a resource completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous operation to open a stream containing a resource completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.openwritecompleted#system-net-webclient-openwritecompleted" target="_top" rel="noopener noreferrer">OpenWriteCompleted</a>
+                    <span class="noLink">OpenWriteCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous operation to open a stream to write data to a resource completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous operation to open a stream to write data to a resource completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploaddatacompleted#system-net-webclient-uploaddatacompleted" target="_top" rel="noopener noreferrer">UploadDataCompleted</a>
+                    <span class="noLink">UploadDataCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous data-upload operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous data-upload operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadfilecompleted#system-net-webclient-uploadfilecompleted" target="_top" rel="noopener noreferrer">UploadFileCompleted</a>
+                    <span class="noLink">UploadFileCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous file-upload operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous file-upload operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadprogresschanged#system-net-webclient-uploadprogresschanged" target="_top" rel="noopener noreferrer">UploadProgressChanged</a>
+                    <span class="noLink">UploadProgressChanged</span>
                   </td>
-                  <td>Occurs when an asynchronous upload operation successfully transfers some or all of the data.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous upload operation successfully transfers some or all of the data.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadstringcompleted#system-net-webclient-uploadstringcompleted" target="_top" rel="noopener noreferrer">UploadStringCompleted</a>
+                    <span class="noLink">UploadStringCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous string-upload operation completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous string-upload operation completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient.uploadvaluescompleted#system-net-webclient-uploadvaluescompleted" target="_top" rel="noopener noreferrer">UploadValuesCompleted</a>
+                    <span class="noLink">UploadValuesCompleted</span>
                   </td>
-                  <td>Occurs when an asynchronous upload of a name/value collection completes.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.net.webclient" target="_top" rel="noopener noreferrer">WebClient</a>)</td>
+                  <td>Occurs when an asynchronous upload of a name/value collection completes.<br />(Inherited from <span class="noLink">WebClient</span>)</td>
                 </tr>
               </table>
             </div>
@@ -933,8 +932,8 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="ee45b7b9-570a-1002-19ce-4fd01fcac93e.htm">GetEvent</a>
                   </td>
                   <td>
- Gets a <a href="https://learn.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_top" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
- declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets a <span class="noLink">EventInfo</span> that match the specified event name 
+ declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -942,7 +941,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="82ee5031-2122-f502-0c4a-a19099900909.htm">GetEventHandlers</a>
                   </td>
                   <td>
- Gets all the delegates associated to the specified event raised by the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets all the delegates associated to the specified event raised by the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -950,7 +949,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="51cd3fbb-9461-556f-9c13-7312aad695d4.htm">GetEvents</a>
                   </td>
                   <td>
- Gets all the events declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets all the events declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -958,7 +957,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="753a4be0-4c81-ab75-9b9b-5bfb72f59f24.htm">GetSubscribedEvents</a>
                   </td>
                   <td>
- Gets a list of events declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>  
+ Gets a list of events declared in the source <span class="noLink">Component</span>  
  that are subscribed to a event-handler.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
@@ -967,7 +966,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="b1cd0569-892a-6d24-3442-93a85696ce0f.htm">InvokeUITypeEditor<span id="LST37545DCA_30" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST37545DCA_31" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Invokes the default <a href="https://learn.microsoft.com/dotnet/api/system.drawing.design.uitypeeditor" target="_top" rel="noopener noreferrer">UITypeEditor</a> to edit the specified property.
+ Invokes the default <span class="noLink">UITypeEditor</span> to edit the specified property.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -975,7 +974,7 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="7ac45a7e-955f-03ba-1f3e-364f29c2b719.htm">InvokeUITypeEditor<span id="LST37545DCA_32" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST37545DCA_33" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Invokes the default <a href="https://learn.microsoft.com/dotnet/api/system.drawing.design.uitypeeditor" target="_top" rel="noopener noreferrer">UITypeEditor</a> to edit the specified property.
+ Invokes the default <span class="noLink">UITypeEditor</span> to edit the specified property.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -983,7 +982,34 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">IsDisposable</a>
                   </td>
                   <td>
- Determines whether the specified object is disposable.
+ Determines whether the specified object is a disposable type 
+ (i.e., it implements <span class="noLink">IDisposable</span> interface).
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b6518cbc-eac7-374e-f53c-70aa031bf15b.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a447b4b7-8d2e-a234-f910-4749678e12f8.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4ed5be38-075c-b944-23d9-9298e43d9f2a.htm">ThrowIfNull<span id="LST37545DCA_34" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>TException<span id="LST37545DCA_35" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Throws the specified exception if the source object is null.
  <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -991,8 +1017,8 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
                     <a href="3d9c10d0-037a-bca5-21d7-becee718a64b.htm">TryGetEvent</a>
                   </td>
                   <td>
- Tries to get a <a href="https://learn.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_top" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
- declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Tries to get a <span class="noLink">EventInfo</span> that match the specified event name 
+ declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
               </table>
@@ -1056,9 +1082,9 @@ End Using</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSn
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -1089,7 +1115,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
+    </li>
+    <li>
+      <a href="1158647a-b550-1317-8fc0-367bb975b367.htm">Dev<wbr />Web<wbr />Browser</a>
+    </li>
+    <li>
+      <a href="ad186cb6-f582-b599-0f0a-a601a6443236.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7ffd0e92-8f68-50f6-9489-fbef027f53d1.htm">Navigate<wbr />And<wbr />Wait</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fa44a99a-8117-ed00-c3bf-e7a6edb600ec" href="fa44a99a-8117-ed00-c3bf-e7a6edb600ec.htm">Navigate<wbr />And<wbr />Wait(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="23d14f61-b1d8-1975-c1b7-a6aa99843937" href="23d14f61-b1d8-1975-c1b7-a6aa99843937.htm">Navigate<wbr />And<wbr />Wait(<wbr />Uri)</a>
+    </li>
+    <li>
+      <a id="13de7f6f-7a70-516d-a51a-9b5bd0fdaade" href="13de7f6f-7a70-516d-a51a-9b5bd0fdaade.htm">Navigate<wbr />And<wbr />Wait(<wbr />String, Boolean)</a>
+    </li>
+    <li>
+      <a id="f4e7c038-10c5-abda-a880-a360150402d8" href="f4e7c038-10c5-abda-a880-a360150402d8.htm">Navigate<wbr />And<wbr />Wait(<wbr />String, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="0e51c918-8259-0b2b-82a7-12f851fa2e80" href="0e51c918-8259-0b2b-82a7-12f851fa2e80.htm">Navigate<wbr />And<wbr />Wait(<wbr />Uri, Boolean)</a>
+    </li>
+    <li>
+      <a id="1a6b1471-9865-c76e-522b-ddf80aa5767e" href="1a6b1471-9865-c76e-522b-ddf80aa5767e.htm">Navigate<wbr />And<wbr />Wait(<wbr />Uri, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="22b8e657-6818-884f-91ab-712fe1318b29" href="22b8e657-6818-884f-91ab-712fe1318b29.htm">Navigate<wbr />And<wbr />Wait(<wbr />String, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="5debf30e-aae5-b8ac-90fc-d59b10086688" href="5debf30e-aae5-b8ac-90fc-d59b10086688.htm">Navigate<wbr />And<wbr />Wait(<wbr />Uri, Boolean, Cookie<wbr />Collection)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,33 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="5233c985-ebe5-5ffc-1e70-30ecf7d8376e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Image<wbr />Extensions</a>
+      <a href="a909f465-e583-56d4-9254-8fad1456ae79.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Frame<wbr />Extensions</a>
     </li>
     <li>
-      <a href="ccab5b1a-fe6b-de29-0d57-091763c6b29e.htm">Bitmap<wbr />Image<wbr />Extensions</a>
+      <a href="5d8d5881-0bdb-9662-3c29-18f2a22feead.htm">Bitmap<wbr />Frame<wbr />Extensions</a>
     </li>
     <li>
-      <a href="d3ccff06-caa8-a8f1-55cd-09a16a1105c7.htm">Methods</a>
+      <a href="22e8ea84-8161-d9f0-a73b-9217acfd54a5.htm">Methods</a>
     </li>
     <li>
-      <a href="332e6644-96e5-eb11-485f-9c7b98053815.htm">To<wbr />Bitmap</a>
+      <a href="4141fe61-631f-7a04-a01e-5064af5b93e7.htm">To<wbr />Bitmap</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="01209dcf-31cc-9f02-c754-368030bfdd7b" href="01209dcf-31cc-9f02-c754-368030bfdd7b.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Image)</a>
+      <a id="b772a128-94dd-3467-e42d-f7e98d215ecc" href="b772a128-94dd-3467-e42d-f7e98d215ecc.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Frame)</a>
     </li>
     <li>
-      <a id="d205dbbb-7337-73d9-df22-c88fb5a66a49" href="d205dbbb-7337-73d9-df22-c88fb5a66a49.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Image, Pixel<wbr />Format)</a>
+      <a id="de592e9b-e0b0-0d62-1142-ac29edea6baf" href="de592e9b-e0b0-0d62-1142-ac29edea6baf.htm">To<wbr />Bitmap(<wbr />Bitmap<wbr />Frame, Pixel<wbr />Format)</a>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -14,18 +14,54 @@
       <a href="4f6a47ee-cea2-b70a-f132-fdd16768d1cc.htm">Dev<wbr />Case.<wbr />UI.<wbr />Components</a>
     </li>
     <li>
-      <a href="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d.htm">Text<wbr />Margins</a>
+      <a href="6e3a98a6-fcfb-46b1-6f88-74c8a464b599.htm">Dev<wbr />Floating<wbr />Picture</a>
     </li>
     <li>
-      <a href="59e3b056-a5f8-4881-dde0-626ffc781ad0.htm">Properties</a>
+      <a href="5ae2ab6e-0e50-876e-e100-64e96698a35c.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="6b1b4e62-35a3-9ef4-d467-308a425c6d01" href="6b1b4e62-35a3-9ef4-d467-308a425c6d01.htm">Left</a>
+      <a id="8f048579-2498-d075-2d0f-e4ff6aa2295f" href="8f048579-2498-d075-2d0f-e4ff6aa2295f.htm">Background<wbr />Color</a>
     </li>
     <li>
-      <a id="26be8cac-1e9a-2284-1638-850daa42935c" href="26be8cac-1e9a-2284-1638-850daa42935c.htm">Right</a>
+      <a id="67b28df3-42e4-8b29-fc0b-07efc2bd534c" href="67b28df3-42e4-8b29-fc0b-07efc2bd534c.htm">Background<wbr />Opacity</a>
+    </li>
+    <li>
+      <a id="b4b69fce-99d5-2872-08bc-fa67340f011c" href="b4b69fce-99d5-2872-08bc-fa67340f011c.htm">Close<wbr />On<wbr />Escape<wbr />Key</a>
+    </li>
+    <li>
+      <a id="e13714bf-d9e0-ccb7-b4d6-db8647b4d142" href="e13714bf-d9e0-ccb7-b4d6-db8647b4d142.htm">Close<wbr />On<wbr />Left<wbr />Mouse<wbr />Click</a>
+    </li>
+    <li>
+      <a id="bf85f144-9a32-6178-e4dc-0b1d8670540a" href="bf85f144-9a32-6178-e4dc-0b1d8670540a.htm">Context<wbr />Menu<wbr />Strip</a>
+    </li>
+    <li>
+      <a id="481eb5f0-a22b-a1d2-b7d2-ed7a449ae785" href="481eb5f0-a22b-a1d2-b7d2-ed7a449ae785.htm">Fit<wbr />Bounds<wbr />To<wbr />Working<wbr />Area</a>
+    </li>
+    <li>
+      <a id="1b230316-e308-5b89-13af-2324e01e01fa" href="1b230316-e308-5b89-13af-2324e01e01fa.htm">Image</a>
+    </li>
+    <li>
+      <a id="3633bf55-db8b-ec01-798b-286120b6232e" href="3633bf55-db8b-ec01-798b-286120b6232e.htm">Image<wbr />Border</a>
+    </li>
+    <li>
+      <a id="04e1aec8-33d5-4fc0-773a-e89ea7477493" href="04e1aec8-33d5-4fc0-773a-e89ea7477493.htm">Image<wbr />Border<wbr />Color</a>
+    </li>
+    <li>
+      <a id="2f09fa50-7112-700e-b93d-df146a575593" href="2f09fa50-7112-700e-b93d-df146a575593.htm">Image<wbr />Border<wbr />Size</a>
+    </li>
+    <li>
+      <a id="01c2bf4b-8946-90ee-82bb-a61fde01419b" href="01c2bf4b-8946-90ee-82bb-a61fde01419b.htm">Image<wbr />Layout</a>
+    </li>
+    <li>
+      <a id="8f8e8a80-9f23-c4df-da97-3973e351ba63" href="8f8e8a80-9f23-c4df-da97-3973e351ba63.htm">Title<wbr />Bar</a>
+    </li>
+    <li>
+      <a id="9004b35e-11eb-2f86-1142-8a128d8ca250" href="9004b35e-11eb-2f86-1142-8a128d8ca250.htm">Top<wbr />Most</a>
+    </li>
+    <li>
+      <a id="a6edd1f9-56e8-9e28-3aba-2cb631e08a10" href="a6edd1f9-56e8-9e28-3aba-2cb631e08a10.htm">Transparency<wbr />Key</a>
     </li>
   </tocItems>
 </toc>

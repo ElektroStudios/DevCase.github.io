@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="37506d9e-0bdd-e0aa-6f9c-cfb072a10084.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Collections</a>
+    </li>
+    <li>
+      <a href="bb521710-7fd8-dc19-6d78-3083a01f95de.htm">Name<wbr />Object<wbr />Collection</a>
+    </li>
+    <li>
+      <a href="b3516636-5a3b-c8b5-4a2b-41f04315bd56.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="aa4cb7ea-af49-32d0-47b9-1ce2333c19ad" href="aa4cb7ea-af49-32d0-47b9-1ce2333c19ad.htm">Name<wbr />Object<wbr />Collection</a>
+    </li>
+    <li>
+      <a id="898f9a0f-1421-4972-1327-1520510b55f1" href="898f9a0f-1421-4972-1327-1520510b55f1.htm">Name<wbr />Object<wbr />Collection(<wbr />IEquality<wbr />Comparer)</a>
+    </li>
+    <li>
+      <a id="288a6ad4-f658-a1fd-bc92-b208f20e3283" href="288a6ad4-f658-a1fd-bc92-b208f20e3283.htm">Name<wbr />Object<wbr />Collection(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="cd5cce42-8f95-9d58-2964-64cea7b710b9" href="cd5cce42-8f95-9d58-2964-64cea7b710b9.htm">Name<wbr />Object<wbr />Collection(<wbr />IHash<wbr />Code<wbr />Provider, IComparer)</a>
+    </li>
+    <li>
+      <a id="38e96114-350a-6517-c79c-5ff3ea405306" href="38e96114-350a-6517-c79c-5ff3ea405306.htm">Name<wbr />Object<wbr />Collection(<wbr />Int<wbr />32, Name<wbr />Object<wbr />Collection)</a>
+    </li>
+    <li>
+      <a id="719351d7-86ac-f8f7-deee-b6dacb28783d" href="719351d7-86ac-f8f7-deee-b6dacb28783d.htm">Name<wbr />Object<wbr />Collection(<wbr />Int<wbr />32, IEquality<wbr />Comparer)</a>
+    </li>
+    <li>
+      <a id="7c06477e-e924-e878-b58b-31852d2769f8" href="7c06477e-e924-e878-b58b-31852d2769f8.htm">Name<wbr />Object<wbr />Collection(<wbr />Int<wbr />32, IHash<wbr />Code<wbr />Provider, IComparer)</a>
+    </li>
+  </tocItems>
+</toc>

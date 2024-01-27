@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -14,29 +14,25 @@
       <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
     </li>
     <li>
-      <a href="1158647a-b550-1317-8fc0-367bb975b367.htm">Dev<wbr />Web<wbr />Browser</a>
+      <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">Dev<wbr />Title<wbr />Bar</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="f00b4650-87e2-e2bd-d074-6e742e0c854b" href="f00b4650-87e2-e2bd-d074-6e742e0c854b.htm">Constructor</a>
+      <a id="6b9a49b8-95f1-ab62-5675-dc202d9e4d4a" href="6b9a49b8-95f1-ab62-5675-dc202d9e4d4a.htm">Constructor</a>
     </li>
     <li>
-      <a id="526d23fa-72c6-3d88-aee5-3ebea77df522" class="has-submenu" href="526d23fa-72c6-3d88-aee5-3ebea77df522.htm">
+      <a id="5013b1ac-3080-adcb-1866-8d0526dd4c8d" class="has-submenu" href="5013b1ac-3080-adcb-1866-8d0526dd4c8d.htm">
         <span data-tocFile="../toc/IDBYBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="ad186cb6-f582-b599-0f0a-a601a6443236" class="has-submenu" href="ad186cb6-f582-b599-0f0a-a601a6443236.htm">
-        <span data-tocFile="../toc/IDCYBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Methods</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="dda0d461-0dc0-2898-5bdc-a6d718cab243" href="dda0d461-0dc0-2898-5bdc-a6d718cab243.htm">Methods</a>
     </li>
     <li>
-      <a id="8ef34a9f-4b58-8ee0-15bd-4dee0522e482" class="has-submenu" href="8ef34a9f-4b58-8ee0-15bd-4dee0522e482.htm">
+      <a id="428e727a-0007-5ee7-3263-6e76c5a25288" class="has-submenu" href="428e727a-0007-5ee7-3263-6e76c5a25288.htm">
         <span data-tocFile="../toc/IDDYBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Events</a>

@@ -25,7 +25,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -85,7 +85,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -94,6 +94,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Converters Namespace</h1>
             <div class="summary"> </div>
@@ -108,7 +109,27 @@
                     <a href="ae3bdc34-767b-9a64-62c7-66a8fa515366.htm">EncodingTypeConverter</a>
                   </td>
                   <td>
- Provides a unified way of converting types of values to a <a href="https://learn.microsoft.com/dotnet/api/system.text.encoding" target="_top" rel="noopener noreferrer">Encoding</a> object.
+ Provides a unified way of converting types of values to a <span class="noLink">Encoding</span> object.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1908592d-2037-8166-8449-ac68a803a612.htm">FileSizeConverter</a>
+                  </td>
+                  <td>
+ Provides a type converter to converts a numeric value 
+ into a string that represents the number expressed as a size value in bytes, 
+ kilobytes, megabytes, gigabytes, petabytes or exabytes, depending on the size.
+ <p />
+ Conversion examples:
+ <p />
+ Input value -&gt; Result string
+ <p />
+ 793   -&gt; 793 Bytes
+ <p />
+ 1533  -&gt; 1,49 KB
+ <p />
+ 2049 -&gt; 2,00 KB
  </td>
                 </tr>
                 <tr>
@@ -154,9 +175,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");

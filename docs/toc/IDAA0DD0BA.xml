@@ -2,37 +2,30 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="ebf4a5b1-29ae-d8b9-e3d7-823eb9acd673.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Collection<wbr />Extensions</a>
+      <a href="0ed1d20e-fb66-3ece-cd91-7ab9b4fd5b60.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Solid<wbr />Brush<wbr />Extensions</a>
     </li>
     <li>
-      <a href="09940579-b32e-9f11-b909-6b752de17a42.htm">String<wbr />Collection<wbr />Extensions</a>
+      <a href="11d1e561-28f4-4437-0712-b2a387b9dedb.htm">Solid<wbr />Brush<wbr />Extensions</a>
     </li>
     <li>
-      <a href="8bd74a72-f065-7776-8a27-161891e4f98c.htm">Methods</a>
+      <a href="9394aed9-eb3b-f849-bdbc-9fbdb07e98ce.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="4efff465-de90-c135-b421-c7c44066e521" class="has-submenu" href="4efff465-de90-c135-b421-c7c44066e521.htm">
-        <span data-tocFile="../toc/IDAAA0DD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>As<wbr />Enumerable</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="990b730b-3fb2-b61a-bd67-dd4de5039425" href="990b730b-3fb2-b61a-bd67-dd4de5039425.htm">To<wbr />Color</a>
     </li>
     <li>
-      <a id="af487a74-f02c-bfdd-5a8a-9a8ef6083364" href="af487a74-f02c-bfdd-5a8a-9a8ef6083364.htm">To<wbr />Array</a>
-    </li>
-    <li>
-      <a id="2535c675-473f-5b0f-3258-af9354edcb0c" href="2535c675-473f-5b0f-3258-af9354edcb0c.htm">To<wbr />List</a>
+      <a id="d3121b12-deb8-a919-b6ed-656cb549c458" href="d3121b12-deb8-a919-b6ed-656cb549c458.htm">To<wbr />Pen</a>
     </li>
   </tocItems>
 </toc>

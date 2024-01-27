@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="d7876d06-c90f-525b-c025-a17346b39e4b.htm">Keybd<wbr />Event</a>
+      <a href="7bec0c67-8702-38a4-3d39-cfd99cc288e9.htm">Is<wbr />Window<wbr />Visible</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="7fb025cd-014f-5572-5eb7-ccce0005db83" href="7fb025cd-014f-5572-5eb7-ccce0005db83.htm">Keybd<wbr />Event(<wbr />Byte, Byte, Keybd<wbr />Event<wbr />Flags, UInt<wbr />Ptr)</a>
+      <a id="6b23ec64-4d66-61f2-da95-63b91412c7ae" href="6b23ec64-4d66-61f2-da95-63b91412c7ae.htm">Is<wbr />Window<wbr />Visible(<wbr />Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="5f7f369a-f7e0-9d24-9e20-eb5a7a6627aa" href="5f7f369a-f7e0-9d24-9e20-eb5a7a6627aa.htm">Keybd<wbr />Event(<wbr />Virtual<wbr />Keys, Byte, Keybd<wbr />Event<wbr />Flags, UInt<wbr />Ptr)</a>
+      <a id="5fc36e1d-2dd1-73b4-cd0b-33ac12bca0a3" href="5fc36e1d-2dd1-73b4-cd0b-33ac12bca0a3.htm">Is<wbr />Window<wbr />Visible(<wbr />Safe<wbr />Handle)</a>
     </li>
   </tocItems>
 </toc>

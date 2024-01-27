@@ -2,37 +2,68 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="fd8009ca-bcdf-872d-865e-c95cb25dde93.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Builder<wbr />Extensions</a>
+      <a href="b3e3f750-1d88-8154-4ddb-5bdf5a2b198a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Socket<wbr />Extensions</a>
     </li>
     <li>
-      <a href="14cccf94-271f-5bed-c566-25e99432d90d.htm">String<wbr />Builder<wbr />Extensions</a>
+      <a href="7b819007-bbf1-eac2-2b3e-7751a52e351d.htm">Socket<wbr />Extensions</a>
     </li>
     <li>
-      <a href="31cd5657-750b-26da-25a4-c5b2998dcdaf.htm">Methods</a>
+      <a href="4bcc3674-e0a0-2d16-218d-da12edc74242.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="87f51e8b-115c-ff32-3eb3-adf50a4f14e3" class="has-submenu" href="87f51e8b-115c-ff32-3eb3-adf50a4f14e3.htm">
+      <a id="60f4ebf1-f421-d9ba-a283-51c595c9acc6" class="has-submenu" href="60f4ebf1-f421-d9ba-a283-51c595c9acc6.htm">
         <span data-tocFile="../toc/IDAAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Append<wbr />Format<wbr />Line</a>
+        </span>Accept<wbr />Async</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="b5299d81-883e-f676-5818-433010603f11" href="b5299d81-883e-f676-5818-433010603f11.htm">Remove<wbr />End</a>
+      <a id="b381b006-1d43-2d5b-e2da-fdaad6faa04a" class="has-submenu" href="b381b006-1d43-2d5b-e2da-fdaad6faa04a.htm">
+        <span data-tocFile="../toc/IDBAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Connect<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="e4609cbe-b135-8200-2d85-9becfb188cc8" href="e4609cbe-b135-8200-2d85-9becfb188cc8.htm">Word<wbr />Wrap</a>
+      <a id="294d32e3-4a85-1e1f-9391-5b4f2e48ec9d" href="294d32e3-4a85-1e1f-9391-5b4f2e48ec9d.htm">Disconnect<wbr />Async</a>
+    </li>
+    <li>
+      <a id="f1e0b836-6c35-ef18-cc9e-27d3d2d3ace5" href="f1e0b836-6c35-ef18-cc9e-27d3d2d3ace5.htm">Is<wbr />Connected</a>
+    </li>
+    <li>
+      <a id="7329e86a-b68a-fe7f-be81-d6816997e159" class="has-submenu" href="7329e86a-b68a-fe7f-be81-d6816997e159.htm">
+        <span data-tocFile="../toc/IDEAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Receive<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2a4b6c7e-b319-0958-5704-ee1779b106c2" class="has-submenu" href="2a4b6c7e-b319-0958-5704-ee1779b106c2.htm">
+        <span data-tocFile="../toc/IDFAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1011b1bc-bb08-e0a1-383d-4e819e7502ea" class="has-submenu" href="1011b1bc-bb08-e0a1-383d-4e819e7502ea.htm">
+        <span data-tocFile="../toc/IDGAA0CD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />File<wbr />Async</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7a923683-6cdb-02a4-3a4d-9f5ec0a4a9ae" href="7a923683-6cdb-02a4-3a4d-9f5ec0a4a9ae.htm">Set<wbr />Keep<wbr />Alive<wbr />Values</a>
     </li>
   </tocItems>
 </toc>

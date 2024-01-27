@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e9eb9e49-a4e6-20b5-9431-9069bf2db51f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />File<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="391615ed-1496-f9b9-5ea5-493a730a114e.htm">File<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="5ec32160-09aa-8ac2-079e-8515498d0011.htm">Methods</a>
+    </li>
+    <li>
+      <a href="356be35a-d5ae-e097-d569-a07cbde7b27c.htm">Read<wbr />To<wbr />End</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7eac5868-9e8c-c806-3836-ed57bc2e9680" href="7eac5868-9e8c-c806-3836-ed57bc2e9680.htm">Read<wbr />To<wbr />End(<wbr />File<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="a12f12b8-59b2-69b8-de22-5dacc8df619f" href="a12f12b8-59b2-69b8-de22-5dacc8df619f.htm">Read<wbr />To<wbr />End(<wbr />File<wbr />Stream, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="04865bfb-8179-2ed2-8310-a157ba4df4ad" href="04865bfb-8179-2ed2-8310-a157ba4df4ad.htm">Read<wbr />To<wbr />End(<wbr />File<wbr />Stream, Encoding)</a>
+    </li>
+    <li>
+      <a id="c86b41b1-10d9-7978-52a0-548ffdc539fa" href="c86b41b1-10d9-7978-52a0-548ffdc539fa.htm">Read<wbr />To<wbr />End(<wbr />File<wbr />Stream, Encoding, Int<wbr />64)</a>
+    </li>
+  </tocItems>
+</toc>

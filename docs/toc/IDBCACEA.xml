@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="25a5ec84-2f32-1b44-62b9-ce67b84af12f.htm">Dev<wbr />Case.<wbr />UI.<wbr />Dialogs</a>
+    </li>
+    <li>
+      <a href="14e63d13-4806-91f3-37ec-c3f1749e64d8.htm">Dev<wbr />Message<wbr />Box</a>
+    </li>
+    <li>
+      <a href="aac2b10f-b8e2-ecaa-2aab-0eab4e369d70.htm">Methods</a>
+    </li>
+    <li>
+      <a href="04a9f078-a979-80c3-009b-ca274efdebc7.htm">Show</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0476a8d4-c89d-0c34-3825-062e38021aa1" href="0476a8d4-c89d-0c34-3825-062e38021aa1.htm">Show(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="75c8e58c-33fa-79b3-48e4-3d7397db39ef" href="75c8e58c-33fa-79b3-48e4-3d7397db39ef.htm">Show(<wbr />String, String)</a>
+    </li>
+    <li>
+      <a id="ae724c03-d9bd-cfe9-b49f-1bb7dbb98120" href="ae724c03-d9bd-cfe9-b49f-1bb7dbb98120.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons)</a>
+    </li>
+    <li>
+      <a id="e1f0e1fc-68c2-d816-bf24-7a3077e1435e" href="e1f0e1fc-68c2-d816-bf24-7a3077e1435e.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon)</a>
+    </li>
+    <li>
+      <a id="a9c479ee-c532-5705-b285-fbb42259cff9" href="a9c479ee-c532-5705-b285-fbb42259cff9.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button)</a>
+    </li>
+    <li>
+      <a id="3d8e1a0c-62f4-b53d-2afa-86bde0a00fe6" href="3d8e1a0c-62f4-b53d-2afa-86bde0a00fe6.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="779a2214-782a-a516-4ceb-64414943bdeb" href="779a2214-782a-a516-4ceb-64414943bdeb.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options, Boolean)</a>
+    </li>
+    <li>
+      <a id="4e145d3b-510f-5746-50b0-5d3d19c7b39c" href="4e145d3b-510f-5746-50b0-5d3d19c7b39c.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options, String)</a>
+    </li>
+    <li>
+      <a id="06d238c4-e4da-21ed-13d8-74124e33e068" href="06d238c4-e4da-21ed-13d8-74124e33e068.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options, String, String)</a>
+    </li>
+    <li>
+      <a id="97d453d5-7b4b-6f8b-0943-743c60614fe1" href="97d453d5-7b4b-6f8b-0943-743c60614fe1.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options, String, Help<wbr />Navigator)</a>
+    </li>
+    <li>
+      <a id="1b506e74-e721-65aa-f4b3-4378b084a787" href="1b506e74-e721-65aa-f4b3-4378b084a787.htm">Show(<wbr />String, String, Message<wbr />Box<wbr />Buttons, Message<wbr />Box<wbr />Icon, Message<wbr />Box<wbr />Default<wbr />Button, Message<wbr />Box<wbr />Options, String, Help<wbr />Navigator, Object)</a>
+    </li>
+  </tocItems>
+</toc>

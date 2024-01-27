@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7d1af70a-3fe9-b273-956c-cb9020c2a79b.htm">Offer<wbr />Virtual<wbr />Memory</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5e286d31-ddbb-f4d4-f9c1-e3b8f5a437e4" href="5e286d31-ddbb-f4d4-f9c1-e3b8f5a437e4.htm">Offer<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Offer<wbr />Virtual<wbr />Memory<wbr />Priority)</a>
+    </li>
+    <li>
+      <a id="de660d09-2564-1a6d-2cc2-03f68af93ae0" href="de660d09-2564-1a6d-2cc2-03f68af93ae0.htm">Offer<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />32, Offer<wbr />Virtual<wbr />Memory<wbr />Priority)</a>
+    </li>
+    <li>
+      <a id="92ed1f3e-90a3-7ae7-aa2b-0e99abcb96e0" href="92ed1f3e-90a3-7ae7-aa2b-0e99abcb96e0.htm">Offer<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Offer<wbr />Virtual<wbr />Memory<wbr />Priority)</a>
+    </li>
+  </tocItems>
+</toc>

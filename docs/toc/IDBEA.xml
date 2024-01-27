@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -51,10 +51,10 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="544b8129-0500-5ec9-b70e-84cf0078974f" class="has-submenu" href="544b8129-0500-5ec9-b70e-84cf0078974f.htm">
+      <a id="baa222c0-cc63-38c3-6af1-2c6cb8758a0b" class="has-submenu" href="baa222c0-cc63-38c3-6af1-2c6cb8758a0b.htm">
         <span data-tocFile="../toc/IDFBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Driv<wbr />Dev<wbr />Combo<wbr />Box</a>
+        </span>Dev<wbr />Drive<wbr />Combo<wbr />Box</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
@@ -184,8 +184,22 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="1158647a-b550-1317-8fc0-367bb975b367" class="has-submenu" href="1158647a-b550-1317-8fc0-367bb975b367.htm">
+      <a id="2bb7df2f-cad7-be90-f755-ddcffaee4b4f" class="has-submenu" href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">
         <span data-tocFile="../toc/IDYBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Title<wbr />Bar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="745d2fac-469b-b281-12d7-60d2cb355691" class="has-submenu" href="745d2fac-469b-b281-12d7-60d2cb355691.htm">
+        <span data-tocFile="../toc/IDZBEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Title<wbr />Bar<wbr />Compact</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1158647a-b550-1317-8fc0-367bb975b367" class="has-submenu" href="1158647a-b550-1317-8fc0-367bb975b367.htm">
+        <span data-tocFile="../toc/ID1BEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Web<wbr />Browser</a>
       <ul class="toc-menu is-hidden"> </ul>

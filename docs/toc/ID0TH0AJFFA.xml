@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,18 +20,81 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="9cee5b0d-c884-a9fd-c463-9c37ce2d7930.htm">Reclaim<wbr />Virtual<wbr />Memory</a>
+      <a href="c961516a-50e2-9ad1-ee3c-23a21cdd37f8.htm">Read<wbr />Process<wbr />Memory</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="de1e7f33-47ba-949c-10eb-e6b44b0defea" href="de1e7f33-47ba-949c-10eb-e6b44b0defea.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+      <a id="6bac2769-99d1-1c87-d9cd-e312acb81333" href="6bac2769-99d1-1c87-d9cd-e312acb81333.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="37edb580-4a18-78c5-f9cd-644e99574726" href="37edb580-4a18-78c5-f9cd-644e99574726.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />32)</a>
+      <a id="1d1c6cc0-74e8-ceaa-01a8-a1fc2e57891b" href="1d1c6cc0-74e8-ceaa-01a8-a1fc2e57891b.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="e1966742-7df0-79f7-62ad-342cfe69be94" href="e1966742-7df0-79f7-62ad-342cfe69be94.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr)</a>
+      <a id="0ddc42df-f4d4-3cf1-1cd8-63a207878b66" href="0ddc42df-f4d4-3cf1-1cd8-63a207878b66.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="0c2388b3-a4d2-e71d-ab47-4ca79ed5daa6" href="0c2388b3-a4d2-e71d-ab47-4ca79ed5daa6.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="47dacaf9-8bf9-96b8-599f-11ee94306528" href="47dacaf9-8bf9-96b8-599f-11ee94306528.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, String<wbr />Builder, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="8a5c2dd9-4799-a2a7-eec4-fc8ef4eb6163" href="8a5c2dd9-4799-a2a7-eec4-fc8ef4eb6163.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, String<wbr />Builder, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="369da020-43d4-c6f0-c503-da69b37708d5" href="369da020-43d4-c6f0-c503-da69b37708d5.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="617fe5ca-96ff-ec0d-9544-fa1d6899ec63" href="617fe5ca-96ff-ec0d-9544-fa1d6899ec63.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="f2302fee-1340-1281-a604-3c31b9201426" href="f2302fee-1340-1281-a604-3c31b9201426.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="286ab35e-42de-3059-0a06-e22eab1e5750" href="286ab35e-42de-3059-0a06-e22eab1e5750.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="58509fca-284d-48b9-fb57-6b33ad74ac28" href="58509fca-284d-48b9-fb57-6b33ad74ac28.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, String<wbr />Builder, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e029d82a-d3e0-c612-d1b2-8cd40dd9ae6b" href="e029d82a-d3e0-c612-d1b2-8cd40dd9ae6b.htm">Read<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, String<wbr />Builder, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="57882f7d-ba3a-fc97-0a3b-dad29e76232c" href="57882f7d-ba3a-fc97-0a3b-dad29e76232c.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="1f84c1b5-cda8-1a25-0224-e4dc80eb0384" href="1f84c1b5-cda8-1a25-0224-e4dc80eb0384.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="000d2ea7-e430-1e71-6d25-681f1339fe0c" href="000d2ea7-e430-1e71-6d25-681f1339fe0c.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="0fab8a77-b3b8-525c-45f1-3471a77123ff" href="0fab8a77-b3b8-525c-45f1-3471a77123ff.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="69211bda-3f5f-c146-4a56-37319ac42025" href="69211bda-3f5f-c146-4a56-37319ac42025.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, String<wbr />Builder, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="531f52f4-0e6a-8e0f-e3db-aa1cf0001d43" href="531f52f4-0e6a-8e0f-e3db-aa1cf0001d43.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, Int<wbr />Ptr, String<wbr />Builder, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="2034d70b-e91f-e396-ad4e-e2c27790c99c" href="2034d70b-e91f-e396-ad4e-e2c27790c99c.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a921f952-289b-e536-c9be-c03b56ba1d41" href="a921f952-289b-e536-c9be-c03b56ba1d41.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3a3b90b7-b90f-2f98-76d3-36e12009d83e" href="3a3b90b7-b90f-2f98-76d3-36e12009d83e.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="52d8fc6a-0d2a-625b-c051-9b258bcf3463" href="52d8fc6a-0d2a-625b-c051-9b258bcf3463.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a84d9d8f-fe08-8b86-e735-bb2b3ece67bb" href="a84d9d8f-fe08-8b86-e735-bb2b3ece67bb.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, String<wbr />Builder, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="30391021-a67c-1d63-8497-007f35ee959f" href="30391021-a67c-1d63-8497-007f35ee959f.htm">Read<wbr />Process<wbr />Memory(<wbr />Safe<wbr />Process<wbr />Handle, UInt<wbr />Ptr, String<wbr />Builder, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
     </li>
   </tocItems>
 </toc>

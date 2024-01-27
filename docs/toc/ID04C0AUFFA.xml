@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="f1786f3d-5627-0904-caff-74c89f781a65.htm">Get<wbr />Dlg<wbr />Item</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="04d73372-1195-b819-04ed-c72f3ec44909" href="04d73372-1195-b819-04ed-c72f3ec44909.htm">Get<wbr />Dlg<wbr />Item(<wbr />Int<wbr />Ptr, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="4fb091c0-f0a5-8a08-6221-c765120b6501" href="4fb091c0-f0a5-8a08-6221-c765120b6501.htm">Get<wbr />Dlg<wbr />Item(<wbr />Safe<wbr />Handle, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

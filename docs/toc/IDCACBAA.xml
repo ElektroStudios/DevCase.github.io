@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+    </li>
+    <li>
+      <a href="10a19bdd-c28a-d398-b62b-d4e4df8512e4.htm">BBCode<wbr />Document</a>
+    </li>
+    <li>
+      <a href="7717c9a3-689c-927d-6925-a54670b815b9.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e869dfc9-9bde-7ad7-aa2d-1348fef56715" class="has-submenu" href="e869dfc9-9bde-7ad7-aa2d-1348fef56715.htm">
+        <span data-tocFile="../toc/IDACACBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Load</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

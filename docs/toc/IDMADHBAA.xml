@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="69f87eab-167b-1813-636b-3493b628d94c.htm">Util<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="a7f80ac3-f75d-8a99-b4a1-2cf7b2be8039.htm">Methods</a>
+    </li>
+    <li>
+      <a href="91a2f13b-ab52-df1d-838a-cb954ead23b3.htm">Replace<wbr />Line</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="840e5116-95b2-6122-03bd-5aced0f46583" href="840e5116-95b2-6122-03bd-5aced0f46583.htm">Replace<wbr />Line(<wbr />String, Int<wbr />32, IEnumerable&lt;String&gt;, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="3599df57-0488-69cf-87e3-804321879f1b" href="3599df57-0488-69cf-87e3-804321879f1b.htm">Replace<wbr />Line(<wbr />String, Int<wbr />32, String, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="df40ff20-07fa-d218-fba3-8875f72778c3" href="df40ff20-07fa-d218-fba3-8875f72778c3.htm">Replace<wbr />Line(<wbr />String, String, Int<wbr />32, IEnumerable&lt;String&gt;, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="bd740745-f384-3e9a-d187-35e8f1e979c1" href="bd740745-f384-3e9a-d187-35e8f1e979c1.htm">Replace<wbr />Line(<wbr />String, String, Int<wbr />32, String, Text<wbr />Direction, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

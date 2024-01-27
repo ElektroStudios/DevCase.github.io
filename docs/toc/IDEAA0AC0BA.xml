@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="f815ddbd-664b-e220-5f20-285b53a98c19.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IWin<wbr />32Window<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="349893b2-b7fd-8d03-00d2-77f43b19de3a.htm">IWin<wbr />32Window<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="4b4b7bac-9f29-49a0-54ab-7ae362348830.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d2d7b2d4-2bd9-1236-1388-c2d59906b120.htm">Send<wbr />Message</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8647eced-90a1-f1cf-97df-94b081485387" href="8647eced-90a1-f1cf-97df-94b081485387.htm">Send<wbr />Message(<wbr />IWin<wbr />32Window, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a4747a68-b6d2-c567-00f6-90050f48a0ad" href="a4747a68-b6d2-c567-00f6-90050f48a0ad.htm">Send<wbr />Message(<wbr />IWin<wbr />32Window, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

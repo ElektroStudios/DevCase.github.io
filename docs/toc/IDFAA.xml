@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -83,20 +83,6 @@
         <span data-tocFile="../toc/IDJFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Memory</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="1edfa4d3-24fe-aa76-3922-ab89fe116a1a" class="has-submenu" href="1edfa4d3-24fe-aa76-3922-ab89fe116a1a.htm">
-        <span data-tocFile="../toc/IDKFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Type<wbr />Converters</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="66becc03-578d-cc75-3014-e7df711b3587" class="has-submenu" href="66becc03-578d-cc75-3014-e7df711b3587.htm">
-        <span data-tocFile="../toc/IDLFAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Case.<wbr />Core.<wbr />IO.<wbr />Type<wbr />Editors</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

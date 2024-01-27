@@ -2,35 +2,30 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
     </li>
     <li>
-      <a href="2069902f-bb08-5749-7479-c0a8f0555986.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout Namespaces</a>
+      <a href="c0ca2653-81dd-e5e4-7b51-98797de5bd1a.htm">Dev<wbr />Case.<wbr />UI.<wbr />Type<wbr />Editors</a>
     </li>
     <li>
-      <a href="610a61bb-7af6-5bc6-e924-552b369520fc.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout.<wbr />Dev<wbr />Image<wbr />Combo<wbr />Box<wbr />Data</a>
+      <a href="0b48bd03-81a4-0ec5-0a2b-52ba92046318.htm">Icon<wbr />File<wbr />Name<wbr />Editor</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="61e7b168-b041-fb99-da34-8a674df1ba39" class="has-submenu" href="61e7b168-b041-fb99-da34-8a674df1ba39.htm">
-        <span data-tocFile="../toc/IDACGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Image<wbr />Combo<wbr />Box<wbr />Item</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="f47f3bdd-088a-7ac6-c00f-a7cb948a5a96" href="f47f3bdd-088a-7ac6-c00f-a7cb948a5a96.htm">Constructor</a>
     </li>
     <li>
-      <a id="5eb0a359-fde3-3389-cc93-97b058643c76" class="has-submenu" href="5eb0a359-fde3-3389-cc93-97b058643c76.htm">
-        <span data-tocFile="../toc/IDBCGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Image<wbr />Combo<wbr />Box<wbr />Item<wbr />Collection</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="d23bd906-c01b-5735-977f-12ccb9cb25b8" href="d23bd906-c01b-5735-977f-12ccb9cb25b8.htm">Properties</a>
+    </li>
+    <li>
+      <a id="41371e9c-8b46-d03d-4b75-f08f59eb19c5" href="41371e9c-8b46-d03d-4b75-f08f59eb19c5.htm">Methods</a>
     </li>
   </tocItems>
 </toc>

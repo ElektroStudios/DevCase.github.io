@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
@@ -30,36 +30,43 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="14803194-1e06-ec67-2f61-95d37e1f252f" class="has-submenu" href="14803194-1e06-ec67-2f61-95d37e1f252f.htm">
+      <a id="bb521710-7fd8-dc19-6d78-3083a01f95de" class="has-submenu" href="bb521710-7fd8-dc19-6d78-3083a01f95de.htm">
         <span data-tocFile="../toc/IDCBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Name<wbr />Object<wbr />Collection</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="14803194-1e06-ec67-2f61-95d37e1f252f" class="has-submenu" href="14803194-1e06-ec67-2f61-95d37e1f252f.htm">
+        <span data-tocFile="../toc/IDDBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Read<wbr />Only<wbr />Value<wbr />Pair&lt;TValue&gt;</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="4fb60172-af34-5dae-5aa2-f5f7082eb569" class="has-submenu" href="4fb60172-af34-5dae-5aa2-f5f7082eb569.htm">
-        <span data-tocFile="../toc/IDDBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDEBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Read<wbr />Only<wbr />Value<wbr />Pair&lt;TValue<wbr />1, TValue<wbr />2&gt;</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="7d8139c0-f185-0e9d-9369-af4e678984b2" class="has-submenu" href="7d8139c0-f185-0e9d-9369-af4e678984b2.htm">
-        <span data-tocFile="../toc/IDEBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDFBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Sortable<wbr />Observable<wbr />Collection&lt;T&gt;</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="e612bd25-ef04-a1ce-1293-9700003566bb" class="has-submenu" href="e612bd25-ef04-a1ce-1293-9700003566bb.htm">
-        <span data-tocFile="../toc/IDFBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDGBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Value<wbr />Pair&lt;TValue&gt;</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="5cfc8188-9fc4-a241-e434-ada64a8b5cd9" class="has-submenu" href="5cfc8188-9fc4-a241-e434-ada64a8b5cd9.htm">
-        <span data-tocFile="../toc/IDGBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDHBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Value<wbr />Pair&lt;TValue<wbr />1, TValue<wbr />2&gt;</a>
       <ul class="toc-menu is-hidden"> </ul>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="e0238f2f-0237-d0c6-bb2a-2f6dd52e46c6.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client Namespaces</a>
+    </li>
+    <li>
+      <a href="d1085215-ffca-db27-9b76-3cb0533e321d.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client.<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="1be870c8-daad-c4d3-2fd2-1954da306bf8.htm">Message<wbr />Extensions</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5d346325-874e-4a76-d33a-90b486a49884" class="has-submenu" href="5d346325-874e-4a76-d33a-90b486a49884.htm">
+        <span data-tocFile="../toc/IDACB0ZB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

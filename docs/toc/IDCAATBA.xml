@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="3abc94e6-7c92-6714-eb60-7ce6b4f842b0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2856e35a-23d5-f068-d75e-d7634161b635.htm">Data<wbr />Grid<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="32dfbea2-a302-bf7e-9bc5-a4a679f8599d.htm">Methods</a>
+    </li>
+    <li>
+      <a href="97e16fb0-1d4c-6cbf-0734-9a55b0b4e61c.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="67ea9bdf-e5cc-8fbe-bd9f-b2d96bc9d2f2" href="67ea9bdf-e5cc-8fbe-bd9f-b2d96bc9d2f2.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value(<wbr />Data<wbr />Grid<wbr />View)</a>
+    </li>
+    <li>
+      <a id="b525ce9b-0df9-7fbe-557f-10f98f89370c" href="b525ce9b-0df9-7fbe-557f-10f98f89370c.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value&lt;T&gt;(<wbr />Data<wbr />Grid<wbr />View)</a>
+    </li>
+    <li>
+      <a id="d1985a71-dd54-30b6-34f4-587a69854c6b" href="d1985a71-dd54-30b6-34f4-587a69854c6b.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value(<wbr />Data<wbr />Grid<wbr />View, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="b3269547-d6b6-e1f9-b13c-a21cdb82b472" href="b3269547-d6b6-e1f9-b13c-a21cdb82b472.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value(<wbr />Data<wbr />Grid<wbr />View, String)</a>
+    </li>
+    <li>
+      <a id="05ad0d93-0c4c-b498-ad42-9ac728887ae2" href="05ad0d93-0c4c-b498-ad42-9ac728887ae2.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value&lt;T&gt;(<wbr />Data<wbr />Grid<wbr />View, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="aaf53df5-f932-60f4-6d93-714afab2b35d" href="aaf53df5-f932-60f4-6d93-714afab2b35d.htm">Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value&lt;T&gt;(<wbr />Data<wbr />Grid<wbr />View, String)</a>
+    </li>
+  </tocItems>
+</toc>

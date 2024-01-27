@@ -2,40 +2,45 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
     </li>
     <li>
-      <a href="2069902f-bb08-5749-7479-c0a8f0555986.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout Namespaces</a>
+      <a href="c0ca2653-81dd-e5e4-7b51-98797de5bd1a.htm">Dev<wbr />Case.<wbr />UI.<wbr />Type<wbr />Editors</a>
     </li>
     <li>
-      <a href="9af63e16-14bf-a694-0f6b-16d3692532a7.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout.<wbr />Dev<wbr />List<wbr />Box<wbr />Data</a>
+      <a href="ed19c09e-1c8a-ef8a-356c-3348521a8c60.htm">Shortcut<wbr />File<wbr />Info<wbr />Icon<wbr />Index<wbr />Editor</a>
     </li>
     <li>
-      <a href="5f48d47a-e723-e9e9-8e52-36f25b4820e0.htm">Dev<wbr />List<wbr />Box<wbr />Item<wbr />Layout<wbr />Colors</a>
+      <a href="4c2236cf-0e57-33b7-2e00-e4482b2da2b6.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="88e03a3e-8638-71e2-16b3-ad7c0dedb8de" href="88e03a3e-8638-71e2-16b3-ad7c0dedb8de.htm">Constructor</a>
-    </li>
-    <li>
-      <a id="cb4ddf74-240b-5010-66d2-3aacae3fa5e2" class="has-submenu" href="cb4ddf74-240b-5010-66d2-3aacae3fa5e2.htm">
-        <span data-tocFile="../toc/IDBCDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="d6111b5f-7063-4ca9-f304-d1112b5e7824" class="has-submenu" href="d6111b5f-7063-4ca9-f304-d1112b5e7824.htm">
+        <span data-tocFile="../toc/IDACDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
+        </span>Edit<wbr />Value</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="d80c46be-e30f-58f1-0a11-d9177023f839" href="d80c46be-e30f-58f1-0a11-d9177023f839.htm">Methods</a>
+      <a id="017d360f-6f6c-929b-8c5f-d8e0129d7a3f" class="has-submenu" href="017d360f-6f6c-929b-8c5f-d8e0129d7a3f.htm">
+        <span data-tocFile="../toc/IDBCDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Edit<wbr />Style</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="aa8b24a1-6db0-6895-94dc-a072250fa30b" href="aa8b24a1-6db0-6895-94dc-a072250fa30b.htm">Events</a>
+      <a id="e7629ae1-938d-f119-a182-81e8fa15972e" class="has-submenu" href="e7629ae1-938d-f119-a182-81e8fa15972e.htm">
+        <span data-tocFile="../toc/IDCCDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Paint<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
 </toc>

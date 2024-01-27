@@ -2,24 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="b3e3f750-1d88-8154-4ddb-5bdf5a2b198a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Socket<wbr />Extensions</a>
+      <a href="1c728149-112c-7d09-214a-e5da284305bb.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Shell<wbr />32Extensions</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="7b819007-bbf1-eac2-2b3e-7751a52e351d" class="has-submenu" href="7b819007-bbf1-eac2-2b3e-7751a52e351d.htm">
+      <a id="f5b01902-642c-b745-011d-02511aba1bea" class="has-submenu" href="f5b01902-642c-b745-011d-02511aba1bea.htm">
         <span data-tocFile="../toc/IDA04C0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Socket<wbr />Extensions</a>
+        </span>Folder<wbr />Extensions</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="16e0b932-3bcf-5909-647f-b7be365b67a7" class="has-submenu" href="16e0b932-3bcf-5909-647f-b7be365b67a7.htm">
+        <span data-tocFile="../toc/IDB04C0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Shell<wbr />Folder<wbr />View<wbr />Extensions</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

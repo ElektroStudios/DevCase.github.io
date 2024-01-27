@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,36 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="0b3aa458-6dd8-94c1-7a7d-61b76065ff82.htm">Union<wbr />Rect</a>
+      <a href="8c98a29c-21a5-f6fc-075c-3670fdde49eb.htm">System<wbr />Parameters<wbr />Info</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="6e63b50a-efd0-8923-8602-4b3e60f21163" href="6e63b50a-efd0-8923-8602-4b3e60f21163.htm">Union<wbr />Rect(<wbr />Native<wbr />Rectangle, Native<wbr />Rectangle, Native<wbr />Rectangle)</a>
+      <a id="5777d09b-7c75-af00-f45b-2fd07ab7c4e6" href="5777d09b-7c75-af00-f45b-2fd07ab7c4e6.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, Boolean, Boolean, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
     </li>
     <li>
-      <a id="eceadec4-ec18-c385-7da3-d3e3b62417c1" href="eceadec4-ec18-c385-7da3-d3e3b62417c1.htm">Union<wbr />Rect(<wbr />Rectangle, Rectangle, Rectangle)</a>
+      <a id="ec5427bd-1778-5cd2-b2fc-c953be77adad" href="ec5427bd-1778-5cd2-b2fc-c953be77adad.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, Boolean, UInt<wbr />32, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="13d86ee6-8e64-79c5-6bae-9889dc7cf502" href="13d86ee6-8e64-79c5-6bae-9889dc7cf502.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, Int<wbr />32, UInt<wbr />32, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="d2c260ed-73fb-c0b5-daf3-22594985e231" href="d2c260ed-73fb-c0b5-daf3-22594985e231.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, Boolean, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="87841758-808a-f1c3-e052-461a463cd97d" href="87841758-808a-f1c3-e052-461a463cd97d.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, Int<wbr />64, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="b8d0de0c-6b22-785c-9986-49fa65fa7694" href="b8d0de0c-6b22-785c-9986-49fa65fa7694.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, String, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="9403a8ab-c721-0dee-1feb-3b7610d17296" href="9403a8ab-c721-0dee-1feb-3b7610d17296.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, String<wbr />Builder, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="7ebe9838-dccc-7d00-ed9d-a388e3c94c0a" href="7ebe9838-dccc-7d00-ed9d-a388e3c94c0a.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, UInt<wbr />32, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="cb144434-06f1-1bb1-c985-6973f5bfa97c" href="cb144434-06f1-1bb1-c985-6973f5bfa97c.htm">System<wbr />Parameters<wbr />Info(<wbr />System<wbr />Parameters<wbr />Action<wbr />Flags, UInt<wbr />32, UInt<wbr />64, System<wbr />Parameters<wbr />Win<wbr />Ini<wbr />Flags)</a>
     </li>
   </tocItems>
 </toc>

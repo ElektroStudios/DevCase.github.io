@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Util<wbr />Power<span id="LSTE5E84A31_0" data-languageSpecificText="cpp=::|nu=."></span>Restart Method</h1>
             <div class="summary">
@@ -105,53 +106,53 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">DevCase.Core.IO.Devices.Power</a><br /><strong>Assembly:</strong> DevCase.Core.IO.Devices (in DevCase.Core.IO.Devices.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">Restart</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">computer</span> = "",
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">timeout</span> = 0,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">message</span> = "",
+              <strong>Namespace:</strong> <a href="ab3ad0c6-5eeb-03db-604f-07071ec4d9e6.htm">DevCase.Core.IO.Devices.Power</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">Restart</span>(
+	<span class="noLink">string</span> <span class="parameter">computer</span> = "",
+	<span class="noLink">int</span> <span class="parameter">timeout</span> = 0,
+	<span class="noLink">string</span> <span class="parameter">message</span> = "",
 	<a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a> <span class="parameter">mode</span> = <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a>.Wait,
 	<a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a> <span class="parameter">reason</span> = <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a>.Other,
 	<a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a> <span class="parameter">planning</span> = <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>.Unplanned,
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">ignoreErrors</span> = <span class="keyword">true</span>
+	<span class="noLink">bool</span> <span class="parameter">ignoreErrors</span> = <span class="keyword">true</span>
 )</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">Restart</span> ( 
-	Optional <span class="parameter">computer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> = "",
-	Optional <span class="parameter">timeout</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a> = 0,
-	Optional <span class="parameter">message</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> = "",
+	Optional <span class="parameter">computer</span> <span class="keyword">As</span> <span class="noLink">String</span> = "",
+	Optional <span class="parameter">timeout</span> <span class="keyword">As</span> <span class="noLink">Integer</span> = 0,
+	Optional <span class="parameter">message</span> <span class="keyword">As</span> <span class="noLink">String</span> = "",
 	Optional <span class="parameter">mode</span> <span class="keyword">As</span> <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a> = <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a>.Wait,
 	Optional <span class="parameter">reason</span> <span class="keyword">As</span> <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a> = <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a>.Other,
 	Optional <span class="parameter">planning</span> <span class="keyword">As</span> <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a> = <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>.Unplanned,
-	Optional <span class="parameter">ignoreErrors</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a> = <span class="keyword">true</span>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	Optional <span class="parameter">ignoreErrors</span> <span class="keyword">As</span> <span class="noLink">Boolean</span> = <span class="keyword">true</span>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">computer</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
-<span class="keyword">Dim</span> <span class="parameter">timeout</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Integer</a>
-<span class="keyword">Dim</span> <span class="parameter">message</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
+<span class="keyword">Dim</span> <span class="parameter">computer</span> <span class="keyword">As</span> <span class="noLink">String</span>
+<span class="keyword">Dim</span> <span class="parameter">timeout</span> <span class="keyword">As</span> <span class="noLink">Integer</span>
+<span class="keyword">Dim</span> <span class="parameter">message</span> <span class="keyword">As</span> <span class="noLink">String</span>
 <span class="keyword">Dim</span> <span class="parameter">mode</span> <span class="keyword">As</span> <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a>
 <span class="keyword">Dim</span> <span class="parameter">reason</span> <span class="keyword">As</span> <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a>
 <span class="keyword">Dim</span> <span class="parameter">planning</span> <span class="keyword">As</span> <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>
-<span class="keyword">Dim</span> <span class="parameter">ignoreErrors</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">ignoreErrors</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="7697ca75-a252-281f-49e5-f665a18c8f94.htm">UtilPower</a>.<span class="identifier">Restart</span>(<span class="parameter">computer</span>, 
 	<span class="parameter">timeout</span>, <span class="parameter">message</span>, <span class="parameter">mode</span>, <span class="parameter">reason</span>, <span class="parameter">planning</span>, 
 	<span class="parameter">ignoreErrors</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">Restart</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">computer</span> = L"", 
-	<a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> <span class="parameter">timeout</span> = 0, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">message</span> = L"", 
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">Restart</span>(
+	<span class="noLink">String</span>^ <span class="parameter">computer</span> = L"", 
+	<span class="noLink">int</span> <span class="parameter">timeout</span> = 0, 
+	<span class="noLink">String</span>^ <span class="parameter">message</span> = L"", 
 	<a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a> <span class="parameter">mode</span> = <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a>::Wait, 
 	<a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a> <span class="parameter">reason</span> = <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a>::Other, 
 	<a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a> <span class="parameter">planning</span> = <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>::Unplanned, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">ignoreErrors</span> = <span class="keyword">true</span>
+	<span class="noLink">bool</span> <span class="parameter">ignoreErrors</span> = <span class="keyword">true</span>
 )</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">Restart</span> : 
-        ?<span class="parameter">computer</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
-        ?<span class="parameter">timeout</span> : <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">int</a> * 
-        ?<span class="parameter">message</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
+        ?<span class="parameter">computer</span> : <span class="noLink">string</span> * 
+        ?<span class="parameter">timeout</span> : <span class="noLink">int</span> * 
+        ?<span class="parameter">message</span> : <span class="noLink">string</span> * 
         ?<span class="parameter">mode</span> : <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a> * 
         ?<span class="parameter">reason</span> : <a href="d20abe3f-9ce9-a17b-9fdd-c43ec1adc5ac.htm">ShutdownReason</a> * 
         ?<span class="parameter">planning</span> : <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a> * 
-        ?<span class="parameter">ignoreErrors</span> : <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> 
+        ?<span class="parameter">ignoreErrors</span> : <span class="noLink">bool</span> 
 (* Defaults:
         <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">computer</span> = defaultArg <span class="identifier">computer</span> ""
         <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">timeout</span> = defaultArg <span class="identifier">timeout</span> 0
@@ -161,18 +162,18 @@
         <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">planning</span> = defaultArg <span class="identifier">planning</span> <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>.Unplanned
         <span class="keyword">let </span><span class="identifier">_</span><span class="identifier">ignoreErrors</span> = defaultArg <span class="identifier">ignoreErrors</span> <span class="keyword">true</span>
 *)
-<span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">computer</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>  (Optional)</dt><dd>
+<span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">computer</span>  <span class="noLink">String</span>  (Optional)</dt><dd>
  The name of the computer to restart.
  <p />
  If the value of this parameter is an empty string, the local computer is shut down.
  <p />
- This parameter can be an addres, for example: <span class="code">127.0.0.1</span></dd><dt class="has-text-weight-normal"><span class="parameter">timeout</span>  <a href="https://learn.microsoft.com/dotnet/api/system.int32" target="_top" rel="noopener noreferrer">Int32</a>  (Optional)</dt><dd>
+ This parameter can be an addres, for example: <span class="code">127.0.0.1</span></dd><dt class="has-text-weight-normal"><span class="parameter">timeout</span>  <span class="noLink">Int32</span>  (Optional)</dt><dd>
  The number of seconds to wait before restarting the computer.
  <p />
  If the value of this parameter is zero, the computer is restarted immediately.
  <p />
  This value is limited to <a href="6b859cf6-21de-382d-84b5-27c4ddd37883.htm">MaxShutdownTimeout</a>.
- </dd><dt class="has-text-weight-normal"><span class="parameter">message</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">message</span>  <span class="noLink">String</span>  (Optional)</dt><dd>
  The message to be displayed in the interactive restart dialog box.
  </dd><dt class="has-text-weight-normal"><span class="parameter">mode</span>  <a href="b1d6ef61-2b6a-4a25-16dd-452ba4f4461e.htm">ShutdownMode</a>  (Optional)</dt><dd>
  Indicates whether to force the restart.
@@ -184,9 +185,9 @@
  the default is an undefined restart that is logged as "No title for this reason could be found".
  </dd><dt class="has-text-weight-normal"><span class="parameter">planning</span>  <a href="b2c6fa2f-a81e-0a05-0f69-be709d15e82f.htm">ShutdownPlanning</a>  (Optional)</dt><dd>
  Indicates whether it's a planned or unplanned restart operation.
- </dd><dt class="has-text-weight-normal"><span class="parameter">ignoreErrors</span>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>  (Optional)</dt><dd>
- If <span class="keyword"><span id="LSTE5E84A31_1" data-languageSpecificText="vb=True|nu=true"></span></span>, a <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.win32exception" target="_top" rel="noopener noreferrer">Win32Exception</a> exception will be thrown if error found.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br /><span class="keyword"><span id="LSTE5E84A31_2" data-languageSpecificText="vb=True|nu=true"></span></span> if the restart operation is initiated correctlly, <span class="keyword"><span id="LSTE5E84A31_3" data-languageSpecificText="vb=False|nu=false"></span></span> otherwise.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">ignoreErrors</span>  <span class="noLink">Boolean</span>  (Optional)</dt><dd>
+ If <span class="keyword"><span id="LSTE5E84A31_1" data-languageSpecificText="vb=True|nu=true"></span></span>, a <span class="noLink">Win32Exception</span> exception will be thrown if error found.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br /><span class="keyword"><span id="LSTE5E84A31_2" data-languageSpecificText="vb=True|nu=true"></span></span> if the restart operation is initiated correctlly, <span class="keyword"><span id="LSTE5E84A31_3" data-languageSpecificText="vb=False|nu=false"></span></span> otherwise.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
@@ -231,7 +232,7 @@ End If</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnipp
               <table class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.argumentexception" target="_top" rel="noopener noreferrer">ArgumentException</a>
+                    <span class="noLink">ArgumentException</span>
                   </td>
                   <td>
  Timeout should be zero or greater than zero.;timeout
@@ -239,7 +240,7 @@ End If</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnipp
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.win32exception" target="_top" rel="noopener noreferrer">Win32Exception</a>
+                    <span class="noLink">Win32Exception</span>
                   </td>
                   <td />
                 </tr>
@@ -300,9 +301,9 @@ End If</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnipp
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -333,7 +334,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

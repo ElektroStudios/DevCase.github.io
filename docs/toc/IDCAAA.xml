@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -181,6 +181,9 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
+      <a id="3756c0c5-31f5-0332-3ced-986d3deb9848" href="3756c0c5-31f5-0332-3ced-986d3deb9848.htm">Visual<wbr />Theme</a>
+    </li>
+    <li>
       <a id="0a3276bf-eb15-9f54-37f1-c342fb453cc5" href="0a3276bf-eb15-9f54-37f1-c342fb453cc5.htm">Window<wbr />Animation</a>
     </li>
     <li>
@@ -191,35 +194,35 @@
     </li>
     <li>
       <a id="9aaf448c-49d9-252f-d9b3-383f239027c8" class="has-submenu" href="9aaf448c-49d9-252f-d9b3-383f239027c8.htm">
-        <span data-tocFile="../toc/ID4CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/ID5CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Window<wbr />Locker</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="1d52516a-027b-a726-4978-4aac245c276d" class="has-submenu" href="1d52516a-027b-a726-4978-4aac245c276d.htm">
-        <span data-tocFile="../toc/ID5CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/ID6CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Window<wbr />Magnetizer</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="efe32c59-1069-7ecc-a615-23a5bfc86ae5" class="has-submenu" href="efe32c59-1069-7ecc-a615-23a5bfc86ae5.htm">
-        <span data-tocFile="../toc/ID6CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/ID0AB0CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Window<wbr />Moving<wbr />Opacity</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="81b542cd-8e34-2b0e-baf5-128bcdbbf428" class="has-submenu" href="81b542cd-8e34-2b0e-baf5-128bcdbbf428.htm">
-        <span data-tocFile="../toc/ID0AB0CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/ID0BB0CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Window<wbr />To<wbr />Screen<wbr />Docker</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="30068c57-ada7-6cf4-9d4b-bd4d574763ef" class="has-submenu" href="30068c57-ada7-6cf4-9d4b-bd4d574763ef.htm">
-        <span data-tocFile="../toc/ID0BB0CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/ID0CB0CAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Window<wbr />To<wbr />Window<wbr />Docker</a>
       <ul class="toc-menu is-hidden"> </ul>

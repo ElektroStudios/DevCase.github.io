@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="c6790ff3-f971-1446-f218-69a9620a72a4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Object<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">Object<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="7392ddd7-ccc0-f7b2-719f-5195fda48a09.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9e835fc3-fb85-346b-64c9-15570a0a158f.htm">Speak</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b6518cbc-eac7-374e-f53c-70aa031bf15b" href="b6518cbc-eac7-374e-f53c-70aa031bf15b.htm">Speak(<wbr />Object, Installed<wbr />Voice, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="a447b4b7-8d2e-a234-f910-4749678e12f8" href="a447b4b7-8d2e-a234-f910-4749678e12f8.htm">Speak(<wbr />Object, String, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

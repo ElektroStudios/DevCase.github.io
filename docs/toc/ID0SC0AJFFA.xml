@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,33 +20,33 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="8515bcbc-f61c-a3fa-401a-ea9739dadcd1.htm">Find<wbr />Resource<wbr />Ex</a>
+      <a href="f2921a5c-750b-6ace-6bcf-3070047836a5.htm">Find<wbr />Resource</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="03f0a00e-d24e-984d-e6f7-485435968509" href="03f0a00e-d24e-984d-e6f7-485435968509.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, Resource<wbr />Type, Int<wbr />Ptr, UInt<wbr />16)</a>
+      <a id="80a7243a-1a79-a1ef-589c-87e0798bb6fd" href="80a7243a-1a79-a1ef-589c-87e0798bb6fd.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Resource<wbr />Type)</a>
     </li>
     <li>
-      <a id="01cbe010-3541-0e0f-c84e-fdf93829ba42" href="01cbe010-3541-0e0f-c84e-fdf93829ba42.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, Resource<wbr />Type, String, UInt<wbr />16)</a>
+      <a id="12d473f0-727e-1fcf-1396-fbf3629cee14" href="12d473f0-727e-1fcf-1396-fbf3629cee14.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, String)</a>
     </li>
     <li>
-      <a id="7a651c06-2e42-61b3-5c09-c2092572bb29" href="7a651c06-2e42-61b3-5c09-c2092572bb29.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, String, Int<wbr />Ptr, UInt<wbr />16)</a>
+      <a id="9f0d422b-23c6-989f-a78d-ba20766a9b91" href="9f0d422b-23c6-989f-a78d-ba20766a9b91.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, String, Resource<wbr />Type)</a>
     </li>
     <li>
-      <a id="b8c0cadc-456e-64e5-5603-2899ca141b31" href="b8c0cadc-456e-64e5-5603-2899ca141b31.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, String, String, UInt<wbr />16)</a>
+      <a id="b1fc8c16-e68d-da83-9de6-8ca84f2cc4cf" href="b1fc8c16-e68d-da83-9de6-8ca84f2cc4cf.htm">Find<wbr />Resource(<wbr />Int<wbr />Ptr, String, String)</a>
     </li>
     <li>
-      <a id="1419c53e-b6e4-1a94-83cc-cd67b28c4911" href="1419c53e-b6e4-1a94-83cc-cd67b28c4911.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, Resource<wbr />Type, Int<wbr />Ptr, UInt<wbr />16)</a>
+      <a id="ff5e3e65-932c-0128-cd7f-b03bbcb097b8" href="ff5e3e65-932c-0128-cd7f-b03bbcb097b8.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, Int<wbr />Ptr, Resource<wbr />Type)</a>
     </li>
     <li>
-      <a id="f86f49ce-d13a-c074-7466-bdabd73e3f81" href="f86f49ce-d13a-c074-7466-bdabd73e3f81.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, Resource<wbr />Type, String, UInt<wbr />16)</a>
+      <a id="e28e800e-16ae-d967-2a4c-307237be263b" href="e28e800e-16ae-d967-2a4c-307237be263b.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, Int<wbr />Ptr, String)</a>
     </li>
     <li>
-      <a id="bdb5ecfe-3fd3-50ee-40c2-1459a0b05b26" href="bdb5ecfe-3fd3-50ee-40c2-1459a0b05b26.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, String, Int<wbr />Ptr, UInt<wbr />16)</a>
+      <a id="a0b2407d-a5b3-994d-2526-7af530ebf7cd" href="a0b2407d-a5b3-994d-2526-7af530ebf7cd.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, String, Resource<wbr />Type)</a>
     </li>
     <li>
-      <a id="2dc8100d-974c-3332-6105-ae5bf3a50438" href="2dc8100d-974c-3332-6105-ae5bf3a50438.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, String, String, UInt<wbr />16)</a>
+      <a id="13d57a1d-f5d5-2e2f-8d2a-17cbe616a5a4" href="13d57a1d-f5d5-2e2f-8d2a-17cbe616a5a4.htm">Find<wbr />Resource(<wbr />Safe<wbr />Module<wbr />Handle, String, String)</a>
     </li>
   </tocItems>
 </toc>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="4f6a47ee-cea2-b70a-f132-fdd16768d1cc.htm">Dev<wbr />Case.<wbr />UI.<wbr />Components</a>
+    </li>
+    <li>
+      <a href="9da2eaa2-9a68-cc70-bd4f-69b3f2230e2d.htm">Text<wbr />Margins</a>
+    </li>
+    <li>
+      <a href="cf59fb7b-aaf8-bb2c-d426-ec0edc717508.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bcdb9366-c872-b25b-8749-5c5aa8d7f3ec" class="has-submenu" href="bcdb9366-c872-b25b-8749-5c5aa8d7f3ec.htm">
+        <span data-tocFile="../toc/IDACBAEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Equals</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="00642c46-7869-fef7-2a8b-79c671ec9e73" href="00642c46-7869-fef7-2a8b-79c671ec9e73.htm">Get<wbr />Hash<wbr />Code</a>
+    </li>
+    <li>
+      <a id="e560f11d-c0b8-9501-13cd-e9f49634231e" href="e560f11d-c0b8-9501-13cd-e9f49634231e.htm">To<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

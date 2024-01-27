@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Adv<wbr />Api<wbr />32<span id="LSTA1C88139_0" data-languageSpecificText="cpp=::|nu=."></span>Open<wbr />Process<wbr />Token(Safe<wbr />Process<wbr />Handle, Token<wbr />Access, Int<wbr />Ptr<span id="LSTA1C88139_1" data-languageSpecificText="cpp=%"></span>) Method</h1>
             <div class="summary">
@@ -105,37 +106,37 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("AdvApi32.dll", SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">OpenProcessToken</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a> <span class="parameter">processHandle</span>,
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("AdvApi32.dll", SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">OpenProcessToken</span>(
+	<span class="noLink">SafeProcessHandle</span> <span class="parameter">processHandle</span>,
 	<a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a> <span class="parameter">desiredAccess</span>,
-	<span class="keyword">ref</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">refTokenHandle</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("AdvApi32.dll", SetLastError := true&gt;]
+	<span class="keyword">ref</span> <span class="noLink">IntPtr</span> <span class="parameter">refTokenHandle</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("AdvApi32.dll", SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">OpenProcessToken</span> ( 
-	<span class="parameter">processHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a>,
+	<span class="parameter">processHandle</span> <span class="keyword">As</span> <span class="noLink">SafeProcessHandle</span>,
 	<span class="parameter">desiredAccess</span> <span class="keyword">As</span> <a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a>,
-	<span class="keyword">ByRef</span> <span class="parameter">refTokenHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	<span class="keyword">ByRef</span> <span class="parameter">refTokenHandle</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">processHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a>
+<span class="keyword">Dim</span> <span class="parameter">processHandle</span> <span class="keyword">As</span> <span class="noLink">SafeProcessHandle</span>
 <span class="keyword">Dim</span> <span class="parameter">desiredAccess</span> <span class="keyword">As</span> <a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a>
-<span class="keyword">Dim</span> <span class="parameter">refTokenHandle</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
+<span class="keyword">Dim</span> <span class="parameter">refTokenHandle</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="0c9cf0b2-e68c-4e8e-a29f-671d3e33008b.htm">AdvApi32</a>.<span class="identifier">OpenProcessToken</span>(<span class="parameter">processHandle</span>, 
 	<span class="parameter">desiredAccess</span>, <span class="parameter">refTokenHandle</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"AdvApi32.dll", SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">OpenProcessToken</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a>^ <span class="parameter">processHandle</span>, 
+[<span class="noLink">DllImportAttribute</span>(L"AdvApi32.dll", SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">OpenProcessToken</span>(
+	<span class="noLink">SafeProcessHandle</span>^ <span class="parameter">processHandle</span>, 
 	<a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a> <span class="parameter">desiredAccess</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>% <span class="parameter">refTokenHandle</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("AdvApi32.dll", SetLastError = true)&gt;]
+	<span class="noLink">IntPtr</span>% <span class="parameter">refTokenHandle</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("AdvApi32.dll", SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">OpenProcessToken</span> : 
-        <span class="parameter">processHandle</span> : <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a> * 
+        <span class="parameter">processHandle</span> : <span class="noLink">SafeProcessHandle</span> * 
         <span class="parameter">desiredAccess</span> : <a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a> * 
-        <span class="parameter">refTokenHandle</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">processHandle</span>  <a href="https://learn.microsoft.com/dotnet/api/microsoft.win32.safehandles.safeprocesshandle" target="_top" rel="noopener noreferrer">SafeProcessHandle</a></dt><dd>
- An <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> handle to the process whose access token is opened.
+        <span class="parameter">refTokenHandle</span> : <span class="noLink">IntPtr</span> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">processHandle</span>  <span class="noLink">SafeProcessHandle</span></dt><dd>
+ An <span class="noLink">IntPtr</span> handle to the process whose access token is opened.
  <p />
  The process must have the <span class="code">PROCESS_QUERY_INFORMATION</span> access permission.
  </dd><dt class="has-text-weight-normal"><span class="parameter">desiredAccess</span>  <a href="cb489b79-5681-81c6-d8ab-9a2a606973c7.htm">TokenAccess</a></dt><dd>
@@ -143,14 +144,14 @@
  <p />
  These requested access types are compared with the discretionary access control list (DACL) 
  of the token to determine which accesses are granted or denied.
- </dd><dt class="has-text-weight-normal"><span class="parameter">refTokenHandle</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a><span id="LSTA1C88139_2" data-languageSpecificText="cpp=%"></span></dt><dd>
- Am <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> handle that identifies the newly opened access token when the function returns.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br />
+ </dd><dt class="has-text-weight-normal"><span class="parameter">refTokenHandle</span>  <span class="noLink">IntPtr</span><span id="LSTA1C88139_2" data-languageSpecificText="cpp=%"></span></dt><dd>
+ Am <span class="noLink">IntPtr</span> handle that identifies the newly opened access token when the function returns.
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br />
  If the function succeeds, the return value is <span class="keyword"><span id="LSTA1C88139_3" data-languageSpecificText="vb=True|nu=true"></span></span>.
  <p />
  If the function fails, the return value is <span class="keyword"><span id="LSTA1C88139_4" data-languageSpecificText="vb=False|nu=false"></span></span>.
  <p />
- To get extended error information, call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LSTA1C88139_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>.
+ To get extended error information, call <span class="noLink">GetLastWin32Error<span id="LSTA1C88139_5" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
@@ -214,9 +215,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -247,7 +248,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

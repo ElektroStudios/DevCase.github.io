@@ -2,33 +2,48 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="1568f1d0-3e36-84ad-9300-7aaa03e695a5.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Screen<wbr />Extensions</a>
+      <a href="c9c40f41-7986-bbb4-bf4b-127fec23697a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Random<wbr />Extensions</a>
     </li>
     <li>
-      <a href="dddb371e-fd36-7aed-d92f-988f470273f4.htm">Screen<wbr />Extensions</a>
+      <a href="ecb87816-82f7-e78f-e858-8946ba7ca232.htm">Random<wbr />Extensions</a>
     </li>
     <li>
-      <a href="37b5a964-5690-2e6d-5e8b-d72c09c2d56f.htm">Methods</a>
+      <a href="eee156a2-542f-5b95-bb77-8edf6b336813.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="3620c7e3-3086-c8f7-d1ea-9e440b9a02ca" href="3620c7e3-3086-c8f7-d1ea-9e440b9a02ca.htm">Create<wbr />Device<wbr />Context</a>
+      <a id="9fb5a128-baef-a93f-ee90-bc4e8fd1f904" class="has-submenu" href="9fb5a128-baef-a93f-ee90-bc4e8fd1f904.htm">
+        <span data-tocFile="../toc/IDAAA0WC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Next<wbr />Decimal</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="c2e4a26d-f6cd-ea2b-4e71-9ffa618179e3" href="c2e4a26d-f6cd-ea2b-4e71-9ffa618179e3.htm">Get<wbr />Screen<wbr />Handle</a>
+      <a id="4e9aed18-bf3b-d902-4c4b-8181470255c3" class="has-submenu" href="4e9aed18-bf3b-d902-4c4b-8181470255c3.htm">
+        <span data-tocFile="../toc/IDBAA0WC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Next<wbr />Double</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="913985c1-5e43-e106-1ff0-c57b4d5aafc9" href="913985c1-5e43-e106-1ff0-c57b4d5aafc9.htm">Is<wbr />Real<wbr />Primary<wbr />Screen</a>
+      <a id="588304c0-3c37-c063-3108-39d965842f88" class="has-submenu" href="588304c0-3c37-c063-3108-39d965842f88.htm">
+        <span data-tocFile="../toc/IDCAA0WC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Next<wbr />Single</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1b00ca39-4aa7-8626-89d6-c02c9378928f" href="1b00ca39-4aa7-8626-89d6-c02c9378928f.htm">One<wbr />Of&lt;T&gt;</a>
     </li>
   </tocItems>
 </toc>

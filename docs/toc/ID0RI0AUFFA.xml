@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="ad6bae81-2143-3e07-b881-2c4ee8a7d335.htm">Subtract<wbr />Rect</a>
+      <a href="25067364-65e8-0912-cf32-b5588199ba23.htm">Show<wbr />Window</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="c3036bc5-1628-a8c5-4cea-0cf22f3861ae" href="c3036bc5-1628-a8c5-4cea-0cf22f3861ae.htm">Subtract<wbr />Rect(<wbr />Native<wbr />Rectangle, Native<wbr />Rectangle, Native<wbr />Rectangle)</a>
+      <a id="df00774c-f311-e85e-46ef-c4c1a317c704" href="df00774c-f311-e85e-46ef-c4c1a317c704.htm">Show<wbr />Window(<wbr />Int<wbr />Ptr, Native<wbr />Window<wbr />State)</a>
     </li>
     <li>
-      <a id="a3983ba4-f98d-b2fa-5822-2a4ab2fea988" href="a3983ba4-f98d-b2fa-5822-2a4ab2fea988.htm">Subtract<wbr />Rect(<wbr />Rectangle, Rectangle, Rectangle)</a>
+      <a id="8effad69-af7e-93ce-6eaa-bc21384b31e1" href="8effad69-af7e-93ce-6eaa-bc21384b31e1.htm">Show<wbr />Window(<wbr />Safe<wbr />Handle, Native<wbr />Window<wbr />State)</a>
     </li>
   </tocItems>
 </toc>

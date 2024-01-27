@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+    </li>
+    <li>
+      <a href="589f16e2-8b41-7589-9775-6b2b1b9ef178.htm">BBCode<wbr />Node</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ebc081f9-48f1-055b-0088-9913b11f9265" class="has-submenu" href="ebc081f9-48f1-055b-0088-9913b11f9265.htm">
+        <span data-tocFile="../toc/IDAECBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c8e7b3e0-5ffb-7b10-9878-b19d463aff6d" class="has-submenu" href="c8e7b3e0-5ffb-7b10-9878-b19d463aff6d.htm">
+        <span data-tocFile="../toc/IDBECBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a9f1c181-d768-d301-c4de-51beb95e82f8" class="has-submenu" href="a9f1c181-d768-d301-c4de-51beb95e82f8.htm">
+        <span data-tocFile="../toc/IDCECBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

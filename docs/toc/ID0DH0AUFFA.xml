@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,21 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="dceb9740-cf1d-11e8-e84b-f201c4ca688c.htm">Send<wbr />Notify<wbr />Message</a>
+      <a href="4e8ed36e-9e23-bbb0-8d84-b9fb7c39e1f0.htm">Screen<wbr />To<wbr />Client</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="8fe71898-f5bc-30dd-507e-16eefc2adf34" href="8fe71898-f5bc-30dd-507e-16eefc2adf34.htm">Send<wbr />Notify<wbr />Message(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+      <a id="758421da-9209-f843-42fa-33071549191e" href="758421da-9209-f843-42fa-33071549191e.htm">Screen<wbr />To<wbr />Client(<wbr />Int<wbr />Ptr, Native<wbr />Point)</a>
     </li>
     <li>
-      <a id="1d175732-ff65-4fcf-1d0e-0fa6301ce191" href="1d175732-ff65-4fcf-1d0e-0fa6301ce191.htm">Send<wbr />Notify<wbr />Message(<wbr />Int<wbr />Ptr, UInt<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+      <a id="f795adeb-eee0-189e-e6d9-a54195f8b5ea" href="f795adeb-eee0-189e-e6d9-a54195f8b5ea.htm">Screen<wbr />To<wbr />Client(<wbr />Int<wbr />Ptr, Point)</a>
+    </li>
+    <li>
+      <a id="88ca4381-43b0-ab80-606c-f4985c069dbd" href="88ca4381-43b0-ab80-606c-f4985c069dbd.htm">Screen<wbr />To<wbr />Client(<wbr />Safe<wbr />Handle, Native<wbr />Point)</a>
+    </li>
+    <li>
+      <a id="e76f64dd-ec69-c260-519c-d052b2fb16ef" href="e76f64dd-ec69-c260-519c-d052b2fb16ef.htm">Screen<wbr />To<wbr />Client(<wbr />Safe<wbr />Handle, Point)</a>
     </li>
   </tocItems>
 </toc>

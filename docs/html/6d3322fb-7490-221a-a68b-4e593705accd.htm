@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Shell<wbr />32<span id="LSTC555FF61_0" data-languageSpecificText="cpp=::|nu=."></span>SHOpen<wbr />Folder<wbr />And<wbr />Select<wbr />Items Method</h1>
             <div class="summary">
@@ -105,50 +106,50 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Shell32.dll")]
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("Shell32.dll")]
 <span class="keyword">public</span> <span class="keyword">static</span> <a href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a> <span class="identifier">SHOpenFolderAndSelectItems</span>(
 	<a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a> <span class="parameter">pidlFolder</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint</a> <span class="parameter">pidlCount</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>[] <span class="parameter">pidlArray</span>,
+	<span class="noLink">uint</span> <span class="parameter">pidlCount</span>,
+	<span class="noLink">IntPtr</span>[] <span class="parameter">pidlArray</span>,
 	<a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a> <span class="parameter">flags</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Shell32.dll"&gt;]
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("Shell32.dll"&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">SHOpenFolderAndSelectItems</span> ( 
 	<span class="parameter">pidlFolder</span> <span class="keyword">As</span> <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>,
-	<span class="parameter">pidlCount</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>,
-	<span class="parameter">pidlArray</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>(),
+	<span class="parameter">pidlCount</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>,
+	<span class="parameter">pidlArray</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>(),
 	<span class="parameter">flags</span> <span class="keyword">As</span> <a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a>
 ) <span class="keyword">As</span> <a href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a>
 
 <span class="keyword">Dim</span> <span class="parameter">pidlFolder</span> <span class="keyword">As</span> <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>
-<span class="keyword">Dim</span> <span class="parameter">pidlCount</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
-<span class="keyword">Dim</span> <span class="parameter">pidlArray</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>()
+<span class="keyword">Dim</span> <span class="parameter">pidlCount</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
+<span class="keyword">Dim</span> <span class="parameter">pidlArray</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>()
 <span class="keyword">Dim</span> <span class="parameter">flags</span> <span class="keyword">As</span> <a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a>
 
 <span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a>
 
 <span class="parameter">returnValue</span> = <a href="c163f904-b022-176a-c37f-32be777695e1.htm">Shell32</a>.<span class="identifier">SHOpenFolderAndSelectItems</span>(<span class="parameter">pidlFolder</span>, 
 	<span class="parameter">pidlCount</span>, <span class="parameter">pidlArray</span>, <span class="parameter">flags</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Shell32.dll")]
+[<span class="noLink">DllImportAttribute</span>(L"Shell32.dll")]
 <span class="keyword">static</span> <a href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a> <span class="identifier">SHOpenFolderAndSelectItems</span>(
 	<a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a>^ <span class="parameter">pidlFolder</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">unsigned int</a> <span class="parameter">pidlCount</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <span class="keyword">array</span>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>&gt;^ <span class="parameter">pidlArray</span>, 
+	<span class="noLink">unsigned int</span> <span class="parameter">pidlCount</span>, 
+	[<span class="noLink">InAttribute</span>] <span class="keyword">array</span>&lt;<span class="noLink">IntPtr</span>&gt;^ <span class="parameter">pidlArray</span>, 
 	<a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a> <span class="parameter">flags</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Shell32.dll")&gt;]
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("Shell32.dll")&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">SHOpenFolderAndSelectItems</span> : 
         <span class="parameter">pidlFolder</span> : <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a> * 
-        <span class="parameter">pidlCount</span> : <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint32</a> * 
-        <span class="parameter">pidlArray</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>[] * 
+        <span class="parameter">pidlCount</span> : <span class="noLink">uint32</span> * 
+        <span class="parameter">pidlArray</span> : <span class="noLink">IntPtr</span>[] * 
         <span class="parameter">flags</span> : <a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a> <span class="keyword">-&gt;</span> <a href="1c493191-8f74-2126-88fb-2f9de0d245b6.htm">HResult</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">pidlFolder</span>  <a href="a402a4e7-175b-5dd4-da0a-b3a167334455.htm">PIDL</a></dt><dd>
  A pointer to a fully qualified item ID list that specifies the folder.
- </dd><dt class="has-text-weight-normal"><span class="parameter">pidlCount</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInt32</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">pidlCount</span>  <span class="noLink">UInt32</span></dt><dd>
  A count of items in the <span class="parameter">pidlArray</span> array. 
  <p />
  If <span class="parameter">pidlCount</span> is zero, then <span class="parameter">pidlFolder</span> must 
  point to a fully specified ITEMIDLIST describing a single item to select. 
  <p />
  This function opens the parent folder and selects that item.
- </dd><dt class="has-text-weight-normal"><span class="parameter">pidlArray</span>  <span id="LSTC555FF61_1" data-languageSpecificText="cpp=array&lt;"></span><a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a><span id="LSTC555FF61_2" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">pidlArray</span>  <span id="LSTC555FF61_1" data-languageSpecificText="cpp=array&lt;"></span><span class="noLink">IntPtr</span><span id="LSTC555FF61_2" data-languageSpecificText="cpp=&gt;|vb=()|nu=[]"></span></dt><dd>
  A pointer to an array of PIDL structures, 
  each of which is an item to select in the target folder referenced by <span class="parameter">pidlFolder</span>.
  </dd><dt class="has-text-weight-normal"><span class="parameter">flags</span>  <a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a></dt><dd>
@@ -213,9 +214,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -246,7 +247,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

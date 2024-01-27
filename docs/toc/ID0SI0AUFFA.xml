@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d90205b0-686d-4c7a-dd62-07d3e031c037.htm">Show<wbr />Window<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e07bd14a-1da4-cef6-a4d1-0edbd899a3d5" href="e07bd14a-1da4-cef6-a4d1-0edbd899a3d5.htm">Show<wbr />Window<wbr />Async(<wbr />Int<wbr />Ptr, Native<wbr />Window<wbr />State)</a>
+    </li>
+    <li>
+      <a id="3131320c-a6fc-3112-d2cc-997075d993e2" href="3131320c-a6fc-3112-d2cc-997075d993e2.htm">Show<wbr />Window<wbr />Async(<wbr />Safe<wbr />Handle, Native<wbr />Window<wbr />State)</a>
+    </li>
+  </tocItems>
+</toc>

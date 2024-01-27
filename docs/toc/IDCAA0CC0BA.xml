@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="fa685eed-a5a5-ba2c-605c-b89281048de6.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="26a92165-72be-d511-06b6-552baa746269.htm">List<wbr />View<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="583d111e-362d-fd22-5c86-0f811c749913.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c7658211-b00b-d53c-d30d-34d957abe60b.htm">Copy<wbr />Item</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c535343f-a441-5543-7ac1-1f61849c362b" href="c535343f-a441-5543-7ac1-1f61849c362b.htm">Copy<wbr />Item(<wbr />List<wbr />View, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="497fd5d1-42a9-b96a-0675-c01ac0bea348" href="497fd5d1-42a9-b96a-0675-c01ac0bea348.htm">Copy<wbr />Item(<wbr />List<wbr />View, Int<wbr />32, String)</a>
+    </li>
+    <li>
+      <a id="0cce1492-0285-0904-e360-e3c94d3c890a" href="0cce1492-0285-0904-e360-e3c94d3c890a.htm">Copy<wbr />Item(<wbr />List<wbr />View, Int<wbr />32, String, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

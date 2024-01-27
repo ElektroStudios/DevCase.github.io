@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="db01d629-8e98-54df-0596-db3767b0d3c2.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Integer<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="a4615d16-7c1a-6004-f24e-a9ddd37558c1.htm">Integer<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="e28cda6e-1723-5cb3-e37f-0ceed39c63dc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0ceadc77-1b7a-393d-28d4-04efe681bd57.htm">Formatted</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d3644a6a-bfe7-4a41-c744-3213b2b64eb8" href="d3644a6a-bfe7-4a41-c744-3213b2b64eb8.htm">Formatted(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="b883e205-b6c1-1566-282d-401e47afbd91" href="b883e205-b6c1-1566-282d-401e47afbd91.htm">Formatted(<wbr />Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="cd1b72ce-7054-98ea-9961-5f12631503ad" href="cd1b72ce-7054-98ea-9961-5f12631503ad.htm">Formatted(<wbr />Int<wbr />32, Int<wbr />32, Culture<wbr />Info)</a>
+    </li>
+  </tocItems>
+</toc>

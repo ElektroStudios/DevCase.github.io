@@ -2,44 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="6d0b7875-99a1-cd09-cc20-7db8f2749dc3.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Byte<wbr />Extensions</a>
+      <a href="98721f6c-cbb6-5296-d507-c57ce0de2d1d.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Boolean<wbr />Extensions</a>
     </li>
     <li>
-      <a href="8e816a9d-6e46-0e2f-5e12-4d0b53b2b175.htm">Byte<wbr />Extensions</a>
+      <a href="3302b1b2-d1ae-04cc-e24c-22e674eaa790.htm">Boolean<wbr />Extensions</a>
     </li>
     <li>
-      <a href="c933f7a5-9a11-1476-956b-1ca31050e718.htm">Methods</a>
+      <a href="bb1a0ba7-6d1c-4baa-5a8f-4cb28a34e8e5.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="b6b17b88-87b0-d4df-2bbe-496c51566c5b" class="has-submenu" href="b6b17b88-87b0-d4df-2bbe-496c51566c5b.htm">
-        <span data-tocFile="../toc/IDAAAKBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="30a465f7-8219-9e19-08f9-42c6391c5afd" href="30a465f7-8219-9e19-08f9-42c6391c5afd.htm">Throw<wbr />If<wbr />False&lt;TException&gt;</a>
     </li>
     <li>
-      <a id="24da4d7c-217a-7ae5-ee51-81e02b88a9df" class="has-submenu" href="24da4d7c-217a-7ae5-ee51-81e02b88a9df.htm">
-        <span data-tocFile="../toc/IDBAAKBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>To<wbr />Hexa<wbr />Dump</a>
-      <ul class="toc-menu is-hidden"> </ul>
+      <a id="9e872222-8da0-8d50-1722-50b5a74fbe4b" href="9e872222-8da0-8d50-1722-50b5a74fbe4b.htm">Throw<wbr />If<wbr />True&lt;TException&gt;</a>
     </li>
     <li>
-      <a id="8b7aa386-5023-7cf6-ef25-9cfc45444068" href="8b7aa386-5023-7cf6-ef25-9cfc45444068.htm">To<wbr />Int<wbr />Ptr</a>
+      <a id="1fc3bcfd-4323-e3e9-a849-df543c15071d" href="1fc3bcfd-4323-e3e9-a849-df543c15071d.htm">To<wbr />Bit</a>
     </li>
     <li>
-      <a id="4d772458-afcd-939c-d41f-13baac3a7370" class="has-submenu" href="4d772458-afcd-939c-d41f-13baac3a7370.htm">
+      <a id="12557712-fac9-a73b-bc5f-e42af8f868e0" class="has-submenu" href="12557712-fac9-a73b-bc5f-e42af8f868e0.htm">
         <span data-tocFile="../toc/IDDAAKBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>To<wbr />String</a>

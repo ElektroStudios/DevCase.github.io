@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,21 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="de0ebea1-2774-4e57-ba51-e38ddc2f1e5a.htm">Get<wbr />Cursor<wbr />Pos</a>
+      <a href="7d4e1a68-249f-f20e-6cdd-a8b84055ef33.htm">Get<wbr />Client<wbr />Rect</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="930bc0f9-c4fa-225d-53ce-9ccd1cba7598" href="930bc0f9-c4fa-225d-53ce-9ccd1cba7598.htm">Get<wbr />Cursor<wbr />Pos(<wbr />Native<wbr />Point)</a>
+      <a id="c083ab07-4687-2f44-e22e-024723cb8f7c" href="c083ab07-4687-2f44-e22e-024723cb8f7c.htm">Get<wbr />Client<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
     </li>
     <li>
-      <a id="a450b615-674b-5033-4851-20b0cb4a3662" href="a450b615-674b-5033-4851-20b0cb4a3662.htm">Get<wbr />Cursor<wbr />Pos(<wbr />Point)</a>
+      <a id="ddbb00bd-819b-a306-7685-8cba83187aea" href="ddbb00bd-819b-a306-7685-8cba83187aea.htm">Get<wbr />Client<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle)</a>
+    </li>
+    <li>
+      <a id="f1bedce8-b09e-5b35-fd34-64aea1484f0b" href="f1bedce8-b09e-5b35-fd34-64aea1484f0b.htm">Get<wbr />Client<wbr />Rect(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="be8c8db6-9086-5b11-84e1-99adbb403ac8" href="be8c8db6-9086-5b11-84e1-99adbb403ac8.htm">Get<wbr />Client<wbr />Rect(<wbr />Safe<wbr />Handle, Rectangle)</a>
     </li>
   </tocItems>
 </toc>

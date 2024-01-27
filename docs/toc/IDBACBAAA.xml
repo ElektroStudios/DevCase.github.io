@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="2394d5e5-2732-590e-4d6e-4141e4d6efb3.htm">Type<wbr />Writter</a>
+    </li>
+    <li>
+      <a href="7701b849-064c-15d4-6ada-d12debb93660.htm">Methods</a>
+    </li>
+    <li>
+      <a href="03dcbc88-3dc3-9825-e377-337f2d2cc02a.htm">Write<wbr />Color</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="77b9d227-6e7e-0853-248d-0b38507a9e5f" href="77b9d227-6e7e-0853-248d-0b38507a9e5f.htm">Write<wbr />Color(<wbr />String, Char[], Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="6295df52-179d-9fdc-1902-6fd41e7a9bc7" href="6295df52-179d-9fdc-1902-6fd41e7a9bc7.htm">Write<wbr />Color(<wbr />String, Console<wbr />Color, Console<wbr />Color, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

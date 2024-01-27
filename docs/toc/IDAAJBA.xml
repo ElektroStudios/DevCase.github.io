@@ -2,33 +2,37 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="98721f6c-cbb6-5296-d507-c57ce0de2d1d.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Boolean<wbr />Extensions</a>
+      <a href="b9cde699-1d00-6d0c-3b49-df2829845cc1.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Bitmap<wbr />Source<wbr />Extensions</a>
     </li>
     <li>
-      <a href="3302b1b2-d1ae-04cc-e24c-22e674eaa790.htm">Boolean<wbr />Extensions</a>
+      <a href="00098026-4ca5-3b15-dff4-d3c485058a47.htm">Bitmap<wbr />Source<wbr />Extensions</a>
     </li>
     <li>
-      <a href="bb1a0ba7-6d1c-4baa-5a8f-4cb28a34e8e5.htm">Methods</a>
+      <a href="a7ed0981-0b48-805f-e35d-68859dcefc56.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="1fc3bcfd-4323-e3e9-a849-df543c15071d" href="1fc3bcfd-4323-e3e9-a849-df543c15071d.htm">To<wbr />Bit</a>
+      <a id="1db7d166-2594-a95f-697c-f6f72b6ec73b" class="has-submenu" href="1db7d166-2594-a95f-697c-f6f72b6ec73b.htm">
+        <span data-tocFile="../toc/IDAAAJBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>To<wbr />Bitmap</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="12557712-fac9-a73b-bc5f-e42af8f868e0" class="has-submenu" href="12557712-fac9-a73b-bc5f-e42af8f868e0.htm">
+      <a id="118bc7ec-79f7-719b-c85f-abfb3ab44d74" class="has-submenu" href="118bc7ec-79f7-719b-c85f-abfb3ab44d74.htm">
         <span data-tocFile="../toc/IDBAAJBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>To<wbr />String</a>
+        </span>To<wbr />Image</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

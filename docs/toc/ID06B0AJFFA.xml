@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,24 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="eb6072e9-178c-7fa8-d833-20b1160b9a50.htm">Encode<wbr />Pointer</a>
+      <a href="fc07e584-20c3-945e-fcc5-78b9146511e1.htm">Duplicate<wbr />Handle</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="d76d8e43-3418-60f5-98b7-cd50daf97fc0" href="d76d8e43-3418-60f5-98b7-cd50daf97fc0.htm">Encode<wbr />Pointer(<wbr />Int<wbr />Ptr)</a>
+      <a id="5e7d202d-71a4-1ceb-72f9-8698013665ec" href="5e7d202d-71a4-1ceb-72f9-8698013665ec.htm">Duplicate<wbr />Handle(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Generic<wbr />Access<wbr />Rights, Boolean, Duplicate<wbr />Handle<wbr />Options)</a>
     </li>
     <li>
-      <a id="703a2b3a-09d9-0b7c-0d9f-6a2ebcad68db" href="703a2b3a-09d9-0b7c-0d9f-6a2ebcad68db.htm">Encode<wbr />Pointer(<wbr />UInt<wbr />Ptr)</a>
+      <a id="1867987c-935a-3ef5-863f-d6c3bbbc980c" href="1867987c-935a-3ef5-863f-d6c3bbbc980c.htm">Duplicate<wbr />Handle(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Process<wbr />Access<wbr />Rights, Boolean, Duplicate<wbr />Handle<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="0051b341-69ad-bf0a-f024-cb83bb339e7b" href="0051b341-69ad-bf0a-f024-cb83bb339e7b.htm">Duplicate<wbr />Handle(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Standard<wbr />Access<wbr />Rights, Boolean, Duplicate<wbr />Handle<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="dd0644b9-07fb-5892-1c5b-26265077f00f" href="dd0644b9-07fb-5892-1c5b-26265077f00f.htm">Duplicate<wbr />Handle(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Thread<wbr />Access<wbr />Rights, Boolean, Duplicate<wbr />Handle<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="0aeac4b7-389b-efa3-923f-172545fb1ee5" href="0aeac4b7-389b-efa3-923f-172545fb1ee5.htm">Duplicate<wbr />Handle(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />32, Boolean, Duplicate<wbr />Handle<wbr />Options)</a>
     </li>
   </tocItems>
 </toc>

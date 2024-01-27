@@ -2,33 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="6c072a3f-4cf8-23db-2f9a-f9d0a753d5b0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Control<wbr />Extensions</a>
+      <a href="151747e0-71cf-19dc-084a-dc2840eaf8dd.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Component<wbr />Extensions</a>
     </li>
     <li>
-      <a href="54908a51-0e30-6d79-bdd6-35379f36eacf.htm">Control<wbr />Extensions</a>
+      <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">Component<wbr />Extensions</a>
     </li>
     <li>
-      <a href="0a54a0a1-ec8f-0c80-8ea0-3e7c3b79ffe1.htm">Methods</a>
+      <a href="fad4059a-17b5-aa16-d92b-53c142b2eaa4.htm">Methods</a>
     </li>
     <li>
-      <a href="69b6df78-39bd-4567-63ea-460ef2103621.htm">Get<wbr />Next<wbr />Control</a>
+      <a href="594cb248-5e85-2ea2-931f-bffa8e43c77e.htm">Invoke<wbr />UIType<wbr />Editor</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="528f3312-2f15-0d8b-c8a3-9931c08040de" href="528f3312-2f15-0d8b-c8a3-9931c08040de.htm">Get<wbr />Next<wbr />Control&lt;T&gt;(<wbr />Control, Boolean, Boolean, Boolean)</a>
+      <a id="b1cd0569-892a-6d24-3442-93a85696ce0f" href="b1cd0569-892a-6d24-3442-93a85696ce0f.htm">Invoke<wbr />UIType<wbr />Editor&lt;T&gt;(<wbr />Component, Property<wbr />Descriptor)</a>
     </li>
     <li>
-      <a id="d1c3923c-6fe0-f17e-602e-ee286502c634" href="d1c3923c-6fe0-f17e-602e-ee286502c634.htm">Get<wbr />Next<wbr />Control&lt;T&gt;(<wbr />Control, Boolean, Boolean, Boolean, Control.<wbr />Control<wbr />Collection)</a>
+      <a id="7ac45a7e-955f-03ba-1f3e-364f29c2b719" href="7ac45a7e-955f-03ba-1f3e-364f29c2b719.htm">Invoke<wbr />UIType<wbr />Editor&lt;T&gt;(<wbr />Component, String)</a>
     </li>
   </tocItems>
 </toc>

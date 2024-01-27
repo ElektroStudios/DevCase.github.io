@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="69f87eab-167b-1813-636b-3493b628d94c.htm">Util<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="a7f80ac3-f75d-8a99-b4a1-2cf7b2be8039.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1c995696-e283-50b4-25e6-0c2208a25152" href="1c995696-e283-50b4-25e6-0c2208a25152.htm">Contains</a>
+    </li>
+    <li>
+      <a id="2bcef3da-d666-d92c-cc79-953226ed572a" href="2bcef3da-d666-d92c-cc79-953226ed572a.htm">Count<wbr />All<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="d1ced619-e300-0407-7ae3-0e13ca266a9d" href="d1ced619-e300-0407-7ae3-0e13ca266a9d.htm">Count<wbr />Blankt<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="ce939dec-b94b-8d59-e58e-c638f5264acb" href="ce939dec-b94b-8d59-e58e-c638f5264acb.htm">Count<wbr />Non<wbr />Blankt<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="a31ce2f2-67b5-a4f0-3bcd-d815438f7f2a" class="has-submenu" href="a31ce2f2-67b5-a4f0-3bcd-d815438f7f2a.htm">
+        <span data-tocFile="../toc/IDEADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Encoding</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6d01546c-271d-c8d0-60e3-f2cac0612c5f" href="6d01546c-271d-c8d0-60e3-f2cac0612c5f.htm">Get<wbr />Line</a>
+    </li>
+    <li>
+      <a id="bf740055-3ec7-c3a0-655a-0bbacc8f2973" href="bf740055-3ec7-c3a0-655a-0bbacc8f2973.htm">Get<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="00d3d705-74b8-e0ec-c48c-0067892572d6" class="has-submenu" href="00d3d705-74b8-e0ec-c48c-0067892572d6.htm">
+        <span data-tocFile="../toc/IDHADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Insert<wbr />Line</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6cdc32a1-8176-dfca-6e79-bcec6baa053f" class="has-submenu" href="6cdc32a1-8176-dfca-6e79-bcec6baa053f.htm">
+        <span data-tocFile="../toc/IDIADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Insert<wbr />Lines</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="001098e0-4227-b23a-11e6-70a9fd906d6c" class="has-submenu" href="001098e0-4227-b23a-11e6-70a9fd906d6c.htm">
+        <span data-tocFile="../toc/IDJADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Randomize</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="797c50a4-775e-f3ab-d50e-68bfb4c03da9" class="has-submenu" href="797c50a4-775e-f3ab-d50e-68bfb4c03da9.htm">
+        <span data-tocFile="../toc/IDKADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Line</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e55e36ce-fac4-a2e9-b5e8-5aee9176136a" class="has-submenu" href="e55e36ce-fac4-a2e9-b5e8-5aee9176136a.htm">
+        <span data-tocFile="../toc/IDLADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Lines</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="91a2f13b-ab52-df1d-838a-cb954ead23b3" class="has-submenu" href="91a2f13b-ab52-df1d-838a-cb954ead23b3.htm">
+        <span data-tocFile="../toc/IDMADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Replace<wbr />Line</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1c89627c-2a25-327d-aeeb-58177430d11a" class="has-submenu" href="1c89627c-2a25-327d-aeeb-58177430d11a.htm">
+        <span data-tocFile="../toc/IDNADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Replace<wbr />Lines</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8f76c223-f8cf-74d9-bf03-073d2c47dd28" class="has-submenu" href="8f76c223-f8cf-74d9-bf03-073d2c47dd28.htm">
+        <span data-tocFile="../toc/IDOADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Reverse</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6865e153-ea60-3835-349a-d91f9ce20a40" class="has-submenu" href="6865e153-ea60-3835-349a-d91f9ce20a40.htm">
+        <span data-tocFile="../toc/IDPADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Skip<wbr />Lines</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="848589e5-3f08-d2eb-0190-10659d95000e" class="has-submenu" href="848589e5-3f08-d2eb-0190-10659d95000e.htm">
+        <span data-tocFile="../toc/IDQADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Sort</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5d9504da-b52a-e5de-52de-65c3a3cf3dad" class="has-submenu" href="5d9504da-b52a-e5de-52de-65c3a3cf3dad.htm">
+        <span data-tocFile="../toc/IDRADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Sort<wbr />By</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="db39bc08-7db3-97a5-d0bb-e7fc247eeb86" class="has-submenu" href="db39bc08-7db3-97a5-d0bb-e7fc247eeb86.htm">
+        <span data-tocFile="../toc/IDSADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Split</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c289c4a1-56c4-8c04-a618-8324a6f0faf9" href="c289c4a1-56c4-8c04-a618-8324a6f0faf9.htm">Split<wbr />By<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="402ece21-47f3-c990-b702-30505c6dfa2d" class="has-submenu" href="402ece21-47f3-c990-b702-30505c6dfa2d.htm">
+        <span data-tocFile="../toc/IDUADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Take<wbr />Lines</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c86487af-d726-d962-a2e1-dc392a755304" class="has-submenu" href="c86487af-d726-d962-a2e1-dc392a755304.htm">
+        <span data-tocFile="../toc/IDVADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Trim</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7ad9174a-a272-6b6e-8144-22ff5e387c28" class="has-submenu" href="7ad9174a-a272-6b6e-8144-22ff5e387c28.htm">
+        <span data-tocFile="../toc/IDWADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Trim<wbr />End</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9ce6b312-46c8-45d9-bbd7-5c588d80501d" class="has-submenu" href="9ce6b312-46c8-45d9-bbd7-5c588d80501d.htm">
+        <span data-tocFile="../toc/IDXADHBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Trim<wbr />Start</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -2,56 +2,27 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="4769e4d5-9b13-7ee5-443b-bc2d30d78cda.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Type<wbr />Extensions</a>
+      <a href="a836610f-6aa8-7ab0-3ae1-111dc106a44a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Text<wbr />Field<wbr />Parser<wbr />Extensions</a>
     </li>
     <li>
-      <a href="0e7cfde1-794b-b7f0-14e0-58597456baa3.htm">Type<wbr />Extensions</a>
+      <a href="8998ad2d-17ec-de7e-419a-9f264e15a5b3.htm">Text<wbr />Field<wbr />Parser<wbr />Extensions</a>
     </li>
     <li>
-      <a href="d480f69b-9227-91ae-fa40-a761852fa2ed.htm">Methods</a>
+      <a href="396aab88-9550-827a-21b5-54502a93d458.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="1ef96455-a099-ec1d-d65f-e11a58e443f5" class="has-submenu" href="1ef96455-a099-ec1d-d65f-e11a58e443f5.htm">
-        <span data-tocFile="../toc/IDAAA0MD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Create<wbr />Instance</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="9351b061-2995-9af8-43d3-f260ce349271" href="9351b061-2995-9af8-43d3-f260ce349271.htm">Create<wbr />Uninitialized<wbr />Instance&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="b8bc41c0-bdf4-200d-ed5e-db4e8c4524be" href="b8bc41c0-bdf4-200d-ed5e-db4e8c4524be.htm">Get<wbr />All<wbr />Base<wbr />Types</a>
-    </li>
-    <li>
-      <a id="7475e201-376c-2f5a-6cd4-4b379849548f" class="has-submenu" href="7475e201-376c-2f5a-6cd4-4b379849548f.htm">
-        <span data-tocFile="../toc/IDDAA0MD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Get<wbr />All<wbr />Derived<wbr />Types</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="4e3cab94-41d8-926a-f980-1942f24d2b4b" href="4e3cab94-41d8-926a-f980-1942f24d2b4b.htm">Inherits<wbr />From</a>
-    </li>
-    <li>
-      <a id="dd11ac50-7c74-26db-c05e-773a910c4655" href="dd11ac50-7c74-26db-c05e-773a910c4655.htm">Is<wbr />Disposable</a>
-    </li>
-    <li>
-      <a id="d7744980-65d9-a54b-5464-42ff222b7146" href="d7744980-65d9-a54b-5464-42ff222b7146.htm">Is<wbr />Nullable</a>
-    </li>
-    <li>
-      <a id="69ee1680-ee6e-6ed2-5ac5-d6cdd5f173d5" href="69ee1680-ee6e-6ed2-5ac5-d6cdd5f173d5.htm">Is<wbr />Numeric</a>
+      <a id="e8d2e816-2987-451b-1e22-578fbe728adc" href="e8d2e816-2987-451b-1e22-578fbe728adc.htm">To<wbr />Data<wbr />Table</a>
     </li>
   </tocItems>
 </toc>

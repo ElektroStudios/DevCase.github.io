@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,18 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="9ad1e957-4559-4c4a-3c95-cf33f14129d5.htm">Set<wbr />Foreground<wbr />Window</a>
+      <a href="510feb56-a21b-142c-93f3-f5346fa1b661.htm">Set<wbr />Class<wbr />Long<wbr />Ptr</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="c9b5f546-c28b-def3-13d2-694fe9989f40" href="c9b5f546-c28b-def3-13d2-694fe9989f40.htm">Set<wbr />Foreground<wbr />Window(<wbr />Int<wbr />Ptr)</a>
+      <a id="3b14184c-d6b0-4b99-6c33-6cc6e94ca670" href="3b14184c-d6b0-4b99-6c33-6cc6e94ca670.htm">Set<wbr />Class<wbr />Long<wbr />Ptr(<wbr />Handle<wbr />Ref, Class<wbr />Long<wbr />Values, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="67cd7d34-3e61-eef5-d30b-25ec9182d14f" href="67cd7d34-3e61-eef5-d30b-25ec9182d14f.htm">Set<wbr />Foreground<wbr />Window(<wbr />Safe<wbr />Handle)</a>
+      <a id="102fca76-7db1-655d-047e-073f4ffe725f" href="102fca76-7db1-655d-047e-073f4ffe725f.htm">Set<wbr />Class<wbr />Long<wbr />Ptr(<wbr />Int<wbr />Ptr, Class<wbr />Long<wbr />Values, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="07b425b9-420a-6639-b286-8cade7c22326" href="07b425b9-420a-6639-b286-8cade7c22326.htm">Set<wbr />Class<wbr />Long<wbr />Ptr(<wbr />Safe<wbr />Handle, Class<wbr />Long<wbr />Values, Int<wbr />Ptr)</a>
     </li>
   </tocItems>
 </toc>

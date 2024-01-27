@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,108 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="98e51845-60cc-cc60-1c13-c6356af3af17.htm">Query<wbr />Display<wbr />Config</a>
+      <a href="831ff115-1b35-671c-e913-773b2bc01acb.htm">Post<wbr />Message</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="b76f23dd-4865-03fb-37ec-8c8f0096327f" href="b76f23dd-4865-03fb-37ec-8c8f0096327f.htm">Query<wbr />Display<wbr />Config(<wbr />Query<wbr />Display<wbr />Config<wbr />Flags, UInt<wbr />32, Display<wbr />Config<wbr />Path<wbr />Info[], UInt<wbr />32, Display<wbr />Config<wbr />Mode<wbr />Info[], Display<wbr />Config<wbr />Topology<wbr />Id)</a>
+      <a id="901072e1-06d4-d122-9e4e-dd4c5121eec9" href="901072e1-06d4-d122-9e4e-dd4c5121eec9.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Edit<wbr />Control<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="8deeee1c-97c6-6354-802f-6c2375a2ea1a" href="8deeee1c-97c6-6354-802f-6c2375a2ea1a.htm">Query<wbr />Display<wbr />Config(<wbr />Query<wbr />Display<wbr />Config<wbr />Flags, UInt<wbr />32, Display<wbr />Config<wbr />Path<wbr />Info[], UInt<wbr />32, Display<wbr />Config<wbr />Mode<wbr />Info[], Int<wbr />Ptr)</a>
+      <a id="2d2e795f-3825-18be-3f8e-59498a52747c" href="2d2e795f-3825-18be-3f8e-59498a52747c.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, List<wbr />Box<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9a289602-c27e-e4fb-16d7-ee15e6989032" href="9a289602-c27e-e4fb-16d7-ee15e6989032.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, List<wbr />View<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="8f5150c2-673d-7fe8-7aec-43d49a18f872" href="8f5150c2-673d-7fe8-7aec-43d49a18f872.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Progress<wbr />Bar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9fc097f1-3734-2018-6c0e-aec6dd5746a1" href="9fc097f1-3734-2018-6c0e-aec6dd5746a1.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Toolbar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="c1e1628a-90f4-99a3-9c72-7fed97dc67f8" href="c1e1628a-90f4-99a3-9c72-7fed97dc67f8.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="25cc018b-db51-af25-eac6-c9a786605359" href="25cc018b-db51-af25-eac6-c9a786605359.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Window<wbr />Messages, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="17988418-d3af-20be-ba86-1e1e8867b1d5" href="17988418-d3af-20be-ba86-1e1e8867b1d5.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Window<wbr />Messages, Int<wbr />Ptr, String<wbr />Builder)</a>
+    </li>
+    <li>
+      <a id="105ab4f7-98c2-456f-d16e-30687f76f811" href="105ab4f7-98c2-456f-d16e-30687f76f811.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9651f01e-be2c-9112-6e46-905c02c8be8f" href="9651f01e-be2c-9112-6e46-905c02c8be8f.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Int<wbr />32, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="f94ee657-2064-1740-03ba-7939cd6da9f0" href="f94ee657-2064-1740-03ba-7939cd6da9f0.htm">Post<wbr />Message(<wbr />Handle<wbr />Ref, Int<wbr />32, Int<wbr />Ptr, String<wbr />Builder)</a>
+    </li>
+    <li>
+      <a id="caa51048-1599-ba26-e170-e9cd12c0ad82" href="caa51048-1599-ba26-e170-e9cd12c0ad82.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Edit<wbr />Control<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e581a4c4-61f4-d34d-378d-626eec17dafb" href="e581a4c4-61f4-d34d-378d-626eec17dafb.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, List<wbr />Box<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a1c05bf5-f981-99b7-c60b-a0a12378f479" href="a1c05bf5-f981-99b7-c60b-a0a12378f479.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, List<wbr />View<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a63a4911-6fe6-60c3-48fe-28589c340ad9" href="a63a4911-6fe6-60c3-48fe-28589c340ad9.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Progress<wbr />Bar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="26ae9b72-21b3-e6cf-5b7f-0e7b7daa7475" href="26ae9b72-21b3-e6cf-5b7f-0e7b7daa7475.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Toolbar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="3815db6e-cb6d-1387-6a46-8256bc3e198d" href="3815db6e-cb6d-1387-6a46-8256bc3e198d.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="dcbd1a3e-65b1-03ba-c530-681509417f12" href="dcbd1a3e-65b1-03ba-c530-681509417f12.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="6949f7c2-c904-f4ef-f1a1-144bf710466a" href="6949f7c2-c904-f4ef-f1a1-144bf710466a.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Window<wbr />Messages, Int<wbr />Ptr, String<wbr />Builder)</a>
+    </li>
+    <li>
+      <a id="43aad658-ed4e-d3fe-fedd-1efbb37cdcf7" href="43aad658-ed4e-d3fe-fedd-1efbb37cdcf7.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="8418e836-8c34-6cdd-fc05-cf8ed110a946" href="8418e836-8c34-6cdd-fc05-cf8ed110a946.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="796ad112-a7fb-de70-4cef-ab60c62a0a58" href="796ad112-a7fb-de70-4cef-ab60c62a0a58.htm">Post<wbr />Message(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />Ptr, String<wbr />Builder)</a>
+    </li>
+    <li>
+      <a id="d41e083f-90e1-e3a8-65cc-0446df54db51" href="d41e083f-90e1-e3a8-65cc-0446df54db51.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Edit<wbr />Control<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="b7f40483-d802-74a5-d000-51ea5e61243b" href="b7f40483-d802-74a5-d000-51ea5e61243b.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, List<wbr />Box<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="087811cc-c5e2-1c5b-c6db-3928059f5e29" href="087811cc-c5e2-1c5b-c6db-3928059f5e29.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, List<wbr />View<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="b9d5b1d4-b7dd-8c51-a3ff-96ebf1525260" href="b9d5b1d4-b7dd-8c51-a3ff-96ebf1525260.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Progress<wbr />Bar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="d6af9212-c3de-6759-2b81-58e32a74203b" href="d6af9212-c3de-6759-2b81-58e32a74203b.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Toolbar<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="d1fb2164-3c81-2cdf-a150-b1caa46900ca" href="d1fb2164-3c81-2cdf-a150-b1caa46900ca.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="820453fa-fead-599c-6c69-2057e4ce8704" href="820453fa-fead-599c-6c69-2057e4ce8704.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="765a0991-b6eb-9d3b-1e75-fcafedb51bd1" href="765a0991-b6eb-9d3b-1e75-fcafedb51bd1.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Window<wbr />Messages, Int<wbr />Ptr, String<wbr />Builder)</a>
+    </li>
+    <li>
+      <a id="759760c7-22b0-7135-27d8-095acdb4f237" href="759760c7-22b0-7135-27d8-095acdb4f237.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="c66766a9-6b3d-80e2-f6bb-721332ec7ac8" href="c66766a9-6b3d-80e2-f6bb-721332ec7ac8.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, String)</a>
+    </li>
+    <li>
+      <a id="053038b7-e82c-5152-6c92-1a83fdbeff3d" href="053038b7-e82c-5152-6c92-1a83fdbeff3d.htm">Post<wbr />Message(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />Ptr, String<wbr />Builder)</a>
     </li>
   </tocItems>
 </toc>

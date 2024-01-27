@@ -2,27 +2,109 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="940e4f0f-947d-7656-2b4b-5bcbf05a553b.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Match<wbr />Collection<wbr />Extensions</a>
+      <a href="fa685eed-a5a5-ba2c-605c-b89281048de6.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />View<wbr />Extensions</a>
     </li>
     <li>
-      <a href="b73824b4-929a-2c49-7068-cf9deabd680a.htm">Match<wbr />Collection<wbr />Extensions</a>
+      <a href="26a92165-72be-d511-06b6-552baa746269.htm">List<wbr />View<wbr />Extensions</a>
     </li>
     <li>
-      <a href="d79e30d1-0b34-6776-c0f2-2157edee41d3.htm">Methods</a>
+      <a href="583d111e-362d-fd22-5c86-0f811c749913.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="25a9ca10-ed00-c1f8-b25c-6d5d7c9f9b8f" href="25a9ca10-ed00-c1f8-b25c-6d5d7c9f9b8f.htm">As<wbr />Enumerable</a>
+      <a id="ff89f432-555c-1f48-7567-943506e04034" class="has-submenu" href="ff89f432-555c-1f48-7567-943506e04034.htm">
+        <span data-tocFile="../toc/IDAAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />All<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b187f88c-6b40-5380-9c7b-f93b0cef4cb2" class="has-submenu" href="b187f88c-6b40-5380-9c7b-f93b0cef4cb2.htm">
+        <span data-tocFile="../toc/IDBAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Checked<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c7658211-b00b-d53c-d30d-34d957abe60b" class="has-submenu" href="c7658211-b00b-d53c-d30d-34d957abe60b.htm">
+        <span data-tocFile="../toc/IDCAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Item</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e43df2d9-b4fd-16e2-bc57-db754d019b15" class="has-submenu" href="e43df2d9-b4fd-16e2-bc57-db754d019b15.htm">
+        <span data-tocFile="../toc/IDDAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="06059831-dbfc-abad-738d-c832c9bfa752" class="has-submenu" href="06059831-dbfc-abad-738d-c832c9bfa752.htm">
+        <span data-tocFile="../toc/IDEAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Copy<wbr />Selected<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f712729d-af80-9723-2a6e-4c2b323e5c41" href="f712729d-af80-9723-2a6e-4c2b323e5c41.htm">Deselect<wbr />All<wbr />Items</a>
+    </li>
+    <li>
+      <a id="3d9eaf7f-3445-dce7-0da4-48841ef56a9a" href="3d9eaf7f-3445-dce7-0da4-48841ef56a9a.htm">Deserialize</a>
+    </li>
+    <li>
+      <a id="74a947ff-f713-239b-bfbb-75926ca92848" href="74a947ff-f713-239b-bfbb-75926ca92848.htm">Export<wbr />To<wbr />CSV</a>
+    </li>
+    <li>
+      <a id="6bdec786-c5a8-5884-f4ac-3cfad65f5fe0" href="6bdec786-c5a8-5884-f4ac-3cfad65f5fe0.htm">Export<wbr />To<wbr />Xml</a>
+    </li>
+    <li>
+      <a id="8798ae50-3c9b-3c59-5669-4a94d2d32b6d" class="has-submenu" href="8798ae50-3c9b-3c59-5669-4a94d2d32b6d.htm">
+        <span data-tocFile="../toc/IDJAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Selected<wbr />Items</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8cd42c4a-9346-35b6-f60d-57aee6e288fc" href="8cd42c4a-9346-35b6-f60d-57aee6e288fc.htm">Remove<wbr />Duplicated<wbr />Items</a>
+    </li>
+    <li>
+      <a id="521afcb0-c0c5-3df9-9df5-bcd183a30432" href="521afcb0-c0c5-3df9-9df5-bcd183a30432.htm">Remove<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="727bf609-a24b-c98a-a217-3c8bd09739e2" href="727bf609-a24b-c98a-a217-3c8bd09739e2.htm">Scroll<wbr />To<wbr />Bottom</a>
+    </li>
+    <li>
+      <a id="071e09f9-4261-3a79-ed82-5f8e7a7c9460" href="071e09f9-4261-3a79-ed82-5f8e7a7c9460.htm">Scroll<wbr />To<wbr />Top</a>
+    </li>
+    <li>
+      <a id="9ff5f9fc-c0f5-7042-eac7-e16708140cca" href="9ff5f9fc-c0f5-7042-eac7-e16708140cca.htm">Select<wbr />All<wbr />Items</a>
+    </li>
+    <li>
+      <a id="ecec9872-c87f-aa40-515a-59bad914a94b" href="ecec9872-c87f-aa40-515a-59bad914a94b.htm">Serialize</a>
+    </li>
+    <li>
+      <a id="9b83d662-9abf-6bad-ed4e-fa7dd6b0880e" class="has-submenu" href="9b83d662-9abf-6bad-ed4e-fa7dd6b0880e.htm">
+        <span data-tocFile="../toc/IDQAA0CC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Column<wbr />Indices</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6cffb6e4-d6c6-e60c-924c-74cbc3c500fa" href="6cffb6e4-d6c6-e60c-924c-74cbc3c500fa.htm">To<wbr />Data<wbr />Grid<wbr />View</a>
+    </li>
+    <li>
+      <a id="e3a1216a-62a0-2bd1-0b35-2be16e83e6cc" href="e3a1216a-62a0-2bd1-0b35-2be16e83e6cc.htm">To<wbr />Data<wbr />Table</a>
     </li>
   </tocItems>
 </toc>

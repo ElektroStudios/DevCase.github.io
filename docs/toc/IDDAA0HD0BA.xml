@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="fd8009ca-bcdf-872d-865e-c95cb25dde93.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="14cccf94-271f-5bed-c566-25e99432d90d.htm">String<wbr />Builder<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="31cd5657-750b-26da-25a4-c5b2998dcdaf.htm">Methods</a>
+    </li>
+    <li>
+      <a href="aa28ac57-8a7b-ba9a-d1a2-1c42f27da58f.htm">Last<wbr />Index<wbr />Of</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3ce39caa-9280-76e5-f207-f11f34d57d6b" href="3ce39caa-9280-76e5-f207-f11f34d57d6b.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, Char, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="6cc18582-bcf0-55a6-943e-20d3b7a04170" href="6cc18582-bcf0-55a6-943e-20d3b7a04170.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, String, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="042eee6b-ef7c-502f-0dc1-79da16a0c0ad" href="042eee6b-ef7c-502f-0dc1-79da16a0c0ad.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, Char, Int<wbr />32, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="ee3de659-afb8-8f6b-676d-42bedb7672b6" href="ee3de659-afb8-8f6b-676d-42bedb7672b6.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, String, Int<wbr />32, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="73a270f3-c5a0-74b8-b447-bda60c05f69e" href="73a270f3-c5a0-74b8-b447-bda60c05f69e.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, Char, Int<wbr />32, Int<wbr />32, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="3e6704bf-0d5c-f720-d4c8-ee9308f14266" href="3e6704bf-0d5c-f720-d4c8-ee9308f14266.htm">Last<wbr />Index<wbr />Of(<wbr />String<wbr />Builder, String, Int<wbr />32, Int<wbr />32, String<wbr />Comparison)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,80 +2,55 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="daf07f79-76f6-c979-8485-258bafebaf18.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Date<wbr />Extensions</a>
+      <a href="7bb268b5-9a77-1e1b-badb-77a5ea2dc806.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Table<wbr />Extensions</a>
     </li>
     <li>
-      <a href="028630b5-aeaf-c1d5-748d-c74ee8fec59e.htm">Date<wbr />Extensions</a>
+      <a href="819f5ad1-1abb-8fca-ee3e-38905466515d.htm">Data<wbr />Table<wbr />Extensions</a>
     </li>
     <li>
-      <a href="aecc874e-c0f5-4c66-8514-ab78bb1c660d.htm">Methods</a>
+      <a href="af94ce95-df7f-31c2-a84a-0e135d1cab6d.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="11203d7c-c46f-fc9b-bf81-a05f0ba9dfaa" href="11203d7c-c46f-fc9b-bf81-a05f0ba9dfaa.htm">Add<wbr />Weeks</a>
+      <a id="ee1502b7-070a-6359-1b87-5df93e01f9e7" href="ee1502b7-070a-6359-1b87-5df93e01f9e7.htm">As<wbr />Enumerable</a>
     </li>
     <li>
-      <a id="82f5b5ed-e95e-ba94-abb7-272ac21d50f8" href="82f5b5ed-e95e-ba94-abb7-272ac21d50f8.htm">Days<wbr />In<wbr />Month</a>
+      <a id="1064adf9-35de-cbc2-bfd6-a96888d83b43" href="1064adf9-35de-cbc2-bfd6-a96888d83b43.htm">Export<wbr />To<wbr />CSV</a>
     </li>
     <li>
-      <a id="cf95660b-531c-2c0b-241b-ba0f9adf20e3" href="cf95660b-531c-2c0b-241b-ba0f9adf20e3.htm">Elapsed<wbr />From<wbr />Now</a>
+      <a id="8b27a755-f0fe-cb94-56f3-e6d5169c9665" href="8b27a755-f0fe-cb94-56f3-e6d5169c9665.htm">Export<wbr />To<wbr />Xml</a>
     </li>
     <li>
-      <a id="517475c4-9bd6-9c57-160f-26fc569116fa" href="517475c4-9bd6-9c57-160f-26fc569116fa.htm">First<wbr />Day<wbr />Of<wbr />Month</a>
+      <a id="fda30fc1-0b8a-641b-19e2-cc0395158edf" href="fda30fc1-0b8a-641b-19e2-cc0395158edf.htm">Get<wbr />First<wbr />Row</a>
     </li>
     <li>
-      <a id="d8c1a258-3083-115d-a2d3-ec28eb3dd97c" class="has-submenu" href="d8c1a258-3083-115d-a2d3-ec28eb3dd97c.htm">
+      <a id="7fc206d8-5da6-d878-24a2-16d0e2d48bf2" class="has-submenu" href="7fc206d8-5da6-d878-24a2-16d0e2d48bf2.htm">
         <span data-tocFile="../toc/IDEAAZBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>First<wbr />Day<wbr />Of<wbr />Week</a>
+        </span>Get<wbr />Last<wbr />Field</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="7ea4edf7-293d-61cd-533f-5dc6d2fc9f11" href="7ea4edf7-293d-61cd-533f-5dc6d2fc9f11.htm">First<wbr />Day<wbr />Of<wbr />Year</a>
+      <a id="416d9ded-0293-087e-cfa0-f66392442b8a" href="416d9ded-0293-087e-cfa0-f66392442b8a.htm">Get<wbr />Last<wbr />Row</a>
     </li>
     <li>
-      <a id="d9d74187-b47f-ec2c-9aeb-5b7d097e3348" href="d9d74187-b47f-ec2c-9aeb-5b7d097e3348.htm">Get<wbr />Time<wbr />Stamp</a>
+      <a id="cc9a2eed-7a37-29a3-0651-d71e3fc0f78a" href="cc9a2eed-7a37-29a3-0651-d71e3fc0f78a.htm">To<wbr />Data<wbr />Grid<wbr />View</a>
     </li>
     <li>
-      <a id="0f03ee3c-ad29-7360-b677-cf9a8b4dff29" href="0f03ee3c-ad29-7360-b677-cf9a8b4dff29.htm">Is<wbr />Future<wbr />Time</a>
+      <a id="123d1188-daca-1dce-54c8-fa8646df8e1f" href="123d1188-daca-1dce-54c8-fa8646df8e1f.htm">To<wbr />List</a>
     </li>
     <li>
-      <a id="02b7e866-1065-32a1-a48f-af2a90f3a515" href="02b7e866-1065-32a1-a48f-af2a90f3a515.htm">Is<wbr />Now</a>
-    </li>
-    <li>
-      <a id="25ca228f-68c7-90cc-3057-69d24ba81c4e" href="25ca228f-68c7-90cc-3057-69d24ba81c4e.htm">Is<wbr />Past<wbr />Time</a>
-    </li>
-    <li>
-      <a id="3ad6e2d7-8431-8ac6-db29-5db5f803e7fa" href="3ad6e2d7-8431-8ac6-db29-5db5f803e7fa.htm">Is<wbr />Today</a>
-    </li>
-    <li>
-      <a id="6cd759af-1956-dbf3-6dbe-0eeb127617b6" href="6cd759af-1956-dbf3-6dbe-0eeb127617b6.htm">Is<wbr />Tomorrow</a>
-    </li>
-    <li>
-      <a id="28b385c7-b882-28af-d5d9-c084d609cba9" href="28b385c7-b882-28af-d5d9-c084d609cba9.htm">Is<wbr />Yesterday</a>
-    </li>
-    <li>
-      <a id="5824fbf7-f0b2-0cdb-d0e5-18539573e14d" href="5824fbf7-f0b2-0cdb-d0e5-18539573e14d.htm">Last<wbr />Day<wbr />Of<wbr />Month</a>
-    </li>
-    <li>
-      <a id="fadb934c-4dda-fedb-572d-9f5f4cba847d" class="has-submenu" href="fadb934c-4dda-fedb-572d-9f5f4cba847d.htm">
-        <span data-tocFile="../toc/IDOAAZBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Last<wbr />Day<wbr />Of<wbr />Week</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="4feba7e2-ccf1-18ca-1faa-95242e052cba" href="4feba7e2-ccf1-18ca-1faa-95242e052cba.htm">Last<wbr />Day<wbr />Of<wbr />Year</a>
+      <a id="51d8c42e-8b72-4116-5c56-538cf0ad218b" href="51d8c42e-8b72-4116-5c56-538cf0ad218b.htm">To<wbr />List<wbr />View</a>
     </li>
   </tocItems>
 </toc>

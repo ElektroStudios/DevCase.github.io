@@ -12,21 +12,21 @@
     <script src="../scripts/clipboard.min.js"></script>
     <script src="../scripts/highlight.min.js"></script>
     <script src="../scripts/presentationStyle.js"></script>
-    <title>User32.GetMessage Method</title>
-    <meta name="Title" content="GetMessage" />
+    <title>User32.GetMessage(NativeMessage, IntPtr, UInt32, UInt32) Method</title>
+    <meta name="Title" content="GetMessage(NativeMessage, IntPtr, UInt32, UInt32)" />
     <meta name="Help.Id" content="M:DevCase.Win32.NativeMethods.User32.GetMessage(DevCase.Win32.Structures.NativeMessage@,System.IntPtr,System.UInt32,System.UInt32)" />
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="DevCase.Win32.NativeMethods" />
     <meta name="guid" content="ed9e3db1-536a-b946-9925-1845c781216f" />
     <meta name="Description" content="Retrieves a message from the calling thread's message queue. The function dispatches incoming sent messages until a posted message is available for retrieval. Unlike , the function does not wait for a message to be posted before returning." />
-    <meta name="tocFile" content="../toc/IDAUFFA.xml" />
+    <meta name="tocFile" content="../toc/ID0VD0AUFFA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,14 +95,15 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
-            <h1>User<wbr />32<span id="LST89FCA9AA_0" data-languageSpecificText="cpp=::|nu=."></span>Get<wbr />Message Method</h1>
+            <h1>User<wbr />32<span id="LST89FCA9AA_0" data-languageSpecificText="cpp=::|nu=."></span>Get<wbr />Message(Native<wbr />Message<span id="LST89FCA9AA_1" data-languageSpecificText="cpp=%"></span>, Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />32) Method</h1>
             <div class="summary">
  Retrieves a message from the calling thread's message queue. 
  <p />
  The function dispatches incoming sent messages until a posted message is available for retrieval.
  <p />
- Unlike <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_1" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span>, the <a href="9ddfdc9f-f422-ca4a-e2b9-836961993813.htm">PeekMessage(NativeMessage<span id="LST89FCA9AA_2" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32, PeekMessageFlags)</a> function does not 
+ Unlike <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_2" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span>, the <a href="9ddfdc9f-f422-ca4a-e2b9-836961993813.htm">PeekMessage(NativeMessage<span id="LST89FCA9AA_3" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32, PeekMessageFlags)</a> function does not 
  wait for a message to be posted before returning.
  </div>
             <h2 class="quickLinkHeader">
@@ -110,55 +111,55 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet = CharSet.Auto, SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">GetMessage</span>(
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">GetMessage</span>(
 	<span class="keyword">out</span> <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a> <span class="parameter">refMsg</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWnd</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint</a> <span class="parameter">msgFilterMin</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint</a> <span class="parameter">msgFilterMax</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet := CharSet.Auto, SetLastError := true&gt;]
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hWnd</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">uint</span> <span class="parameter">msgFilterMin</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">uint</span> <span class="parameter">msgFilterMax</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet := CharSet.Auto, SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">GetMessage</span> ( 
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refMsg</span> <span class="keyword">As</span> <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">hWnd</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">msgFilterMin</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; <span class="parameter">msgFilterMax</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	&lt;<span class="noLink">OutAttribute</span>&gt; <span class="keyword">ByRef</span> <span class="parameter">refMsg</span> <span class="keyword">As</span> <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">hWnd</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">msgFilterMin</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; <span class="parameter">msgFilterMax</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="keyword">Dim</span> <span class="parameter">refMsg</span> <span class="keyword">As</span> <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a>
-<span class="keyword">Dim</span> <span class="parameter">hWnd</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">msgFilterMin</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
-<span class="keyword">Dim</span> <span class="parameter">msgFilterMax</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInteger</a>
+<span class="keyword">Dim</span> <span class="parameter">hWnd</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">msgFilterMin</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
+<span class="keyword">Dim</span> <span class="parameter">msgFilterMax</span> <span class="keyword">As</span> <span class="noLink">UInteger</span>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User32</a>.<span class="identifier">GetMessage</span>(<span class="parameter">refMsg</span>, 
 	<span class="parameter">hWnd</span>, <span class="parameter">msgFilterMin</span>, <span class="parameter">msgFilterMax</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"User32.dll", CharSet = CharSet::Auto, SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">GetMessage</span>(
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a>% <span class="parameter">refMsg</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">hWnd</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">unsigned int</a> <span class="parameter">msgFilterMin</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">unsigned int</a> <span class="parameter">msgFilterMax</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("User32.dll", CharSet = CharSet.Auto, SetLastError = true)&gt;]
+[<span class="noLink">DllImportAttribute</span>(L"User32.dll", CharSet = CharSet::Auto, SetLastError = true)]
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">GetMessage</span>(
+	[<span class="noLink">OutAttribute</span>] <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a>% <span class="parameter">refMsg</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">IntPtr</span> <span class="parameter">hWnd</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">unsigned int</span> <span class="parameter">msgFilterMin</span>, 
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">unsigned int</span> <span class="parameter">msgFilterMax</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("User32.dll", CharSet = CharSet.Auto, SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">GetMessage</span> : 
         <span class="parameter">refMsg</span> : <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a> <span class="keyword">byref</span> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">hWnd</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">msgFilterMin</span> : <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint32</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">msgFilterMax</span> : <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">uint32</a> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">refMsg</span>  <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a><span id="LST89FCA9AA_3" data-languageSpecificText="cpp=%"></span></dt><dd>
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">hWnd</span> : <span class="noLink">IntPtr</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">msgFilterMin</span> : <span class="noLink">uint32</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">msgFilterMax</span> : <span class="noLink">uint32</span> <span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">refMsg</span>  <a href="5a1bb650-bdb3-8a63-8faa-a49d697d0f1d.htm">NativeMessage</a><span id="LST89FCA9AA_4" data-languageSpecificText="cpp=%"></span></dt><dd>
  A pointer to a structure that receives message information from the thread's message queue.
- </dd><dt class="has-text-weight-normal"><span class="parameter">hWnd</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">hWnd</span>  <span class="noLink">IntPtr</span>  (Optional)</dt><dd>
  A handle to the window whose messages are to be retrieved. The window must belong to the current thread.
  <p />
- If <span class="parameter">hWnd</span> is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>, <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_4" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> retrieves messages for 
+ If <span class="parameter">hWnd</span> is <span class="noLink">Zero</span>, <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_5" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> retrieves messages for 
  any window that belongs to the current thread, and any messages on the current thread's message queue whose 
- <a href="2565695f-49a4-ec59-cdd3-519a8b800d6e.htm">Hwnd</a> value is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>. 
- Therefore if <span class="parameter">hWnd</span> is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>, both window messages and thread messages are processed.
+ <a href="2565695f-49a4-ec59-cdd3-519a8b800d6e.htm">Hwnd</a> value is <span class="noLink">Zero</span>. 
+ Therefore if <span class="parameter">hWnd</span> is <span class="noLink">Zero</span>, both window messages and thread messages are processed.
  <p />
- If <span class="parameter">hWnd</span> is -1, <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_5" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> retrieves only messages on the 
- current thread's message queue whose <a href="2565695f-49a4-ec59-cdd3-519a8b800d6e.htm">Hwnd</a> value is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>, 
- that is, thread messages as posted by <a href="caa51048-1599-ba26-e170-e9cd12c0ad82.htm">PostMessage(IntPtr, EditControlMessages, IntPtr, IntPtr)</a> (when the hWnd parameter is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>) 
+ If <span class="parameter">hWnd</span> is -1, <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_6" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> retrieves only messages on the 
+ current thread's message queue whose <a href="2565695f-49a4-ec59-cdd3-519a8b800d6e.htm">Hwnd</a> value is <span class="noLink">Zero</span>, 
+ that is, thread messages as posted by <a href="caa51048-1599-ba26-e170-e9cd12c0ad82.htm">PostMessage(IntPtr, EditControlMessages, IntPtr, IntPtr)</a> (when the hWnd parameter is <span class="noLink">Zero</span>) 
  or <a href="3151eaa3-bb15-8f25-a6f8-91b6e546eb49.htm">PostThreadMessage(Int32, WindowMessages, IntPtr, IntPtr)</a>.
- </dd><dt class="has-text-weight-normal"><span class="parameter">msgFilterMin</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInt32</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">msgFilterMin</span>  <span class="noLink">UInt32</span>  (Optional)</dt><dd>
  The integer value of the lowest message value to be retrieved. 
  Use <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_KeyFirst</a> to specify the first keyboard message 
  or <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_MouseFirst</a> to specify the first mouse message.
@@ -167,8 +168,8 @@
  specify only the <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Input</a> messages.
  <p />
  If <span class="parameter">msgFilterMin</span> and <span class="parameter">msgFilterMax</span> are both zero, 
- <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_6" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> returns all available messages (that is, no range filtering is performed).
- </dd><dt class="has-text-weight-normal"><span class="parameter">msgFilterMax</span>  <a href="https://learn.microsoft.com/dotnet/api/system.uint32" target="_top" rel="noopener noreferrer">UInt32</a>  (Optional)</dt><dd>
+ <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_7" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> returns all available messages (that is, no range filtering is performed).
+ </dd><dt class="has-text-weight-normal"><span class="parameter">msgFilterMax</span>  <span class="noLink">UInt32</span>  (Optional)</dt><dd>
  The integer value of the highest message value to be retrieved. 
  Use <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_KeyLast</a> to specify the last keyboard message 
  or <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_MouseLast</a> to specify the last mouse message.
@@ -177,17 +178,17 @@
  specify only the <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Input</a> messages.
  <p />
  If <span class="parameter">msgFilterMin</span> and <span class="parameter">msgFilterMax</span>  are both zero, 
- <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_7" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> returns all available messages (that is, no range filtering is performed).
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br />
- If the function retrieves a message other than <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Quit</a>, the return value is <span class="keyword"><span id="LST89FCA9AA_8" data-languageSpecificText="vb=True|nu=true"></span></span>.
+ <span class="selflink">GetMessage(NativeMessage<span id="LST89FCA9AA_8" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32)</span> returns all available messages (that is, no range filtering is performed).
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br />
+ If the function retrieves a message other than <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Quit</a>, the return value is <span class="keyword"><span id="LST89FCA9AA_9" data-languageSpecificText="vb=True|nu=true"></span></span>.
  <p />
- If the function retrieves the <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Quit</a> message, the return value is <span class="keyword"><span id="LST89FCA9AA_9" data-languageSpecificText="vb=False|nu=false"></span></span>.
+ If the function retrieves the <a href="408e96a1-f83e-f5c4-2cbc-88ec497ecec4.htm">WM_Quit</a> message, the return value is <span class="keyword"><span id="LST89FCA9AA_10" data-languageSpecificText="vb=False|nu=false"></span></span>.
  <p />
  If there is an error, the return value is -1. 
  For example, the function fails if <span class="parameter">hWnd</span> is an invalid window handle or 
  <span class="parameter">refMsg</span> is an invalid pointer.
  <p />
- To get extended error information, call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LST89FCA9AA_10" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>. 
+ To get extended error information, call <span class="noLink">GetLastWin32Error<span id="LST89FCA9AA_11" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>. 
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
@@ -204,6 +205,9 @@
               <h4>Reference</h4>
               <div>
                 <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User32 Class</a>
+              </div>
+              <div>
+                <a href="aac1d886-ebd5-4a74-e4f9-2dfa515ad29b.htm">GetMessage Overload</a>
               </div>
               <div>
                 <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods Namespace</a>
@@ -248,9 +252,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -281,7 +285,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0f80a4d4-ee55-f1fd-8f93-1117aa20ac39.htm">Invalidate<wbr />Rect</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="462bbbe3-aeb5-4141-f80b-6e5a5b174ead" href="462bbbe3-aeb5-4141-f80b-6e5a5b174ead.htm">Invalidate<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle, Boolean)</a>
+    </li>
+    <li>
+      <a id="5b5a222a-e513-2bd1-b361-59cbe6208240" href="5b5a222a-e513-2bd1-b361-59cbe6208240.htm">Invalidate<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle, Boolean)</a>
+    </li>
+    <li>
+      <a id="67d15527-3d62-e573-952b-1d5345de6ae8" href="67d15527-3d62-e573-952b-1d5345de6ae8.htm">Invalidate<wbr />Rect(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Boolean)</a>
+    </li>
+    <li>
+      <a id="13f5d51b-10f5-3637-cd07-e70dfcb6e54e" href="13f5d51b-10f5-3637-cd07-e70dfcb6e54e.htm">Invalidate<wbr />Rect(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle, Boolean)</a>
+    </li>
+    <li>
+      <a id="48ac4775-9f6e-7e0d-c792-9a41c7f329cf" href="48ac4775-9f6e-7e0d-c792-9a41c7f329cf.htm">Invalidate<wbr />Rect(<wbr />Safe<wbr />Handle, Rectangle, Boolean)</a>
+    </li>
+    <li>
+      <a id="2ba11c61-e744-13ef-9237-38f7a7a7d51d" href="2ba11c61-e744-13ef-9237-38f7a7a7d51d.htm">Invalidate<wbr />Rect(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

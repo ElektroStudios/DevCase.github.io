@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -28,34 +28,31 @@
       <a id="63fa20a0-029f-b765-9d3b-e2491658972c" href="63fa20a0-029f-b765-9d3b-e2491658972c.htm">Write</a>
     </li>
     <li>
-      <a id="000edc58-5944-640b-0e6d-0104ea054eb7" href="000edc58-5944-640b-0e6d-0104ea054eb7.htm">Write<wbr />Async</a>
-    </li>
-    <li>
       <a id="03dcbc88-3dc3-9825-e377-337f2d2cc02a" class="has-submenu" href="03dcbc88-3dc3-9825-e377-337f2d2cc02a.htm">
-        <span data-tocFile="../toc/IDCACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDBACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Write<wbr />Color</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="30fc7d2b-0d4c-1ae1-c4bc-e281f8e1adbf" class="has-submenu" href="30fc7d2b-0d4c-1ae1-c4bc-e281f8e1adbf.htm">
-        <span data-tocFile="../toc/IDDACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Write<wbr />Color<wbr />Async</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
       <a id="0181dafc-808f-3e42-5450-7f9df328fda7" class="has-submenu" href="0181dafc-808f-3e42-5450-7f9df328fda7.htm">
-        <span data-tocFile="../toc/IDEACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDCACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Write<wbr />Color<wbr />Line</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="b7e7a7ed-2b49-4552-37e2-c385aa1ce70b" class="has-submenu" href="b7e7a7ed-2b49-4552-37e2-c385aa1ce70b.htm">
-        <span data-tocFile="../toc/IDFACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="58f15db5-eda5-fdd1-326f-283f6840603c" class="has-submenu" href="58f15db5-eda5-fdd1-326f-283f6840603c.htm">
+        <span data-tocFile="../toc/IDDACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Write<wbr />Color<wbr />Line<wbr />Async</a>
+        </span>Write<wbr />Color<wbr />Line<wbr />Task</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="895765b2-fce5-8087-7569-d0ed8d935640" class="has-submenu" href="895765b2-fce5-8087-7569-d0ed8d935640.htm">
+        <span data-tocFile="../toc/IDEACBAAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Write<wbr />Color<wbr />Task</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
@@ -65,7 +62,10 @@
       <a id="b60ecf92-88bd-eec4-b9f9-f59c308aeef8" href="b60ecf92-88bd-eec4-b9f9-f59c308aeef8.htm">Write<wbr />Line</a>
     </li>
     <li>
-      <a id="71206530-517f-2bf5-3d7b-31eb444204a3" href="71206530-517f-2bf5-3d7b-31eb444204a3.htm">Write<wbr />Line<wbr />Async</a>
+      <a id="b20fc2d2-5093-553e-ff67-5b2cfa6bd0e5" href="b20fc2d2-5093-553e-ff67-5b2cfa6bd0e5.htm">Write<wbr />Line<wbr />Task</a>
+    </li>
+    <li>
+      <a id="d42db489-48a2-c083-ff8e-4471fd91f31c" href="d42db489-48a2-c083-ff8e-4471fd91f31c.htm">Write<wbr />Task</a>
     </li>
   </tocItems>
 </toc>

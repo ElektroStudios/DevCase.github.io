@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="7cb4bd54-a09a-2cc5-4897-c6d5509fd197.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Converters</a>
+    </li>
+    <li>
+      <a href="ae3bdc34-767b-9a64-62c7-66a8fa515366.htm">Encoding<wbr />Type<wbr />Converter</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5ee52b60-3433-3ee4-a409-38f76579878f" href="5ee52b60-3433-3ee4-a409-38f76579878f.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="0eb94126-8469-e7e1-0c6b-80a35915a522" class="has-submenu" href="0eb94126-8469-e7e1-0c6b-80a35915a522.htm">
+        <span data-tocFile="../toc/IDBAHCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

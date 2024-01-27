@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="c0ca2653-81dd-e5e4-7b51-98797de5bd1a.htm">Dev<wbr />Case.<wbr />UI.<wbr />Type<wbr />Editors</a>
+    </li>
+    <li>
+      <a href="3927a041-c0bc-2754-9714-2e21593d3fe0.htm">Unwrapped<wbr />Collection<wbr />Editor&lt;T&gt;</a>
+    </li>
+    <li>
+      <a href="0f1b4d9e-f8bf-7d9d-b78d-b89c471dcd56.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cdc21655-b612-501d-ca3d-a107f10d9a8c" class="has-submenu" href="cdc21655-b612-501d-ca3d-a107f10d9a8c.htm">
+        <span data-tocFile="../toc/IDACEGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Edit<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

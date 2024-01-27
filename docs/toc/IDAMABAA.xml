@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="5428e3c5-709f-ea99-714e-4372c7c34f09.htm">Util<wbr />String</a>
+    </li>
+    <li>
+      <a href="71e6963d-7490-cc67-0b4f-59108117158c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d5ad6116-87ab-7e4e-9a04-704c0878814a" href="d5ad6116-87ab-7e4e-9a04-704c0878814a.htm">Calculate<wbr />String<wbr />Entropy</a>
+    </li>
+    <li>
+      <a id="ac796e60-f2c1-c2e9-617f-60aab552b4c5" href="ac796e60-f2c1-c2e9-617f-60aab552b4c5.htm">Convert<wbr />From<wbr />Superscript</a>
+    </li>
+    <li>
+      <a id="51d23e38-b8d0-36d3-7a31-2c06fe9ea589" href="51d23e38-b8d0-36d3-7a31-2c06fe9ea589.htm">Convert<wbr />To<wbr />Superscript</a>
+    </li>
+    <li>
+      <a id="c6a9b37e-182e-1bc4-ffc9-c19cfc17854b" class="has-submenu" href="c6a9b37e-182e-1bc4-ffc9-c19cfc17854b.htm">
+        <span data-tocFile="../toc/IDDAMABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Convert<wbr />To<wbr />Unicode<wbr />Letters</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6663a3fd-ffa6-0782-78c0-a24613983b79" href="6663a3fd-ffa6-0782-78c0-a24613983b79.htm">Draw<wbr />Text<wbr />Box</a>
+    </li>
+    <li>
+      <a id="089d534d-9f7a-f15c-2704-820bd4c92738" href="089d534d-9f7a-f15c-2704-820bd4c92738.htm">Flip<wbr />Text<wbr />Vertically</a>
+    </li>
+    <li>
+      <a id="b5706e6b-2e6f-0138-902a-2c9f4199797f" href="b5706e6b-2e6f-0138-902a-2c9f4199797f.htm">Generate<wbr />Lorem<wbr />Ipsum<wbr />Text</a>
+    </li>
+    <li>
+      <a id="1f3cc73a-f907-fc27-9d90-1bf46acac568" href="1f3cc73a-f907-fc27-9d90-1bf46acac568.htm">Generate<wbr />Random<wbr />Hex<wbr />String</a>
+    </li>
+    <li>
+      <a id="944c55f5-e72d-57dc-c473-69a5d7ffbb49" href="944c55f5-e72d-57dc-c473-69a5d7ffbb49.htm">Generate<wbr />Random<wbr />Numeric<wbr />String</a>
+    </li>
+    <li>
+      <a id="ad82ef69-6f9b-6e8d-e355-afc35b20007a" href="ad82ef69-6f9b-6e8d-e355-afc35b20007a.htm">Generate<wbr />Random<wbr />Paragraph</a>
+    </li>
+    <li>
+      <a id="c327dca7-c220-4c03-66a3-b764ac9f0a29" class="has-submenu" href="c327dca7-c220-4c03-66a3-b764ac9f0a29.htm">
+        <span data-tocFile="../toc/IDKAMABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Generate<wbr />Random<wbr />String</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="16310bc4-8667-4af1-305b-21e1198fc093" href="16310bc4-8667-4af1-305b-21e1198fc093.htm">Generate<wbr />Typos</a>
+    </li>
+    <li>
+      <a id="36dc40c4-2b18-a64a-ffa7-99b4ac6646dd" href="36dc40c4-2b18-a64a-ffa7-99b4ac6646dd.htm">Generate<wbr />White<wbr />Spaced<wbr />String</a>
+    </li>
+    <li>
+      <a id="0470917f-a55a-223d-568d-20376feda16a" href="0470917f-a55a-223d-568d-20376feda16a.htm">Get<wbr />Diff</a>
+    </li>
+    <li>
+      <a id="f1fb2de5-758e-53fb-f3f7-f3471daeb9cf" class="has-submenu" href="f1fb2de5-758e-53fb-f3f7-f3471daeb9cf.htm">
+        <span data-tocFile="../toc/IDOAMABAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Diff<wbr />Count</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="19c22033-874e-9ada-369f-66cc810c55e9" href="19c22033-874e-9ada-369f-66cc810c55e9.htm">Get<wbr />Similarity</a>
+    </li>
+    <li>
+      <a id="1afeb0b0-1a74-b708-044a-d566bae25b05" href="1afeb0b0-1a74-b708-044a-d566bae25b05.htm">Justify<wbr />Text</a>
+    </li>
+    <li>
+      <a id="5467911d-35b0-0a9c-5c8e-f026754fd595" href="5467911d-35b0-0a9c-5c8e-f026754fd595.htm">Random<wbr />Replace<wbr />Letter<wbr />Or<wbr />Digit</a>
+    </li>
+    <li>
+      <a id="5fb45d28-a955-f0bc-4304-0e9381af0c9c" href="5fb45d28-a955-f0bc-4304-0e9381af0c9c.htm">Random<wbr />Replace<wbr />Letters<wbr />And<wbr />Digits</a>
+    </li>
+    <li>
+      <a id="eb8c8069-99a6-5727-9024-7ddb8604030c" href="eb8c8069-99a6-5727-9024-7ddb8604030c.htm">Wrap<wbr />Characters</a>
+    </li>
+  </tocItems>
+</toc>

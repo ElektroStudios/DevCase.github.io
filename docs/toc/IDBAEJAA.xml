@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="8ab07c8e-093e-f18c-7751-95870e4093d7.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Passwords</a>
+    </li>
+    <li>
+      <a href="a807ce0d-71d4-190e-f3c5-c575c7ed7d2a.htm">Memorable<wbr />Password<wbr />Options</a>
+    </li>
+    <li>
+      <a href="073d4275-a02c-2895-c71a-c76553322713.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="93f56189-380f-4803-f4cf-587554ae2630" href="93f56189-380f-4803-f4cf-587554ae2630.htm">Fixed<wbr />Prefix</a>
+    </li>
+    <li>
+      <a id="89c8457f-01f8-c954-7011-f697e53a03ce" href="89c8457f-01f8-c954-7011-f697e53a03ce.htm">Fixed<wbr />Suffix</a>
+    </li>
+    <li>
+      <a id="6d57303a-1814-bced-78cf-bd5db1873a20" href="6d57303a-1814-bced-78cf-bd5db1873a20.htm">Maximum<wbr />Word<wbr />Length</a>
+    </li>
+    <li>
+      <a id="61087ea7-9184-b35e-5b68-03e4f242c598" href="61087ea7-9184-b35e-5b68-03e4f242c598.htm">Minimum<wbr />Word<wbr />Length</a>
+    </li>
+    <li>
+      <a id="a0b15a7e-8746-21c2-689b-3afda4ad0e2e" href="a0b15a7e-8746-21c2-689b-3afda4ad0e2e.htm">Number<wbr />Of<wbr />Digits<wbr />Prefix</a>
+    </li>
+    <li>
+      <a id="4f662db6-f080-6beb-001e-f99085b39b03" href="4f662db6-f080-6beb-001e-f99085b39b03.htm">Number<wbr />Of<wbr />Digits<wbr />Suffix</a>
+    </li>
+    <li>
+      <a id="91357aac-f7ed-ae13-644a-fa8b7ec5899a" href="91357aac-f7ed-ae13-644a-fa8b7ec5899a.htm">Number<wbr />Of<wbr />Words</a>
+    </li>
+    <li>
+      <a id="09d562b6-8d16-145e-aedc-f3c83e02b102" href="09d562b6-8d16-145e-aedc-f3c83e02b102.htm">Separator<wbr />Characters</a>
+    </li>
+    <li>
+      <a id="3f4ab4c6-6da5-b9bc-cfa2-8a8bcd9de138" href="3f4ab4c6-6da5-b9bc-cfa2-8a8bcd9de138.htm">String<wbr />Case</a>
+    </li>
+  </tocItems>
+</toc>

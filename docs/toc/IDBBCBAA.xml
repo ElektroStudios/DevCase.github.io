@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+    </li>
+    <li>
+      <a href="c38e6c8d-e462-e717-5fc3-a32c62c46a36.htm">BBCode<wbr />Html<wbr />Renderer</a>
+    </li>
+    <li>
+      <a href="e1160b56-b9a5-9655-6277-4a19521d87c6.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e97ec3f2-d0d9-a2b4-9f65-8506be10d454" href="e97ec3f2-d0d9-a2b4-9f65-8506be10d454.htm">Direct<wbr />Convert</a>
+    </li>
+    <li>
+      <a id="c86c1600-d72a-7905-c721-14947b17ca45" href="c86c1600-d72a-7905-c721-14947b17ca45.htm">Render<wbr />Color</a>
+    </li>
+    <li>
+      <a id="1224772b-3e84-d18a-bca9-164b39690fe5" href="1224772b-3e84-d18a-bca9-164b39690fe5.htm">Render<wbr />Image</a>
+    </li>
+    <li>
+      <a id="fab676d0-8767-ed13-31fe-94625a0c43b0" href="fab676d0-8767-ed13-31fe-94625a0c43b0.htm">Render<wbr />Link</a>
+    </li>
+  </tocItems>
+</toc>

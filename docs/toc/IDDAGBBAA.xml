@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="4800357a-8a5e-e028-e4af-5af3192d88cd.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html</a>
+    </li>
+    <li>
+      <a href="393bf5e2-2713-c562-2b69-d6aef5f74a3a.htm">Util<wbr />Html</a>
+    </li>
+    <li>
+      <a href="136718b2-3e8e-a96b-6210-bedecb24bdbb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="13d9a451-b1c5-01c8-543b-765f1f14acc7.htm">Linkify</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4008ce18-21cc-13bd-aa49-10cdbf138b18" href="4008ce18-21cc-13bd-aa49-10cdbf138b18.htm">Linkify(<wbr />String, Linkify<wbr />Interface<wbr />Type, Linkify<wbr />Plugins, Linkify<wbr />Format<wbr />Options)</a>
+    </li>
+    <li>
+      <a id="52e8c07b-b9bc-d8cb-08f2-ba6a9a22f7ba" href="52e8c07b-b9bc-d8cb-08f2-ba6a9a22f7ba.htm">Linkify(<wbr />File<wbr />Info, Linkify<wbr />Interface<wbr />Type, Linkify<wbr />Plugins, Linkify<wbr />Format<wbr />Options, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,21 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="a7759543-e687-06e4-cd04-095010329303.htm">Get<wbr />Menu<wbr />State</a>
+      <a href="e64d44df-f97e-7d05-7198-037b5c4b9a84.htm">Get<wbr />Layered<wbr />Window<wbr />Attributes</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="f6848179-18fb-0c14-a6f4-b4fde425d2c7" href="f6848179-18fb-0c14-a6f4-b4fde425d2c7.htm">Get<wbr />Menu<wbr />State(<wbr />Int<wbr />Ptr, UInt<wbr />32, Menu<wbr />Position)</a>
+      <a id="63a90408-f9d0-94b9-c0d1-4263b40afb6a" href="63a90408-f9d0-94b9-c0d1-4263b40afb6a.htm">Get<wbr />Layered<wbr />Window<wbr />Attributes(<wbr />Int<wbr />Ptr, UInt<wbr />32, Byte, Layered<wbr />Window<wbr />Attributes<wbr />Flags)</a>
     </li>
     <li>
-      <a id="74a482df-f03c-249f-b05f-06e79cd41e80" href="74a482df-f03c-249f-b05f-06e79cd41e80.htm">Get<wbr />Menu<wbr />State(<wbr />Safe<wbr />Handle, UInt<wbr />32, Menu<wbr />Position)</a>
+      <a id="4156889e-a546-31fc-9e7f-2ffeead72082" href="4156889e-a546-31fc-9e7f-2ffeead72082.htm">Get<wbr />Layered<wbr />Window<wbr />Attributes(<wbr />Int<wbr />Ptr, UInt<wbr />32, Int<wbr />32, Layered<wbr />Window<wbr />Attributes<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="edc8a808-9fc4-f765-27e7-0b5821267c15" href="edc8a808-9fc4-f765-27e7-0b5821267c15.htm">Get<wbr />Layered<wbr />Window<wbr />Attributes(<wbr />Safe<wbr />Handle, UInt<wbr />32, Byte, Layered<wbr />Window<wbr />Attributes<wbr />Flags)</a>
+    </li>
+    <li>
+      <a id="4238f6bc-0e36-0083-d80b-4f8818f71b5c" href="4238f6bc-0e36-0083-d80b-4f8818f71b5c.htm">Get<wbr />Layered<wbr />Window<wbr />Attributes(<wbr />Safe<wbr />Handle, UInt<wbr />32, Int<wbr />32, Layered<wbr />Window<wbr />Attributes<wbr />Flags)</a>
     </li>
   </tocItems>
 </toc>

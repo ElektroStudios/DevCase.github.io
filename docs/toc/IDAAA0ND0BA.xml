@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="dfc5b2df-15fe-e7c2-2c6d-301b190867ac.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Thread<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="267a4b02-306c-f7b7-10a1-6fcf9ca27ffd.htm">Thread<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="59519aa8-138d-5423-f3e4-c2d8d90a5119.htm">Methods</a>
+    </li>
+    <li>
+      <a href="19580561-b94d-2f33-7269-b8790ed360bd.htm">Join<wbr />All</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bced0c9a-5955-4e90-5e5a-91000568ea9f" href="bced0c9a-5955-4e90-5e5a-91000568ea9f.htm">Join<wbr />All(<wbr />IEnumerable&lt;Thread&gt;)</a>
+    </li>
+    <li>
+      <a id="8a483bc2-d4df-f834-d8df-1cf6be3349fa" href="8a483bc2-d4df-f834-d8df-1cf6be3349fa.htm">Join<wbr />All(<wbr />IEnumerable&lt;Thread&gt;, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="bb762ef5-f3c6-3004-6d5b-3113aab3a696" href="bb762ef5-f3c6-3004-6d5b-3113aab3a696.htm">Join<wbr />All(<wbr />IEnumerable&lt;Thread&gt;, Time<wbr />Span)</a>
+    </li>
+  </tocItems>
+</toc>

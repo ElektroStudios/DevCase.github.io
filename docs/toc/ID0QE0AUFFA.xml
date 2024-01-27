@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,18 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="44474037-e9ff-9552-bbb7-d7fb7d839e37.htm">Get<wbr />Window<wbr />Long<wbr />Ptr</a>
+      <a href="b4f55313-2e56-d261-e3c9-ea8862c38609.htm">Get<wbr />Window<wbr />DC</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="8aed6dcd-401d-40d7-963e-bd188d062e18" href="8aed6dcd-401d-40d7-963e-bd188d062e18.htm">Get<wbr />Window<wbr />Long<wbr />Ptr(<wbr />Handle<wbr />Ref, Window<wbr />Long<wbr />Values)</a>
+      <a id="f3f3dc22-1742-fc27-ed44-08a964ccc624" href="f3f3dc22-1742-fc27-ed44-08a964ccc624.htm">Get<wbr />Window<wbr />DC(<wbr />Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="e895837b-d83b-683a-1083-15247eafa92e" href="e895837b-d83b-683a-1083-15247eafa92e.htm">Get<wbr />Window<wbr />Long<wbr />Ptr(<wbr />Int<wbr />Ptr, Window<wbr />Long<wbr />Values)</a>
-    </li>
-    <li>
-      <a id="2154eeb4-fb06-7873-fedc-3207af7463ff" href="2154eeb4-fb06-7873-fedc-3207af7463ff.htm">Get<wbr />Window<wbr />Long<wbr />Ptr(<wbr />Safe<wbr />Handle, Window<wbr />Long<wbr />Values)</a>
+      <a id="12107e87-0c46-c49d-b629-bdab80fbdd8b" href="12107e87-0c46-c49d-b629-bdab80fbdd8b.htm">Get<wbr />Window<wbr />DC(<wbr />Safe<wbr />Handle)</a>
     </li>
   </tocItems>
 </toc>

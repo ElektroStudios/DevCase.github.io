@@ -2,27 +2,37 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="2807a436-db31-5d8e-78bb-ae0a635b5cd4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Grid<wbr />View<wbr />Cell<wbr />Collection<wbr />Extensions</a>
+      <a href="99f2234e-3eb8-d9ca-109d-db75d4aa37c4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Column<wbr />Collection<wbr />Extensions</a>
     </li>
     <li>
-      <a href="426ecb3f-3290-8682-f480-639993691731.htm">Data<wbr />Grid<wbr />View<wbr />Cell<wbr />Collection<wbr />Extensions</a>
+      <a href="c58f4450-3fa0-918f-4db8-2d9e92a6e855.htm">Data<wbr />Column<wbr />Collection<wbr />Extensions</a>
     </li>
     <li>
-      <a href="6b297eb8-49c7-c4ab-138b-33447ce24c2b.htm">Methods</a>
+      <a href="1dc7d1c1-8586-edeb-41d3-e1436d259da6.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="eed46c46-21c6-0032-cc6a-e8aba6e267e9" href="eed46c46-21c6-0032-cc6a-e8aba6e267e9.htm">For<wbr />Each</a>
+      <a id="4615752d-0b7f-7795-7f7e-feca71b4475d" class="has-submenu" href="4615752d-0b7f-7795-7f7e-feca71b4475d.htm">
+        <span data-tocFile="../toc/IDAAAQBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add<wbr />Range</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="df49a2fb-280f-6898-5494-29acb2a1a61f" href="df49a2fb-280f-6898-5494-29acb2a1a61f.htm">For<wbr />Each</a>
+    </li>
+    <li>
+      <a id="8190a828-c1d7-73e4-0bde-e14173471f82" href="8190a828-c1d7-73e4-0bde-e14173471f82.htm">Rename</a>
     </li>
   </tocItems>
 </toc>

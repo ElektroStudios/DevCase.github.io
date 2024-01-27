@@ -18,7 +18,7 @@
     <meta name="Help.ContentType" content="Reference" />
     <meta name="container" content="DevCase.Core.IO.FileSystem" />
     <meta name="guid" content="0976c59f-950c-a501-0a64-e09240e973a3" />
-    <meta name="Description" content="A extended component." />
+    <meta name="Description" content="A extended component, that listens to the file system change notifications and raises events when a directory, or file in a directory, changes." />
     <meta name="tocFile" content="../toc/IDIFAA.xml" />
   </head>
   <body>
@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,36 +95,43 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Dev<wbr />File<wbr />System<wbr />Watcher Class</h1>
             <div class="summary">
- A extended <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a> component.
+ A extended <span class="noLink">FileSystemWatcher</span> component, that listens to the 
+ file system change notifications and raises events when a directory,
+ or file in a directory, changes.
  </div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">DevCase.Core.IO.FileSystem</a><br /><strong>Assembly:</strong> DevCase.Core.IO.Common (in DevCase.Core.IO.Common.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")]
-[<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.defaulteventattribute" target="_top" rel="noopener noreferrer">DefaultEventAttribute</a>("Changed")]
-<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">DevFileSystemWatcher</span> : <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">GetType</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")&gt;
-&lt;<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.defaulteventattribute" target="_top" rel="noopener noreferrer">DefaultEventAttribute</a>("Changed")&gt;
+              <strong>Namespace:</strong> <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">DevCase.Core.IO.FileSystem</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="noLink">FileSystemWatcher</span>))]
+[<span class="noLink">IODescriptionAttribute</span>("FileSystemWatcherDesc")]
+[<span class="noLink">DefaultEventAttribute</span>("Changed")]
+<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">DevFileSystemWatcher</span> : <span class="noLink">FileSystemWatcher</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">ToolboxBitmapAttribute</span>(<span class="keyword">GetType</span>(<span class="noLink">FileSystemWatcher</span>))&gt;
+&lt;<span class="noLink">IODescriptionAttribute</span>("FileSystemWatcherDesc")&gt;
+&lt;<span class="noLink">DefaultEventAttribute</span>("Changed")&gt;
 <span class="keyword">Public</span> <span class="keyword">Class</span> <span class="identifier">DevFileSystemWatcher</span>
-	<span class="keyword">Inherits</span> <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>
+	<span class="keyword">Inherits</span> <span class="noLink">FileSystemWatcher</span>
 
-<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">DevFileSystemWatcher</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp">[<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), L"Component.bmp")]
-[<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.defaulteventattribute" target="_top" rel="noopener noreferrer">DefaultEventAttribute</a>(L"Changed")]
-<span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">DevFileSystemWatcher</span> : <span class="keyword">public</span> <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.drawing.toolboxbitmapattribute" target="_top" rel="noopener noreferrer">ToolboxBitmapAttribute</a>(<span class="keyword">typeof</span>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>), "Component.bmp")&gt;]
-[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.defaulteventattribute" target="_top" rel="noopener noreferrer">DefaultEventAttribute</a>("Changed")&gt;]
+<span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">DevFileSystemWatcher</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp">[<span class="noLink">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="noLink">FileSystemWatcher</span>))]
+[<span class="noLink">IODescriptionAttribute</span>(L"FileSystemWatcherDesc")]
+[<span class="noLink">DefaultEventAttribute</span>(L"Changed")]
+<span class="keyword">public</span> <span class="keyword">ref class</span> <span class="identifier">DevFileSystemWatcher</span> : <span class="keyword">public</span> <span class="noLink">FileSystemWatcher</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">ToolboxBitmapAttribute</span>(<span class="keyword">typeof</span>(<span class="noLink">FileSystemWatcher</span>))&gt;]
+[&lt;<span class="noLink">IODescriptionAttribute</span>("FileSystemWatcherDesc")&gt;]
+[&lt;<span class="noLink">DefaultEventAttribute</span>("Changed")&gt;]
 <span class="keyword">type</span> <span class="identifier">DevFileSystemWatcher</span> = 
     <span class="keyword">class</span>
-        <span class="keyword">inherit</span> <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>
-    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">DevFileSystemWatcher</span></dd></dl></div>
+        <span class="keyword">inherit</span> <span class="noLink">FileSystemWatcher</span>
+    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><span class="noLink">Object</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">MarshalByRefObject</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">Component</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">FileSystemWatcher</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">DevFileSystemWatcher</span></dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Constructors</h2>
-            <div id="IDAUEASection">
+            <div id="IDAXEASection">
               <table id="ConstructorList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -156,43 +163,43 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Properties</h2>
-            <div id="ID0AB0EASection">
+            <div id="ID0DB0EASection">
               <table id="PropertyList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.container#system-componentmodel-component-container" target="_top" rel="noopener noreferrer">Container</a>
+                    <span class="noLink">Container</span>
                   </td>
-                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.icontainer" target="_top" rel="noopener noreferrer">IContainer</a> that contains the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Gets the <span class="noLink">IContainer</span> that contains the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.enableraisingevents#system-io-filesystemwatcher-enableraisingevents" target="_top" rel="noopener noreferrer">EnableRaisingEvents</a>
+                    <span class="noLink">EnableRaisingEvents</span>
                   </td>
-                  <td>Gets or sets a value indicating whether the component is enabled.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets a value indicating whether the component is enabled.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.filter#system-io-filesystemwatcher-filter" target="_top" rel="noopener noreferrer">Filter</a>
+                    <span class="noLink">Filter</span>
                   </td>
-                  <td>Gets or sets the filter string used to determine what files are monitored in a directory.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets the filter string used to determine what files are monitored in a directory.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.includesubdirectories#system-io-filesystemwatcher-includesubdirectories" target="_top" rel="noopener noreferrer">IncludeSubdirectories</a>
+                    <span class="noLink">IncludeSubdirectories</span>
                   </td>
-                  <td>Gets or sets a value indicating whether subdirectories within the specified path should be monitored.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets a value indicating whether subdirectories within the specified path should be monitored.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.internalbuffersize#system-io-filesystemwatcher-internalbuffersize" target="_top" rel="noopener noreferrer">InternalBufferSize</a>
+                    <span class="noLink">InternalBufferSize</span>
                   </td>
-                  <td>Gets or sets the size (in bytes) of the internal buffer.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets the size (in bytes) of the internal buffer.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.notifyfilter#system-io-filesystemwatcher-notifyfilter" target="_top" rel="noopener noreferrer">NotifyFilter</a>
+                    <span class="noLink">NotifyFilter</span>
                   </td>
-                  <td>Gets or sets the type of changes to watch for.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets the type of changes to watch for.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -204,15 +211,15 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.site#system-io-filesystemwatcher-site" target="_top" rel="noopener noreferrer">Site</a>
+                    <span class="noLink">Site</span>
                   </td>
-                  <td>Gets or sets an <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.isite" target="_top" rel="noopener noreferrer">ISite</a> for the <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets an <span class="noLink">ISite</span> for the <span class="noLink">FileSystemWatcher</span>.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.synchronizingobject#system-io-filesystemwatcher-synchronizingobject" target="_top" rel="noopener noreferrer">SynchronizingObject</a>
+                    <span class="noLink">SynchronizingObject</span>
                   </td>
-                  <td>Gets or sets the object used to marshal the event handler calls issued as a result of a directory change.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Gets or sets the object used to marshal the event handler calls issued as a result of a directory change.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
               </table>
             </div>
@@ -220,79 +227,79 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="IDVEASection">
+            <div id="IDYEASection">
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.begininit#system-io-filesystemwatcher-begininit" target="_top" rel="noopener noreferrer">BeginInit</a>
+                    <span class="noLink">BeginInit</span>
                   </td>
-                  <td>Begins the initialization of a <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a> used on a form or used by another component. The initialization occurs at run time.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Begins the initialization of a <span class="noLink">FileSystemWatcher</span> used on a form or used by another component. The initialization occurs at run time.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.createobjref#system-marshalbyrefobject-createobjref(system-type)" target="_top" rel="noopener noreferrer">CreateObjRef</a>
+                    <span class="noLink">CreateObjRef</span>
                   </td>
-                  <td>Creates an object that contains all the relevant information required to generate a proxy used to communicate with a remote object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Creates an object that contains all the relevant information required to generate a proxy used to communicate with a remote object.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.dispose#system-componentmodel-component-dispose" target="_top" rel="noopener noreferrer">Dispose</a>
+                    <span class="noLink">Dispose</span>
                   </td>
-                  <td>Releases all resources used by the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Releases all resources used by the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.endinit#system-io-filesystemwatcher-endinit" target="_top" rel="noopener noreferrer">EndInit</a>
+                    <span class="noLink">EndInit</span>
                   </td>
-                  <td>Ends the initialization of a <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a> used on a form or used by another component. The initialization occurs at run time.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Ends the initialization of a <span class="noLink">FileSystemWatcher</span> used on a form or used by another component. The initialization occurs at run time.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)" target="_top" rel="noopener noreferrer">Equals</a>
+                    <span class="noLink">Equals</span>
                   </td>
-                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Determines whether the specified object is equal to the current object.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode" target="_top" rel="noopener noreferrer">GetHashCode</a>
+                    <span class="noLink">GetHashCode</span>
                   </td>
-                  <td>Serves as the default hash function.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Serves as the default hash function.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.getlifetimeservice#system-marshalbyrefobject-getlifetimeservice" target="_top" rel="noopener noreferrer">GetLifetimeService</a>
+                    <span class="noLink">GetLifetimeService</span>
                   </td>
-                  <td>Retrieves the current lifetime service object that controls the lifetime policy for this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Retrieves the current lifetime service object that controls the lifetime policy for this instance.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype" target="_top" rel="noopener noreferrer">GetType</a>
+                    <span class="noLink">GetType</span>
                   </td>
-                  <td>Gets the <a href="https://learn.microsoft.com/dotnet/api/system.type" target="_top" rel="noopener noreferrer">Type</a> of the current instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.object" target="_top" rel="noopener noreferrer">Object</a>)</td>
+                  <td>Gets the <span class="noLink">Type</span> of the current instance.<br />(Inherited from <span class="noLink">Object</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject.initializelifetimeservice#system-marshalbyrefobject-initializelifetimeservice" target="_top" rel="noopener noreferrer">InitializeLifetimeService</a>
+                    <span class="noLink">InitializeLifetimeService</span>
                   </td>
-                  <td>Obtains a lifetime service object to control the lifetime policy for this instance.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject" target="_top" rel="noopener noreferrer">MarshalByRefObject</a>)</td>
+                  <td>Obtains a lifetime service object to control the lifetime policy for this instance.<br />(Inherited from <span class="noLink">MarshalByRefObject</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.tostring#system-componentmodel-component-tostring" target="_top" rel="noopener noreferrer">ToString</a>
+                    <span class="noLink">ToString</span>
                   </td>
-                  <td>Returns a <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a> containing the name of the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>, if any. This method should not be overridden.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Returns a <span class="noLink">String</span> containing the name of the <span class="noLink">Component</span>, if any. This method should not be overridden.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.waitforchanged#system-io-filesystemwatcher-waitforchanged(system-io-watcherchangetypes)" target="_top" rel="noopener noreferrer">WaitForChanged(WatcherChangeTypes)</a>
+                    <span class="noLink">WaitForChanged(WatcherChangeTypes)</span>
                   </td>
-                  <td>A synchronous method that returns a structure that contains specific information on the change that occurred, given the type of change you want to monitor.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>A synchronous method that returns a structure that contains specific information on the change that occurred, given the type of change you want to monitor.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.waitforchanged#system-io-filesystemwatcher-waitforchanged(system-io-watcherchangetypes-system-int32)" target="_top" rel="noopener noreferrer">WaitForChanged(WatcherChangeTypes, Int32)</a>
+                    <span class="noLink">WaitForChanged(WatcherChangeTypes, Int32)</span>
                   </td>
-                  <td>A synchronous method that returns a structure that contains specific information on the change that occurred, given the type of change you want to monitor and the time (in milliseconds) to wait before timing out.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>A synchronous method that returns a structure that contains specific information on the change that occurred, given the type of change you want to monitor and the time (in milliseconds) to wait before timing out.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
               </table>
             </div>
@@ -300,31 +307,31 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Events</h2>
-            <div id="IDMEASection">
+            <div id="IDPEASection">
               <table id="EventList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.changed#system-io-filesystemwatcher-changed" target="_top" rel="noopener noreferrer">Changed</a>
+                    <span class="noLink">Changed</span>
                   </td>
-                  <td>Occurs when a file or directory in the specified <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.path#system-io-filesystemwatcher-path" target="_top" rel="noopener noreferrer">Path</a> is changed.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Occurs when a file or directory in the specified <span class="noLink">Path</span> is changed.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.created#system-io-filesystemwatcher-created" target="_top" rel="noopener noreferrer">Created</a>
+                    <span class="noLink">Created</span>
                   </td>
-                  <td>Occurs when a file or directory in the specified <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.path#system-io-filesystemwatcher-path" target="_top" rel="noopener noreferrer">Path</a> is created.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Occurs when a file or directory in the specified <span class="noLink">Path</span> is created.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.deleted#system-io-filesystemwatcher-deleted" target="_top" rel="noopener noreferrer">Deleted</a>
+                    <span class="noLink">Deleted</span>
                   </td>
-                  <td>Occurs when a file or directory in the specified <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.path#system-io-filesystemwatcher-path" target="_top" rel="noopener noreferrer">Path</a> is deleted.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Occurs when a file or directory in the specified <span class="noLink">Path</span> is deleted.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.disposed#system-componentmodel-component-disposed" target="_top" rel="noopener noreferrer">Disposed</a>
+                    <span class="noLink">Disposed</span>
                   </td>
-                  <td>Occurs when the component is disposed by a call to the <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component.dispose#system-componentmodel-component-dispose" target="_top" rel="noopener noreferrer">Dispose<span id="LST789C03BE_1" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> method.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>)</td>
+                  <td>Occurs when the component is disposed by a call to the <span class="noLink">Dispose<span id="LST789C03BE_1" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> method.<br />(Inherited from <span class="noLink">Component</span>)</td>
                 </tr>
                 <tr>
                   <td>
@@ -353,9 +360,9 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.renamed#system-io-filesystemwatcher-renamed" target="_top" rel="noopener noreferrer">Renamed</a>
+                    <span class="noLink">Renamed</span>
                   </td>
-                  <td>Occurs when a file or directory in the specified <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher.path#system-io-filesystemwatcher-path" target="_top" rel="noopener noreferrer">Path</a> is renamed.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>)</td>
+                  <td>Occurs when a file or directory in the specified <span class="noLink">Path</span> is renamed.<br />(Inherited from <span class="noLink">FileSystemWatcher</span>)</td>
                 </tr>
               </table>
             </div>
@@ -406,8 +413,8 @@
                     <a href="ee45b7b9-570a-1002-19ce-4fd01fcac93e.htm">GetEvent</a>
                   </td>
                   <td>
- Gets a <a href="https://learn.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_top" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
- declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets a <span class="noLink">EventInfo</span> that match the specified event name 
+ declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -415,7 +422,7 @@
                     <a href="82ee5031-2122-f502-0c4a-a19099900909.htm">GetEventHandlers</a>
                   </td>
                   <td>
- Gets all the delegates associated to the specified event raised by the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets all the delegates associated to the specified event raised by the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -423,7 +430,7 @@
                     <a href="51cd3fbb-9461-556f-9c13-7312aad695d4.htm">GetEvents</a>
                   </td>
                   <td>
- Gets all the events declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Gets all the events declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -431,7 +438,7 @@
                     <a href="753a4be0-4c81-ab75-9b9b-5bfb72f59f24.htm">GetSubscribedEvents</a>
                   </td>
                   <td>
- Gets a list of events declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>  
+ Gets a list of events declared in the source <span class="noLink">Component</span>  
  that are subscribed to a event-handler.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
@@ -440,7 +447,7 @@
                     <a href="b1cd0569-892a-6d24-3442-93a85696ce0f.htm">InvokeUITypeEditor<span id="LST789C03BE_8" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST789C03BE_9" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Invokes the default <a href="https://learn.microsoft.com/dotnet/api/system.drawing.design.uitypeeditor" target="_top" rel="noopener noreferrer">UITypeEditor</a> to edit the specified property.
+ Invokes the default <span class="noLink">UITypeEditor</span> to edit the specified property.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -448,7 +455,7 @@
                     <a href="7ac45a7e-955f-03ba-1f3e-364f29c2b719.htm">InvokeUITypeEditor<span id="LST789C03BE_10" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LST789C03BE_11" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Invokes the default <a href="https://learn.microsoft.com/dotnet/api/system.drawing.design.uitypeeditor" target="_top" rel="noopener noreferrer">UITypeEditor</a> to edit the specified property.
+ Invokes the default <span class="noLink">UITypeEditor</span> to edit the specified property.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -456,7 +463,34 @@
                     <a href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">IsDisposable</a>
                   </td>
                   <td>
- Determines whether the specified object is disposable.
+ Determines whether the specified object is a disposable type 
+ (i.e., it implements <span class="noLink">IDisposable</span> interface).
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="b6518cbc-eac7-374e-f53c-70aa031bf15b.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="a447b4b7-8d2e-a234-f910-4749678e12f8.htm">Speak</a>
+                  </td>
+                  <td>
+ Speaks the string representation of the source object by using the 
+ operating system integrated text-to-speech synthesizer.
+ <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4ed5be38-075c-b944-23d9-9298e43d9f2a.htm">ThrowIfNull<span id="LST789C03BE_12" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>TException<span id="LST789C03BE_13" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Throws the specified exception if the source object is null.
  <br />(Defined by <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">ObjectExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -464,8 +498,8 @@
                     <a href="3d9c10d0-037a-bca5-21d7-becee718a64b.htm">TryGetEvent</a>
                   </td>
                   <td>
- Tries to get a <a href="https://learn.microsoft.com/dotnet/api/system.reflection.eventinfo" target="_top" rel="noopener noreferrer">EventInfo</a> that match the specified event name 
- declared in the source <a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.component" target="_top" rel="noopener noreferrer">Component</a>.
+ Tries to get a <span class="noLink">EventInfo</span> that match the specified event name 
+ declared in the source <span class="noLink">Component</span>.
  <br />(Defined by <a href="b33c41f9-7e15-1c79-5f2b-556e59343db9.htm">ComponentExtensions</a>)</td>
                 </tr>
               </table>
@@ -480,7 +514,7 @@
                 <a href="9eab8eea-2b52-7cf0-8599-43240ba895fe.htm">DevCase.Core.IO.FileSystem Namespace</a>
               </div>
               <div>
-                <a href="https://learn.microsoft.com/dotnet/api/system.io.filesystemwatcher" target="_top" rel="noopener noreferrer">FileSystemWatcher</a>
+                <span class="noLink">FileSystemWatcher</span>
               </div>
             </div>
           </div>
@@ -526,9 +560,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -559,7 +593,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

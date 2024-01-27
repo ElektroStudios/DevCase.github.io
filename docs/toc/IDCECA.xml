@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="a93464ef-9706-651f-97dd-6ac45fce2af0.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Services</a>
+    </li>
+    <li>
+      <a href="b7b6b746-fb09-c6e5-7b3e-43e1db7159fc.htm">Windows<wbr />Forms<wbr />Editor<wbr />Service</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e2c15567-d9fe-0dc5-46b5-b2090efeebbd" href="e2c15567-d9fe-0dc5-46b5-b2090efeebbd.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="f1f8cbc9-c40c-7b81-0f5b-8e104b006a6c" class="has-submenu" href="f1f8cbc9-c40c-7b81-0f5b-8e104b006a6c.htm">
+        <span data-tocFile="../toc/IDBCECA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

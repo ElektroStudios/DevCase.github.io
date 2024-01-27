@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="37506d9e-0bdd-e0aa-6f9c-cfb072a10084.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Collections</a>
+    </li>
+    <li>
+      <a href="bb521710-7fd8-dc19-6d78-3083a01f95de.htm">Name<wbr />Object<wbr />Collection</a>
+    </li>
+    <li>
+      <a href="fb999ccb-0153-17a4-ca15-51511aab70af.htm">Methods</a>
+    </li>
+    <li>
+      <a href="422bf454-a9e9-5b8b-34dd-b50a6c036ca0.htm">Get</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="802f0bbf-48cd-3d17-f618-b1e725eff861" href="802f0bbf-48cd-3d17-f618-b1e725eff861.htm">Get(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="d3d193dc-a677-13bd-302d-d4e3e5e7b3de" href="d3d193dc-a677-13bd-302d-d4e3e5e7b3de.htm">Get(<wbr />String)</a>
+    </li>
+  </tocItems>
+</toc>

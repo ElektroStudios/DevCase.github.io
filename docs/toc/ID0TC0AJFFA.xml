@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="8515bcbc-f61c-a3fa-401a-ea9739dadcd1.htm">Find<wbr />Resource<wbr />Ex</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="03f0a00e-d24e-984d-e6f7-485435968509" href="03f0a00e-d24e-984d-e6f7-485435968509.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, Resource<wbr />Type, Int<wbr />Ptr, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="01cbe010-3541-0e0f-c84e-fdf93829ba42" href="01cbe010-3541-0e0f-c84e-fdf93829ba42.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, Resource<wbr />Type, String, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="7a651c06-2e42-61b3-5c09-c2092572bb29" href="7a651c06-2e42-61b3-5c09-c2092572bb29.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, String, Int<wbr />Ptr, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="b8c0cadc-456e-64e5-5603-2899ca141b31" href="b8c0cadc-456e-64e5-5603-2899ca141b31.htm">Find<wbr />Resource<wbr />Ex(<wbr />Int<wbr />Ptr, String, String, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="1419c53e-b6e4-1a94-83cc-cd67b28c4911" href="1419c53e-b6e4-1a94-83cc-cd67b28c4911.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, Resource<wbr />Type, Int<wbr />Ptr, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="f86f49ce-d13a-c074-7466-bdabd73e3f81" href="f86f49ce-d13a-c074-7466-bdabd73e3f81.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, Resource<wbr />Type, String, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="bdb5ecfe-3fd3-50ee-40c2-1459a0b05b26" href="bdb5ecfe-3fd3-50ee-40c2-1459a0b05b26.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, String, Int<wbr />Ptr, UInt<wbr />16)</a>
+    </li>
+    <li>
+      <a id="2dc8100d-974c-3332-6105-ae5bf3a50438" href="2dc8100d-974c-3332-6105-ae5bf3a50438.htm">Find<wbr />Resource<wbr />Ex(<wbr />Safe<wbr />Module<wbr />Handle, String, String, UInt<wbr />16)</a>
+    </li>
+  </tocItems>
+</toc>

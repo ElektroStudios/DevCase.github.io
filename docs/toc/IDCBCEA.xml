@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="25a5ec84-2f32-1b44-62b9-ce67b84af12f.htm">Dev<wbr />Case.<wbr />UI.<wbr />Dialogs</a>
+    </li>
+    <li>
+      <a href="9e7339f7-0984-a54b-bc3f-215ba578b4d0.htm">Dev<wbr />Open<wbr />File<wbr />Or<wbr />Folder<wbr />Dialog</a>
+    </li>
+    <li>
+      <a href="d531466b-ff61-f490-fa58-863594952f80.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="933f2386-4f03-7a84-58a3-f9e91b880028" href="933f2386-4f03-7a84-58a3-f9e91b880028.htm">Reset</a>
+    </li>
+    <li>
+      <a id="141b2ae2-cf4a-0c22-a2a3-af29dd3917f2" class="has-submenu" href="141b2ae2-cf4a-0c22-a2a3-af29dd3917f2.htm">
+        <span data-tocFile="../toc/IDBCBCEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Dialog</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="64063caa-e0e7-1e05-f8c0-88c6a3b7d3ea" href="64063caa-e0e7-1e05-f8c0-88c6a3b7d3ea.htm">To<wbr />String</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,33 +2,39 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="fa685eed-a5a5-ba2c-605c-b89281048de6.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />View<wbr />Extensions</a>
+      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
     </li>
     <li>
-      <a href="26a92165-72be-d511-06b6-552baa746269.htm">List<wbr />View<wbr />Extensions</a>
+      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
     </li>
     <li>
-      <a href="583d111e-362d-fd22-5c86-0f811c749913.htm">Methods</a>
+      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
     </li>
     <li>
-      <a href="9b83d662-9abf-6bad-ed4e-fa7dd6b0880e.htm">Set<wbr />Column<wbr />Indices</a>
+      <a href="fa852da9-9cb8-d558-c1f0-ca2e5e83d95c.htm">Resize</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="2b92c7f9-9d47-b7a5-1b1c-ed774f5057ca" href="2b92c7f9-9d47-b7a5-1b1c-ed774f5057ca.htm">Set<wbr />Column<wbr />Indices(<wbr />List<wbr />View, Int<wbr />32)</a>
+      <a id="d90b8458-b0d7-16cb-d2a2-5dfe5ed895c1" href="d90b8458-b0d7-16cb-d2a2-5dfe5ed895c1.htm">Resize(<wbr />Image, Double, Boolean)</a>
     </li>
     <li>
-      <a id="a0de76c6-10b6-ac85-222d-06c4223fc868" href="a0de76c6-10b6-ac85-222d-06c4223fc868.htm">Set<wbr />Column<wbr />Indices(<wbr />List<wbr />View, Int<wbr />32, Int<wbr />32)</a>
+      <a id="7060cb9a-ecbb-3bc6-9f24-a52cfbeda343" href="7060cb9a-ecbb-3bc6-9f24-a52cfbeda343.htm">Resize(<wbr />Image, Size, Boolean)</a>
+    </li>
+    <li>
+      <a id="69c509a5-b338-f855-be0a-4d2be1ade067" href="69c509a5-b338-f855-be0a-4d2be1ade067.htm">Resize(<wbr />Image, Double, Boolean, Graphics<wbr />Quality<wbr />Container)</a>
+    </li>
+    <li>
+      <a id="7d8daaca-9f8e-6e86-cc10-dea8c8cbe9fb" href="7d8daaca-9f8e-6e86-cc10-dea8c8cbe9fb.htm">Resize(<wbr />Image, Size, Boolean, Graphics<wbr />Quality<wbr />Container)</a>
     </li>
   </tocItems>
 </toc>

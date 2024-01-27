@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -17,30 +17,27 @@
       <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
     </li>
     <li>
-      <a href="efe32c59-1069-7ecc-a615-23a5bfc86ae5.htm">Window<wbr />Moving<wbr />Opacity</a>
+      <a href="1d52516a-027b-a726-4978-4aac245c276d.htm">Window<wbr />Magnetizer</a>
     </li>
     <li>
-      <a href="5e35b4a6-cd7c-1d81-c7e1-5cb3dfaa27ca.htm">Properties</a>
+      <a href="1329a399-1051-253b-d09b-95cf0c051009.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="869bec82-275c-0eeb-9fa6-954d07ef8536" href="869bec82-275c-0eeb-9fa6-954d07ef8536.htm">Enable<wbr />Move<wbr />Opacity</a>
+      <a id="496b14a6-a518-ab64-32aa-f03fb6e09f57" href="496b14a6-a518-ab64-32aa-f03fb6e09f57.htm">Allow<wbr />Offscreen</a>
     </li>
     <li>
-      <a id="180d51c2-d21e-47d1-d5b6-6ea08ddbdc4f" href="180d51c2-d21e-47d1-d5b6-6ea08ddbdc4f.htm">Enable<wbr />Resize<wbr />Opacity</a>
+      <a id="d9088470-2fda-6259-6bf4-7d7c5e3a57b9" href="d9088470-2fda-6259-6bf4-7d7c5e3a57b9.htm">Enabled</a>
     </li>
     <li>
-      <a id="588a0caa-8ade-dce6-7443-aa7a9266a1a0" href="588a0caa-8ade-dce6-7443-aa7a9266a1a0.htm">Handle</a>
+      <a id="5df023e9-e130-316b-9420-6c7656164382" href="5df023e9-e130-316b-9420-6c7656164382.htm">Handle</a>
     </li>
     <li>
-      <a id="1ba417b4-79c7-2dcf-a3c4-1a54a45ef478" href="1ba417b4-79c7-2dcf-a3c4-1a54a45ef478.htm">Opacity<wbr />Non<wbr />Static</a>
+      <a id="66498936-eeca-e31b-6632-43fd5626c95e" href="66498936-eeca-e31b-6632-43fd5626c95e.htm">Owner<wbr />Window</a>
     </li>
     <li>
-      <a id="f5a22ec5-e4c1-33dc-6fcf-e9cff5fbca11" href="f5a22ec5-e4c1-33dc-6fcf-e9cff5fbca11.htm">Opacity<wbr />Static</a>
-    </li>
-    <li>
-      <a id="fae3f6b0-08c7-27a6-161b-ba781cbb4d7b" href="fae3f6b0-08c7-27a6-161b-ba781cbb4d7b.htm">Owner<wbr />Window</a>
+      <a id="7160579b-cb5a-1542-eb95-7ffd45002e90" href="7160579b-cb5a-1542-eb95-7ffd45002e90.htm">Threshold</a>
     </li>
   </tocItems>
 </toc>

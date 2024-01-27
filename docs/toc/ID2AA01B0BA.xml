@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e407e225-bc1e-fe39-b21c-7aa83e1fc108.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerable<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="9c7733d2-9fca-d14e-3ed8-9e250aa0a477.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ef59b3f1-a4f0-3214-cd53-04ed417f207c.htm">To<wbr />Sortable<wbr />Observable<wbr />Collection</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bd4389fd-4ee7-a77b-b45b-c85c7417c08d" href="bd4389fd-4ee7-a77b-b45b-c85c7417c08d.htm">To<wbr />Sortable<wbr />Observable<wbr />Collection&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;)</a>
+    </li>
+    <li>
+      <a id="c7361377-424c-8d46-7170-2cb75635670b" href="c7361377-424c-8d46-7170-2cb75635670b.htm">To<wbr />Sortable<wbr />Observable<wbr />Collection&lt;T&gt;(<wbr />IEnumerable&lt;T&gt;, Func&lt;T, Boolean&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

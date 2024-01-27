@@ -2,64 +2,27 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="de57e104-d671-2923-9c1e-e32a8550598b.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Single<wbr />Extensions</a>
+      <a href="210739bd-b5b7-b684-ddf3-b551ca6e978f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />SByte<wbr />Extensions</a>
     </li>
     <li>
-      <a href="ee8d868b-8fc2-5f7e-2ca3-ef06cd31225f.htm">Single<wbr />Extensions</a>
+      <a href="6f6799ec-5676-e66e-2934-de9bc8c27ab3.htm">SByte<wbr />Extensions</a>
     </li>
     <li>
-      <a href="c1d14170-c7ca-1c00-6841-ff60cd8fd256.htm">Methods</a>
+      <a href="6294716b-e988-1fb0-a0d2-9b8edd2c52d2.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="49971f58-fc6c-24c0-a5b2-5f909c8b1046" href="49971f58-fc6c-24c0-a5b2-5f909c8b1046.htm">Difference<wbr />Of</a>
-    </li>
-    <li>
-      <a id="638ca5ea-99b6-bd23-b936-ce3e404e0884" class="has-submenu" href="638ca5ea-99b6-bd23-b936-ce3e404e0884.htm">
-        <span data-tocFile="../toc/IDBAA01C0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Formatted</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="fbf63cfe-4d7a-c423-dc3d-ba009104ba20" href="fbf63cfe-4d7a-c423-dc3d-ba009104ba20.htm">Fraction<wbr />By</a>
-    </li>
-    <li>
-      <a id="c1ae1b25-812d-1af0-7564-c72140c62614" href="c1ae1b25-812d-1af0-7564-c72140c62614.htm">Get<wbr />Decimal<wbr />Places</a>
-    </li>
-    <li>
-      <a id="b59aa52b-0c30-9cff-caa7-367732715a38" href="b59aa52b-0c30-9cff-caa7-367732715a38.htm">Is<wbr />Divisible<wbr />By</a>
-    </li>
-    <li>
-      <a id="403cb4ad-3f40-73b8-44f0-4c20d3cdd276" href="403cb4ad-3f40-73b8-44f0-4c20d3cdd276.htm">Is<wbr />Even</a>
-    </li>
-    <li>
-      <a id="89ea1d50-9ea1-c20d-c65e-fd458103eaac" href="89ea1d50-9ea1-c20d-c65e-fd458103eaac.htm">Is<wbr />In<wbr />Range<wbr />Of</a>
-    </li>
-    <li>
-      <a id="ea129a9e-3a17-bb78-c8b3-9a109b3af6e0" href="ea129a9e-3a17-bb78-c8b3-9a109b3af6e0.htm">Is<wbr />Multiple<wbr />Of</a>
-    </li>
-    <li>
-      <a id="e3970f72-a0ca-4a71-705d-13cef6434dc2" href="e3970f72-a0ca-4a71-705d-13cef6434dc2.htm">Is<wbr />Negative</a>
-    </li>
-    <li>
-      <a id="68f9fa67-2dc6-4e2c-e6f6-292ac372eb16" href="68f9fa67-2dc6-4e2c-e6f6-292ac372eb16.htm">Is<wbr />Odd</a>
-    </li>
-    <li>
-      <a id="60bc32ff-b0ce-07e3-4b4e-911a41905fc5" href="60bc32ff-b0ce-07e3-4b4e-911a41905fc5.htm">Is<wbr />Positive</a>
-    </li>
-    <li>
-      <a id="55b9e230-cc27-13e8-6556-2ffe230a1a36" href="55b9e230-cc27-13e8-6556-2ffe230a1a36.htm">Percentage<wbr />Of</a>
+      <a id="a2fe1462-0de1-4950-affe-69f20900ee99" href="a2fe1462-0de1-4950-affe-69f20900ee99.htm">To<wbr />Int<wbr />Ptr</a>
     </li>
   </tocItems>
 </toc>

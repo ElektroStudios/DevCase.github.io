@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="4ef7c675-9a2d-91e2-ab5a-6059fd7002c6.htm">Frame<wbr />Rect</a>
+      <a href="c8290948-fb0b-f2ec-8013-e93a075601be.htm">Find<wbr />Window<wbr />Ex</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="63e93afa-510c-fd78-894d-08a52fadf916" href="63e93afa-510c-fd78-894d-08a52fadf916.htm">Frame<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle, Int<wbr />Ptr)</a>
+      <a id="dcbd796d-7552-1b92-e3a1-67d722551c05" href="dcbd796d-7552-1b92-e3a1-67d722551c05.htm">Find<wbr />Window<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, String, String)</a>
     </li>
     <li>
-      <a id="90c43d3f-47e0-4e06-313a-2a35c25fe50d" href="90c43d3f-47e0-4e06-313a-2a35c25fe50d.htm">Frame<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle, Int<wbr />Ptr)</a>
+      <a id="6ee5e5f3-9543-82dc-8829-a25c9000bd0b" href="6ee5e5f3-9543-82dc-8829-a25c9000bd0b.htm">Find<wbr />Window<wbr />Ex(<wbr />Safe<wbr />Handle, Safe<wbr />Handle, String, String)</a>
     </li>
   </tocItems>
 </toc>

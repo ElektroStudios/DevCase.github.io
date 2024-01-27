@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="c7146096-706a-7eaf-fda1-4422c41118d8.htm">Open<wbr />Icon</a>
+      <a href="9375561c-14eb-55b8-a1f1-7b061eab3b7a.htm">Move<wbr />Window</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="149defea-4e44-3f65-f5d3-2ccedab55064" href="149defea-4e44-3f65-f5d3-2ccedab55064.htm">Open<wbr />Icon(<wbr />Int<wbr />Ptr)</a>
+      <a id="6efca09c-d2a7-14cd-3f0b-2cfdee6436b4" href="6efca09c-d2a7-14cd-3f0b-2cfdee6436b4.htm">Move<wbr />Window(<wbr />Int<wbr />Ptr, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Boolean)</a>
     </li>
     <li>
-      <a id="44782141-9315-83b3-94fd-270617d84a80" href="44782141-9315-83b3-94fd-270617d84a80.htm">Open<wbr />Icon(<wbr />Safe<wbr />Handle)</a>
+      <a id="61431309-0c71-26a0-d4a1-1192a116d14b" href="61431309-0c71-26a0-d4a1-1192a116d14b.htm">Move<wbr />Window(<wbr />Safe<wbr />Handle, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32, Boolean)</a>
     </li>
   </tocItems>
 </toc>

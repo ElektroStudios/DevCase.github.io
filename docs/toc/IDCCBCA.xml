@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
@@ -14,18 +14,51 @@
       <a href="37506d9e-0bdd-e0aa-6f9c-cfb072a10084.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Collections</a>
     </li>
     <li>
-      <a href="14803194-1e06-ec67-2f61-95d37e1f252f.htm">Read<wbr />Only<wbr />Value<wbr />Pair&lt;TValue&gt;</a>
+      <a href="bb521710-7fd8-dc19-6d78-3083a01f95de.htm">Name<wbr />Object<wbr />Collection</a>
     </li>
     <li>
-      <a href="736ca621-147a-bc65-80f5-e1bb385e8039.htm">Methods</a>
+      <a href="fb999ccb-0153-17a4-ca15-51511aab70af.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="2dd40526-ceb1-11f1-684d-46cccb4299fb" href="2dd40526-ceb1-11f1-684d-46cccb4299fb.htm">Get<wbr />Hash<wbr />Code</a>
+      <a id="a4dcf276-3fc8-e671-33d9-03e1261f4261" class="has-submenu" href="a4dcf276-3fc8-e671-33d9-03e1261f4261.htm">
+        <span data-tocFile="../toc/IDACCBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="b8680a1b-e98a-f071-f5b1-b0a5cee31009" href="b8680a1b-e98a-f071-f5b1-b0a5cee31009.htm">To<wbr />String</a>
+      <a id="79ebfbbe-7e75-843d-0f8d-4984e410521e" href="79ebfbbe-7e75-843d-0f8d-4984e410521e.htm">Clear</a>
+    </li>
+    <li>
+      <a id="472a8035-887c-7ab3-33f2-56a95001be95" href="472a8035-887c-7ab3-33f2-56a95001be95.htm">Copy<wbr />To</a>
+    </li>
+    <li>
+      <a id="422bf454-a9e9-5b8b-34dd-b50a6c036ca0" class="has-submenu" href="422bf454-a9e9-5b8b-34dd-b50a6c036ca0.htm">
+        <span data-tocFile="../toc/IDDCCBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="60732a39-c089-43d4-6d29-3c16312e7e9e" href="60732a39-c089-43d4-6d29-3c16312e7e9e.htm">Get<wbr />Key</a>
+    </li>
+    <li>
+      <a id="3a5f266b-a07e-25dd-473d-14b2481f3a94" class="has-submenu" href="3a5f266b-a07e-25dd-473d-14b2481f3a94.htm">
+        <span data-tocFile="../toc/IDFCCBCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Values</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e7af6add-228d-854a-65d1-269116bf2b5a" href="e7af6add-228d-854a-65d1-269116bf2b5a.htm">Has<wbr />Keys</a>
+    </li>
+    <li>
+      <a id="893074ea-27dd-1053-a14c-9775620bfab7" href="893074ea-27dd-1053-a14c-9775620bfab7.htm">Remove</a>
+    </li>
+    <li>
+      <a id="55d4c168-fdd1-0cf9-2e6f-1f6ed62b73f5" href="55d4c168-fdd1-0cf9-2e6f-1f6ed62b73f5.htm">Set</a>
     </li>
   </tocItems>
 </toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="19d8e3a7-3eff-ec52-54d0-88f08946cff1.htm">Write<wbr />Process<wbr />Memory</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4b27bef0-4fd3-4e20-1da7-fa32b7984c6b" href="4b27bef0-4fd3-4e20-1da7-fa32b7984c6b.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a8ba39cb-a9c6-ce16-fb49-2737ac2c9f23" href="a8ba39cb-a9c6-ce16-fb49-2737ac2c9f23.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="8e5eb946-5343-b068-fd8b-88c61d846b88" href="8e5eb946-5343-b068-fd8b-88c61d846b88.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9e4f66e4-a48b-e7fe-9f62-a6400c2be9a3" href="9e4f66e4-a48b-e7fe-9f62-a6400c2be9a3.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="9bb44781-82d3-93c7-536d-3dcd2deaf898" href="9bb44781-82d3-93c7-536d-3dcd2deaf898.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Byte[], Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="e83e50a8-23fe-34e9-84a3-89e80a6b2b7c" href="e83e50a8-23fe-34e9-84a3-89e80a6b2b7c.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Byte[], UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="a8dd532f-1b6c-27a3-0c5e-ff1df2d47164" href="a8dd532f-1b6c-27a3-0c5e-ff1df2d47164.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="6c468e85-68ef-44c2-4a9c-b33b476877cc" href="6c468e85-68ef-44c2-4a9c-b33b476877cc.htm">Write<wbr />Process<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

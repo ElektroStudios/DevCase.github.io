@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel<wbr />32</a>
+    </li>
+    <li>
+      <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9cee5b0d-c884-a9fd-c463-9c37ce2d7930.htm">Reclaim<wbr />Virtual<wbr />Memory</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="de1e7f33-47ba-949c-10eb-e6b44b0defea" href="de1e7f33-47ba-949c-10eb-e6b44b0defea.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, Int<wbr />Ptr)</a>
+    </li>
+    <li>
+      <a id="37edb580-4a18-78c5-f9cd-644e99574726" href="37edb580-4a18-78c5-f9cd-644e99574726.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="e1966742-7df0-79f7-62ad-342cfe69be94" href="e1966742-7df0-79f7-62ad-342cfe69be94.htm">Reclaim<wbr />Virtual<wbr />Memory(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,18 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="f0578b9d-c892-e450-dc58-bc4f37413c0b.htm">Get<wbr />Menu<wbr />Item<wbr />ID</a>
+      <a href="2e17f4c2-76e3-27d5-f653-7e65f20b1207.htm">Get<wbr />Key<wbr />State</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="9c40f4f2-eb2a-e794-8ffe-3709dec43423" href="9c40f4f2-eb2a-e794-8ffe-3709dec43423.htm">Get<wbr />Menu<wbr />Item<wbr />ID(<wbr />Int<wbr />Ptr, Int<wbr />32)</a>
+      <a id="c264eaf0-c1f6-3cc2-714a-7b9d83efbd32" href="c264eaf0-c1f6-3cc2-714a-7b9d83efbd32.htm">Get<wbr />Key<wbr />State(<wbr />Int<wbr />32)</a>
     </li>
     <li>
-      <a id="2dffc3ce-e22d-7148-ee15-d45aa0c5d52c" href="2dffc3ce-e22d-7148-ee15-d45aa0c5d52c.htm">Get<wbr />Menu<wbr />Item<wbr />ID(<wbr />Safe<wbr />Handle, Int<wbr />32)</a>
+      <a id="d4477b54-7405-fb52-0fc1-fdd37c0e1fa8" href="d4477b54-7405-fb52-0fc1-fdd37c0e1fa8.htm">Get<wbr />Key<wbr />State(<wbr />Keys)</a>
+    </li>
+    <li>
+      <a id="bb3db5a5-2125-fcdd-3a65-047e810b2cb5" href="bb3db5a5-2125-fcdd-3a65-047e810b2cb5.htm">Get<wbr />Key<wbr />State(<wbr />Virtual<wbr />Keys)</a>
     </li>
   </tocItems>
 </toc>

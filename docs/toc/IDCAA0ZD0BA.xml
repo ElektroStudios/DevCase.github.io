@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="137d7e98-9ed8-edc4-3457-16ebfa2fa820.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Web<wbr />Browser<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="d077a340-96cc-f883-a23e-d07bac302551.htm">Web<wbr />Browser<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="ad5dfa83-d1f0-618f-40e7-a70aba6534c7.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9b4ec52e-4961-4e89-1b89-155acb9d2ea4.htm">Navigate<wbr />And<wbr />Wait</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fff05446-cd9e-e116-a6e0-0abcab31f7bc" href="fff05446-cd9e-e116-a6e0-0abcab31f7bc.htm">Navigate<wbr />And<wbr />Wait(<wbr />Web<wbr />Browser, String)</a>
+    </li>
+    <li>
+      <a id="32827b2a-1291-373c-bbc6-ea9f6628168c" href="32827b2a-1291-373c-bbc6-ea9f6628168c.htm">Navigate<wbr />And<wbr />Wait(<wbr />Web<wbr />Browser, Uri)</a>
+    </li>
+    <li>
+      <a id="017b1115-b16e-69e0-04e5-cf5cda82a9fb" href="017b1115-b16e-69e0-04e5-cf5cda82a9fb.htm">Navigate<wbr />And<wbr />Wait(<wbr />Web<wbr />Browser, String, Boolean)</a>
+    </li>
+    <li>
+      <a id="b99dbe70-1113-e915-92e9-7ed4cd047172" href="b99dbe70-1113-e915-92e9-7ed4cd047172.htm">Navigate<wbr />And<wbr />Wait(<wbr />Web<wbr />Browser, Uri, Boolean)</a>
+    </li>
+  </tocItems>
+</toc>

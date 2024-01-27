@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="64cff802-c820-3bad-c375-92a8dd86fa8f.htm">Get<wbr />Menu<wbr />String</a>
+      <a href="759b3f62-659e-d8b9-eeb6-8fc184f13260.htm">Get<wbr />Menu<wbr />Item<wbr />Count</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="52fbfccd-b12d-d55d-51b3-fa2d9fa4aeb5" href="52fbfccd-b12d-d55d-51b3-fa2d9fa4aeb5.htm">Get<wbr />Menu<wbr />String(<wbr />Int<wbr />Ptr, UInt<wbr />32, String<wbr />Builder, Int<wbr />32, Menu<wbr />Position)</a>
+      <a id="f50ab491-9767-767e-71b8-1e5242913c61" href="f50ab491-9767-767e-71b8-1e5242913c61.htm">Get<wbr />Menu<wbr />Item<wbr />Count(<wbr />Int<wbr />Ptr)</a>
     </li>
     <li>
-      <a id="b8446045-51d1-c1c7-573a-e049c8c12389" href="b8446045-51d1-c1c7-573a-e049c8c12389.htm">Get<wbr />Menu<wbr />String(<wbr />Safe<wbr />Handle, UInt<wbr />32, String<wbr />Builder, Int<wbr />32, Menu<wbr />Position)</a>
+      <a id="17970983-2008-d090-f2e1-1ce7a32bfe8e" href="17970983-2008-d090-f2e1-1ce7a32bfe8e.htm">Get<wbr />Menu<wbr />Item<wbr />Count(<wbr />Safe<wbr />Handle)</a>
     </li>
   </tocItems>
 </toc>

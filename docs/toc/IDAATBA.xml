@@ -2,27 +2,87 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="191b4c0c-ee22-1ad0-55ad-37ef667f871f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Grid<wbr />View<wbr />Row<wbr />Collection<wbr />Extensions</a>
+      <a href="3abc94e6-7c92-6714-eb60-7ce6b4f842b0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Data<wbr />Grid<wbr />View<wbr />Extensions</a>
     </li>
     <li>
-      <a href="dd925cf9-73f8-2556-6002-01d275d187c1.htm">Data<wbr />Grid<wbr />View<wbr />Row<wbr />Collection<wbr />Extensions</a>
+      <a href="2856e35a-23d5-f068-d75e-d7634161b635.htm">Data<wbr />Grid<wbr />View<wbr />Extensions</a>
     </li>
     <li>
-      <a href="ca892af9-8b54-2a7c-036e-89463f085a50.htm">Methods</a>
+      <a href="32dfbea2-a302-bf7e-9bc5-a4a679f8599d.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="67515a3e-a6b2-43ec-430a-a2782ce2d4f7" href="67515a3e-a6b2-43ec-430a-a2782ce2d4f7.htm">For<wbr />Each</a>
+      <a id="d3045516-0e03-b59e-89bf-34ba195f5235" href="d3045516-0e03-b59e-89bf-34ba195f5235.htm">Export<wbr />To<wbr />CSV</a>
+    </li>
+    <li>
+      <a id="0c237414-c951-c800-6ffb-982de0e0b521" href="0c237414-c951-c800-6ffb-982de0e0b521.htm">Export<wbr />To<wbr />Xml</a>
+    </li>
+    <li>
+      <a id="97e16fb0-1d4c-6cbf-0734-9a55b0b4e61c" class="has-submenu" href="97e16fb0-1d4c-6cbf-0734-9a55b0b4e61c.htm">
+        <span data-tocFile="../toc/IDCAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Current<wbr />Row<wbr />Cell<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="716880d7-f2a7-af06-ec47-85020f04e061" href="716880d7-f2a7-af06-ec47-85020f04e061.htm">Get<wbr />Print<wbr />Document</a>
+    </li>
+    <li>
+      <a id="5938377a-559b-c4b9-6dbf-11bac62fca25" href="5938377a-559b-c4b9-6dbf-11bac62fca25.htm">Get<wbr />Selected<wbr />Column<wbr />Name<wbr />Index</a>
+    </li>
+    <li>
+      <a id="34c7a81e-ff07-4967-1c3e-c6e3f6e420bb" class="has-submenu" href="34c7a81e-ff07-4967-1c3e-c6e3f6e420bb.htm">
+        <span data-tocFile="../toc/IDFAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b97f82d4-16df-633f-3747-b36c237f2754" class="has-submenu" href="b97f82d4-16df-633f-3747-b36c237f2754.htm">
+        <span data-tocFile="../toc/IDGAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Hide<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="49c0140c-0f27-fd3f-e063-772fd84e4539" class="has-submenu" href="49c0140c-0f27-fd3f-e063-772fd84e4539.htm">
+        <span data-tocFile="../toc/IDHAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Move<wbr />Selected<wbr />Rows</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ba772eea-6e08-d78f-464f-3f669bdeba00" href="ba772eea-6e08-d78f-464f-3f669bdeba00.htm">Remove<wbr />Selected<wbr />Items</a>
+    </li>
+    <li>
+      <a id="bb562c60-9840-472a-8a85-b57392838f0c" class="has-submenu" href="bb562c60-9840-472a-8a85-b57392838f0c.htm">
+        <span data-tocFile="../toc/IDJAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />All<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6c6ab687-2f92-8742-7d6c-a67504e12943" class="has-submenu" href="6c6ab687-2f92-8742-7d6c-a67504e12943.htm">
+        <span data-tocFile="../toc/IDKAATBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Show<wbr />Columns</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d208ae19-faed-ca5d-197d-eea418f34d53" href="d208ae19-faed-ca5d-197d-eea418f34d53.htm">To<wbr />Data<wbr />Table</a>
+    </li>
+    <li>
+      <a id="26da6714-ada3-dcca-24f8-966eea11f5c3" href="26da6714-ada3-dcca-24f8-966eea11f5c3.htm">To<wbr />List<wbr />View</a>
     </li>
   </tocItems>
 </toc>

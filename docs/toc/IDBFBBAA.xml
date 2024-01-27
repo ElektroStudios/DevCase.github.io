@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,18 +14,42 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+      <a href="4800357a-8a5e-e028-e4af-5af3192d88cd.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html</a>
     </li>
     <li>
-      <a href="f0d2d202-4163-c589-4fa8-63e039656618.htm">BBCode<wbr />Parse<wbr />Exception</a>
+      <a href="f4a0f7cb-b3bc-9b73-84ac-32d1d72061ea.htm">Url<wbr />Slug<wbr />Options</a>
     </li>
     <li>
-      <a href="88d30f3b-d26e-ada0-c624-42295bc4503a.htm">Properties</a>
+      <a href="595ebbb4-d574-8071-cbd2-7a57a38860c8.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="8322e0a2-5298-b997-e297-7edeb1f60fd4" href="8322e0a2-5298-b997-e297-7edeb1f60fd4.htm">Position</a>
+      <a id="48b49a4d-beb5-12a0-43a4-079cfb2e7afe" href="48b49a4d-beb5-12a0-43a4-079cfb2e7afe.htm">Allowed<wbr />Character<wbr />Ranges</a>
+    </li>
+    <li>
+      <a id="6a04f679-77fd-d11d-290d-55a154f8c573" href="6a04f679-77fd-d11d-290d-55a154f8c573.htm">Allowed<wbr />Unicode<wbr />Categories</a>
+    </li>
+    <li>
+      <a id="99ef6dbe-4b03-a590-7da6-31ee001bf260" href="99ef6dbe-4b03-a590-7da6-31ee001bf260.htm">Can<wbr />End<wbr />With<wbr />Separator</a>
+    </li>
+    <li>
+      <a id="7b79dc5f-82de-c378-c035-c839522ff523" href="7b79dc5f-82de-c378-c035-c839522ff523.htm">Culture</a>
+    </li>
+    <li>
+      <a id="a73f19dc-4b7c-473a-244e-88f58f98b427" href="a73f19dc-4b7c-473a-244e-88f58f98b427.htm">Early<wbr />Truncate</a>
+    </li>
+    <li>
+      <a id="06be9ae5-5f14-2c91-d453-8800051724a0" href="06be9ae5-5f14-2c91-d453-8800051724a0.htm">Maximum<wbr />Length</a>
+    </li>
+    <li>
+      <a id="9faf1230-1163-e1e3-4e22-938afcee2c32" href="9faf1230-1163-e1e3-4e22-938afcee2c32.htm">Separator</a>
+    </li>
+    <li>
+      <a id="fe1acb58-e681-b11b-e8b3-4d7007b4bf1e" href="fe1acb58-e681-b11b-e8b3-4d7007b4bf1e.htm">To<wbr />Lower</a>
+    </li>
+    <li>
+      <a id="9dada783-9429-19df-fa0c-383b7f279817" href="9dada783-9429-19df-fa0c-383b7f279817.htm">To<wbr />Upper</a>
     </li>
   </tocItems>
 </toc>

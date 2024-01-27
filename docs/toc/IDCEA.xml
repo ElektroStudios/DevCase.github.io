@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -16,8 +16,22 @@
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="b21afaf8-6d7d-093e-334c-25fbb8bda9ed" class="has-submenu" href="b21afaf8-6d7d-093e-334c-25fbb8bda9ed.htm">
+      <a id="14e63d13-4806-91f3-37ec-c3f1749e64d8" class="has-submenu" href="14e63d13-4806-91f3-37ec-c3f1749e64d8.htm">
         <span data-tocFile="../toc/IDACEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Message<wbr />Box</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9e7339f7-0984-a54b-bc3f-215ba578b4d0" class="has-submenu" href="9e7339f7-0984-a54b-bc3f-215ba578b4d0.htm">
+        <span data-tocFile="../toc/IDBCEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Open<wbr />File<wbr />Or<wbr />Folder<wbr />Dialog</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b21afaf8-6d7d-093e-334c-25fbb8bda9ed" class="has-submenu" href="b21afaf8-6d7d-093e-334c-25fbb8bda9ed.htm">
+        <span data-tocFile="../toc/IDCCEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Progress<wbr />Dialog</a>
       <ul class="toc-menu is-hidden"> </ul>
@@ -26,17 +40,10 @@
       <a id="81dfc43b-c1e7-ebd1-d714-32742733ede5" href="81dfc43b-c1e7-ebd1-d714-32742733ede5.htm">Dev<wbr />Progress<wbr />Dialog<wbr />Style</a>
     </li>
     <li>
-      <a id="b87afd42-545a-5069-b300-2d0da1143ceb" class="has-submenu" href="b87afd42-545a-5069-b300-2d0da1143ceb.htm">
-        <span data-tocFile="../toc/IDCCEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="c425bb01-5d3a-29ac-1c91-38bb257bd0fd" class="has-submenu" href="c425bb01-5d3a-29ac-1c91-38bb257bd0fd.htm">
+        <span data-tocFile="../toc/IDECEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Open<wbr />File<wbr />Or<wbr />Folder<wbr />Dialog</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="697354e5-38a0-f322-3673-8dcf822f791a" class="has-submenu" href="697354e5-38a0-f322-3673-8dcf822f791a.htm">
-        <span data-tocFile="../toc/IDDCEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Property<wbr />Grid<wbr />Input<wbr />Dialog</a>
+        </span>Dev<wbr />Property<wbr />Grid<wbr />Input<wbr />Dialog</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

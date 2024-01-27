@@ -2,47 +2,27 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="c6790ff3-f971-1446-f218-69a9620a72a4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Object<wbr />Extensions</a>
+      <a href="b2eca2cd-fd7f-3add-bace-dd96c10c702a.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Message<wbr />Extensions</a>
     </li>
     <li>
-      <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">Object<wbr />Extensions</a>
+      <a href="2c9682cb-8e24-0da7-7326-71b1a5292a84.htm">Message<wbr />Extensions</a>
     </li>
     <li>
-      <a href="7392ddd7-ccc0-f7b2-719f-5195fda48a09.htm">Methods</a>
+      <a href="e6cc27a1-e8f0-79cb-65e2-b882e24dd435.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="0f6b4099-e18f-58b6-cb00-3ba8041c9d7e" class="has-submenu" href="0f6b4099-e18f-58b6-cb00-3ba8041c9d7e.htm">
-        <span data-tocFile="../toc/IDAAA0JC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Can<wbr />Convert<wbr />To</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="f1045c42-4577-dc1b-62d5-3ec81f2092be" class="has-submenu" href="f1045c42-4577-dc1b-62d5-3ec81f2092be.htm">
-        <span data-tocFile="../toc/IDBAA0JC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Convert<wbr />To</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="7a25e94b-7ce9-651c-e9af-5724c9f4d408" href="7a25e94b-7ce9-651c-e9af-5724c9f4d408.htm">Deep<wbr />Clone&lt;T&gt;</a>
-    </li>
-    <li>
-      <a id="90e0095b-fa87-d162-71b4-0b19729ac296" href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">Is<wbr />Disposable</a>
-    </li>
-    <li>
-      <a id="df47292b-6f9a-27a0-95c7-e5d2ab528b1e" href="df47292b-6f9a-27a0-95c7-e5d2ab528b1e.htm">Shallow<wbr />Copy&lt;T&gt;</a>
+      <a id="5e9c8292-7e2f-f7a5-6389-90beecf3845e" href="5e9c8292-7e2f-f7a5-6389-90beecf3845e.htm">To<wbr />Native<wbr />Message</a>
     </li>
   </tocItems>
 </toc>

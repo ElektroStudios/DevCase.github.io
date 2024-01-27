@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="8ab07c8e-093e-f18c-7751-95870e4093d7.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Passwords</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a807ce0d-71d4-190e-f3c5-c575c7ed7d2a" class="has-submenu" href="a807ce0d-71d4-190e-f3c5-c575c7ed7d2a.htm">
+        <span data-tocFile="../toc/IDAEJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Memorable<wbr />Password<wbr />Options</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cd76a9b2-a1d7-f618-3118-e8548bf1440d" href="cd76a9b2-a1d7-f618-3118-e8548bf1440d.htm">Memorable<wbr />Password<wbr />String<wbr />Case</a>
+    </li>
+    <li>
+      <a id="9e8a5b3d-7e45-1eb4-8265-b63acd097fe8" class="has-submenu" href="9e8a5b3d-7e45-1eb4-8265-b63acd097fe8.htm">
+        <span data-tocFile="../toc/IDCEJAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Passwords</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

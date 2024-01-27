@@ -1,0 +1,886 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>DevTitleBar Properties</title>
+    <meta name="Title" content="Properties" />
+    <meta name="Help.Id" content="Properties.T:DevCase.UI.Controls.DevTitleBar" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="DevCase.UI.Controls" />
+    <meta name="guid" content="5013b1ac-3080-adcb-1866-8d0526dd4c8d" />
+    <meta name="tocFile" content="../toc/IDYBEA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="vb">VB</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="cpp">C++</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="fs">F#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="xaml">XAML</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <div id="HeaderPrelimContainer" class="level my-1 px-2">
+          <div id="HeaderTextContainer" class="level-left">
+            <div class="level-item">
+              <span class="has-text-grey-light">
+                <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+              </span>
+            </div>
+          </div>
+        </div>
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Dev<wbr />Title<wbr />Bar Properties</h1>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Properties</h2>
+            <div id="IDADASection">
+              <table id="PropertyList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <span class="noLink">AccessibilityObject</span>
+                  </td>
+                  <td>Gets the <span class="noLink">AccessibleObject</span> assigned to the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AccessibleDefaultActionDescription</span>
+                  </td>
+                  <td>Gets or sets the default action description of the control for use by accessibility client applications.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AccessibleDescription</span>
+                  </td>
+                  <td>Gets or sets the description of the control used by accessibility client applications.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AccessibleName</span>
+                  </td>
+                  <td>Gets or sets the name of the control used by accessibility client applications.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AccessibleRole</span>
+                  </td>
+                  <td>Gets or sets the accessible role of the control<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AllowDrop</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether drag-and-drop and item reordering are handled through events that you implement.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AllowItemReorder</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether drag-and-drop and item reordering are handled privately by the <span class="noLink">ToolStrip</span> class.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AllowMerge</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether multiple <span class="noLink">MenuStrip</span>, <span class="noLink">ToolStripDropDownMenu</span>, <span class="noLink">ToolStripMenuItem</span>, and other types can be combined.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="094d7dc3-741e-61a9-8b6c-4ce1511c9a32.htm">AlwaysOnTopBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Always On Top button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Anchor</span>
+                  </td>
+                  <td>Gets or sets the edges of the container to which a <span class="noLink">ToolStrip</span> is bound and determines how a <span class="noLink">ToolStrip</span> is resized with its parent.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AutoScrollMargin</span>
+                  </td>
+                  <td>Gets or sets the size of the auto-scroll margin.<br />(Inherited from <span class="noLink">ScrollableControl</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AutoScrollMinSize</span>
+                  </td>
+                  <td>Gets or sets the minimum size of the auto-scroll.<br />(Inherited from <span class="noLink">ScrollableControl</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AutoScrollOffset</span>
+                  </td>
+                  <td>Gets or sets where this control is scrolled to in <span class="noLink">ScrollControlIntoView(Control)</span>.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AutoScrollPosition</span>
+                  </td>
+                  <td>Gets or sets the location of the auto-scroll position.<br />(Inherited from <span class="noLink">ScrollableControl</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">AutoSize</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the control is automatically resized to display its entire contents.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">BackColor</span>
+                  </td>
+                  <td>Gets or sets the background color for the <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">BackgroundImage</span>
+                  </td>
+                  <td>Gets or sets the background image displayed in the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">BackgroundImageLayout</span>
+                  </td>
+                  <td>Gets or sets the background image layout as defined in the <span class="noLink">ImageLayout</span> enumeration.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">BindingContext</span>
+                  </td>
+                  <td>Gets or sets the binding context for the <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Bottom</span>
+                  </td>
+                  <td>Gets the distance, in pixels, between the bottom edge of the control and the top edge of its container's client area.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Bounds</span>
+                  </td>
+                  <td>Gets or sets the size and location of the control including its nonclient elements, in pixels, relative to the parent control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">CanFocus</span>
+                  </td>
+                  <td>Gets a value indicating whether the control can receive focus.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">CanOverflow</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the <span class="noLink">MenuStrip</span> supports overflow functionality.<br />(Inherited from <span class="noLink">MenuStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">CanSelect</span>
+                  </td>
+                  <td>Gets a value indicating whether the control can be selected.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Capture</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the control has captured the mouse.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">CausesValidation</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the <span class="noLink">ToolStrip</span> causes validation to be performed on any controls that require validation when it receives focus.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ClientRectangle</span>
+                  </td>
+                  <td>Gets the rectangle that represents the client area of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ClientSize</span>
+                  </td>
+                  <td>Gets or sets the height and width of the client area of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="bd656056-b1cb-6539-9743-9c514788857f.htm">CollapseBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Collapse/Expand button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">CompanyName</span>
+                  </td>
+                  <td>Gets the name of the company or creator of the application containing the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Container</span>
+                  </td>
+                  <td>Gets the <span class="noLink">IContainer</span> that contains the <span class="noLink">Component</span>.<br />(Inherited from <span class="noLink">Component</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ContainsFocus</span>
+                  </td>
+                  <td>Gets a value indicating whether the control, or one of its child controls, currently has the input focus.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ContextMenu</span>
+                  </td>
+                  <td>Gets or sets the shortcut menu associated with the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ContextMenuStrip</span>
+                  </td>
+                  <td>Gets or sets the <span class="noLink">ContextMenuStrip</span> associated with this control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Controls</span>
+                  </td>
+                  <td>Gets the collection of controls contained within the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Created</span>
+                  </td>
+                  <td>Gets a value indicating whether the control has been created.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Cursor</span>
+                  </td>
+                  <td>Gets or sets the cursor that is displayed when the mouse pointer is over the <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">DataBindings</span>
+                  </td>
+                  <td>Gets the data bindings for the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">DefaultDropDownDirection</span>
+                  </td>
+                  <td>Gets or sets a value representing the default direction in which a <span class="noLink">ToolStripDropDown</span> control is displayed relative to the <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">DeviceDpi</span>
+                  </td>
+                  <td>Gets the DPI value for the display device where the control is currently being displayed.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">DisplayRectangle</span>
+                  </td>
+                  <td>Retrieves the current display rectangle.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Disposing</span>
+                  </td>
+                  <td>Gets a value indicating whether the base <span class="noLink">Control</span> class is in the process of disposing.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Dock</span>
+                  </td>
+                  <td>Gets or sets which <span class="noLink">ToolStrip</span> borders are docked to its parent control and determines how a <span class="noLink">ToolStrip</span> is resized with its parent.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Enabled</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the control can respond to user interaction.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Focused</span>
+                  </td>
+                  <td>Gets a value indicating whether the control has input focus.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Font</span>
+                  </td>
+                  <td>Gets or sets the font used to display text in the control.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7dda115e-3667-6a14-a715-9a4dc3c63bb0.htm">ForeColor</a>
+                  </td>
+                  <td>
+ Gets or sets the foreground color of this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">GripDisplayStyle</span>
+                  </td>
+                  <td>Gets the orientation of the <span class="noLink">ToolStrip</span> move handle.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">GripMargin</span>
+                  </td>
+                  <td>Gets or sets the space around the <span class="noLink">ToolStrip</span> move handle.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">GripRectangle</span>
+                  </td>
+                  <td>Gets the boundaries of the <span class="noLink">ToolStrip</span> move handle.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">GripStyle</span>
+                  </td>
+                  <td>Gets or sets the visibility of the grip used to reposition the control.<br />(Inherited from <span class="noLink">MenuStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Handle</span>
+                  </td>
+                  <td>Gets the window handle that the control is bound to.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">HasChildren</span>
+                  </td>
+                  <td>Gets a value indicating whether the control contains one or more child controls.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Height</span>
+                  </td>
+                  <td>Gets or sets the height of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">HorizontalScroll</span>
+                  </td>
+                  <td>Gets the characteristics associated with the horizontal scroll bar.<br />(Inherited from <span class="noLink">ScrollableControl</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="30f4be26-f7ba-b9f6-1d01-b9efd83ed361.htm">Icon</a>
+                  </td>
+                  <td>
+ Gets or sets the icon for this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ImageList</span>
+                  </td>
+                  <td>Gets or sets the image list that contains the image displayed on a <span class="noLink">ToolStrip</span> item.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ImageScalingSize</span>
+                  </td>
+                  <td>Gets or sets the size, in pixels, of an image used on a <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ImeMode</span>
+                  </td>
+                  <td>Gets or sets the Input Method Editor (IME) mode of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">InvokeRequired</span>
+                  </td>
+                  <td>Gets a value indicating whether the caller must call an invoke method when making method calls to the control because the caller is on a different thread than the one the control was created on.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsAccessible</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the control is visible to accessibility applications.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="2073ecb7-a22b-bff9-d537-9a260dfef8ef.htm">IsCollapsed</a>
+                  </td>
+                  <td>
+ Gets a value indicating whether the owner form is collapsed.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsCurrentlyDragging</span>
+                  </td>
+                  <td>Gets a value indicating whether the user is currently moving the <span class="noLink">ToolStrip</span> from one <span class="noLink">ToolStripContainer</span> to another.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsDisposed</span>
+                  </td>
+                  <td>Gets a value indicating whether the control has been disposed of.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsDropDown</span>
+                  </td>
+                  <td>Gets a value indicating whether a <span class="noLink">ToolStrip</span> is a <span class="noLink">ToolStripDropDown</span> control.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsHandleCreated</span>
+                  </td>
+                  <td>Gets a value indicating whether the control has a handle associated with it.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">IsMirrored</span>
+                  </td>
+                  <td>Gets a value indicating whether the control is mirrored.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="64e2a5fc-8fe5-5cb6-d469-d8f1e7324169.htm">IsMuted</a>
+                  </td>
+                  <td>
+ Gets a value indicating whether the sound of the owner form is muted.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Items</span>
+                  </td>
+                  <td>Gets all the items that belong to a <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">LayoutEngine</span>
+                  </td>
+                  <td>Passes a reference to the cached <span class="noLink">LayoutEngine</span> returned by the layout engine interface.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">LayoutSettings</span>
+                  </td>
+                  <td>Gets or sets layout scheme characteristics.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">LayoutStyle</span>
+                  </td>
+                  <td>Gets or sets a value indicating how the <span class="noLink">ToolStrip</span> lays out the items collection.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="3cca31e3-f0f9-3806-51ac-4049052d6b3e.htm">Left</a>
+                  </td>
+                  <td>
+ Gets the distance, in pixels, between the left edge of this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control 
+ and the left edge of its container's client area.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Location</span>
+                  </td>
+                  <td>Gets or sets the coordinates of the upper-left corner of the control relative to the upper-left corner of its container.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Margin</span>
+                  </td>
+                  <td>Gets or sets the space between controls.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c7ccd7b8-1e61-0bdc-8d88-14ade242ba55.htm">MaximizeBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Maximize button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">MaximumSize</span>
+                  </td>
+                  <td>Gets or sets the size that is the upper limit that <span class="noLink">GetPreferredSize(Size)</span> can specify.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">MdiWindowListItem</span>
+                  </td>
+                  <td>Gets or sets the <span class="noLink">ToolStripMenuItem</span> that is used to display a list of Multiple-document interface (MDI) child forms.<br />(Inherited from <span class="noLink">MenuStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4640a920-784b-0433-838b-2fc6dcd93045.htm">MinimizeBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Minimize button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e5e04b5a-f5e6-608f-ee56-a36ccbce0929.htm">MinimizeToSysTrayBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Minimize to System Tray button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">MinimumSize</span>
+                  </td>
+                  <td>Gets or sets the size that is the lower limit that <span class="noLink">GetPreferredSize(Size)</span> can specify.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="95511cda-6ffc-8dd1-a708-a97a82df04a5.htm">MuteBox</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether the Mute/Unmute button is displayed in this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Name</span>
+                  </td>
+                  <td>Gets or sets the name of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Orientation</span>
+                  </td>
+                  <td>Gets the orientation of the <span class="noLink">ToolStripPanel</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">OverflowButton</span>
+                  </td>
+                  <td>Gets the <span class="noLink">ToolStripItem</span> that is the overflow button for a <span class="noLink">ToolStrip</span> with overflow enabled.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="933723c0-49da-d397-6f97-eed5b79ca8fd.htm">OwnerForm</a>
+                  </td>
+                  <td>
+ Gets the owner <span class="noLink">Form</span> of this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Padding</span>
+                  </td>
+                  <td>Gets or sets padding within the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Parent</span>
+                  </td>
+                  <td>Gets or sets the parent container of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">PreferredSize</span>
+                  </td>
+                  <td>Gets the size of a rectangular area into which the control can fit.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ProductName</span>
+                  </td>
+                  <td>Gets the product name of the assembly containing the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ProductVersion</span>
+                  </td>
+                  <td>Gets the version of the assembly containing the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">RecreatingHandle</span>
+                  </td>
+                  <td>Gets a value indicating whether the control is currently re-creating its handle.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Region</span>
+                  </td>
+                  <td>Gets or sets the window region associated with the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Renderer</span>
+                  </td>
+                  <td>Gets or sets a <span class="noLink">ToolStripRenderer</span> used to customize the look and feel of a <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">RenderMode</span>
+                  </td>
+                  <td>Gets or sets a value that indicates which visual styles will be applied to the <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="5188fb1c-01ed-0e91-cb16-8e6c52959bd1.htm">ResizeEnabled</a>
+                  </td>
+                  <td>
+ Gets or sets a value indicating whether resize is enabled on the owner form.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Right</span>
+                  </td>
+                  <td>Gets the distance, in pixels, between the right edge of the control and the left edge of its container's client area.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">RightToLeft</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether control's elements are aligned to support locales using right-to-left fonts.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">ShowItemToolTips</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether ToolTips are shown for the <span class="noLink">MenuStrip</span>.<br />(Inherited from <span class="noLink">MenuStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Site</span>
+                  </td>
+                  <td>Gets or sets the site of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Size</span>
+                  </td>
+                  <td>Gets or sets the height and width of the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Stretch</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the <span class="noLink">MenuStrip</span> stretches from end to end in its container.<br />(Inherited from <span class="noLink">MenuStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">TabIndex</span>
+                  </td>
+                  <td>Gets or sets the tab order of the control within its container.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">TabStop</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the user can give the focus to an item in the <span class="noLink">ToolStrip</span> using the TAB key.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Tag</span>
+                  </td>
+                  <td>Gets or sets the object that contains data about the control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Text</span>
+                  </td>
+                  <td>Gets or sets the text associated with this control.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">TextDirection</span>
+                  </td>
+                  <td>Gets or sets the direction in which to draw text on a <span class="noLink">ToolStrip</span>.<br />(Inherited from <span class="noLink">ToolStrip</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="025519de-5d2d-6f6c-1613-50e072fcf4e9.htm">Top</a>
+                  </td>
+                  <td>
+ Gets the distance, in pixels, between the top edge of this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control 
+ and the top edge of its container's client area.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">TopLevelControl</span>
+                  </td>
+                  <td>Gets the parent control that is not parented by another Windows Forms control. Typically, this is the outermost <span class="noLink">Form</span> that the control is contained in.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">UseWaitCursor</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether to use the wait cursor for the current control and all child controls.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">VerticalScroll</span>
+                  </td>
+                  <td>Gets the characteristics associated with the vertical scroll bar.<br />(Inherited from <span class="noLink">ScrollableControl</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <span class="noLink">Visible</span>
+                  </td>
+                  <td>Gets or sets a value indicating whether the control and all its child controls are displayed.<br />(Inherited from <span class="noLink">Control</span>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4bbc0952-c907-9f23-2e3a-21d43bd98038.htm">Width</a>
+                  </td>
+                  <td>
+ Gets the width of this <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar</a> control.
+ </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">DevTitleBar Class</a>
+              </div>
+              <div>
+                <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">DevCase.UI.Controls Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Properties</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <footer id="PageFooter" class="footer border-top py-3 fixedFooter">
+        <div class="columns">
+          <div class="column">
+            <div style="text-align: left;">
+  <a href="..\index.html">🏠 Home</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.back()">⬅️ Back</a>
+  <span style="margin: 0 5px;">|</span>
+  <a href="javascript:history.forward()">➡️ Forward</a>
+</div>
+            <p>ElektroStudios 2024</p>
+            <div class="feedbackLink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
+        <script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        </script> 
+				</div>
+          <div class="column"> 
+				</div>
+        </div>
+      </footer>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("vb");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script>
+  </body>
+</html>

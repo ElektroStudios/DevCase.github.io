@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,21 +20,18 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="a3af00c1-a2a0-53a4-e7dd-2d37ef08880a.htm">Get<wbr />Window<wbr />Rect</a>
+      <a href="cc577042-5ecd-e827-0d88-abd66ef3e713.htm">Get<wbr />Window<wbr />Long</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="eab28a75-cb2e-2584-81e3-c051c61706a0" href="eab28a75-cb2e-2584-81e3-c051c61706a0.htm">Get<wbr />Window<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
+      <a id="71eb15f1-b359-c087-85f2-286da9b148ec" href="71eb15f1-b359-c087-85f2-286da9b148ec.htm">Get<wbr />Window<wbr />Long(<wbr />Handle<wbr />Ref, Window<wbr />Long<wbr />Values)</a>
     </li>
     <li>
-      <a id="9c97aaf1-d2f7-30a2-e4d4-f66619ca8966" href="9c97aaf1-d2f7-30a2-e4d4-f66619ca8966.htm">Get<wbr />Window<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle)</a>
+      <a id="5a7ea05f-04d8-f91d-eecd-2b3ecc14e418" href="5a7ea05f-04d8-f91d-eecd-2b3ecc14e418.htm">Get<wbr />Window<wbr />Long(<wbr />Int<wbr />Ptr, Window<wbr />Long<wbr />Values)</a>
     </li>
     <li>
-      <a id="41fc661c-5fb9-d325-b479-dfb7f6a57547" href="41fc661c-5fb9-d325-b479-dfb7f6a57547.htm">Get<wbr />Window<wbr />Rect(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
-    </li>
-    <li>
-      <a id="6981fa66-d294-beca-c134-4e85ed64e043" href="6981fa66-d294-beca-c134-4e85ed64e043.htm">Get<wbr />Window<wbr />Rect(<wbr />Safe<wbr />Handle, Rectangle)</a>
+      <a id="3010f75a-87a1-4ca3-f90e-fce71ffc67bf" href="3010f75a-87a1-4ca3-f90e-fce71ffc67bf.htm">Get<wbr />Window<wbr />Long(<wbr />Safe<wbr />Handle, Window<wbr />Long<wbr />Values)</a>
     </li>
   </tocItems>
 </toc>

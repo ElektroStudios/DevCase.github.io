@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="b5f5756d-2410-026a-a330-d964f86d50c4.htm">Formattable<wbr />String</a>
+    </li>
+    <li>
+      <a href="d115f2e5-1d9c-bdca-b1a6-9731e3959b9e.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7f6fff8e-86fe-9610-28c9-df7e18c3a357.htm">To<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="59afe7c0-cd7a-6912-24e4-b445583441ce" href="59afe7c0-cd7a-6912-24e4-b445583441ce.htm">To<wbr />String</a>
+    </li>
+    <li>
+      <a id="452af799-22ef-2af9-380f-378687f595aa" href="452af799-22ef-2af9-380f-378687f595aa.htm">To<wbr />String(<wbr />IFormat<wbr />Provider)</a>
+    </li>
+  </tocItems>
+</toc>

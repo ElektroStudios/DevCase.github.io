@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,21 +20,15 @@
       <a href="f53f00b8-7a1d-e647-da12-124ddf5a0a00.htm">Methods</a>
     </li>
     <li>
-      <a href="a65acf94-c8ff-db79-f78d-e4fff18b3a2a.htm">Rect<wbr />Visible</a>
+      <a href="ebfcb7f9-fac2-d1c9-8d05-2312109ca33c.htm">Rect<wbr />In<wbr />Region</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="779c6651-96c9-5839-0e3d-49ec43a4d302" href="779c6651-96c9-5839-0e3d-49ec43a4d302.htm">Rect<wbr />Visible(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
+      <a id="4eb87991-ee83-2ee6-65df-d40b5591972e" href="4eb87991-ee83-2ee6-65df-d40b5591972e.htm">Rect<wbr />In<wbr />Region(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
     </li>
     <li>
-      <a id="1c990e6b-a14b-57c9-c31a-076ba6a6a373" href="1c990e6b-a14b-57c9-c31a-076ba6a6a373.htm">Rect<wbr />Visible(<wbr />Int<wbr />Ptr, Rectangle)</a>
-    </li>
-    <li>
-      <a id="1317ac9f-e18b-b4aa-a1c5-7366a667a8c4" href="1317ac9f-e18b-b4aa-a1c5-7366a667a8c4.htm">Rect<wbr />Visible(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
-    </li>
-    <li>
-      <a id="12e38470-ac5f-a67f-2d4a-eb4051bace04" href="12e38470-ac5f-a67f-2d4a-eb4051bace04.htm">Rect<wbr />Visible(<wbr />Safe<wbr />Handle, Rectangle)</a>
+      <a id="9b025fca-d372-4fac-5316-3b0fff0826ae" href="9b025fca-d372-4fac-5316-3b0fff0826ae.htm">Rect<wbr />In<wbr />Region(<wbr />Int<wbr />Ptr, Rectangle)</a>
     </li>
   </tocItems>
 </toc>

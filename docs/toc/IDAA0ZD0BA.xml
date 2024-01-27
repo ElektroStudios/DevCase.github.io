@@ -2,36 +2,37 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="e25034be-20b7-d276-2915-65ff817d3646.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Xml<wbr />Document<wbr />Extensions</a>
+      <a href="137d7e98-9ed8-edc4-3457-16ebfa2fa820.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Web<wbr />Browser<wbr />Extensions</a>
     </li>
     <li>
-      <a href="09be8592-6b18-e135-52ea-de1dbcb4becf.htm">Xml<wbr />Document<wbr />Extensions</a>
+      <a href="d077a340-96cc-f883-a23e-d07bac302551.htm">Web<wbr />Browser<wbr />Extensions</a>
     </li>
     <li>
-      <a href="86230202-5d42-9421-de78-1602ac57ec42.htm">Methods</a>
+      <a href="ad5dfa83-d1f0-618f-40e7-a70aba6534c7.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="84b77a37-9492-6acd-ffb7-ff402b1857fd" href="84b77a37-9492-6acd-ffb7-ff402b1857fd.htm">Distinct<wbr />By<wbr />Element</a>
+      <a id="1f708065-68bf-d7ca-cbe4-12d3dd61ba0f" href="1f708065-68bf-d7ca-cbe4-12d3dd61ba0f.htm">Get<wbr />Cookie<wbr />Collection</a>
     </li>
     <li>
-      <a id="f0f06d90-49a0-7787-1e86-abd8f5e7ddb2" href="f0f06d90-49a0-7787-1e86-abd8f5e7ddb2.htm">Get<wbr />XPaths</a>
+      <a id="c19e7b0d-5e47-732a-ae10-88023a276226" href="c19e7b0d-5e47-732a-ae10-88023a276226.htm">Get<wbr />Cookie<wbr />Container</a>
     </li>
     <li>
-      <a id="ddd18b46-3960-6b34-4680-f5e396f898c0" href="ddd18b46-3960-6b34-4680-f5e396f898c0.htm">Sort<wbr />By<wbr />Element</a>
-    </li>
-    <li>
-      <a id="2fb47e53-443e-008a-0eac-95bafee4db20" href="2fb47e53-443e-008a-0eac-95bafee4db20.htm">To<wbr />XDocument</a>
+      <a id="9b4ec52e-4961-4e89-1b89-155acb9d2ea4" class="has-submenu" href="9b4ec52e-4961-4e89-1b89-155acb9d2ea4.htm">
+        <span data-tocFile="../toc/IDCAA0ZD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Navigate<wbr />And<wbr />Wait</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
 </toc>

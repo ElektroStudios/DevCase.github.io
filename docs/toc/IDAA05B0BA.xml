@@ -2,27 +2,73 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="4facb987-364e-5b22-7e75-6783a7a657ca.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />View<wbr />Group<wbr />Collection<wbr />Extensions</a>
+      <a href="db01d629-8e98-54df-0596-db3767b0d3c2.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Integer<wbr />Extensions</a>
     </li>
     <li>
-      <a href="68685538-e8c7-bbc2-e7cc-7936f2815a9a.htm">List<wbr />View<wbr />Group<wbr />Collection<wbr />Extensions</a>
+      <a href="a4615d16-7c1a-6004-f24e-a9ddd37558c1.htm">Integer<wbr />Extensions</a>
     </li>
     <li>
-      <a href="e703bf50-76b8-a991-f0f4-11440b55be8f.htm">Methods</a>
+      <a href="e28cda6e-1723-5cb3-e37f-0ceed39c63dc.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="ce868ea6-58dd-c81d-83eb-2f5c83f71fa6" href="ce868ea6-58dd-c81d-83eb-2f5c83f71fa6.htm">As<wbr />Enumerable</a>
+      <a id="c875d4c5-49a0-cfc6-3334-b74a521fc69b" href="c875d4c5-49a0-cfc6-3334-b74a521fc69b.htm">Difference<wbr />Of</a>
+    </li>
+    <li>
+      <a id="0ceadc77-1b7a-393d-28d4-04efe681bd57" class="has-submenu" href="0ceadc77-1b7a-393d-28d4-04efe681bd57.htm">
+        <span data-tocFile="../toc/IDBAA05B0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Formatted</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="722d2d47-a45c-7ad8-61da-93700c498298" href="722d2d47-a45c-7ad8-61da-93700c498298.htm">Fraction<wbr />By</a>
+    </li>
+    <li>
+      <a id="5f2b8411-1138-c484-441b-f17f25e34491" href="5f2b8411-1138-c484-441b-f17f25e34491.htm">Is<wbr />Divisible<wbr />By</a>
+    </li>
+    <li>
+      <a id="448a327e-bd90-75a3-1fcf-7dc399cc4dca" href="448a327e-bd90-75a3-1fcf-7dc399cc4dca.htm">Is<wbr />Even</a>
+    </li>
+    <li>
+      <a id="46372064-49b0-1116-da5b-1387e1ea2248" href="46372064-49b0-1116-da5b-1387e1ea2248.htm">Is<wbr />In<wbr />Range<wbr />Of</a>
+    </li>
+    <li>
+      <a id="5570fc33-1dcb-b39f-106a-72f72f3aaa46" href="5570fc33-1dcb-b39f-106a-72f72f3aaa46.htm">Is<wbr />Multiple<wbr />Of</a>
+    </li>
+    <li>
+      <a id="1b410a23-e45a-783d-0e5d-c5deffa99bc1" href="1b410a23-e45a-783d-0e5d-c5deffa99bc1.htm">Is<wbr />Negative</a>
+    </li>
+    <li>
+      <a id="c89e181b-6e6e-9e05-33ea-b25e65b570c6" href="c89e181b-6e6e-9e05-33ea-b25e65b570c6.htm">Is<wbr />Odd</a>
+    </li>
+    <li>
+      <a id="505071d8-9d1a-008a-0e66-81caaa2b74de" href="505071d8-9d1a-008a-0e66-81caaa2b74de.htm">Is<wbr />Positive</a>
+    </li>
+    <li>
+      <a id="f814c34a-412b-19f8-34e8-78493e02e275" href="f814c34a-412b-19f8-34e8-78493e02e275.htm">Is<wbr />Prime</a>
+    </li>
+    <li>
+      <a id="c8cb416c-2d88-c16d-0b91-f312b4673dbd" href="c8cb416c-2d88-c16d-0b91-f312b4673dbd.htm">Percentage<wbr />Of</a>
+    </li>
+    <li>
+      <a id="dcf70702-ecf0-0f45-7c16-467492da1859" href="dcf70702-ecf0-0f45-7c16-467492da1859.htm">To<wbr />CSharp<wbr />Hex</a>
+    </li>
+    <li>
+      <a id="63e826c4-bd89-57a0-f22d-61d7c587b0e1" href="63e826c4-bd89-57a0-f22d-61d7c587b0e1.htm">To<wbr />Int<wbr />Ptr</a>
+    </li>
+    <li>
+      <a id="b542e7dc-a295-78fb-614f-d2787edf7409" href="b542e7dc-a295-78fb-614f-d2787edf7409.htm">To<wbr />VBHex</a>
     </li>
   </tocItems>
 </toc>

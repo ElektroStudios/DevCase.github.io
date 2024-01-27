@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="15c1b176-20f8-e7d3-78a7-6203ac442a48.htm">Get<wbr />Monitor<wbr />Info</a>
+      <a href="aac1d886-ebd5-4a74-e4f9-2dfa515ad29b.htm">Get<wbr />Message</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="ab9e439e-6f1a-b367-b4c1-9f40a4d25f3c" href="ab9e439e-6f1a-b367-b4c1-9f40a4d25f3c.htm">Get<wbr />Monitor<wbr />Info(<wbr />Int<wbr />Ptr, Monitor<wbr />Info)</a>
+      <a id="ed9e3db1-536a-b946-9925-1845c781216f" href="ed9e3db1-536a-b946-9925-1845c781216f.htm">Get<wbr />Message(<wbr />Native<wbr />Message, Int<wbr />Ptr, UInt<wbr />32, UInt<wbr />32)</a>
     </li>
     <li>
-      <a id="15063ba2-50e5-991f-6602-950806cc444b" href="15063ba2-50e5-991f-6602-950806cc444b.htm">Get<wbr />Monitor<wbr />Info(<wbr />Int<wbr />Ptr, Monitor<wbr />Info<wbr />Ex)</a>
+      <a id="345b8570-5614-3655-901d-60bf75aac6e5" href="345b8570-5614-3655-901d-60bf75aac6e5.htm">Get<wbr />Message(<wbr />Native<wbr />Message, Handle<wbr />Ref, UInt<wbr />32, UInt<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

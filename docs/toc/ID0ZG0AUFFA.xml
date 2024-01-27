@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="ffbb659c-eb4c-19e3-8845-571e70efa84e.htm">Register<wbr />Hot<wbr />Key</a>
+      <a href="98e51845-60cc-cc60-1c13-c6356af3af17.htm">Query<wbr />Display<wbr />Config</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="e882cec8-880d-43c8-4626-e0370b8cecd1" href="e882cec8-880d-43c8-4626-e0370b8cecd1.htm">Register<wbr />Hot<wbr />Key(<wbr />Int<wbr />Ptr, Int<wbr />32, UInt<wbr />32, UInt<wbr />32)</a>
+      <a id="b76f23dd-4865-03fb-37ec-8c8f0096327f" href="b76f23dd-4865-03fb-37ec-8c8f0096327f.htm">Query<wbr />Display<wbr />Config(<wbr />Query<wbr />Display<wbr />Config<wbr />Flags, UInt<wbr />32, Display<wbr />Config<wbr />Path<wbr />Info[], UInt<wbr />32, Display<wbr />Config<wbr />Mode<wbr />Info[], Display<wbr />Config<wbr />Topology<wbr />Id)</a>
     </li>
     <li>
-      <a id="93a4ea72-4625-97ab-b60c-83970ce3fbb7" href="93a4ea72-4625-97ab-b60c-83970ce3fbb7.htm">Register<wbr />Hot<wbr />Key(<wbr />Safe<wbr />Handle, Int<wbr />32, UInt<wbr />32, UInt<wbr />32)</a>
+      <a id="8deeee1c-97c6-6354-802f-6c2375a2ea1a" href="8deeee1c-97c6-6354-802f-6c2375a2ea1a.htm">Query<wbr />Display<wbr />Config(<wbr />Query<wbr />Display<wbr />Config<wbr />Flags, UInt<wbr />32, Display<wbr />Config<wbr />Path<wbr />Info[], UInt<wbr />32, Display<wbr />Config<wbr />Mode<wbr />Info[], Int<wbr />Ptr)</a>
     </li>
   </tocItems>
 </toc>

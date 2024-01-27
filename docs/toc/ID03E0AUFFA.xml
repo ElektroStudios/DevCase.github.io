@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="bf16674a-4555-fd44-3bd1-b1b97ab08e12.htm">Inflate<wbr />Rect</a>
+      <a href="32b41348-15aa-6507-ada7-39c775f51f90.htm">Get<wbr />Window<wbr />Thread<wbr />Process<wbr />Id</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="0c136a07-5742-01a7-49ba-93bb576a7817" href="0c136a07-5742-01a7-49ba-93bb576a7817.htm">Inflate<wbr />Rect(<wbr />Native<wbr />Rectangle, Int<wbr />32, Int<wbr />32)</a>
+      <a id="f0c2ad80-ff67-d45f-1821-f6e1686af78d" href="f0c2ad80-ff67-d45f-1821-f6e1686af78d.htm">Get<wbr />Window<wbr />Thread<wbr />Process<wbr />Id(<wbr />Int<wbr />Ptr, Int<wbr />32)</a>
     </li>
     <li>
-      <a id="f1aebaf4-81a7-85af-1016-d897411656f0" href="f1aebaf4-81a7-85af-1016-d897411656f0.htm">Inflate<wbr />Rect(<wbr />Rectangle, Int<wbr />32, Int<wbr />32)</a>
+      <a id="bbde0689-bdd7-3754-a719-7adbd72c921a" href="bbde0689-bdd7-3754-a719-7adbd72c921a.htm">Get<wbr />Window<wbr />Thread<wbr />Process<wbr />Id(<wbr />Safe<wbr />Handle, Int<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,32 +14,29 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+      <a href="e0369eb4-e8c9-a51a-4e41-d32f59e3eff5.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Reg<wbr />Ex</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="99480abc-3f7c-7227-cf5c-9ff975ed7df9" class="has-submenu" href="99480abc-3f7c-7227-cf5c-9ff975ed7df9.htm">
+      <a id="2dfebbba-0a2b-5db8-1ae0-4454a0144450" class="has-submenu" href="2dfebbba-0a2b-5db8-1ae0-4454a0144450.htm">
         <span data-tocFile="../toc/IDAFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Texfile<wbr />Lines</a>
+        </span>Match<wbr />Position<wbr />Info</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="8bbd2329-5bdf-4f0b-1958-4cb334aef779" href="8bbd2329-5bdf-4f0b-1958-4cb334aef779.htm">Text<wbr />Direction</a>
+      <a id="ed3b6ceb-84b5-16bc-7e72-d43644eae3a8" class="has-submenu" href="ed3b6ceb-84b5-16bc-7e72-d43644eae3a8.htm">
+        <span data-tocFile="../toc/IDBFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Util<wbr />Reg<wbr />Ex</a>
+      <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="afbf7a01-e7c4-6b6d-c5d9-62b72815ceb9" class="has-submenu" href="afbf7a01-e7c4-6b6d-c5d9-62b72815ceb9.htm">
+      <a id="c8810e1a-c236-43ff-52c5-3b9d3d6499aa" class="has-submenu" href="c8810e1a-c236-43ff-52c5-3b9d3d6499aa.htm">
         <span data-tocFile="../toc/IDCFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Text<wbr />File<wbr />Stream</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="69f87eab-167b-1813-636b-3493b628d94c" class="has-submenu" href="69f87eab-167b-1813-636b-3493b628d94c.htm">
-        <span data-tocFile="../toc/IDDFBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Util<wbr />Text<wbr />Files</a>
+        </span>Util<wbr />Reg<wbr />Ex.<wbr />Patterns</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

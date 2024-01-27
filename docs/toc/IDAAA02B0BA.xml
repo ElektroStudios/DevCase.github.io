@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="be49c302-ccc9-38da-02b8-be8c4f49ec85.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IGrouping<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="2047ee71-fa4f-5601-f2c7-722af5024e3f.htm">IGrouping<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="61cbd8e2-80b9-e1fa-aed5-8f9a973d7851.htm">Methods</a>
+    </li>
+    <li>
+      <a href="aea13193-0dd4-adb3-17b4-d5bcc5956661.htm">Join<wbr />By<wbr />First<wbr />Group<wbr />Element</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f1c67276-2973-962b-d3ed-e190ae2a2b54" href="f1c67276-2973-962b-d3ed-e190ae2a2b54.htm">Join<wbr />By<wbr />First<wbr />Group<wbr />Element&lt;T, TKey&gt;(<wbr />IEnumerable&lt;IGrouping&lt;TKey, T&gt;&gt;)</a>
+    </li>
+    <li>
+      <a id="56eba278-3813-5522-d84b-d6fe106f61df" href="56eba278-3813-5522-d84b-d6fe106f61df.htm">Join<wbr />By<wbr />First<wbr />Group<wbr />Element&lt;T, TKey&gt;(<wbr />IEnumerable&lt;IGrouping&lt;TKey, T&gt;&gt;, Func&lt;T, Boolean&gt;)</a>
+    </li>
+  </tocItems>
+</toc>

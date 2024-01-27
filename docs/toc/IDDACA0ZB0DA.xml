@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
+    </li>
+    <li>
+      <a href="e0238f2f-0237-d0c6-bb2a-2f6dd52e46c6.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client Namespaces</a>
+    </li>
+    <li>
+      <a href="3c996b88-ef40-be7c-fcca-9beaba87ef18.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client</a>
+    </li>
+    <li>
+      <a href="ce1d7467-f85f-4119-5e95-5f8eb6af6b56.htm">WTelegram<wbr />Client<wbr />Helper</a>
+    </li>
+    <li>
+      <a href="4404362a-dba4-7d7e-4f9a-ada3305e7dae.htm">Methods</a>
+    </li>
+    <li>
+      <a href="4dd3253e-d38f-e9b4-fc43-360b6dca9fb2.htm">Forward<wbr />Message<wbr />Async</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2c6519e3-8181-3b2d-3853-2d8caf04a222" href="2c6519e3-8181-3b2d-3853-2d8caf04a222.htm">Forward<wbr />Message<wbr />Async(<wbr />Client, Message, Input<wbr />Peer, Input<wbr />Peer, Boolean)</a>
+    </li>
+    <li>
+      <a id="047bc824-3e06-b7fb-6b8d-a55dcc338085" href="047bc824-3e06-b7fb-6b8d-a55dcc338085.htm">Forward<wbr />Message<wbr />Async(<wbr />Client, Message, Input<wbr />Peer, Channel, Boolean, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

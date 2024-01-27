@@ -26,7 +26,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>IMeta<wbr />Collection<span id="LSTA5310336_0" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="typeparameter">T</span><span id="LSTA5310336_1" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span> Interface</h1>
             <div class="summary">
@@ -108,22 +109,22 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">DevCase.Core.Math.Combinatorics</a><br /><strong>Assembly:</strong> DevCase.Core.Math.Combinatorics (in DevCase.Core.Math.Combinatorics.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="identifier">IMetaCollection</span>&lt;T&gt; : <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a>&lt;T&gt;&gt;
+              <strong>Namespace:</strong> <a href="0d285c1b-bb1e-4700-acf1-a2fb9825fa81.htm">DevCase.Core.Math.Combinatorics</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="identifier">IMetaCollection</span>&lt;T&gt; : <span class="noLink">IEnumerable</span>&lt;<span class="noLink">IList</span>&lt;T&gt;&gt;
 </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb"><span class="keyword">Public</span> <span class="keyword">Interface</span> <span class="identifier">IMetaCollection</span>(<span class="keyword">Of</span> T)
-	<span class="keyword">Inherits</span> <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a>(<span class="keyword">Of</span> <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a>(<span class="keyword">Of</span> T))
+	<span class="keyword">Inherits</span> <span class="noLink">IEnumerable</span>(<span class="keyword">Of</span> <span class="noLink">IList</span>(<span class="keyword">Of</span> T))
 
 <span class="keyword">Dim</span> <span class="parameter">instance</span> <span class="keyword">As</span> <span class="identifier">IMetaCollection</span>(<span class="keyword">Of</span> T)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">generic</span>&lt;<span class="keyword">typename</span> T&gt;
-<span class="keyword">public</span> <span class="keyword">interface class</span> <span class="identifier">IMetaCollection</span> : <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a>&lt;T&gt;^&gt;</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">type</span> <span class="identifier">IMetaCollection</span>&lt;'T&gt; = 
+<span class="keyword">public</span> <span class="keyword">interface class</span> <span class="identifier">IMetaCollection</span> : <span class="noLink">IEnumerable</span>&lt;<span class="noLink">IList</span>&lt;T&gt;^&gt;</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs"><span class="keyword">type</span> <span class="identifier">IMetaCollection</span>&lt;'T&gt; = 
     <span class="keyword">interface</span>
-        <span class="keyword">interface</span> <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a>&lt;'T&gt;&gt;
-    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="implementsList"><dt>Implements</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a><span id="LSTA5310336_2" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a><span id="LSTA5310336_3" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="selflink"><span class="typeparameter">T</span></span><span id="LSTA5310336_4" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span><span id="LSTA5310336_5" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dd></dl><h4>Type Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">T</span></dt><dd>
+        <span class="keyword">interface</span> <span class="noLink">IEnumerable</span>&lt;<span class="noLink">IList</span>&lt;'T&gt;&gt;
+    <span class="keyword">end</span></code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><dl class="implementsList"><dt>Implements</dt><dd><span class="noLink">IEnumerable</span><span id="LSTA5310336_2" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="noLink">IList</span><span id="LSTA5310336_3" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="selflink"><span class="typeparameter">T</span></span><span id="LSTA5310336_4" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span><span id="LSTA5310336_5" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dd></dl><h4>Type Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">T</span></dt><dd>
  The of the elements in the collection, not the type of the collection.
  </dd></dl></div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Properties</h2>
-            <div id="ID0LB0GASection">
+            <div id="ID0RB0GASection">
               <table id="PropertyList" class="table is-hoverable">
                 <tr>
                   <td>
@@ -132,7 +133,7 @@
                   <td>
  The count of items in the collection.
  <p />
- This is not inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.icollection" target="_top" rel="noopener noreferrer">ICollection</a> since this meta-collection cannot be extended by users.
+ This is not inherited from <span class="noLink">ICollection</span> since this meta-collection cannot be extended by users.
  </td>
                 </tr>
                 <tr>
@@ -165,13 +166,13 @@
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
               </span>Methods</h2>
-            <div id="ID0KB0GASection">
+            <div id="ID0QB0GASection">
               <table id="MethodList" class="table is-hoverable">
                 <tr>
                   <td>
-                    <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1.getenumerator#system-collections-generic-ienumerable-1-getenumerator" target="_top" rel="noopener noreferrer">GetEnumerator</a>
+                    <span class="noLink">GetEnumerator</span>
                   </td>
-                  <td>Returns an enumerator that iterates through the collection.<br />(Inherited from <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable</a><span id="LSTA5310336_6" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1" target="_top" rel="noopener noreferrer">IList</a><span id="LSTA5310336_7" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="selflink"><span class="typeparameter">T</span></span><span id="LSTA5310336_8" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span><span id="LSTA5310336_9" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>)</td>
+                  <td>Returns an enumerator that iterates through the collection.<br />(Inherited from <span class="noLink">IEnumerable</span><span id="LSTA5310336_6" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="noLink">IList</span><span id="LSTA5310336_7" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="selflink"><span class="typeparameter">T</span></span><span id="LSTA5310336_8" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span><span id="LSTA5310336_9" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>)</td>
                 </tr>
               </table>
             </div>
@@ -194,7 +195,7 @@
                     <a href="bcb9d9ba-3fbd-9584-d214-d6fe0c420636.htm">AsReadOnly<span id="LSTA5310336_14" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_15" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_16" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_17" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Returns a read-only <a href="https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.readonlycollection-1" target="_top" rel="noopener noreferrer">ReadOnlyCollection<span id="LSTA5310336_18" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_19" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> wrapper 
+ Returns a read-only <span class="noLink">ReadOnlyCollection<span id="LSTA5310336_18" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_19" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> wrapper 
  for the specified collection.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -203,7 +204,7 @@
                     <a href="72b48c60-fd57-e7d8-fdac-e1fc7e9ba39e.htm">CountEmptyItems<span id="LSTA5310336_20" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_21" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_22" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_23" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Counts the empty items of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_24" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_25" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Counts the empty items of the source <span class="noLink">IEnumerable<span id="LSTA5310336_24" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_25" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -211,7 +212,7 @@
                     <a href="50f5b043-3b85-dfb0-e0c2-4c9fd5c7eefe.htm">CountNonEmptyItems<span id="LSTA5310336_26" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_27" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_28" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_29" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Counts the non-empty items of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_30" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_31" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Counts the non-empty items of the source <span class="noLink">IEnumerable<span id="LSTA5310336_30" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_31" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -235,7 +236,7 @@
                     <a href="e87cce2f-54b5-42af-15a9-e417bc6b525c.htm">Duplicates<span id="LSTA5310336_40" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_41" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_42" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_43" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Gets all the duplicated values of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_44" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_45" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Gets all the duplicated values of the source <span class="noLink">IEnumerable<span id="LSTA5310336_44" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_45" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -243,7 +244,7 @@
                     <a href="4b041d73-2cd1-faea-6223-d237eed36443.htm">ForEach<span id="LSTA5310336_46" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_47" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_48" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_49" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Performs the specified action on each element of the <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_50" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_51" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Performs the specified action on each element of the <span class="noLink">IEnumerable<span id="LSTA5310336_50" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_51" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -251,7 +252,7 @@
                     <a href="06444eab-6425-55c8-e5bd-b5a556326aac.htm">GetRandomItem<span id="LSTA5310336_52" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_53" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_54" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_55" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Gets a random element from the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_56" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_57" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Gets a random element from the source <span class="noLink">IEnumerable<span id="LSTA5310336_56" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_57" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -269,7 +270,7 @@
                   </td>
                   <td>
  Groups the elements of a sequence according to a specified key selector function 
- and returns a <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2" target="_top" rel="noopener noreferrer">Dictionary<span id="LSTA5310336_66" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>TKey, TValue<span id="LSTA5310336_67" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> dictionary on which 
+ and returns a <span class="noLink">Dictionary<span id="LSTA5310336_66" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>TKey, TValue<span id="LSTA5310336_67" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> dictionary on which 
  {.key = element} and {.value = element count}.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -288,7 +289,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_76" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_77" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_76" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_77" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -297,7 +298,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_82" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_83" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_82" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_83" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -306,7 +307,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_88" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_89" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_88" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_89" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -315,7 +316,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_94" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_95" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_94" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_95" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -324,7 +325,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_100" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_101" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_100" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_101" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -333,7 +334,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based index of the first occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_106" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_107" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_106" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_107" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -342,7 +343,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_112" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_113" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_112" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_113" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -351,7 +352,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_118" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_119" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_118" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_119" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -360,7 +361,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_124" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_125" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_124" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_125" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -369,7 +370,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_130" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_131" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_130" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_131" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -378,7 +379,7 @@
                   </td>
                   <td>
  Searches for the specified object pattern and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_136" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_137" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_136" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_137" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -387,7 +388,7 @@
                   </td>
                   <td>
  Searches for the specified object and returns the zero-based indices of all the occurrence within the 
- entire <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_142" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_143" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ entire <span class="noLink">IEnumerable<span id="LSTA5310336_142" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_143" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -403,7 +404,7 @@
                     <a href="ff064d29-6ce5-3da5-8884-c1f26b81d20e.htm">Randomize<span id="LSTA5310336_148" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_149" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_150" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_151" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Randomizes the elements of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_152" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_153" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Randomizes the elements of the source <span class="noLink">IEnumerable<span id="LSTA5310336_152" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_153" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -411,7 +412,7 @@
                     <a href="9d4fc370-2fad-05c4-32f7-fabcede2fb5d.htm">RemoveDuplicates<span id="LSTA5310336_154" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_155" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_156" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_157" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Removes duplicated values in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_158" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_159" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Removes duplicated values in the source <span class="noLink">IEnumerable<span id="LSTA5310336_158" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_159" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -419,7 +420,7 @@
                     <a href="8a44cdaa-9c85-5a73-57c6-4a34255e6fad.htm">RemoveDuplicates<span id="LSTA5310336_160" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_161" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_162" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_163" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Removes duplicated values in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_164" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_165" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Removes duplicated values in the source <span class="noLink">IEnumerable<span id="LSTA5310336_164" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_165" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -427,7 +428,7 @@
                     <a href="2e3dc4be-b595-9234-54d0-a3a33823dcf9.htm">RemoveSequence<span id="LSTA5310336_166" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_167" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_168" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_169" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_170" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_171" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_170" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_171" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and removes any occurrences.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -436,7 +437,7 @@
                     <a href="f0211f8f-bda2-d0ee-ad1f-d140eba969cd.htm">RemoveSequence<span id="LSTA5310336_172" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_173" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_174" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_175" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_176" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_177" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_176" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_177" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and removes any occurrences.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -445,7 +446,7 @@
                     <a href="4e4fd913-7142-3603-8717-0a3f22dad733.htm">RemoveSequence<span id="LSTA5310336_178" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_179" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_180" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_181" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_182" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_183" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_182" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_183" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and removes any occurrences.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -454,7 +455,7 @@
                     <a href="51d75001-93c1-1080-c79d-fb0f6ed06a70.htm">ReplaceSequence<span id="LSTA5310336_184" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_185" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_186" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_187" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_188" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_189" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_188" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_189" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and replace any occurrences with the specified replacement.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -463,7 +464,7 @@
                     <a href="08382dcc-a46f-3a9b-ab4a-ce8d13c9db83.htm">ReplaceSequence<span id="LSTA5310336_190" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_191" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_192" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_193" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_194" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_195" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_194" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_195" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and replace any occurrences with the specified replacement.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -472,7 +473,7 @@
                     <a href="c86f15f8-05b3-3801-c3f4-a0555e304fd1.htm">ReplaceSequence<span id="LSTA5310336_196" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_197" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_198" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_199" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Searches for the specified pattern of elements in the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_200" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_201" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> 
+ Searches for the specified pattern of elements in the source <span class="noLink">IEnumerable<span id="LSTA5310336_200" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_201" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
  and replace any occurrences with the specified replacement.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
@@ -481,7 +482,7 @@
                     <a href="271d91f1-9590-07b3-38aa-429c7d1727a5.htm">SplitIntoNumberOfElements<span id="LSTA5310336_202" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_203" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_204" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_205" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Splits the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_206" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_207" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> into secuences with the specified amount of elements.
+ Splits the source <span class="noLink">IEnumerable<span id="LSTA5310336_206" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_207" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> into secuences with the specified amount of elements.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -489,7 +490,7 @@
                     <a href="02f1be15-0b37-74ea-bf9c-518eea8ddc1e.htm">SplitIntoNumberOfElements<span id="LSTA5310336_208" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_209" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_210" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_211" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Splits the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_212" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_213" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> into secuences with the specified amount of elements.
+ Splits the source <span class="noLink">IEnumerable<span id="LSTA5310336_212" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_213" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> into secuences with the specified amount of elements.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
@@ -497,28 +498,78 @@
                     <a href="97ecf732-4587-f14b-e5ef-779e01be120d.htm">SplitIntoParts<span id="LSTA5310336_214" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_215" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_216" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_217" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Splits the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_218" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_219" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> into the specified amount of secuences.
+ Splits the source <span class="noLink">IEnumerable<span id="LSTA5310336_218" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_219" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> into the specified amount of secuences.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="15045ebe-73ec-73ad-53a8-83d4b2888336.htm">ToArray<span id="LSTA5310336_220" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_221" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_222" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_223" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="408934f7-4571-36a5-67af-d8361bd3fe4a.htm">TakeUntil<span id="LSTA5310336_220" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_221" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_222" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_223" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Creates an array from an <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_224" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_225" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> using the specified transform function.
+ Returns elements from a sequence until a specified condition is true.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="7c991fb6-6875-f2f9-bc17-6e973ba29e5e.htm">ToList<span id="LSTA5310336_226" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_227" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_228" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_229" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="15045ebe-73ec-73ad-53a8-83d4b2888336.htm">ToArray<span id="LSTA5310336_224" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_225" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_226" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_227" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Creates a <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1" target="_top" rel="noopener noreferrer">List<span id="LSTA5310336_230" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_231" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> from an <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_232" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_233" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> using the specified transform function.
+ Creates an array from an <span class="noLink">IEnumerable<span id="LSTA5310336_228" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_229" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> using the specified transform function.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="d0b1b7fb-850b-1ff5-6169-8e867f0a2b18.htm">ToTreeString<span id="LSTA5310336_234" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_235" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_236" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_237" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="686f9905-9473-87c0-3bef-15300fa80fc3.htm">ToHtmlTable<span id="LSTA5310336_230" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_231" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_232" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_233" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Generic approach to convert a <span class="noLink">IEnumerable<span id="LSTA5310336_234" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_235" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> to an HTML table string representation.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7c991fb6-6875-f2f9-bc17-6e973ba29e5e.htm">ToList<span id="LSTA5310336_236" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_237" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_238" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_239" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Creates a <span class="noLink">List<span id="LSTA5310336_240" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_241" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> from an <span class="noLink">IEnumerable<span id="LSTA5310336_242" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_243" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> using the specified transform function.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="14f3fe1b-cd83-1d52-c45d-2f58747f9b7b.htm">ToObservableCollection<span id="LSTA5310336_244" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_245" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_246" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_247" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Creates a <span class="noLink">ObservableCollection<span id="LSTA5310336_248" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_249" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> from an <span class="noLink">IEnumerable<span id="LSTA5310336_250" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_251" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4daa75e4-49d0-532a-d569-038394e6df02.htm">ToObservableCollection<span id="LSTA5310336_252" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_253" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_254" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_255" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Creates a <span class="noLink">ObservableCollection<span id="LSTA5310336_256" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_257" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> from an <span class="noLink">IEnumerable<span id="LSTA5310336_258" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_259" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
+ using the specified transform function.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="bd4389fd-4ee7-a77b-b45b-c85c7417c08d.htm">ToSortableObservableCollection<span id="LSTA5310336_260" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_261" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_262" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_263" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Creates a <a href="7d8139c0-f185-0e9d-9369-af4e678984b2.htm">SortableObservableCollection<span id="LSTA5310336_264" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_265" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> from an <span class="noLink">IEnumerable<span id="LSTA5310336_266" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_267" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c7361377-424c-8d46-7170-2cb75635670b.htm">ToSortableObservableCollection<span id="LSTA5310336_268" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_269" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_270" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_271" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                  </td>
+                  <td>
+ Creates a <a href="7d8139c0-f185-0e9d-9369-af4e678984b2.htm">SortableObservableCollection<span id="LSTA5310336_272" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_273" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> from an <span class="noLink">IEnumerable<span id="LSTA5310336_274" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_275" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> 
+ using the specified transform function.
+ <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d0b1b7fb-850b-1ff5-6169-8e867f0a2b18.htm">ToTreeString<span id="LSTA5310336_276" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_277" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_278" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_279" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
  Transforms an array of string into a string with tree formatting.
@@ -526,18 +577,18 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="10baf16a-43b5-6606-0f6c-f2da334061d1.htm">UniqueDuplicates<span id="LSTA5310336_238" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_239" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_240" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_241" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="10baf16a-43b5-6606-0f6c-f2da334061d1.htm">UniqueDuplicates<span id="LSTA5310336_280" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_281" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_282" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_283" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Gets the unique duplicated values of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_242" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_243" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Gets the unique duplicated values of the source <span class="noLink">IEnumerable<span id="LSTA5310336_284" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_285" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
                 <tr>
                   <td>
-                    <a href="06fabc02-8f33-09c4-0077-4efd54bb148a.htm">Uniques<span id="LSTA5310336_244" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_245" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_246" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_247" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
+                    <a href="06fabc02-8f33-09c4-0077-4efd54bb148a.htm">Uniques<span id="LSTA5310336_286" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>IList<span id="LSTA5310336_287" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|fs=&lt;'|nu=("></span>T<span id="LSTA5310336_288" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span><span id="LSTA5310336_289" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|fs=&gt;|nu=)"></span></a>
                   </td>
                   <td>
- Gets the unique values of the source <a href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1" target="_top" rel="noopener noreferrer">IEnumerable<span id="LSTA5310336_248" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_249" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a>.
+ Gets the unique values of the source <span class="noLink">IEnumerable<span id="LSTA5310336_290" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTA5310336_291" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span>.
  <br />(Defined by <a href="1a698e91-c7d1-7032-8782-6ef02b7a6e85.htm">IEnumerableExtensions</a>)</td>
                 </tr>
               </table>
@@ -589,9 +640,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -622,7 +673,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

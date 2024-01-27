@@ -25,7 +25,7 @@
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -85,7 +85,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -94,6 +94,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Enums Namespace</h1>
             <div class="summary"> </div>
@@ -260,6 +261,16 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="bfc6039e-836a-4f26-1f7a-b1cf2c40ac6d.htm">ClassLongValues</a>
+                  </td>
+                  <td>
+ Specifies the values used in <a href="dc532445-9445-bce8-460a-f3e4412ae876.htm">GetClassLong(IntPtr, ClassLongValues)</a> / <a href="2aa7ff05-ffaa-397c-5082-375cf65b9050.htm">GetClassLongPtr(IntPtr, ClassLongValues)</a> 
+ and <a href="24c5df83-2efd-1355-2f9e-8a849624b8f7.htm">SetClassLong(IntPtr, ClassLongValues, UInt32)</a> / <a href="102fca76-7db1-655d-047e-073f4ffe725f.htm">SetClassLongPtr(IntPtr, ClassLongValues, IntPtr)</a> functions 
+ to access or modify various attributes of a window class.
+ </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="cbfec852-bc18-65c1-3729-e86db8596fc8.htm">ClipBoxComplexity</a>
                   </td>
                   <td>
@@ -353,7 +364,7 @@
                   <td>
  Specifies the file or device flags for the <a href="4c279059-6d21-48f1-fabd-e5a9fd291e4f.htm">CreateFile(String, FileAccessRights, FileShare, IntPtr, FileMode, CreateFileFlags, IntPtr)</a> function.
  <p />
- These flags can be combined with any value of the <a href="https://learn.microsoft.com/dotnet/api/system.io.fileattributes" target="_top" rel="noopener noreferrer">FileAttributes</a> enumeration. 
+ These flags can be combined with any value of the <span class="noLink">FileAttributes</span> enumeration. 
  </td>
                 </tr>
                 <tr>
@@ -566,10 +577,66 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="21b55e2c-73cf-d68c-ec74-51ec6a4bbb6d.htm">DrawEdgeFlags</a>
+                  </td>
+                  <td>
+ Flags for specifying border behavior for <a href="5c3ee0d7-bfad-817f-12b0-aed14a3a8e75.htm">DrawEdge(IntPtr, NativeRectangle<span id="LSTC54FEC26_49" data-languageSpecificText="cpp=%"></span>, DrawEdgeType, DrawEdgeFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="fdcc1d45-72f0-54ad-cfd5-b988a7f256d7.htm">DrawEdgeType</a>
+                  </td>
+                  <td>
+ Specifies 3D edge / border styles for <a href="5c3ee0d7-bfad-817f-12b0-aed14a3a8e75.htm">DrawEdge(IntPtr, NativeRectangle<span id="LSTC54FEC26_50" data-languageSpecificText="cpp=%"></span>, DrawEdgeType, DrawEdgeFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="d9418faf-acd2-8e57-bdcf-044281156113.htm">DrawFrameControlButtonFlags</a>
+                  </td>
+                  <td>
+ Specifies the type of a button frame control to be drawn using <a href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">DrawFrameControl(IntPtr, Rectangle<span id="LSTC54FEC26_51" data-languageSpecificText="cpp=%"></span>, DrawFrameControlType, DrawFrameControlButtonFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="1911d40f-d4e3-d3c3-6648-6efd5866e7f3.htm">DrawFrameControlCaptionType</a>
+                  </td>
+                  <td>
+ Specifies the type of a caption or popup menu frame control to be drawn using <a href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">DrawFrameControl(IntPtr, Rectangle<span id="LSTC54FEC26_52" data-languageSpecificText="cpp=%"></span>, DrawFrameControlType, DrawFrameControlButtonFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="4847ca4d-63ce-92a1-48e3-e6bfe489f20c.htm">DrawFrameControlMenuType</a>
+                  </td>
+                  <td>
+ Specifies the type of a menu frame control to be drawn using <a href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">DrawFrameControl(IntPtr, Rectangle<span id="LSTC54FEC26_53" data-languageSpecificText="cpp=%"></span>, DrawFrameControlType, DrawFrameControlButtonFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="5dd22df5-e264-7080-be56-762176d7ec62.htm">DrawFrameControlScrollFlags</a>
+                  </td>
+                  <td>
+ Specifies the type and flags of a scroll bar frame control to be drawn using <a href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">DrawFrameControl(IntPtr, Rectangle<span id="LSTC54FEC26_54" data-languageSpecificText="cpp=%"></span>, DrawFrameControlType, DrawFrameControlButtonFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="af4b56d3-5554-f8bf-19b5-cd5f508d244a.htm">DrawFrameControlType</a>
+                  </td>
+                  <td>
+ Specifies the type of frame control to be drawn using <a href="d0720672-8745-02bc-f7fd-3dfd2588c2d9.htm">DrawFrameControl(IntPtr, Rectangle<span id="LSTC54FEC26_55" data-languageSpecificText="cpp=%"></span>, DrawFrameControlType, DrawFrameControlButtonFlags)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="4e8f8600-81be-2063-b53d-d553a863edfb.htm">DuplicateHandleOptions</a>
                   </td>
                   <td>
- Specifies optional actions for <a href="5e7d202d-71a4-1ceb-72f9-8698013665ec.htm">DuplicateHandle(IntPtr, IntPtr, IntPtr, IntPtr<span id="LSTC54FEC26_49" data-languageSpecificText="cpp=%"></span>, GenericAccessRights, Boolean, DuplicateHandleOptions)</a> function.
+ Specifies optional actions for <a href="5e7d202d-71a4-1ceb-72f9-8698013665ec.htm">DuplicateHandle(IntPtr, IntPtr, IntPtr, IntPtr<span id="LSTC54FEC26_56" data-languageSpecificText="cpp=%"></span>, GenericAccessRights, Boolean, DuplicateHandleOptions)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -585,7 +652,7 @@
                     <a href="d6f48733-87dc-edb1-5a0c-e437ddeb31d2.htm">DwmIconicLivePreviewFlags</a>
                   </td>
                   <td>
- Specifies the display options for the thumbnail set by <a href="a0ade232-47f1-8e45-c862-0177e5386618.htm">DwmSetIconicLivePreviewBitmap(IntPtr, SafeBitmapHandle, NativePoint<span id="LSTC54FEC26_50" data-languageSpecificText="cpp=%"></span>, DwmIconicLivePreviewFlags)</a> function.
+ Specifies the display options for the thumbnail set by <a href="a0ade232-47f1-8e45-c862-0177e5386618.htm">DwmSetIconicLivePreviewBitmap(IntPtr, SafeBitmapHandle, NativePoint<span id="LSTC54FEC26_57" data-languageSpecificText="cpp=%"></span>, DwmIconicLivePreviewFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -631,7 +698,7 @@
                   <td>
  Defines constants that indicate the current state of an audio session.
  <p />
- The <a href="a666d297-982f-8074-beaf-913e0bca8f40.htm">GetState(EAudioSessionState<span id="LSTC54FEC26_51" data-languageSpecificText="cpp=%"></span>)</a> and <a href="ef9af62b-7f5d-7953-da79-017943b717e3.htm">OnStateChanged(EAudioSessionState)</a> functions 
+ The <a href="a666d297-982f-8074-beaf-913e0bca8f40.htm">GetState(EAudioSessionState<span id="LSTC54FEC26_58" data-languageSpecificText="cpp=%"></span>)</a> and <a href="ef9af62b-7f5d-7953-da79-017943b717e3.htm">OnStateChanged(EAudioSessionState)</a> functions 
  use the constants defined in the <a href="5c99809d-0556-e271-cb9d-c2b0664f4de0.htm">EAudioSessionState</a> enumeration.
  </td>
                 </tr>
@@ -642,7 +709,7 @@
                   <td>
  Defines constants that indicate the direction in which audio data flows between an audio endpoint device and an application.
  <p />
- The <a href="83a80df1-3045-1c34-8efc-e9c7e98d273a.htm">GetDefaultAudioEndpoint(EDataFlow, ERole, IMMDevice<span id="LSTC54FEC26_52" data-languageSpecificText="cpp=%"></span>)</a>, 
+ The <a href="83a80df1-3045-1c34-8efc-e9c7e98d273a.htm">GetDefaultAudioEndpoint(EDataFlow, ERole, IMMDevice<span id="LSTC54FEC26_59" data-languageSpecificText="cpp=%"></span>)</a>, 
  IMMDeviceEnumerator.EnumAudioEndpoints, 
  IMMEndpoint.GetDataFlow, and IMMNotificationClient.OnDefaultDeviceChanged methods 
  use the constants defined in the <a href="1603d0b6-29e4-c3d9-df79-63a8ce4c9cdb.htm">EDataFlow</a> enumeration.
@@ -655,7 +722,7 @@
                   <td>
  Indicate the current state of an audio endpoint device.
  <p />
- The <a href="98d3347b-1f5b-4fb4-7deb-b8e636b7e15f.htm">GetState(EDeviceState<span id="LSTC54FEC26_53" data-languageSpecificText="cpp=%"></span>)</a> function use the constants defined in the <a href="2e3fd981-fcbd-9710-cfe7-35b6eea0e300.htm">EDeviceState</a> enumeration.
+ The <a href="98d3347b-1f5b-4fb4-7deb-b8e636b7e15f.htm">GetState(EDeviceState<span id="LSTC54FEC26_60" data-languageSpecificText="cpp=%"></span>)</a> function use the constants defined in the <a href="2e3fd981-fcbd-9710-cfe7-35b6eea0e300.htm">EDeviceState</a> enumeration.
  </td>
                 </tr>
                 <tr>
@@ -673,7 +740,7 @@
                     <a href="6a4161fb-abca-a528-71dc-7c0b47c836df.htm">EnumDisplaySettingsMode</a>
                   </td>
                   <td>
- For <span class="code">modeNum</span> parameter of <a href="bf210651-39ac-ccd7-9554-171a1c6aa954.htm">EnumDisplaySettings(String, EnumDisplaySettingsMode, DevMode<span id="LSTC54FEC26_54" data-languageSpecificText="cpp=%"></span>)</a> function.
+ For <span class="code">modeNum</span> parameter of <a href="bf210651-39ac-ccd7-9554-171a1c6aa954.htm">EnumDisplaySettings(String, EnumDisplaySettingsMode, DevMode<span id="LSTC54FEC26_61" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -681,7 +748,7 @@
                     <a href="601a0fae-f08f-bee9-760f-2b612e8a7192.htm">EnumProcessModulesFilter</a>
                   </td>
                   <td>
- Filter for <a href="6fed3f06-0c71-729b-c54d-864e7d03d969.htm">EnumProcessModulesEx(IntPtr, <span id="LSTC54FEC26_55" data-languageSpecificText="cpp=array&lt;"></span>IntPtr<span id="LSTC54FEC26_56" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32, UInt32<span id="LSTC54FEC26_57" data-languageSpecificText="cpp=%"></span>, EnumProcessModulesFilter)</a> function.
+ Filter for <a href="6fed3f06-0c71-729b-c54d-864e7d03d969.htm">EnumProcessModulesEx(IntPtr, <span id="LSTC54FEC26_62" data-languageSpecificText="cpp=array&lt;"></span>IntPtr<span id="LSTC54FEC26_63" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32, UInt32<span id="LSTC54FEC26_64" data-languageSpecificText="cpp=%"></span>, EnumProcessModulesFilter)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -689,7 +756,7 @@
                     <a href="018cc821-76b2-9fb3-0e1c-51c6fb25d4b4.htm">EnumSystemCodePagesFlags</a>
                   </td>
                   <td>
- Flags specifying the locale identifiers to enumerate when calling <a href="a48029c0-f2dd-c8c4-1837-a8dedb584564.htm">EnumSystemCodePages(Delegates<span id="LSTC54FEC26_58" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>EnumCodePagesProc, EnumSystemCodePagesFlags)</a> function.
+ Flags specifying the locale identifiers to enumerate when calling <a href="a48029c0-f2dd-c8c4-1837-a8dedb584564.htm">EnumSystemCodePages(Delegates<span id="LSTC54FEC26_65" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>EnumCodePagesProc, EnumSystemCodePagesFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -697,7 +764,7 @@
                     <a href="adb60411-7bac-c368-b830-8308c7c6b647.htm">EnumSystemLocalesFlags</a>
                   </td>
                   <td>
- Flags specifying the locale identifiers to enumerate when calling <a href="72e36cd1-001e-75cd-a1bb-a44ccbff7b40.htm">EnumSystemLocales(Delegates<span id="LSTC54FEC26_59" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>EnumLocalesProc, EnumSystemLocalesFlags)</a> function.
+ Flags specifying the locale identifiers to enumerate when calling <a href="72e36cd1-001e-75cd-a1bb-a44ccbff7b40.htm">EnumSystemLocales(Delegates<span id="LSTC54FEC26_66" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>EnumLocalesProc, EnumSystemLocalesFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -707,7 +774,7 @@
                   <td>
  Defines constants that indicate the role that the system has assigned to an audio endpoint device.
  <p />
- The <a href="83a80df1-3045-1c34-8efc-e9c7e98d273a.htm">GetDefaultAudioEndpoint(EDataFlow, ERole, IMMDevice<span id="LSTC54FEC26_60" data-languageSpecificText="cpp=%"></span>)</a> and 
+ The <a href="83a80df1-3045-1c34-8efc-e9c7e98d273a.htm">GetDefaultAudioEndpoint(EDataFlow, ERole, IMMDevice<span id="LSTC54FEC26_67" data-languageSpecificText="cpp=%"></span>)</a> and 
  IMMNotificationClient.OnDefaultDeviceChanged methods use the constants defined in the <a href="ff1030f2-b266-fdb5-1575-d5e6c743ff70.htm">ERole</a> enumeration.
  </td>
                 </tr>
@@ -718,7 +785,7 @@
                   <td>
  Defines constants that specifies whether to open a <a href="ebc8fc9a-2ef4-e0d2-00ee-fbb238316b78.htm">IPropertyStore</a> in read mode, write mode, or read/write mode.
  <p />
- The <a href="9c97ba60-d110-af43-65ee-999315a686b0.htm">OpenPropertyStore(EStgmAccess, IPropertyStore<span id="LSTC54FEC26_61" data-languageSpecificText="cpp=%"></span>)</a> function use the constants defined in the <a href="ff77a275-b79b-eb1e-9581-d5eb6f0542e3.htm">EStgmAccess</a> enumeration.
+ The <a href="9c97ba60-d110-af43-65ee-999315a686b0.htm">OpenPropertyStore(EStgmAccess, IPropertyStore<span id="LSTC54FEC26_68" data-languageSpecificText="cpp=%"></span>)</a> function use the constants defined in the <a href="ff77a275-b79b-eb1e-9581-d5eb6f0542e3.htm">EStgmAccess</a> enumeration.
  </td>
                 </tr>
                 <tr>
@@ -761,7 +828,7 @@
                   <td>
  Specifies how to use the application-defined rectangle.
  <p />
- For <a href="4dfc3c15-873b-efd2-9205-cf68d6904b56.htm">ExtTextOut(IntPtr, Int32, Int32, ExtTextOutOptions, NativeRectangle<span id="LSTC54FEC26_62" data-languageSpecificText="cpp=%"></span>, String, UInt32, <span id="LSTC54FEC26_63" data-languageSpecificText="cpp=array&lt;"></span>Int32<span id="LSTC54FEC26_64" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a> function.
+ For <a href="4dfc3c15-873b-efd2-9205-cf68d6904b56.htm">ExtTextOut(IntPtr, Int32, Int32, ExtTextOutOptions, NativeRectangle<span id="LSTC54FEC26_69" data-languageSpecificText="cpp=%"></span>, String, UInt32, <span id="LSTC54FEC26_70" data-languageSpecificText="cpp=array&lt;"></span>Int32<span id="LSTC54FEC26_71" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -822,7 +889,7 @@
                   <td>
  Specifies the formatting options for a message.
  <p />
- For <a href="7343a710-688f-9105-0023-795b5e56c8c5.htm">FormatMessage(FormatMessageFlags, IntPtr, UInt32, UInt32, IntPtr<span id="LSTC54FEC26_65" data-languageSpecificText="cpp=%"></span>, UInt32, <span id="LSTC54FEC26_66" data-languageSpecificText="cpp=array&lt;"></span>String<span id="LSTC54FEC26_67" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a> function.
+ For <a href="7343a710-688f-9105-0023-795b5e56c8c5.htm">FormatMessage(FormatMessageFlags, IntPtr, UInt32, UInt32, IntPtr<span id="LSTC54FEC26_72" data-languageSpecificText="cpp=%"></span>, UInt32, <span id="LSTC54FEC26_73" data-languageSpecificText="cpp=array&lt;"></span>String<span id="LSTC54FEC26_74" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -887,7 +954,7 @@
                     <a href="ea90bff3-da2d-8df6-81c1-5149523ee70b.htm">GetIconLocationFlags</a>
                   </td>
                   <td>
- Flags used by <a href="9f93a016-fbb4-0f1a-6f8d-ebe06c44b4c9.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_68" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_69" data-languageSpecificText="cpp=%"></span>)</a> and <a href="197328bc-01a1-a027-9dce-3f6852c4cd4d.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_70" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_71" data-languageSpecificText="cpp=%"></span>)</a> functions.
+ Flags used by <a href="9f93a016-fbb4-0f1a-6f8d-ebe06c44b4c9.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_75" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_76" data-languageSpecificText="cpp=%"></span>)</a> and <a href="197328bc-01a1-a027-9dce-3f6852c4cd4d.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_77" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_78" data-languageSpecificText="cpp=%"></span>)</a> functions.
  </td>
                 </tr>
                 <tr>
@@ -895,7 +962,7 @@
                     <a href="6a9cf860-126c-c4ed-905c-d7f4773e2eb7.htm">GetIconLocationResultFlags</a>
                   </td>
                   <td>
- Flags used by <a href="9f93a016-fbb4-0f1a-6f8d-ebe06c44b4c9.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_72" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_73" data-languageSpecificText="cpp=%"></span>)</a> and <a href="197328bc-01a1-a027-9dce-3f6852c4cd4d.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_74" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_75" data-languageSpecificText="cpp=%"></span>)</a> functions.
+ Flags used by <a href="9f93a016-fbb4-0f1a-6f8d-ebe06c44b4c9.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_79" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_80" data-languageSpecificText="cpp=%"></span>)</a> and <a href="197328bc-01a1-a027-9dce-3f6852c4cd4d.htm">GetIconLocation(GetIconLocationFlags, StringBuilder, Int32, Int32<span id="LSTC54FEC26_81" data-languageSpecificText="cpp=%"></span>, GetIconLocationResultFlags<span id="LSTC54FEC26_82" data-languageSpecificText="cpp=%"></span>)</a> functions.
  </td>
                 </tr>
                 <tr>
@@ -903,7 +970,7 @@
                     <a href="4c7c0b8c-2520-2f64-3e36-4fe8cd4ecba2.htm">GetModuleHandleExFlags</a>
                   </td>
                   <td>
- Specifies the flags for <a href="175bd525-9ce5-d5fe-83df-eb89114d491a.htm">GetModuleHandleEx(GetModuleHandleExFlags, String, IntPtr<span id="LSTC54FEC26_76" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies the flags for <a href="175bd525-9ce5-d5fe-83df-eb89114d491a.htm">GetModuleHandleEx(GetModuleHandleExFlags, String, IntPtr<span id="LSTC54FEC26_83" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -911,7 +978,7 @@
                     <a href="fd6adfdc-77d8-c1e8-e097-985bd14083f0.htm">GetMouseMovePointsResolution</a>
                   </td>
                   <td>
- Indicate how to retrieve mouse poitns when calling <a href="85eb75bb-c2bb-9283-e76d-b72df8a78cce.htm">GetMouseMovePointsEx(UInt32, MouseMovePoint<span id="LSTC54FEC26_77" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_78" data-languageSpecificText="cpp=array&lt;"></span>MouseMovePoint<span id="LSTC54FEC26_79" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, GetMouseMovePointsResolution)</a> function.
+ Indicate how to retrieve mouse poitns when calling <a href="85eb75bb-c2bb-9283-e76d-b72df8a78cce.htm">GetMouseMovePointsEx(UInt32, MouseMovePoint<span id="LSTC54FEC26_84" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_85" data-languageSpecificText="cpp=array&lt;"></span>MouseMovePoint<span id="LSTC54FEC26_86" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, GetMouseMovePointsResolution)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -936,7 +1003,7 @@
                     <a href="75cbd069-33cc-f2bc-e78a-be0149914a25.htm">GetRawInputDataCommand</a>
                   </td>
                   <td>
- Values for <span class="code">uiCommand</span> of <a href="a64529aa-7514-f55e-b745-7fe68b89745d.htm">GetRawInputData(IntPtr, GetRawInputDataCommand, IntPtr, UInt32<span id="LSTC54FEC26_80" data-languageSpecificText="cpp=%"></span>, UInt32)</a> function.
+ Values for <span class="code">uiCommand</span> of <a href="a64529aa-7514-f55e-b745-7fe68b89745d.htm">GetRawInputData(IntPtr, GetRawInputDataCommand, IntPtr, UInt32<span id="LSTC54FEC26_87" data-languageSpecificText="cpp=%"></span>, UInt32)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -944,7 +1011,7 @@
                     <a href="b7928f79-a8d6-064e-6fa1-764a601167da.htm">GetRawInputDeviceInfoCommand</a>
                   </td>
                   <td>
- Values for <span class="code">uiCommand</span> of <a href="3a9deda3-8885-f0bb-8868-85e5efd2cba0.htm">GetRawInputDeviceInfo(IntPtr, GetRawInputDeviceInfoCommand, IntPtr, UInt32<span id="LSTC54FEC26_81" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Values for <span class="code">uiCommand</span> of <a href="3a9deda3-8885-f0bb-8868-85e5efd2cba0.htm">GetRawInputDeviceInfo(IntPtr, GetRawInputDeviceInfoCommand, IntPtr, UInt32<span id="LSTC54FEC26_88" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -970,7 +1037,7 @@
                     <a href="85429110-5b02-6c2d-abc5-f1a8e0740d3f.htm">HardErrorResponse</a>
                   </td>
                   <td>
- Specifies the response when calling <a href="436dbbd9-1157-5f3b-39b0-f49f60e42858.htm">NtRaiseHardError(NTStatus, UInt32, UInt32, IntPtr, HardErrorResponseOption, HardErrorResponse<span id="LSTC54FEC26_82" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies the response when calling <a href="436dbbd9-1157-5f3b-39b0-f49f60e42858.htm">NtRaiseHardError(NTStatus, UInt32, UInt32, IntPtr, HardErrorResponseOption, HardErrorResponse<span id="LSTC54FEC26_89" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -978,7 +1045,7 @@
                     <a href="560d7b9f-9ef7-3b26-c439-7ae5fa127b10.htm">HardErrorResponseOption</a>
                   </td>
                   <td>
- Specifies the response option when calling <a href="436dbbd9-1157-5f3b-39b0-f49f60e42858.htm">NtRaiseHardError(NTStatus, UInt32, UInt32, IntPtr, HardErrorResponseOption, HardErrorResponse<span id="LSTC54FEC26_83" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies the response option when calling <a href="436dbbd9-1157-5f3b-39b0-f49f60e42858.htm">NtRaiseHardError(NTStatus, UInt32, UInt32, IntPtr, HardErrorResponseOption, HardErrorResponse<span id="LSTC54FEC26_90" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1003,7 +1070,7 @@
                   </td>
                   <td>
  Specifies a type of hook procedure to be installed.
- <p /><span class="code">hookType</span> parameter of <a href="535ad313-c00e-ee3c-b68a-64b1693aadb9.htm">SetWindowsHookEx(HookType, Delegates<span id="LSTC54FEC26_84" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>HookProc, IntPtr, UInt32)</a> function.
+ <p /><span class="code">hookType</span> parameter of <a href="535ad313-c00e-ee3c-b68a-64b1693aadb9.htm">SetWindowsHookEx(HookType, Delegates<span id="LSTC54FEC26_91" data-languageSpecificText="cs=.|vb=.|cpp=::|nu=.|fs=."></span>HookProc, IntPtr, UInt32)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1045,7 +1112,7 @@
                     <a href="e63247c8-c4bc-cf62-2658-0133dd8e8897.htm">IShellItemImageFactoryGetImageFlags</a>
                   </td>
                   <td>
- Specifies icon flags for <a href="0299a15b-95d3-d240-5c41-e1fefd9e94e8.htm">GetImage(Size, IShellItemImageFactoryGetImageFlags, IntPtr<span id="LSTC54FEC26_85" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies icon flags for <a href="0299a15b-95d3-d240-5c41-e1fefd9e94e8.htm">GetImage(Size, IShellItemImageFactoryGetImageFlags, IntPtr<span id="LSTC54FEC26_92" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1106,7 +1173,7 @@
                   </td>
                   <td>
  An action to be taken.
- <p /><a href="0e883dba-2aa4-fb02-6dac-7fbb13b1b00b.htm">GetLayeredWindowAttributes(IntPtr, UInt32<span id="LSTC54FEC26_86" data-languageSpecificText="cpp=%"></span>, Int32<span id="LSTC54FEC26_87" data-languageSpecificText="cpp=%"></span>, LayeredWindowAttributesFlags)</a> and
+ <p /><a href="63a90408-f9d0-94b9-c0d1-4263b40afb6a.htm">GetLayeredWindowAttributes(IntPtr, UInt32<span id="LSTC54FEC26_93" data-languageSpecificText="cpp=%"></span>, Byte<span id="LSTC54FEC26_94" data-languageSpecificText="cpp=%"></span>, LayeredWindowAttributesFlags<span id="LSTC54FEC26_95" data-languageSpecificText="cpp=%"></span>)</a> and
  <a href="0e88f680-bfe4-05eb-bcc8-a35b92f1480d.htm">SetLayeredWindowAttributes(IntPtr, UInt32, Int32, LayeredWindowAttributesFlags)</a> function.
  </td>
                 </tr>
@@ -1175,7 +1242,7 @@
                     <a href="64f79781-99c2-f201-164c-3974f885b68d.htm">MCICommands</a>
                   </td>
                   <td>
- Specifies a command message to use with <a href="c0816894-a4ec-bd60-239d-b582f90dfac3.htm">MciSendCommand(Int32, MCICommands, IntPtr, MciOpenParms<span id="LSTC54FEC26_88" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies a command message to use with <a href="c0816894-a4ec-bd60-239d-b582f90dfac3.htm">MciSendCommand(Int32, MCICommands, IntPtr, MciOpenParms<span id="LSTC54FEC26_96" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1295,7 +1362,7 @@
                   </td>
                   <td>
  Specifies additional information about a success call to 
- <a href="00022218-e7ce-30f2-7c3d-779ac72aa7f9.htm">ChangeWindowMessageFilterEx(IntPtr, EditControlMessages, ChangeWindowMessageFilterExAction, ChangeFilter<span id="LSTC54FEC26_89" data-languageSpecificText="cpp=%"></span>)</a> function.
+ <a href="00022218-e7ce-30f2-7c3d-779ac72aa7f9.htm">ChangeWindowMessageFilterEx(IntPtr, EditControlMessages, ChangeWindowMessageFilterExAction, ChangeFilter<span id="LSTC54FEC26_97" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1305,7 +1372,7 @@
                   <td>
  Specifies the type of MiniDump information to be generated.
  <p />
- For <a href="bf48f979-4de8-3205-18b7-9ad63c4bb44c.htm">MiniDumpWriteDump(IntPtr, Int32, SafeHandle, MiniDumpType, MiniDumpExceptionInformation<span id="LSTC54FEC26_90" data-languageSpecificText="cpp=%"></span>, IntPtr, IntPtr)</a> function.
+ For <a href="bf48f979-4de8-3205-18b7-9ad63c4bb44c.htm">MiniDumpWriteDump(IntPtr, Int32, SafeHandle, MiniDumpType, MiniDumpExceptionInformation<span id="LSTC54FEC26_98" data-languageSpecificText="cpp=%"></span>, IntPtr, IntPtr)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1314,7 +1381,7 @@
                   </td>
                   <td>
  Determines the function's return value when calling <a href="2d14edb5-0089-1a81-91bd-4585f0d525e5.htm">MonitorFromWindow(IntPtr, MonitorFromFlags)</a>, 
- <a href="8050d47d-c358-eb4c-b148-c254c089c284.htm">MonitorFromPoint(NativePoint, MonitorFromFlags)</a> or <a href="7cbaf112-1603-f36b-d471-75821e276c7b.htm">MonitorFromRect(NativeRectangle<span id="LSTC54FEC26_91" data-languageSpecificText="cpp=%"></span>, MonitorFromFlags)</a> functions.
+ <a href="8050d47d-c358-eb4c-b148-c254c089c284.htm">MonitorFromPoint(NativePoint, MonitorFromFlags)</a> or <a href="7cbaf112-1603-f36b-d471-75821e276c7b.htm">MonitorFromRect(NativeRectangle<span id="LSTC54FEC26_99" data-languageSpecificText="cpp=%"></span>, MonitorFromFlags)</a> functions.
  </td>
                 </tr>
                 <tr>
@@ -1324,7 +1391,7 @@
                   <td>
  Specifies the attributes of a display monitor.
  <p />
- For <a href="ab9e439e-6f1a-b367-b4c1-9f40a4d25f3c.htm">GetMonitorInfo(IntPtr, MonitorInfo<span id="LSTC54FEC26_92" data-languageSpecificText="cpp=%"></span>)</a> function.
+ For <a href="ab9e439e-6f1a-b367-b4c1-9f40a4d25f3c.htm">GetMonitorInfo(IntPtr, MonitorInfo<span id="LSTC54FEC26_100" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1368,7 +1435,7 @@
                     <a href="2faf8161-5e01-f060-44b4-4db07fa71d19.htm">MultiByteCharConversionType</a>
                   </td>
                   <td>
- Flags indicating the conversion type when calling <a href="85677cba-57e6-6a77-fdaa-ddc1fbfb110e.htm">MultiByteToWideChar(CodePage, MultiByteCharConversionType, <span id="LSTC54FEC26_93" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LSTC54FEC26_94" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, <span id="LSTC54FEC26_95" data-languageSpecificText="cpp=array&lt;"></span>Char<span id="LSTC54FEC26_96" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32)</a> function.
+ Flags indicating the conversion type when calling <a href="85677cba-57e6-6a77-fdaa-ddc1fbfb110e.htm">MultiByteToWideChar(CodePage, MultiByteCharConversionType, <span id="LSTC54FEC26_101" data-languageSpecificText="cpp=array&lt;"></span>Byte<span id="LSTC54FEC26_102" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32, <span id="LSTC54FEC26_103" data-languageSpecificText="cpp=array&lt;"></span>Char<span id="LSTC54FEC26_104" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, Int32)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1409,7 +1476,7 @@
  Specifies a list of error codes for the network management functions of the Windows API. 
  (eg. The <span class="code">NetUserGetInfo</span> function)
  <p />
- These error codes are returned by the <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LSTC54FEC26_97" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> function when a function fails.
+ These error codes are returned by the <span class="noLink">GetLastWin32Error<span id="LSTC54FEC26_105" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> function when a function fails.
  </td>
                 </tr>
                 <tr>
@@ -1454,7 +1521,7 @@
                     <a href="fecc3a51-fa35-6f95-8ef5-496287b33fdc.htm">OpenFolderFlags</a>
                   </td>
                   <td>
- Flags for <a href="6d3322fb-7490-221a-a68b-4e593705accd.htm">SHOpenFolderAndSelectItems(PIDL, UInt32, <span id="LSTC54FEC26_98" data-languageSpecificText="cpp=array&lt;"></span>IntPtr<span id="LSTC54FEC26_99" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, OpenFolderFlags)</a> function.
+ Flags for <a href="6d3322fb-7490-221a-a68b-4e593705accd.htm">SHOpenFolderAndSelectItems(PIDL, UInt32, <span id="LSTC54FEC26_106" data-languageSpecificText="cpp=array&lt;"></span>IntPtr<span id="LSTC54FEC26_107" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, OpenFolderFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1470,7 +1537,7 @@
                     <a href="220adb09-d19e-f875-e0ca-f8ae3cfb563a.htm">PathResolveFlags</a>
                   </td>
                   <td>
- Flags for <a href="28cb4201-fe12-6521-c35a-a4147234a751.htm">PathResolve(StringBuilder, <span id="LSTC54FEC26_100" data-languageSpecificText="cpp=array&lt;"></span>String<span id="LSTC54FEC26_101" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, PathResolveFlags)</a> function.
+ Flags for <a href="28cb4201-fe12-6521-c35a-a4147234a751.htm">PathResolve(StringBuilder, <span id="LSTC54FEC26_108" data-languageSpecificText="cpp=array&lt;"></span>String<span id="LSTC54FEC26_109" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, PathResolveFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1478,7 +1545,7 @@
                     <a href="a21ae5dd-e4a4-926c-2ffb-44db1c90585d.htm">PeekMessageFlags</a>
                   </td>
                   <td>
- Specifies how messages are to be handled when calling <a href="9ddfdc9f-f422-ca4a-e2b9-836961993813.htm">PeekMessage(NativeMessage<span id="LSTC54FEC26_102" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32, PeekMessageFlags)</a> function.
+ Specifies how messages are to be handled when calling <a href="9ddfdc9f-f422-ca4a-e2b9-836961993813.htm">PeekMessage(NativeMessage<span id="LSTC54FEC26_110" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, UInt32, PeekMessageFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1486,7 +1553,7 @@
                     <a href="295e44b4-9295-3e7a-10a0-6b9986e50829.htm">PopupWindowPositionFlags</a>
                   </td>
                   <td>
- Specifies how the <a href="c35585fb-78f4-d71f-da7e-177ed0e7cae6.htm">CalculatePopupWindowPosition(NativePoint<span id="LSTC54FEC26_103" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_104" data-languageSpecificText="cpp=%"></span>, PopupWindowPositionFlags, NativeRectangle<span id="LSTC54FEC26_105" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_106" data-languageSpecificText="cpp=%"></span>)</a> function positions the pop-up window horizontally and vertically.
+ Specifies how the <a href="c35585fb-78f4-d71f-da7e-177ed0e7cae6.htm">CalculatePopupWindowPosition(NativePoint<span id="LSTC54FEC26_111" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_112" data-languageSpecificText="cpp=%"></span>, PopupWindowPositionFlags, NativeRectangle<span id="LSTC54FEC26_113" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_114" data-languageSpecificText="cpp=%"></span>)</a> function positions the pop-up window horizontally and vertically.
  </td>
                 </tr>
                 <tr>
@@ -1494,7 +1561,7 @@
                     <a href="8298355d-4587-2862-b671-ac2afc2a7c7f.htm">PowerPlanAccess</a>
                   </td>
                   <td>
- Specifies what will be enumerated by <a href="2b302106-4a1f-fe1e-08f5-c35ab4776c35.htm">PowerEnumerate(IntPtr, IntPtr, IntPtr, PowerPlanAccess, UInt32, Guid<span id="LSTC54FEC26_107" data-languageSpecificText="cpp=%"></span>, UInt32<span id="LSTC54FEC26_108" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies what will be enumerated by <a href="2b302106-4a1f-fe1e-08f5-c35ab4776c35.htm">PowerEnumerate(IntPtr, IntPtr, IntPtr, PowerPlanAccess, UInt32, Guid<span id="LSTC54FEC26_115" data-languageSpecificText="cpp=%"></span>, UInt32<span id="LSTC54FEC26_116" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1520,7 +1587,7 @@
                   <td>
  Specifies the error mode for a process. 
  <p />
- Flags used by <a href="d1837364-59cd-bae8-5b21-8ba27e1dea35.htm">GetErrorMode<span id="LSTC54FEC26_109" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> and <a href="bf581ca9-52ba-82f9-1015-00dad7b9f1e5.htm">SetErrorMode(ProcessErrorMode)</a> functions.
+ Flags used by <a href="d1837364-59cd-bae8-5b21-8ba27e1dea35.htm">GetErrorMode<span id="LSTC54FEC26_117" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> and <a href="bf581ca9-52ba-82f9-1015-00dad7b9f1e5.htm">SetErrorMode(ProcessErrorMode)</a> functions.
  </td>
                 </tr>
                 <tr>
@@ -1529,7 +1596,7 @@
                   </td>
                   <td>
  Specifies the type of process information to be retrieved 
- when calling <a href="9ce157f8-4fcc-a439-8cfc-71df1a4914be.htm">NtQueryInformationProcess(IntPtr, ProcessInformationClass, ProcessBasicInformation<span id="LSTC54FEC26_110" data-languageSpecificText="cpp=%"></span>, Int32, Int32<span id="LSTC54FEC26_111" data-languageSpecificText="cpp=%"></span>)</a> function.
+ when calling <a href="9ce157f8-4fcc-a439-8cfc-71df1a4914be.htm">NtQueryInformationProcess(IntPtr, ProcessInformationClass, ProcessBasicInformation<span id="LSTC54FEC26_118" data-languageSpecificText="cpp=%"></span>, Int32, Int32<span id="LSTC54FEC26_119" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1537,8 +1604,8 @@
                     <a href="8e801004-abdd-d74d-b9de-aa3338e71768.htm">ProcessLogonFlags</a>
                   </td>
                   <td>
- Specifies how to log on when calling <a href="45dbbe61-9b6b-f424-c6ac-ad5a30eff052.htm">CreateProcessWithLogon(String, String, String, ProcessLogonFlags, String, StringBuilder, CreateProcessFlags, IntPtr, String, ProcessStartupInfo<span id="LSTC54FEC26_112" data-languageSpecificText="cpp=%"></span>, ProcessInformation<span id="LSTC54FEC26_113" data-languageSpecificText="cpp=%"></span>)</a> 
- and <a href="76c7cbdd-6b10-ec22-40d5-82b730c1272f.htm">CreateProcessWithToken(IntPtr, ProcessLogonFlags, String, StringBuilder, CreateProcessFlags, IntPtr, String, ProcessStartupInfo<span id="LSTC54FEC26_114" data-languageSpecificText="cpp=%"></span>, ProcessInformation<span id="LSTC54FEC26_115" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Specifies how to log on when calling <a href="45dbbe61-9b6b-f424-c6ac-ad5a30eff052.htm">CreateProcessWithLogon(String, String, String, ProcessLogonFlags, String, StringBuilder, CreateProcessFlags, IntPtr, String, ProcessStartupInfo<span id="LSTC54FEC26_120" data-languageSpecificText="cpp=%"></span>, ProcessInformation<span id="LSTC54FEC26_121" data-languageSpecificText="cpp=%"></span>)</a> 
+ and <a href="76c7cbdd-6b10-ec22-40d5-82b730c1272f.htm">CreateProcessWithToken(IntPtr, ProcessLogonFlags, String, StringBuilder, CreateProcessFlags, IntPtr, String, ProcessStartupInfo<span id="LSTC54FEC26_122" data-languageSpecificText="cpp=%"></span>, ProcessInformation<span id="LSTC54FEC26_123" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1622,7 +1689,7 @@
                     <a href="8372d818-03d2-1757-b8f5-5b6a589a3f68.htm">PssCaptureFlags</a>
                   </td>
                   <td>
- Specifies what information <a href="79d9942e-d314-9085-272b-735847ec88d9.htm">PssCaptureSnapshot(IntPtr, PssCaptureFlags, UInt32, IntPtr<span id="LSTC54FEC26_116" data-languageSpecificText="cpp=%"></span>)</a> function captures.
+ Specifies what information <a href="79d9942e-d314-9085-272b-735847ec88d9.htm">PssCaptureSnapshot(IntPtr, PssCaptureFlags, UInt32, IntPtr<span id="LSTC54FEC26_124" data-languageSpecificText="cpp=%"></span>)</a> function captures.
  </td>
                 </tr>
                 <tr>
@@ -1630,7 +1697,7 @@
                     <a href="ab739170-56ca-fd49-b430-af3f442f3fa4.htm">PssDuplicateFlags</a>
                   </td>
                   <td>
- Duplication flags for use by <a href="48baeba7-a495-6852-bc92-c211bfbca856.htm">PssDuplicateSnapshot(IntPtr, IntPtr, IntPtr, IntPtr<span id="LSTC54FEC26_117" data-languageSpecificText="cpp=%"></span>, PssDuplicateFlags)</a> function.
+ Duplication flags for use by <a href="48baeba7-a495-6852-bc92-c211bfbca856.htm">PssDuplicateSnapshot(IntPtr, IntPtr, IntPtr, IntPtr<span id="LSTC54FEC26_125" data-languageSpecificText="cpp=%"></span>, PssDuplicateFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1657,7 +1724,7 @@
                   </td>
                   <td>
  Flags combination for <span class="code">flags</span> parameter of 
- <a href="9c28fc39-29db-cc1f-d45a-0c4d41a47d3e.htm">QueryAssemblyInfo(QueryAssemblyInfoFlags, String, AssemblyInfo<span id="LSTC54FEC26_118" data-languageSpecificText="cpp=%"></span>)</a> function.
+ <a href="9c28fc39-29db-cc1f-d45a-0c4d41a47d3e.htm">QueryAssemblyInfo(QueryAssemblyInfoFlags, String, AssemblyInfo<span id="LSTC54FEC26_126" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1665,7 +1732,7 @@
                     <a href="a93d6863-0c5c-856e-5b07-ee0165e3d3cb.htm">QueryDisplayConfigFlags</a>
                   </td>
                   <td>
- Flags for <a href="b76f23dd-4865-03fb-37ec-8c8f0096327f.htm">QueryDisplayConfig(QueryDisplayConfigFlags, UInt32<span id="LSTC54FEC26_119" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_120" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigPathInfo<span id="LSTC54FEC26_121" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32<span id="LSTC54FEC26_122" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_123" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigModeInfo<span id="LSTC54FEC26_124" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, DisplayConfigTopologyId<span id="LSTC54FEC26_125" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Flags for <a href="b76f23dd-4865-03fb-37ec-8c8f0096327f.htm">QueryDisplayConfig(QueryDisplayConfigFlags, UInt32<span id="LSTC54FEC26_127" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_128" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigPathInfo<span id="LSTC54FEC26_129" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32<span id="LSTC54FEC26_130" data-languageSpecificText="cpp=%"></span>, <span id="LSTC54FEC26_131" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigModeInfo<span id="LSTC54FEC26_132" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, DisplayConfigTopologyId<span id="LSTC54FEC26_133" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1675,7 +1742,7 @@
                   <td>
  Specifies the state of the machine for the current user in relation to the propriety of sending a notification. 
  <p />
- Used by <a href="bc1d0e17-a51e-71ad-27b4-ce7e22e1ab21.htm">SHQueryUserNotificationState(QueryUserNotificationState<span id="LSTC54FEC26_126" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Used by <a href="bc1d0e17-a51e-71ad-27b4-ce7e22e1ab21.htm">SHQueryUserNotificationState(QueryUserNotificationState<span id="LSTC54FEC26_134" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1723,7 +1790,7 @@
                     <a href="1ee430f4-e510-2c34-dff7-aa508b526396.htm">RedrawWindowFlags</a>
                   </td>
                   <td>
- Specifies how a window must be redrawn by <a href="a8a147d2-17f8-2001-448f-2736e727736b.htm">RedrawWindow(IntPtr, NativeRectangle<span id="LSTC54FEC26_127" data-languageSpecificText="cpp=%"></span>, IntPtr, RedrawWindowFlags)</a> function.
+ Specifies how a window must be redrawn by <a href="a8a147d2-17f8-2001-448f-2736e727736b.htm">RedrawWindow(IntPtr, NativeRectangle<span id="LSTC54FEC26_135" data-languageSpecificText="cpp=%"></span>, IntPtr, RedrawWindowFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1783,7 +1850,7 @@
                   </td>
                   <td>
  Flags combination for <span class="code">bar</span> parameter of 
- <a href="f3153618-6971-31d1-5d72-bab3c42d2119.htm">GetScrollInfo(IntPtr, ScrollBarOrientation, ScrollInfo<span id="LSTC54FEC26_128" data-languageSpecificText="cpp=%"></span>)</a>, <a href="90b88abe-9d11-10d7-0951-2b015365c732.htm">SetScrollInfo(IntPtr, ScrollBarOrientation, ScrollInfo<span id="LSTC54FEC26_129" data-languageSpecificText="cpp=%"></span>, Boolean)</a> 
+ <a href="f3153618-6971-31d1-5d72-bab3c42d2119.htm">GetScrollInfo(IntPtr, ScrollBarOrientation, ScrollInfo<span id="LSTC54FEC26_136" data-languageSpecificText="cpp=%"></span>)</a>, <a href="90b88abe-9d11-10d7-0951-2b015365c732.htm">SetScrollInfo(IntPtr, ScrollBarOrientation, ScrollInfo<span id="LSTC54FEC26_137" data-languageSpecificText="cpp=%"></span>, Boolean)</a> 
  and <a href="0ec5d80e-4fe2-5a21-b3a2-94063335af01.htm">ShowScrollBar(IntPtr, ScrollBarOrientation, Boolean)</a> function.
  </td>
                 </tr>
@@ -1829,7 +1896,7 @@
                   </td>
                   <td>
  Specifies how the view of a section object is to be shared with child processes 
- when calling <a href="b71e6e9e-dbcb-1fd6-6a37-57a9fcc2deb7.htm">NtMapViewOfSection(IntPtr, SafeProcessHandle, IntPtr<span id="LSTC54FEC26_130" data-languageSpecificText="cpp=%"></span>, IntPtr, IntPtr, Int64<span id="LSTC54FEC26_131" data-languageSpecificText="cpp=%"></span>, UIntPtr<span id="LSTC54FEC26_132" data-languageSpecificText="cpp=%"></span>, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a> function.
+ when calling <a href="b71e6e9e-dbcb-1fd6-6a37-57a9fcc2deb7.htm">NtMapViewOfSection(IntPtr, SafeProcessHandle, IntPtr<span id="LSTC54FEC26_138" data-languageSpecificText="cpp=%"></span>, IntPtr, IntPtr, Int64<span id="LSTC54FEC26_139" data-languageSpecificText="cpp=%"></span>, UIntPtr<span id="LSTC54FEC26_140" data-languageSpecificText="cpp=%"></span>, SectionInherit, MemoryAllocationType, MemoryProtectionOptions)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1855,7 +1922,7 @@
                     <a href="9613cf2b-b37a-9223-42ef-e879132de0a7.htm">SendMessageTimeoutFlags</a>
                   </td>
                   <td>
- Flags for <span class="code">fuFlags</span> parameter of <a href="06ee7383-a9be-846d-40cb-96c8e98e20ef.htm">SendMessageTimeout(IntPtr, EditControlMessages, IntPtr, IntPtr, SendMessageTimeoutFlags, Int32, IntPtr<span id="LSTC54FEC26_133" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Flags for <span class="code">fuFlags</span> parameter of <a href="06ee7383-a9be-846d-40cb-96c8e98e20ef.htm">SendMessageTimeout(IntPtr, EditControlMessages, IntPtr, IntPtr, SendMessageTimeoutFlags, Int32, IntPtr<span id="LSTC54FEC26_141" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1863,7 +1930,7 @@
                     <a href="1933913e-3d9a-b5ab-9453-df9926d4f639.htm">SetDisplayConfigFlags</a>
                   </td>
                   <td>
- Flags for <a href="59db6c7a-b5b6-04a4-b9d3-5cb8f6772ed6.htm">SetDisplayConfig(UInt32, <span id="LSTC54FEC26_134" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigPathInfo<span id="LSTC54FEC26_135" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32, <span id="LSTC54FEC26_136" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigModeInfo<span id="LSTC54FEC26_137" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, SetDisplayConfigFlags)</a> function.
+ Flags for <a href="59db6c7a-b5b6-04a4-b9d3-5cb8f6772ed6.htm">SetDisplayConfig(UInt32, <span id="LSTC54FEC26_142" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigPathInfo<span id="LSTC54FEC26_143" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, UInt32, <span id="LSTC54FEC26_144" data-languageSpecificText="cpp=array&lt;"></span>DisplayConfigModeInfo<span id="LSTC54FEC26_145" data-languageSpecificText="cpp=&gt;|cs=[]|vb=()|nu=[]|fs=[]"></span>, SetDisplayConfigFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1943,7 +2010,7 @@
                   </td>
                   <td>
  Defines the values used with the <a href="dd840170-c51e-7de5-df0c-20a79e72b401.htm">GetDisplayNameOf(PIDL, ShellFoldermGetDisplayName)</a> 
- and <a href="d24e3b10-1e35-608e-f666-b0c1c6af7750.htm">SetNameOf(IntPtr, PIDL, String, ShellFoldermGetDisplayName, PIDL<span id="LSTC54FEC26_138" data-languageSpecificText="cpp=%"></span>)</a> methods to specify the type of 
+ and <a href="d24e3b10-1e35-608e-f666-b0c1c6af7750.htm">SetNameOf(IntPtr, PIDL, String, ShellFoldermGetDisplayName, PIDL<span id="LSTC54FEC26_146" data-languageSpecificText="cpp=%"></span>)</a> methods to specify the type of 
  file or folder names used by those methods.
  </td>
                 </tr>
@@ -1971,7 +2038,7 @@
                   </td>
                   <td>
  Requests the form of an item's display name to retrieve 
- through <a href="5ecad5d1-5426-e22a-be51-ff58f96f11f4.htm">GetDisplayName(ShellItemGetDisplayName)</a> and <a href="b1e2eb26-41f0-7874-25b7-f5e6065c5b5b.htm">SHGetNameFromIDList(PIDL, ShellItemGetDisplayName, StringBuilder<span id="LSTC54FEC26_139" data-languageSpecificText="cpp=%"></span>)</a> functions.
+ through <a href="5ecad5d1-5426-e22a-be51-ff58f96f11f4.htm">GetDisplayName(ShellItemGetDisplayName)</a> and <a href="b1e2eb26-41f0-7874-25b7-f5e6065c5b5b.htm">SHGetNameFromIDList(PIDL, ShellItemGetDisplayName, StringBuilder<span id="LSTC54FEC26_147" data-languageSpecificText="cpp=%"></span>)</a> functions.
  </td>
                 </tr>
                 <tr>
@@ -1981,7 +2048,7 @@
                   <td>
  Specifies which members of a <a href="e731799d-fead-8993-a911-b7c66c7a571b.htm">ShellState</a> structure should be set or retrived.
  <p />
- This enumeration is used with the <a href="b5b57f3f-d0f4-10dd-4cec-a68a520e45a4.htm">SHGetSetSettings(ShellState<span id="LSTC54FEC26_140" data-languageSpecificText="cpp=%"></span>, ShellStateFlags, Boolean)</a> function.
+ This enumeration is used with the <a href="b5b57f3f-d0f4-10dd-4cec-a68a520e45a4.htm">SHGetSetSettings(ShellState<span id="LSTC54FEC26_148" data-languageSpecificText="cpp=%"></span>, ShellStateFlags, Boolean)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -1997,7 +2064,7 @@
                     <a href="0694efe6-63fc-7358-fa0e-f7b9af6a3f0a.htm">SHGetFileInfoFlags</a>
                   </td>
                   <td>
- Flags to use with the <a href="a9139e17-f523-e799-f952-5cfd16fe1edd.htm">SHGetFileInfo(IntPtr, FileAttributes, ShellFileInfo<span id="LSTC54FEC26_141" data-languageSpecificText="cpp=%"></span>, UInt32, SHGetFileInfoFlags)</a> function.
+ Flags to use with the <a href="a9139e17-f523-e799-f952-5cfd16fe1edd.htm">SHGetFileInfo(IntPtr, FileAttributes, ShellFileInfo<span id="LSTC54FEC26_149" data-languageSpecificText="cpp=%"></span>, UInt32, SHGetFileInfoFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2005,7 +2072,7 @@
                     <a href="2c04e7f2-581d-c4d7-7ce3-39a0344db139.htm">SHGetNewLinkInfoFlags</a>
                   </td>
                   <td>
- Flags for <a href="4d1c80ac-6eb7-7cf5-03fc-bfbccc9b0b1a.htm">SHGetNewLinkInfo(String, String, StringBuilder, Boolean<span id="LSTC54FEC26_142" data-languageSpecificText="cpp=%"></span>, SHGetNewLinkInfoFlags)</a> function.
+ Flags for <a href="4d1c80ac-6eb7-7cf5-03fc-bfbccc9b0b1a.htm">SHGetNewLinkInfo(String, String, StringBuilder, Boolean<span id="LSTC54FEC26_150" data-languageSpecificText="cpp=%"></span>, SHGetNewLinkInfoFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2066,7 +2133,17 @@
  Specifies a standard device (standard input, standard output, or standard error).
  <p />
  For <a href="d67bdb40-2453-f350-8461-6cdcd527a322.htm">GetStdHandle(StandardDevice)</a>, <a href="f408d61d-a4e1-df56-f29e-56e77d783195.htm">SetStdHandle(StandardDevice, IntPtr)</a> and 
- <a href="d27b9d8c-6a0e-6cc8-560c-71a99aaccb20.htm">SetStdHandleEx(StandardDevice, IntPtr, IntPtr<span id="LSTC54FEC26_143" data-languageSpecificText="cpp=%"></span>)</a> functions.
+ <a href="d27b9d8c-6a0e-6cc8-560c-71a99aaccb20.htm">SetStdHandleEx(StandardDevice, IntPtr, IntPtr<span id="LSTC54FEC26_151" data-languageSpecificText="cpp=%"></span>)</a> functions.
+ </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="34fd7618-dae7-1ed0-9416-8ecb9ac7aa6f.htm">StockObjects</a>
+                  </td>
+                  <td>
+ Specifies the values used in <a href="dc532445-9445-bce8-460a-f3e4412ae876.htm">GetClassLong(IntPtr, ClassLongValues)</a> / <a href="2aa7ff05-ffaa-397c-5082-375cf65b9050.htm">GetClassLongPtr(IntPtr, ClassLongValues)</a> 
+ and <a href="24c5df83-2efd-1355-2f9e-8a849624b8f7.htm">SetClassLong(IntPtr, ClassLongValues, UInt32)</a> / <a href="102fca76-7db1-655d-047e-073f4ffe725f.htm">SetClassLongPtr(IntPtr, ClassLongValues, IntPtr)</a> functions 
+ to access or modify various attributes of a window class.
  </td>
                 </tr>
                 <tr>
@@ -2157,7 +2234,7 @@
                     <a href="3960a837-c738-5e87-652f-5fa7acd604d6.htm">SystemParametersActionFlags</a>
                   </td>
                   <td>
- Flags for <span class="code">uiAction</span> parameter of <a href="5777d09b-7c75-af00-f45b-2fd07ab7c4e6.htm">SystemParametersInfo(SystemParametersActionFlags, Boolean, Boolean<span id="LSTC54FEC26_144" data-languageSpecificText="cpp=%"></span>, SystemParametersWinIniFlags)</a> function.
+ Flags for <span class="code">uiAction</span> parameter of <a href="5777d09b-7c75-af00-f45b-2fd07ab7c4e6.htm">SystemParametersInfo(SystemParametersActionFlags, Boolean, Boolean<span id="LSTC54FEC26_152" data-languageSpecificText="cpp=%"></span>, SystemParametersWinIniFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2165,7 +2242,7 @@
                     <a href="e3fb14b7-6f68-f3a6-92f6-9d97cca03c24.htm">SystemParametersWinIniFlags</a>
                   </td>
                   <td>
- Flags for <span class="code">fWinIni</span> parameter of <a href="5777d09b-7c75-af00-f45b-2fd07ab7c4e6.htm">SystemParametersInfo(SystemParametersActionFlags, Boolean, Boolean<span id="LSTC54FEC26_145" data-languageSpecificText="cpp=%"></span>, SystemParametersWinIniFlags)</a> function.
+ Flags for <span class="code">fWinIni</span> parameter of <a href="5777d09b-7c75-af00-f45b-2fd07ab7c4e6.htm">SystemParametersInfo(SystemParametersActionFlags, Boolean, Boolean<span id="LSTC54FEC26_153" data-languageSpecificText="cpp=%"></span>, SystemParametersWinIniFlags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2202,7 +2279,7 @@
                   <td>
  Specifies a thread error mode.
  <p />
- Enumeration used by <a href="db11b191-23c6-d453-fa08-afd00405013b.htm">SetThreadErrorMode(ThreadErrorMode, ThreadErrorMode<span id="LSTC54FEC26_146" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Enumeration used by <a href="db11b191-23c6-d453-fa08-afd00405013b.htm">SetThreadErrorMode(ThreadErrorMode, ThreadErrorMode<span id="LSTC54FEC26_154" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2220,7 +2297,7 @@
                   <td>
  Specifies cache options for the extraction and display of a thumbnail image.
  <p />
- For <a href="97138d37-f007-aa20-a9e0-3c4ede8051a8.htm">GetThumbnail(IShellItem, UInt32, ThumbnailFlags, ISharedBitmap<span id="LSTC54FEC26_147" data-languageSpecificText="cpp=%"></span>, ThumbnailCacheFlags<span id="LSTC54FEC26_148" data-languageSpecificText="cpp=%"></span>, ThumbnailId<span id="LSTC54FEC26_149" data-languageSpecificText="cpp=%"></span>)</a> function.
+ For <a href="97138d37-f007-aa20-a9e0-3c4ede8051a8.htm">GetThumbnail(IShellItem, UInt32, ThumbnailFlags, ISharedBitmap<span id="LSTC54FEC26_155" data-languageSpecificText="cpp=%"></span>, ThumbnailCacheFlags<span id="LSTC54FEC26_156" data-languageSpecificText="cpp=%"></span>, ThumbnailId<span id="LSTC54FEC26_157" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2230,7 +2307,7 @@
                   <td>
  Specifies options for the extraction and display of a thumbnail image.
  <p />
- For <a href="97138d37-f007-aa20-a9e0-3c4ede8051a8.htm">GetThumbnail(IShellItem, UInt32, ThumbnailFlags, ISharedBitmap<span id="LSTC54FEC26_150" data-languageSpecificText="cpp=%"></span>, ThumbnailCacheFlags<span id="LSTC54FEC26_151" data-languageSpecificText="cpp=%"></span>, ThumbnailId<span id="LSTC54FEC26_152" data-languageSpecificText="cpp=%"></span>)</a> function.
+ For <a href="97138d37-f007-aa20-a9e0-3c4ede8051a8.htm">GetThumbnail(IShellItem, UInt32, ThumbnailFlags, ISharedBitmap<span id="LSTC54FEC26_158" data-languageSpecificText="cpp=%"></span>, ThumbnailCacheFlags<span id="LSTC54FEC26_159" data-languageSpecificText="cpp=%"></span>, ThumbnailId<span id="LSTC54FEC26_160" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2239,7 +2316,7 @@
                   </td>
                   <td>
  Flags combination for <span class="code">desiredAccess</span> parameter of 
- <a href="3d4700db-6fe8-1358-d79b-bcf39882ec56.htm">OpenProcessToken(SafeProcessHandle, TokenAccess, IntPtr<span id="LSTC54FEC26_153" data-languageSpecificText="cpp=%"></span>)</a> function.
+ <a href="3d4700db-6fe8-1358-d79b-bcf39882ec56.htm">OpenProcessToken(SafeProcessHandle, TokenAccess, IntPtr<span id="LSTC54FEC26_161" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2249,7 +2326,7 @@
                   <td>
  Specifies the type of information being assigned to or retrieved from an access token.
  <p />
- The <a href="c41f0ab6-a234-9d34-7215-6a6ff9738752.htm">GetTokenInformation(IntPtr, TokenInformationClass, IntPtr, Int32, Int32<span id="LSTC54FEC26_154" data-languageSpecificText="cpp=%"></span>)</a> function uses these values to indicate the type of token information to retrieve.
+ The <a href="c41f0ab6-a234-9d34-7215-6a6ff9738752.htm">GetTokenInformation(IntPtr, TokenInformationClass, IntPtr, Int32, Int32<span id="LSTC54FEC26_162" data-languageSpecificText="cpp=%"></span>)</a> function uses these values to indicate the type of token information to retrieve.
  </td>
                 </tr>
                 <tr>
@@ -2294,6 +2371,16 @@
                 </tr>
                 <tr>
                   <td>
+                    <a href="62765975-585c-4e51-35ec-8c4f45f4ba17.htm">TrackPopupMenuFlags</a>
+                  </td>
+                  <td>
+ Specifies the alignment, discovery and animations of the menu.
+ <p />
+ For <a href="3a440d1b-8bb5-3b35-bcdb-3dbf5ccc8183.htm">TrackPopupMenu(IntPtr, TrackPopupMenuFlags, Int32, Int32, Int32, IntPtr, IntPtr)</a> function.
+ </td>
+                </tr>
+                <tr>
+                  <td>
                     <a href="b1638372-d7de-9662-d4f0-ccca562c73a8.htm">TransferSourceFlags</a>
                   </td>
                   <td>
@@ -2306,7 +2393,7 @@
                     <a href="f06b4977-c381-90d2-7601-b769a7fbba01.htm">UpdateLayeredWindowflags</a>
                   </td>
                   <td>
- For <span class="code">flags</span> parameter of <a href="f545e84d-4399-3fac-3749-4958c0cbdd7a.htm">UpdateLayeredWindow(IntPtr, IntPtr, NativePoint<span id="LSTC54FEC26_155" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_156" data-languageSpecificText="cpp=%"></span>, IntPtr, NativePoint<span id="LSTC54FEC26_157" data-languageSpecificText="cpp=%"></span>, Int32, BlendFunction<span id="LSTC54FEC26_158" data-languageSpecificText="cpp=%"></span>, UpdateLayeredWindowflags)</a> function.
+ For <span class="code">flags</span> parameter of <a href="f545e84d-4399-3fac-3749-4958c0cbdd7a.htm">UpdateLayeredWindow(IntPtr, IntPtr, NativePoint<span id="LSTC54FEC26_163" data-languageSpecificText="cpp=%"></span>, NativeSize<span id="LSTC54FEC26_164" data-languageSpecificText="cpp=%"></span>, IntPtr, NativePoint<span id="LSTC54FEC26_165" data-languageSpecificText="cpp=%"></span>, Int32, BlendFunction<span id="LSTC54FEC26_166" data-languageSpecificText="cpp=%"></span>, UpdateLayeredWindowflags)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2332,7 +2419,7 @@
                     <a href="960344f5-357e-dc44-9fa7-0f6ebdafebe1.htm">VolumeInformationFlags</a>
                   </td>
                   <td>
- Specifies filesystem information flags for <a href="4e863d0d-4fd9-11ec-089c-8036df672c45.htm">GetVolumeInformation(String, StringBuilder, Int32, UInt32<span id="LSTC54FEC26_159" data-languageSpecificText="cpp=%"></span>, Int32<span id="LSTC54FEC26_160" data-languageSpecificText="cpp=%"></span>, VolumeInformationFlags<span id="LSTC54FEC26_161" data-languageSpecificText="cpp=%"></span>, StringBuilder, Int32)</a> function.
+ Specifies filesystem information flags for <a href="4e863d0d-4fd9-11ec-089c-8036df672c45.htm">GetVolumeInformation(String, StringBuilder, Int32, UInt32<span id="LSTC54FEC26_167" data-languageSpecificText="cpp=%"></span>, Int32<span id="LSTC54FEC26_168" data-languageSpecificText="cpp=%"></span>, VolumeInformationFlags<span id="LSTC54FEC26_169" data-languageSpecificText="cpp=%"></span>, StringBuilder, Int32)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2349,7 +2436,7 @@
                     <a href="5e88115b-9e7c-e3a9-198c-63c32b01a474.htm">WerFaultReporting</a>
                   </td>
                   <td>
- Flags for <a href="eb62a8e1-d71c-5d98-1a20-b39755ccc635.htm">WerGetFlags(IntPtr, WerFaultReporting<span id="LSTC54FEC26_162" data-languageSpecificText="cpp=%"></span>)</a> and <a href="70c531fe-da0f-5c85-85a2-df37e1223fb5.htm">WerSetFlags(WerFaultReporting)</a>.
+ Flags for <a href="eb62a8e1-d71c-5d98-1a20-b39755ccc635.htm">WerGetFlags(IntPtr, WerFaultReporting<span id="LSTC54FEC26_170" data-languageSpecificText="cpp=%"></span>)</a> and <a href="70c531fe-da0f-5c85-85a2-df37e1223fb5.htm">WerSetFlags(WerFaultReporting)</a>.
  </td>
                 </tr>
                 <tr>
@@ -2373,7 +2460,7 @@
                     <a href="041c1d1d-0bfa-50f0-0b22-c54c5dbde7c8.htm">WideCharConversionType</a>
                   </td>
                   <td>
- Flags indicating the conversion type when calling <a href="c6849aca-8ba3-c64f-3727-13b93102d9f1.htm">WideCharToMultiByte(CodePage, WideCharConversionType, String, Int32, StringBuilder, Int32, String, Boolean<span id="LSTC54FEC26_163" data-languageSpecificText="cpp=%"></span>)</a> function.
+ Flags indicating the conversion type when calling <a href="c6849aca-8ba3-c64f-3727-13b93102d9f1.htm">WideCharToMultiByte(CodePage, WideCharConversionType, String, Int32, StringBuilder, Int32, String, Boolean<span id="LSTC54FEC26_171" data-languageSpecificText="cpp=%"></span>)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2383,7 +2470,7 @@
                   <td>
  Specifies system error codes for the Windows API functions. 
  <p />
- These error codes are returned by the <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LSTC54FEC26_164" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a> function when a function fails.
+ These error codes are returned by the <span class="noLink">GetLastWin32Error<span id="LSTC54FEC26_172" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span> function when a function fails.
  </td>
                 </tr>
                 <tr>
@@ -2439,7 +2526,7 @@
                     <a href="d7bdcb4a-ffec-76be-4ec1-4ee33fb8858f.htm">WindowsCredentialsDialogOptions</a>
                   </td>
                   <td>
- Flags for <a href="f6ddee51-62cf-217e-8879-b0dcb8894b8a.htm">CredUIPromptForWindowsCredentials(CredUiInfo<span id="LSTC54FEC26_165" data-languageSpecificText="cpp=%"></span>, Win32ErrorCode, UInt32<span id="LSTC54FEC26_166" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, IntPtr<span id="LSTC54FEC26_167" data-languageSpecificText="cpp=%"></span>, UInt32<span id="LSTC54FEC26_168" data-languageSpecificText="cpp=%"></span>, Boolean<span id="LSTC54FEC26_169" data-languageSpecificText="cpp=%"></span>, WindowsCredentialsDialogOptions)</a> function.
+ Flags for <a href="f6ddee51-62cf-217e-8879-b0dcb8894b8a.htm">CredUIPromptForWindowsCredentials(CredUiInfo<span id="LSTC54FEC26_173" data-languageSpecificText="cpp=%"></span>, Win32ErrorCode, UInt32<span id="LSTC54FEC26_174" data-languageSpecificText="cpp=%"></span>, IntPtr, UInt32, IntPtr<span id="LSTC54FEC26_175" data-languageSpecificText="cpp=%"></span>, UInt32<span id="LSTC54FEC26_176" data-languageSpecificText="cpp=%"></span>, Boolean<span id="LSTC54FEC26_177" data-languageSpecificText="cpp=%"></span>, WindowsCredentialsDialogOptions)</a> function.
  </td>
                 </tr>
                 <tr>
@@ -2473,7 +2560,7 @@
                     <a href="568a781d-5621-e3e8-047c-0277896699d2.htm">WinMmResult</a>
                   </td>
                   <td>
- Defines an error value for <a href="93a6c99e-b6ba-c412-713c-2994975c0395.htm">WaveOutGetVolume(IntPtr, UInt32<span id="LSTC54FEC26_170" data-languageSpecificText="cpp=%"></span>)</a> and 
+ Defines an error value for <a href="93a6c99e-b6ba-c412-713c-2994975c0395.htm">WaveOutGetVolume(IntPtr, UInt32<span id="LSTC54FEC26_178" data-languageSpecificText="cpp=%"></span>)</a> and 
  <a href="7d14c9e6-5948-007f-86a2-da33dc6f5ae7.htm">WaveOutSetVolume(IntPtr, UInt32)</a> functions.
  </td>
                 </tr>
@@ -2512,9 +2599,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");

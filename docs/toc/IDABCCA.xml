@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="fa7dc0ad-7b80-b649-99eb-436c3054bee7.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Enums</a>
+    </li>
+    <li>
+      <a href="83a8f859-8dfd-a23a-6091-abada398d8bc.htm">Util<wbr />Enum</a>
+    </li>
+    <li>
+      <a href="a74f41af-4cc4-664b-65ad-de421709f8ab.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="56ae303f-c77a-e55c-3b58-90a0b39461f2" href="56ae303f-c77a-e55c-3b58-90a0b39461f2.htm">Enum<wbr />To<wbr />List&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="2efe4142-45a9-988d-9b80-7d2b7a9320da" class="has-submenu" href="2efe4142-45a9-988d-9b80-7d2b7a9320da.htm">
+        <span data-tocFile="../toc/IDBABCCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Find<wbr />Nearest<wbr />Enum<wbr />Value</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

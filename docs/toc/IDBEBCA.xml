@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
@@ -14,18 +14,18 @@
       <a href="37506d9e-0bdd-e0aa-6f9c-cfb072a10084.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Collections</a>
     </li>
     <li>
-      <a href="7d8139c0-f185-0e9d-9369-af4e678984b2.htm">Sortable<wbr />Observable<wbr />Collection&lt;T&gt;</a>
+      <a href="4fb60172-af34-5dae-5aa2-f5f7082eb569.htm">Read<wbr />Only<wbr />Value<wbr />Pair&lt;TValue<wbr />1, TValue<wbr />2&gt;</a>
     </li>
     <li>
-      <a href="cb84d82f-8ea8-6169-9057-dabdc2eec6ef.htm">Properties</a>
+      <a href="4b6413f6-fbc9-e6b0-d237-e2a0a89907fa.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="d680013e-450a-8f92-7478-2a3c4b413be2" href="d680013e-450a-8f92-7478-2a3c4b413be2.htm">Is<wbr />Descending</a>
+      <a id="87c3e5ff-f5fa-1ad0-340d-d9f2be007177" href="87c3e5ff-f5fa-1ad0-340d-d9f2be007177.htm">Value<wbr />1</a>
     </li>
     <li>
-      <a id="610cb11d-4152-f7e7-7a66-ef30749a489b" href="610cb11d-4152-f7e7-7a66-ef30749a489b.htm">Sorting<wbr />Selector</a>
+      <a id="85c5a12b-4e46-c993-1216-2a489e368c57" href="85c5a12b-4e46-c993-1216-2a489e368c57.htm">Value<wbr />2</a>
     </li>
   </tocItems>
 </toc>

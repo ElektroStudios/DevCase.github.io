@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="d4bd6355-9da7-33cb-5f6a-a4990be1a205.htm">Get<wbr />Class<wbr />Long</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3ebe2696-49ce-8b9d-23fc-60b2d72bbdba" href="3ebe2696-49ce-8b9d-23fc-60b2d72bbdba.htm">Get<wbr />Class<wbr />Long(<wbr />Handle<wbr />Ref, Class<wbr />Long<wbr />Values)</a>
+    </li>
+    <li>
+      <a id="dc532445-9445-bce8-460a-f3e4412ae876" href="dc532445-9445-bce8-460a-f3e4412ae876.htm">Get<wbr />Class<wbr />Long(<wbr />Int<wbr />Ptr, Class<wbr />Long<wbr />Values)</a>
+    </li>
+    <li>
+      <a id="8c04c6b0-ec06-c7a9-c35c-98fd44063c17" href="8c04c6b0-ec06-c7a9-c35c-98fd44063c17.htm">Get<wbr />Class<wbr />Long(<wbr />Safe<wbr />Handle, Class<wbr />Long<wbr />Values)</a>
+    </li>
+  </tocItems>
+</toc>

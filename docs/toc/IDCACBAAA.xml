@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -23,15 +23,15 @@
       <a href="7701b849-064c-15d4-6ada-d12debb93660.htm">Methods</a>
     </li>
     <li>
-      <a href="03dcbc88-3dc3-9825-e377-337f2d2cc02a.htm">Write<wbr />Color</a>
+      <a href="0181dafc-808f-3e42-5450-7f9df328fda7.htm">Write<wbr />Color<wbr />Line</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="77b9d227-6e7e-0853-248d-0b38507a9e5f" href="77b9d227-6e7e-0853-248d-0b38507a9e5f.htm">Write<wbr />Color(<wbr />String, Char[], Int<wbr />32, Int<wbr />32)</a>
+      <a id="d287118c-51f6-7af0-c818-c32190625822" href="d287118c-51f6-7af0-c818-c32190625822.htm">Write<wbr />Color<wbr />Line(<wbr />String, Char[], Int<wbr />32, Int<wbr />32)</a>
     </li>
     <li>
-      <a id="6295df52-179d-9fdc-1902-6fd41e7a9bc7" href="6295df52-179d-9fdc-1902-6fd41e7a9bc7.htm">Write<wbr />Color(<wbr />String, Console<wbr />Color, Console<wbr />Color, Int<wbr />32, Int<wbr />32)</a>
+      <a id="46e8b209-5709-bce1-daf7-ee2a20480ad1" href="46e8b209-5709-bce1-daf7-ee2a20480ad1.htm">Write<wbr />Color<wbr />Line(<wbr />String, Console<wbr />Color, Console<wbr />Color, Int<wbr />32, Int<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

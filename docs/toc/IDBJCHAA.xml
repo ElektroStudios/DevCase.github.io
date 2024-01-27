@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="efd85f6e-52f2-6b5a-63f6-5b70dd0c5f8b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media Namespaces</a>
+    </li>
+    <li>
+      <a href="bf8d4a90-cec6-295b-e783-ecd5a84a298b.htm">Dev<wbr />Case.<wbr />Core.<wbr />Media.<wbr />Sound</a>
+    </li>
+    <li>
+      <a href="85d51e76-0f89-85c0-e68c-3ac176a2a935.htm">Util<wbr />Audio</a>
+    </li>
+    <li>
+      <a href="b967e5fb-9caf-62eb-524e-ad4f4347947a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d4a10d31-8ef3-c3a6-28e9-d63bc62e69eb" href="d4a10d31-8ef3-c3a6-28e9-d63bc62e69eb.htm">Get<wbr />Application<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="e77f82a8-baac-f62b-c04d-1a6fe25a969a" href="e77f82a8-baac-f62b-c04d-1a6fe25a969a.htm">Get<wbr />Current<wbr />Application<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="07b9bf5e-a65d-bcc4-3f63-8eac5857e9c3" href="07b9bf5e-a65d-bcc4-3f63-8eac5857e9c3.htm">Is<wbr />Application<wbr />Muted</a>
+    </li>
+    <li>
+      <a id="3d467a4f-a30f-80fc-a7e7-f19e7e539186" href="3d467a4f-a30f-80fc-a7e7-f19e7e539186.htm">Mute<wbr />Application</a>
+    </li>
+    <li>
+      <a id="8ff3e21e-8773-1a32-6c8a-3952d85b9cbb" href="8ff3e21e-8773-1a32-6c8a-3952d85b9cbb.htm">Mute<wbr />System<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="6e53ac06-d8ff-8ccb-3a6b-46a4776dbda6" href="6e53ac06-d8ff-8ccb-3a6b-46a4776dbda6.htm">Set<wbr />Application<wbr />Volume</a>
+    </li>
+    <li>
+      <a id="09c9704f-6e5a-df52-9e3e-700fa2e10f02" class="has-submenu" href="09c9704f-6e5a-df52-9e3e-700fa2e10f02.htm">
+        <span data-tocFile="../toc/IDGBJCHAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Current<wbr />Application<wbr />Volume</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="cda8291d-f661-0f92-9a54-ede65bda845c" href="cda8291d-f661-0f92-9a54-ede65bda845c.htm">Unmute<wbr />Application</a>
+    </li>
+  </tocItems>
+</toc>

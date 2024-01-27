@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -34,36 +34,29 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="14f0b58c-f41a-b514-d2ed-520eeb97135e" class="has-submenu" href="14f0b58c-f41a-b514-d2ed-520eeb97135e.htm">
-        <span data-tocFile="../toc/IDDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Dev<wbr />Case.<wbr />UI.<wbr />Enums</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
       <a id="8d1b33f4-4065-9c32-d951-0daf876badc6" class="has-submenu" href="8d1b33f4-4065-9c32-d951-0daf876badc6.htm">
-        <span data-tocFile="../toc/IDEEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Case.<wbr />UI.<wbr />Events</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="fd2d8cfa-8713-21fa-a2b2-ab27eaf5972f" class="has-submenu" href="fd2d8cfa-8713-21fa-a2b2-ab27eaf5972f.htm">
-        <span data-tocFile="../toc/IDFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDEEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Case.<wbr />UI.<wbr />Interfaces</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="2069902f-bb08-5749-7479-c0a8f0555986" class="has-submenu" href="2069902f-bb08-5749-7479-c0a8f0555986.htm">
-        <span data-tocFile="../toc/IDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Case.<wbr />UI.<wbr />Layout Namespaces</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
       <a id="c0ca2653-81dd-e5e4-7b51-98797de5bd1a" class="has-submenu" href="c0ca2653-81dd-e5e4-7b51-98797de5bd1a.htm">
-        <span data-tocFile="../toc/IDHEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+        <span data-tocFile="../toc/IDGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Dev<wbr />Case.<wbr />UI.<wbr />Type<wbr />Editors</a>
       <ul class="toc-menu is-hidden"> </ul>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -17,21 +17,24 @@
       <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
     </li>
     <li>
-      <a href="b5f5756d-2410-026a-a330-d964f86d50c4.htm">Formattable<wbr />String</a>
+      <a href="820004dd-bf5a-ddca-325f-2765501d88b4.htm">Fixed<wbr />Length<wbr />String</a>
     </li>
     <li>
-      <a href="d905099e-fcf1-51f0-23cd-1191f596a07e.htm">Properties</a>
+      <a href="533e6362-7e43-8e75-265a-0abeee51c0bb.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="647d822b-e4bc-2513-5168-b56e20587624" href="647d822b-e4bc-2513-5168-b56e20587624.htm">Arguments</a>
+      <a id="ba19ef21-fa43-2f63-cc70-f5e68866a9e0" href="ba19ef21-fa43-2f63-cc70-f5e68866a9e0.htm">Fixed<wbr />Length</a>
     </li>
     <li>
-      <a id="99a43c65-edf0-8d1c-a319-6db5de8c320c" href="99a43c65-edf0-8d1c-a319-6db5de8c320c.htm">Format</a>
+      <a id="8467e226-2634-3aaa-8966-d87e0dac7bd6" href="8467e226-2634-3aaa-8966-d87e0dac7bd6.htm">Padding<wbr />Char</a>
     </li>
     <li>
-      <a id="5f29bf41-d0f8-325f-fa0a-af41aaec44c1" href="5f29bf41-d0f8-325f-fa0a-af41aaec44c1.htm">Format<wbr />Provider</a>
+      <a id="0417426f-48c1-5119-8aaa-1bd9c1ea958a" href="0417426f-48c1-5119-8aaa-1bd9c1ea958a.htm">Value<wbr />Fixed</a>
+    </li>
+    <li>
+      <a id="14480dab-b6ed-3fc3-0b31-f1d7bae0d391" href="14480dab-b6ed-3fc3-0b31-f1d7bae0d391.htm">Value<wbr />Unfixed</a>
     </li>
   </tocItems>
 </toc>

@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,15 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="5d6f5312-67bb-ece2-6725-13bc321f2ab6.htm">Open<wbr />Thread</a>
+      <a href="a524d061-cff0-6738-81fa-9c8568f4bfd0.htm">Open<wbr />Process</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="bd026ef2-f694-1b1d-2ec8-8c660babe5bf" href="bd026ef2-f694-1b1d-2ec8-8c660babe5bf.htm">Open<wbr />Thread(<wbr />Generic<wbr />Access<wbr />Rights, Boolean, UInt<wbr />32)</a>
+      <a id="2d599c55-5980-6778-f15e-2ca5f174a368" href="2d599c55-5980-6778-f15e-2ca5f174a368.htm">Open<wbr />Process(<wbr />Generic<wbr />Access<wbr />Rights, Boolean, Int<wbr />32)</a>
     </li>
     <li>
-      <a id="92ebf888-a7cd-3d0f-907a-a3874bb65d45" href="92ebf888-a7cd-3d0f-907a-a3874bb65d45.htm">Open<wbr />Thread(<wbr />Thread<wbr />Access<wbr />Rights, Boolean, UInt<wbr />32)</a>
+      <a id="45ba2e79-0142-7104-707e-40567338503c" href="45ba2e79-0142-7104-707e-40567338503c.htm">Open<wbr />Process(<wbr />Process<wbr />Access<wbr />Rights, Boolean, Int<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

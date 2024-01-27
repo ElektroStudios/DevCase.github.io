@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="8d1b33f4-4065-9c32-d951-0daf876badc6.htm">Dev<wbr />Case.<wbr />UI.<wbr />Events</a>
+    </li>
+    <li>
+      <a href="d59107a4-b398-b633-dd6e-a9f07dd34080.htm">Progress<wbr />Bar<wbr />Value<wbr />Changed<wbr />Event<wbr />Args</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9b02c1f3-583f-b9df-cefe-a3d7bf30ac8f" href="9b02c1f3-583f-b9df-cefe-a3d7bf30ac8f.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="9acc98ef-d717-b5cc-2a26-df42be76de87" class="has-submenu" href="9acc98ef-d717-b5cc-2a26-df42be76de87.htm">
+        <span data-tocFile="../toc/IDBFDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5a55e8ae-ffa9-cef2-9648-5fc72f72cd3d" href="5a55e8ae-ffa9-cef2-9648-5fc72f72cd3d.htm">Methods</a>
+    </li>
+  </tocItems>
+</toc>

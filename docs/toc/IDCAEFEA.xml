@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
+    </li>
+    <li>
+      <a href="2069902f-bb08-5749-7479-c0a8f0555986.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout Namespaces</a>
+    </li>
+    <li>
+      <a href="a7b8b694-c7bf-c008-e62a-f1adbdbc82b6.htm">Dev<wbr />Case.<wbr />UI.<wbr />Layout.<wbr />Dev<wbr />List<wbr />View<wbr />Data</a>
+    </li>
+    <li>
+      <a href="759c4d6f-07d8-1595-e448-537621f81bc4.htm">Dev<wbr />List<wbr />View<wbr />Item<wbr />Collection</a>
+    </li>
+    <li>
+      <a href="91c0f41d-8f97-1339-a9f5-168f5f533f54.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d2e00161-db33-0b24-fc74-6382f448cda3" class="has-submenu" href="d2e00161-db33-0b24-fc74-6382f448cda3.htm">
+        <span data-tocFile="../toc/IDACAEFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="728da23e-d1e8-3d95-bd75-627865831561" class="has-submenu" href="728da23e-d1e8-3d95-bd75-627865831561.htm">
+        <span data-tocFile="../toc/IDBCAEFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Add<wbr />Range</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4f8a6413-d3a5-f6f0-0187-b0aa1e781a5f" class="has-submenu" href="4f8a6413-d3a5-f6f0-0187-b0aa1e781a5f.htm">
+        <span data-tocFile="../toc/IDCCAEFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Insert</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="16d37199-76c3-3022-1e63-d88f1d5e5549" href="16d37199-76c3-3022-1e63-d88f1d5e5549.htm">Remove</a>
+    </li>
+    <li>
+      <a id="94bc87dd-8c80-a10c-61f2-c3fed4506e54" href="94bc87dd-8c80-a10c-61f2-c3fed4506e54.htm">Remove<wbr />At</a>
+    </li>
+    <li>
+      <a id="0b7dd73e-6bb9-3a53-c79e-ad3e72e026d2" href="0b7dd73e-6bb9-3a53-c79e-ad3e72e026d2.htm">Remove<wbr />At<wbr />Range</a>
+    </li>
+    <li>
+      <a id="fa9f64c6-09e7-118e-0b15-c891fbc0e7cc" href="fa9f64c6-09e7-118e-0b15-c891fbc0e7cc.htm">Remove<wbr />By<wbr />Key</a>
+    </li>
+    <li>
+      <a id="418382f2-3691-784c-b2c4-74db87668801" class="has-submenu" href="418382f2-3691-784c-b2c4-74db87668801.htm">
+        <span data-tocFile="../toc/IDHCAEFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Remove<wbr />Range</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

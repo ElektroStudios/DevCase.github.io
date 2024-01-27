@@ -2,39 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="fa685eed-a5a5-ba2c-605c-b89281048de6.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />List<wbr />View<wbr />Extensions</a>
+      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
     </li>
     <li>
-      <a href="26a92165-72be-d511-06b6-552baa746269.htm">List<wbr />View<wbr />Extensions</a>
+      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
     </li>
     <li>
-      <a href="583d111e-362d-fd22-5c86-0f811c749913.htm">Methods</a>
+      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
     </li>
     <li>
-      <a href="ff89f432-555c-1f48-7567-943506e04034.htm">Copy<wbr />All<wbr />Items</a>
+      <a href="618a1da7-8b3b-5591-b1a3-d9b0efa4fc22.htm">Apply<wbr />Color<wbr />Matrix</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="d1dfeb96-feba-43fd-d241-cdcc927ec458" href="d1dfeb96-feba-43fd-d241-cdcc927ec458.htm">Copy<wbr />All<wbr />Items(<wbr />List<wbr />View)</a>
+      <a id="bb5ed528-2318-8ea7-95fb-b9d6eccab71f" href="bb5ed528-2318-8ea7-95fb-b9d6eccab71f.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Image, Color<wbr />Matrix)</a>
     </li>
     <li>
-      <a id="bb23d75f-0d21-2667-b4de-d79fa68fdaed" href="bb23d75f-0d21-2667-b4de-d79fa68fdaed.htm">Copy<wbr />All<wbr />Items(<wbr />List<wbr />View, Int<wbr />32)</a>
-    </li>
-    <li>
-      <a id="335871e9-acc7-2aa1-5c2c-964a799a9daa" href="335871e9-acc7-2aa1-5c2c-964a799a9daa.htm">Copy<wbr />All<wbr />Items(<wbr />List<wbr />View, String)</a>
-    </li>
-    <li>
-      <a id="fd14e358-4f0b-a628-8b75-6b1e98c26248" href="fd14e358-4f0b-a628-8b75-6b1e98c26248.htm">Copy<wbr />All<wbr />Items(<wbr />List<wbr />View, String, Int<wbr />32)</a>
+      <a id="cd079dfd-d01c-8808-a040-4dbb60ebe171" href="cd079dfd-d01c-8808-a040-4dbb60ebe171.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Image, Color<wbr />Matrix, Graphics<wbr />Quality<wbr />Container)</a>
     </li>
   </tocItems>
 </toc>

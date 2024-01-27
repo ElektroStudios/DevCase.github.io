@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -17,27 +17,66 @@
       <a href="e5dca48d-c212-5c7c-b5f5-f0aa3480a23c.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Forms</a>
     </li>
     <li>
-      <a href="1d52516a-027b-a726-4978-4aac245c276d.htm">Window<wbr />Magnetizer</a>
+      <a href="9aaf448c-49d9-252f-d9b3-383f239027c8.htm">Window<wbr />Locker</a>
     </li>
     <li>
-      <a href="1329a399-1051-253b-d09b-95cf0c051009.htm">Properties</a>
+      <a href="20fa09e8-b4c4-7075-5cc3-e4c9fb055bfc.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="496b14a6-a518-ab64-32aa-f03fb6e09f57" href="496b14a6-a518-ab64-32aa-f03fb6e09f57.htm">Allow<wbr />Offscreen</a>
+      <a id="5e612ff1-773d-62a1-80e8-32b94eaae11a" href="5e612ff1-773d-62a1-80e8-32b94eaae11a.htm">Close<wbr />Button<wbr />Enabled</a>
     </li>
     <li>
-      <a id="d9088470-2fda-6259-6bf4-7d7c5e3a57b9" href="d9088470-2fda-6259-6bf4-7d7c5e3a57b9.htm">Enabled</a>
+      <a id="2607dc6f-ec48-8c49-575c-9538f5888283" href="2607dc6f-ec48-8c49-575c-9538f5888283.htm">Drag<wbr />Enabled</a>
     </li>
     <li>
-      <a id="5df023e9-e130-316b-9420-6c7656164382" href="5df023e9-e130-316b-9420-6c7656164382.htm">Handle</a>
+      <a id="70d45215-5341-77e0-e1a2-27f9c52e18b1" href="70d45215-5341-77e0-e1a2-27f9c52e18b1.htm">Handle</a>
     </li>
     <li>
-      <a id="66498936-eeca-e31b-6632-43fd5626c95e" href="66498936-eeca-e31b-6632-43fd5626c95e.htm">Owner<wbr />Window</a>
+      <a id="2eeda40a-58d5-2064-cf28-4ed7d458c92e" href="2eeda40a-58d5-2064-cf28-4ed7d458c92e.htm">Maximize<wbr />Button<wbr />Enabled</a>
     </li>
     <li>
-      <a id="7160579b-cb5a-1542-eb95-7ffd45002e90" href="7160579b-cb5a-1542-eb95-7ffd45002e90.htm">Threshold</a>
+      <a id="b972b8e1-b567-531f-51cf-481a89e4807f" href="b972b8e1-b567-531f-51cf-481a89e4807f.htm">Menu<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="ea4f01af-2824-b7ee-5419-4c38d0500dce" href="ea4f01af-2824-b7ee-5419-4c38d0500dce.htm">Minimize<wbr />Button<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="b03a0b5d-e4ee-9821-0b6f-108173d7a2e0" href="b03a0b5d-e4ee-9821-0b6f-108173d7a2e0.htm">Move<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="5e75f1e7-3656-191f-1b4b-bd7ddc1b5f0a" href="5e75f1e7-3656-191f-1b4b-bd7ddc1b5f0a.htm">Owner<wbr />Window</a>
+    </li>
+    <li>
+      <a id="905e3fab-1078-9c35-32e3-ecaae791d698" href="905e3fab-1078-9c35-32e3-ecaae791d698.htm">Resize<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="fc378b9f-4a13-fdfa-2c46-45784a81d1a1" href="fc378b9f-4a13-fdfa-2c46-45784a81d1a1.htm">Scroll<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="27239794-8c44-7e19-dfe8-ea7a8b1466f6" href="27239794-8c44-7e19-dfe8-ea7a8b1466f6.htm">Sizeable<wbr />Bottom<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="2c47bde1-1bf9-a769-82e8-65074f57c3b9" href="2c47bde1-1bf9-a769-82e8-65074f57c3b9.htm">Sizeable<wbr />Bottom<wbr />Left<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="5a9b093c-6de5-3402-4a86-a2bd3fc9cc32" href="5a9b093c-6de5-3402-4a86-a2bd3fc9cc32.htm">Sizeable<wbr />Bottom<wbr />Right<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="bb2237de-f6bf-2f82-3329-c4eb0d691881" href="bb2237de-f6bf-2f82-3329-c4eb0d691881.htm">Sizeable<wbr />Left<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="e7bae648-c773-5e1f-65ed-67f05f1778ca" href="e7bae648-c773-5e1f-65ed-67f05f1778ca.htm">Sizeable<wbr />Right<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="ef59f6e1-19b3-e99d-f224-36d65dc14d5c" href="ef59f6e1-19b3-e99d-f224-36d65dc14d5c.htm">Sizeable<wbr />Top<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="17a3cea2-bb84-4aae-d307-cfd1ca67c035" href="17a3cea2-bb84-4aae-d307-cfd1ca67c035.htm">Sizeable<wbr />Top<wbr />Left<wbr />Border<wbr />Enabled</a>
+    </li>
+    <li>
+      <a id="a2b7e335-3580-cd12-71bd-74096efb8860" href="a2b7e335-3580-cd12-71bd-74096efb8860.htm">Sizeable<wbr />Top<wbr />Right<wbr />Border<wbr />Enabled</a>
     </li>
   </tocItems>
 </toc>

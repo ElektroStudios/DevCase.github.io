@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="c23cc9f7-0b71-4f40-2250-4277810aa804.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IContainer<wbr />Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="87d11b31-ac74-cd36-aa18-407928e0e892.htm">IContainer<wbr />Control<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="c1be63b9-fdb0-599e-3452-fcfcc08b308e.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2df70a2f-d6cd-f34a-ba30-4068b46b9aff.htm">Get<wbr />Components</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="1b25c640-28da-d76c-cd48-f31fab8efdbb" href="1b25c640-28da-d76c-cd48-f31fab8efdbb.htm">Get<wbr />Components(<wbr />IContainer<wbr />Control)</a>
+    </li>
+    <li>
+      <a id="6bc8a72a-0471-ea69-9457-c98a6ae64559" href="6bc8a72a-0471-ea69-9457-c98a6ae64559.htm">Get<wbr />Components&lt;T&gt;(<wbr />IContainer<wbr />Control)</a>
+    </li>
+  </tocItems>
+</toc>

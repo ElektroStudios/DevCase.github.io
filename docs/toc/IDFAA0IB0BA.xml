@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="e9eb9e49-a4e6-20b5-9431-9069bf2db51f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />File<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="391615ed-1496-f9b9-5ea5-493a730a114e.htm">File<wbr />Stream<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="5ec32160-09aa-8ac2-079e-8515498d0011.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1a8ca4bc-8d2d-27e8-5537-5cf10c2f31d0.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="56ec9a23-b2ab-f586-d296-8b1307ac0d4a" href="56ec9a23-b2ab-f586-d296-8b1307ac0d4a.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream)</a>
+    </li>
+    <li>
+      <a id="26272539-5d20-7256-4d8b-1e6dbb8a3bac" href="26272539-5d20-7256-4d8b-1e6dbb8a3bac.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="05ceeef4-7937-cd62-c2ae-225be93249da" href="05ceeef4-7937-cd62-c2ae-225be93249da.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream, Encoding)</a>
+    </li>
+    <li>
+      <a id="fedf6c57-8069-7efa-7e6f-8be38e63da18" href="fedf6c57-8069-7efa-7e6f-8be38e63da18.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream, Int<wbr />64, Int<wbr />64)</a>
+    </li>
+    <li>
+      <a id="82fd52c2-854c-f41a-29fa-e0b69547e4d1" href="82fd52c2-854c-f41a-29fa-e0b69547e4d1.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream, Int<wbr />64, Encoding)</a>
+    </li>
+    <li>
+      <a id="f4c24129-c838-c073-e1ee-eb08acd6572c" href="f4c24129-c838-c073-e1ee-eb08acd6572c.htm">Read<wbr />Until<wbr />First<wbr />Null<wbr />Byte(<wbr />File<wbr />Stream, Int<wbr />64, Int<wbr />64, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

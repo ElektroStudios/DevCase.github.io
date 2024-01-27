@@ -2,33 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
+      <a href="ababbf77-6362-9abb-0f54-8ac31e9b831e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IDictionary<wbr />Extensions</a>
     </li>
     <li>
-      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
+      <a href="933e6a7c-67d8-a5c0-c9c3-22789174b52a.htm">IDictionary<wbr />Extensions</a>
     </li>
     <li>
-      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
+      <a href="e7fb6e74-4606-5c1a-7ef6-a0b83a8d180f.htm">Methods</a>
     </li>
     <li>
-      <a href="618a1da7-8b3b-5591-b1a3-d9b0efa4fc22.htm">Apply<wbr />Color<wbr />Matrix</a>
+      <a href="639db5f9-2711-731f-eba1-808263863ede.htm">Add<wbr />Or<wbr />Get</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="bb5ed528-2318-8ea7-95fb-b9d6eccab71f" href="bb5ed528-2318-8ea7-95fb-b9d6eccab71f.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Image, Color<wbr />Matrix)</a>
+      <a id="75f659e1-2f1e-a26a-30dd-6c5e4f7390fe" href="75f659e1-2f1e-a26a-30dd-6c5e4f7390fe.htm">Add<wbr />Or<wbr />Get&lt;TKey, TValue&gt;(<wbr />IDictionary&lt;TKey, TValue&gt;, TKey, TValue)</a>
     </li>
     <li>
-      <a id="cd079dfd-d01c-8808-a040-4dbb60ebe171" href="cd079dfd-d01c-8808-a040-4dbb60ebe171.htm">Apply<wbr />Color<wbr />Matrix(<wbr />Image, Color<wbr />Matrix, Graphics<wbr />Quality<wbr />Container)</a>
+      <a id="ffd46699-42a1-f1d1-b073-e02954bcce85" href="ffd46699-42a1-f1d1-b073-e02954bcce85.htm">Add<wbr />Or<wbr />Get&lt;TKey, TValue&gt;(<wbr />IDictionary&lt;TKey, TValue&gt;, TKey, Func&lt;TKey, TValue&gt;)</a>
     </li>
   </tocItems>
 </toc>

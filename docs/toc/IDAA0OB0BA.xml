@@ -2,34 +2,27 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="fe4ef172-1161-e703-ff36-f5fe59b0046e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Http<wbr />Response<wbr />Extensions</a>
+      <a href="6ffa4971-7a92-b92d-3df4-41137d5cda78.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Hash<wbr />Set<wbr />Extensions</a>
     </li>
     <li>
-      <a href="122ea607-aadf-0c1e-d983-8260e6016fa2.htm">Http<wbr />Response<wbr />Extensions</a>
+      <a href="99680829-1734-76db-29c6-20738d717b6c.htm">Hash<wbr />Set<wbr />Extensions</a>
     </li>
     <li>
-      <a href="1a3f2dec-dc4b-f2b7-2dec-0aff23664bf9.htm">Methods</a>
+      <a href="9dd6a4f7-0256-e336-1546-3916ea7cb19b.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="1a46f541-6a34-5dc4-59b7-1abfdd41a045" class="has-submenu" href="1a46f541-6a34-5dc4-59b7-1abfdd41a045.htm">
-        <span data-tocFile="../toc/IDAAA0OB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Add<wbr />Attachment</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="3db3dd61-71a1-bf31-d400-6b7d0f2d14bf" href="3db3dd61-71a1-bf31-d400-6b7d0f2d14bf.htm">Reload</a>
+      <a id="4811f8b9-f26b-e838-68de-671689609f60" href="4811f8b9-f26b-e838-68de-671689609f60.htm">Add<wbr />Range&lt;T&gt;</a>
     </li>
   </tocItems>
 </toc>

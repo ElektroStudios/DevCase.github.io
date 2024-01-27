@@ -2,24 +2,24 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="60d34a0a-1b62-fd84-bcef-1a9ddfda63f1.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Time<wbr />Span<wbr />Extensions</a>
+      <a href="06fd3319-52ac-ad2e-f13f-b2afabc7bfe8.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Extensions</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="99808e05-f4db-da61-b0d9-ffa73aac14f8" class="has-submenu" href="99808e05-f4db-da61-b0d9-ffa73aac14f8.htm">
+      <a id="e1edaf5e-f27d-56b2-bf00-01795a4caa23" class="has-submenu" href="e1edaf5e-f27d-56b2-bf00-01795a4caa23.htm">
         <span data-tocFile="../toc/IDA0JD0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Time<wbr />Span<wbr />Extensions</a>
+        </span>String<wbr />Extensions</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

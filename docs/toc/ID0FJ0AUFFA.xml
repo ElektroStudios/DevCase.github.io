@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
+    </li>
+    <li>
+      <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">Dev<wbr />Case.<wbr />Win<wbr />32.<wbr />Native<wbr />Methods</a>
+    </li>
+    <li>
+      <a href="1250e4dc-2fa8-a29b-a620-b6a741f177d2.htm">User<wbr />32</a>
+    </li>
+    <li>
+      <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
+    </li>
+    <li>
+      <a href="bec5264e-aaa7-caf7-3209-be7fae1801e2.htm">Update<wbr />Layered<wbr />Window</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f545e84d-4399-3fac-3749-4958c0cbdd7a" href="f545e84d-4399-3fac-3749-4958c0cbdd7a.htm">Update<wbr />Layered<wbr />Window(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Native<wbr />Point, Native<wbr />Size, Int<wbr />Ptr, Native<wbr />Point, Int<wbr />32, Blend<wbr />Function, Update<wbr />Layered<wbr />Windowflags)</a>
+    </li>
+    <li>
+      <a id="f62ff27c-5de7-f9e8-bc0e-a4eacd5eca99" href="f62ff27c-5de7-f9e8-bc0e-a4eacd5eca99.htm">Update<wbr />Layered<wbr />Window(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Point, Size, Int<wbr />Ptr, Point, Int<wbr />32, Blend<wbr />Function, Update<wbr />Layered<wbr />Windowflags)</a>
+    </li>
+    <li>
+      <a id="ca33e6a3-ada1-c349-1253-f7734f1d373c" href="ca33e6a3-ada1-c349-1253-f7734f1d373c.htm">Update<wbr />Layered<wbr />Window(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Native<wbr />Point, Native<wbr />Size, Int<wbr />Ptr, Native<wbr />Point, Int<wbr />32, Blend<wbr />Function, Update<wbr />Layered<wbr />Windowflags)</a>
+    </li>
+    <li>
+      <a id="70194ac1-9359-4f84-8527-5526fdc2e870" href="70194ac1-9359-4f84-8527-5526fdc2e870.htm">Update<wbr />Layered<wbr />Window(<wbr />Safe<wbr />Handle, Int<wbr />Ptr, Point, Size, Int<wbr />Ptr, Point, Int<wbr />32, Blend<wbr />Function, Update<wbr />Layered<wbr />Windowflags)</a>
+    </li>
+  </tocItems>
+</toc>

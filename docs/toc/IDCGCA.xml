@@ -2,34 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
     </li>
     <li>
-      <a href="96964f5c-69f7-60e1-15ec-e14bd611da01.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Threading</a>
+      <a href="c17d5ab0-1588-86cc-a16f-ab5938124500.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Type<wbr />Comparers</a>
     </li>
     <li>
-      <a href="66eae762-f2a4-814b-76fb-4af18acf41eb.htm">Dev<wbr />Progress<wbr />Changed<wbr />Event<wbr />Args</a>
+      <a href="29b6f674-6c90-2366-6199-73ba79bb2906.htm">Directory<wbr />Info<wbr />Natural<wbr />Comparer</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="9268ba4c-ec4c-79b0-a867-ae2f7832da3f" href="9268ba4c-ec4c-79b0-a867-ae2f7832da3f.htm">Constructor</a>
+      <a id="52a45434-a002-cdcc-cfa7-78e5901cde21" href="52a45434-a002-cdcc-cfa7-78e5901cde21.htm">Constructor</a>
     </li>
     <li>
-      <a id="2aa05780-f393-a0ce-b065-19f48808462e" class="has-submenu" href="2aa05780-f393-a0ce-b065-19f48808462e.htm">
+      <a id="ec2f4638-7f0d-0dd7-11f2-9688f0d78917" class="has-submenu" href="ec2f4638-7f0d-0dd7-11f2-9688f0d78917.htm">
         <span data-tocFile="../toc/IDBCGCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
+        </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="a976c020-d624-14f1-2673-f90db377bed9" href="a976c020-d624-14f1-2673-f90db377bed9.htm">Methods</a>
     </li>
   </tocItems>
 </toc>

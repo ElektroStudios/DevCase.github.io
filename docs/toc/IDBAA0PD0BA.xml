@@ -2,36 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="197ac694-bb31-9eda-e12d-9324d57575c4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />ULong<wbr />Extensions</a>
+      <a href="fb05c880-201b-165c-e314-26ba7ab9aad0.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Tree<wbr />Node<wbr />Collection<wbr />Extensions</a>
     </li>
     <li>
-      <a href="a1381ace-f25c-744b-15e4-29a438b73d5f.htm">ULong<wbr />Extensions</a>
+      <a href="61fbe7de-1c88-be7d-962e-5322c2da32c3.htm">Tree<wbr />Node<wbr />Collection<wbr />Extensions</a>
     </li>
     <li>
-      <a href="17a56e52-9cd5-8a6a-df55-e70284adc6e3.htm">Methods</a>
+      <a href="1ce66187-3b86-6147-1ad4-13599d9b7940.htm">Methods</a>
     </li>
     <li>
-      <a href="6d17d9c2-54b1-18fb-7838-8f4f0cd88102.htm">Formatted</a>
+      <a href="e44df32d-32fa-d96a-0d9c-80f1c4409f8e.htm">Add<wbr />File</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="03ab6056-f377-7210-d99e-1d8b7f9cf6a5" href="03ab6056-f377-7210-d99e-1d8b7f9cf6a5.htm">Formatted(<wbr />UInt<wbr />64)</a>
+      <a id="b38f89cf-c385-c52d-6dcf-e22770035787" href="b38f89cf-c385-c52d-6dcf-e22770035787.htm">Add<wbr />File(<wbr />Tree<wbr />Node<wbr />Collection, File<wbr />Info)</a>
     </li>
     <li>
-      <a id="438d7125-6cf2-62b5-048e-d40ce965b753" href="438d7125-6cf2-62b5-048e-d40ce965b753.htm">Formatted(<wbr />UInt<wbr />64, Int<wbr />32)</a>
-    </li>
-    <li>
-      <a id="c06eeebb-6123-e1af-2ba6-ea921074a390" href="c06eeebb-6123-e1af-2ba6-ea921074a390.htm">Formatted(<wbr />UInt<wbr />64, Int<wbr />32, Culture<wbr />Info)</a>
+      <a id="0e2a57ee-2860-803c-3113-6ae980da0ecd" href="0e2a57ee-2860-803c-3113-6ae980da0ecd.htm">Add<wbr />File(<wbr />Tree<wbr />Node<wbr />Collection, String)</a>
     </li>
   </tocItems>
 </toc>

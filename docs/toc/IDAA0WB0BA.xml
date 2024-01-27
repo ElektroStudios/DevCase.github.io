@@ -2,31 +2,37 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="be49c302-ccc9-38da-02b8-be8c4f49ec85.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IGrouping<wbr />Extensions</a>
+      <a href="c23cc9f7-0b71-4f40-2250-4277810aa804.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IContainer<wbr />Control<wbr />Extensions</a>
     </li>
     <li>
-      <a href="2047ee71-fa4f-5601-f2c7-722af5024e3f.htm">IGrouping<wbr />Extensions</a>
+      <a href="87d11b31-ac74-cd36-aa18-407928e0e892.htm">IContainer<wbr />Control<wbr />Extensions</a>
     </li>
     <li>
-      <a href="61cbd8e2-80b9-e1fa-aed5-8f9a973d7851.htm">Methods</a>
+      <a href="c1be63b9-fdb0-599e-3452-fcfcc08b308e.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="aea13193-0dd4-adb3-17b4-d5bcc5956661" class="has-submenu" href="aea13193-0dd4-adb3-17b4-d5bcc5956661.htm">
-        <span data-tocFile="../toc/IDAAA0WB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="aefb05ac-7e1e-dc1e-bcbf-c21a74399970" href="aefb05ac-7e1e-dc1e-bcbf-c21a74399970.htm">Add<wbr />Components</a>
+    </li>
+    <li>
+      <a id="2df70a2f-d6cd-f34a-ba30-4068b46b9aff" class="has-submenu" href="2df70a2f-d6cd-f34a-ba30-4068b46b9aff.htm">
+        <span data-tocFile="../toc/IDBAA0WB0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Join<wbr />By<wbr />First<wbr />Group<wbr />Element</a>
+        </span>Get<wbr />Components</a>
       <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="8be98a65-520d-6833-c5ae-47d26c0f51ce" href="8be98a65-520d-6833-c5ae-47d26c0f51ce.htm">Remove<wbr />Components</a>
     </li>
   </tocItems>
 </toc>

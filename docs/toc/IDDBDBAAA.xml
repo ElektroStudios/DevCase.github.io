@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="3b3f8c95-21f7-b234-36b7-1968b503eaac.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application Namespaces</a>
+    </li>
+    <li>
+      <a href="3775f554-77df-d7aa-64f9-1204adf77ff2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Application.<wbr />Console</a>
+    </li>
+    <li>
+      <a href="0b6d1361-1698-8e02-99cf-0ead0f20ad0b.htm">Util<wbr />Console</a>
+    </li>
+    <li>
+      <a href="cdff5c9e-9c25-7457-6edb-0d6d2e8c02ee.htm">Methods</a>
+    </li>
+    <li>
+      <a href="0c222f6c-2b6b-5277-bc42-c79ee583b62d.htm">Console<wbr />Text<wbr />Blink<wbr />Multiline</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b348e79d-df54-d862-8bed-9335ccaeadcc" href="b348e79d-df54-d862-8bed-9335ccaeadcc.htm">Console<wbr />Text<wbr />Blink<wbr />Multiline(<wbr />Point, String, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="4a9872f4-e092-ce93-733d-ab25f3b91948" href="4a9872f4-e092-ce93-733d-ab25f3b91948.htm">Console<wbr />Text<wbr />Blink<wbr />Multiline(<wbr />Point, String, Time<wbr />Span)</a>
+    </li>
+    <li>
+      <a id="fcca724e-a5b8-ebfa-e3f1-87a46131fa06" href="fcca724e-a5b8-ebfa-e3f1-87a46131fa06.htm">Console<wbr />Text<wbr />Blink<wbr />Multiline(<wbr />Point, String, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="84cd74eb-6846-272a-c594-681f50885f05" href="84cd74eb-6846-272a-c594-681f50885f05.htm">Console<wbr />Text<wbr />Blink<wbr />Multiline(<wbr />Point, String, Time<wbr />Span, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+</toc>

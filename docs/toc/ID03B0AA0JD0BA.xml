@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="06fd3319-52ac-ad2e-f13f-b2afabc7bfe8.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="e1edaf5e-f27d-56b2-bf00-01795a4caa23.htm">String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="24e0941b-f158-cb9e-4cc9-5f9c6b8f7835.htm">Methods</a>
+    </li>
+    <li>
+      <a href="7a87c46f-5c75-2a8e-56fd-4903a0b8d873.htm">Replace</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="073b502f-6932-0d1a-fe4e-40b970f72110" href="073b502f-6932-0d1a-fe4e-40b970f72110.htm">Replace(<wbr />String, Char, Char, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="eba9ef6d-fd34-9ecf-9241-949fd80bc65c" href="eba9ef6d-fd34-9ecf-9241-949fd80bc65c.htm">Replace(<wbr />String, Char, String, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="062399ac-91c0-2537-e417-92a9e56594b1" href="062399ac-91c0-2537-e417-92a9e56594b1.htm">Replace(<wbr />String, String, Char, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="7fa4f9a9-efec-67b5-522e-2c8fdf4a5963" href="7fa4f9a9-efec-67b5-522e-2c8fdf4a5963.htm">Replace(<wbr />String, String, String, String<wbr />Comparison)</a>
+    </li>
+  </tocItems>
+</toc>

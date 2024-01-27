@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,23 +14,16 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="f143af1b-083c-483a-bdc4-5b324064bdb2.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Xml</a>
+      <a href="72dbdd34-0249-23ba-851a-b5ef3ab30c0f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Serialization</a>
     </li>
     <li>
-      <a href="3be4a121-6b73-8ef6-327e-8ac710aee164.htm">Util<wbr />Xml</a>
+      <a href="a79ecba6-e7e5-c492-25e3-e8702036ddd6.htm">Util<wbr />Serialization</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="adb06e77-e888-8906-f551-774d99b0dd66" class="has-submenu" href="adb06e77-e888-8906-f551-774d99b0dd66.htm">
+      <a id="85c1645d-dc38-81f0-43e9-f575847613fb" class="has-submenu" href="85c1645d-dc38-81f0-43e9-f575847613fb.htm">
         <span data-tocFile="../toc/IDABGBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
-          <i class="fa fa-angle-right"> </i>
-        </span>Properties</a>
-      <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="ee342cf8-9026-85fa-8d95-2b451108f526" class="has-submenu" href="ee342cf8-9026-85fa-8d95-2b451108f526.htm">
-        <span data-tocFile="../toc/IDBBGBAA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Methods</a>
       <ul class="toc-menu is-hidden"> </ul>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="72dbdd34-0249-23ba-851a-b5ef3ab30c0f.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Serialization</a>
+    </li>
+    <li>
+      <a href="a79ecba6-e7e5-c492-25e3-e8702036ddd6.htm">Util<wbr />Serialization</a>
+    </li>
+    <li>
+      <a href="85c1645d-dc38-81f0-43e9-f575847613fb.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2f1e9f2a-2376-88a9-d99c-292faadf9ea2.htm">Deserialize</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="69f96bbe-f1c6-cac6-10b9-a942120164d9" href="69f96bbe-f1c6-cac6-10b9-a942120164d9.htm">Deserialize&lt;T&gt;(<wbr />File<wbr />Info, Serialization<wbr />Format)</a>
+    </li>
+    <li>
+      <a id="bae89219-a60a-3df1-a3ea-8f5a2a71c53d" href="bae89219-a60a-3df1-a3ea-8f5a2a71c53d.htm">Deserialize&lt;T&gt;(<wbr />T, String, Serialization<wbr />Format)</a>
+    </li>
+    <li>
+      <a id="fcb7bfe8-1956-0ccd-68b8-d4f3e8d50822" href="fcb7bfe8-1956-0ccd-68b8-d4f3e8d50822.htm">Deserialize&lt;T&gt;(<wbr />String, Serialization<wbr />Format, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

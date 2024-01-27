@@ -2,57 +2,72 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="4c45ab8e-b32c-3423-5fe2-556ca75e1428.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Process<wbr />Extensions</a>
+      <a href="c6790ff3-f971-1446-f218-69a9620a72a4.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Object<wbr />Extensions</a>
     </li>
     <li>
-      <a href="2aa61e3d-4930-c3ab-6384-5dee8880cd96.htm">Process<wbr />Extensions</a>
+      <a href="99b1c09c-36f9-64c9-4e72-adb2f0a4fc1e.htm">Object<wbr />Extensions</a>
     </li>
     <li>
-      <a href="8bc511a2-c5d3-b5d8-20e3-7f739b2fdf80.htm">Methods</a>
+      <a href="7392ddd7-ccc0-f7b2-719f-5195fda48a09.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="8f1091b2-5724-2644-3566-3dbcca2ccfd8" href="8f1091b2-5724-2644-3566-3dbcca2ccfd8.htm">Activate</a>
-    </li>
-    <li>
-      <a id="ceb2b8a1-bc79-fe6f-843f-abdf9062d4c4" href="ceb2b8a1-bc79-fe6f-843f-abdf9062d4c4.htm">Activate<wbr />Async</a>
-    </li>
-    <li>
-      <a id="0b1e3dd7-545b-9de1-3c35-2ae682cfb286" href="0b1e3dd7-545b-9de1-3c35-2ae682cfb286.htm">Get<wbr />Child<wbr />Processes</a>
-    </li>
-    <li>
-      <a id="a75a0095-5694-4b5e-9d95-1bc17452f0a4" href="a75a0095-5694-4b5e-9d95-1bc17452f0a4.htm">Get<wbr />Parent<wbr />Process</a>
-    </li>
-    <li>
-      <a id="3e704a59-680f-19e3-4734-bf4bdb1c4d4b" class="has-submenu" href="3e704a59-680f-19e3-4734-bf4bdb1c4d4b.htm">
-        <span data-tocFile="../toc/IDEAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="0f6b4099-e18f-58b6-cb00-3ba8041c9d7e" class="has-submenu" href="0f6b4099-e18f-58b6-cb00-3ba8041c9d7e.htm">
+        <span data-tocFile="../toc/IDAAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Get<wbr />Process<wbr />Privilege<wbr />States</a>
+        </span>Can<wbr />Convert<wbr />To</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="089713b2-4c5b-f23b-bd91-5bd91ac3801c" class="has-submenu" href="089713b2-4c5b-f23b-bd91-5bd91ac3801c.htm">
-        <span data-tocFile="../toc/IDFAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="f1045c42-4577-dc1b-62d5-3ec81f2092be" class="has-submenu" href="f1045c42-4577-dc1b-62d5-3ec81f2092be.htm">
+        <span data-tocFile="../toc/IDBAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Wait<wbr />For<wbr />Idle</a>
+        </span>Convert<wbr />To</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
     <li>
-      <a id="621104bc-1f62-9c72-7d89-b3edfb366429" class="has-submenu" href="621104bc-1f62-9c72-7d89-b3edfb366429.htm">
-        <span data-tocFile="../toc/IDGAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="7a25e94b-7ce9-651c-e9af-5724c9f4d408" href="7a25e94b-7ce9-651c-e9af-5724c9f4d408.htm">Deep<wbr />Clone&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="4022c33e-8530-eeb8-7df6-964b6aa7bf75" href="4022c33e-8530-eeb8-7df6-964b6aa7bf75.htm">Is<wbr />Default&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="90e0095b-fa87-d162-71b4-0b19729ac296" href="90e0095b-fa87-d162-71b4-0b19729ac296.htm">Is<wbr />Disposable</a>
+    </li>
+    <li>
+      <a id="8ccab974-5511-b4c2-0029-123d0aa5ab53" href="8ccab974-5511-b4c2-0029-123d0aa5ab53.htm">New<wbr />If<wbr />Null&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="df47292b-6f9a-27a0-95c7-e5d2ab528b1e" href="df47292b-6f9a-27a0-95c7-e5d2ab528b1e.htm">Shallow<wbr />Copy&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="9e835fc3-fb85-346b-64c9-15570a0a158f" class="has-submenu" href="9e835fc3-fb85-346b-64c9-15570a0a158f.htm">
+        <span data-tocFile="../toc/IDHAA0OC0BA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Wait<wbr />For<wbr />Idle<wbr />Async</a>
+        </span>Speak</a>
       <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ff68281d-fb89-a6bd-da06-350779b5aee6" href="ff68281d-fb89-a6bd-da06-350779b5aee6.htm">Throw<wbr />If&lt;TObject, TException&gt;</a>
+    </li>
+    <li>
+      <a id="7e6db38a-ebe2-91d6-77bb-dc452a6392d5" href="7e6db38a-ebe2-91d6-77bb-dc452a6392d5.htm">Throw<wbr />If<wbr />Default&lt;TObject, TException&gt;</a>
+    </li>
+    <li>
+      <a id="3e30dd31-daa2-d793-39b1-4d4e3052f333" href="3e30dd31-daa2-d793-39b1-4d4e3052f333.htm">Throw<wbr />If<wbr />Not<wbr />In<wbr />Range&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="4ed5be38-075c-b944-23d9-9298e43d9f2a" href="4ed5be38-075c-b944-23d9-9298e43d9f2a.htm">Throw<wbr />If<wbr />Null&lt;TException&gt;</a>
     </li>
   </tocItems>
 </toc>

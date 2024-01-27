@@ -2,34 +2,28 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
     </li>
     <li>
-      <a href="8d1b33f4-4065-9c32-d951-0daf876badc6.htm">Dev<wbr />Case.<wbr />UI.<wbr />Events</a>
+      <a href="fd2d8cfa-8713-21fa-a2b2-ab27eaf5972f.htm">Dev<wbr />Case.<wbr />UI.<wbr />Interfaces</a>
     </li>
     <li>
-      <a href="c1491ad7-3e98-07c7-2120-593891b673a7.htm">Color<wbr />Changed<wbr />Event<wbr />Args</a>
+      <a href="40d5e5c6-bdaf-75a1-0a25-4fab6e62faff.htm">IBuffered<wbr />Control</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="c956b44e-046a-10c6-5b7a-8a1cce6be2ed" href="c956b44e-046a-10c6-5b7a-8a1cce6be2ed.htm">Constructor</a>
-    </li>
-    <li>
-      <a id="f5151e36-44a3-71b9-8525-7b60c477a72e" class="has-submenu" href="f5151e36-44a3-71b9-8525-7b60c477a72e.htm">
-        <span data-tocFile="../toc/IDBAEEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="11608ab9-9f48-3cae-40bf-43a69977e0a5" class="has-submenu" href="11608ab9-9f48-3cae-40bf-43a69977e0a5.htm">
+        <span data-tocFile="../toc/IDAAEEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Properties</a>
       <ul class="toc-menu is-hidden"> </ul>
-    </li>
-    <li>
-      <a id="6ba6dcf8-3a15-a94f-3d6f-e9e711004d0e" href="6ba6dcf8-3a15-a94f-3d6f-e9e711004d0e.htm">Methods</a>
     </li>
   </tocItems>
 </toc>

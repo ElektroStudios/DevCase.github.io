@@ -2,36 +2,39 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="d0244d5b-d202-3244-7350-71846751ee77.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Stack<wbr />Extensions</a>
+      <a href="07a3c2fc-6d5d-b3e0-d59d-905eadd04a18.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Size<wbr />Extensions</a>
     </li>
     <li>
-      <a href="8d5a4f6d-12fd-f44b-a02b-96c05f40469b.htm">Stack<wbr />Extensions</a>
+      <a href="1dbdb2ce-4c75-45cd-a062-6845dd0350fb.htm">Size<wbr />Extensions</a>
     </li>
     <li>
-      <a href="0066d7f6-a2c0-de4f-4762-220425da3dcc.htm">Methods</a>
+      <a href="94f3b51e-f4cc-8104-8dc6-3a45109ec2bb.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="5d197282-1acb-4a05-092c-0bc4d815eb06" href="5d197282-1acb-4a05-092c-0bc4d815eb06.htm">Peek&lt;T&gt;</a>
+      <a id="257a346a-a56b-0747-31d4-5e1ee691d4d4" href="257a346a-a56b-0747-31d4-5e1ee691d4d4.htm">Flip</a>
     </li>
     <li>
-      <a id="67d4f0f7-70cf-ceee-cacf-352d88d18fb3" href="67d4f0f7-70cf-ceee-cacf-352d88d18fb3.htm">Pop&lt;T&gt;</a>
+      <a id="aee5fd91-6465-44d6-8741-65487cd36cbc" href="aee5fd91-6465-44d6-8741-65487cd36cbc.htm">Intersect<wbr />Sizes</a>
     </li>
     <li>
-      <a id="eca26fdb-07ec-0eb0-a566-3121614df462" href="eca26fdb-07ec-0eb0-a566-3121614df462.htm">Push<wbr />Range&lt;T&gt;</a>
+      <a id="ebcb870f-ddd8-4854-8391-bbaac0bda3d5" href="ebcb870f-ddd8-4854-8391-bbaac0bda3d5.htm">To<wbr />Native<wbr />Size</a>
     </li>
     <li>
-      <a id="74c5fb2f-e8e7-5d8d-7c83-0dfe8c16eb52" href="74c5fb2f-e8e7-5d8d-7c83-0dfe8c16eb52.htm">Reverse&lt;T&gt;</a>
+      <a id="995b6fd2-435e-d1ce-62eb-28710d45205d" href="995b6fd2-435e-d1ce-62eb-28710d45205d.htm">To<wbr />Size<wbr />F</a>
+    </li>
+    <li>
+      <a id="49946120-7591-857d-4131-ffcdb8a71dbf" href="49946120-7591-857d-4131-ffcdb8a71dbf.htm">Union</a>
     </li>
   </tocItems>
 </toc>

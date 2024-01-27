@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,15 +20,21 @@
       <a href="85cf2acc-32ef-2312-86f9-36053e415bbc.htm">Methods</a>
     </li>
     <li>
-      <a href="0a2686ff-ee7e-d68f-62b9-556c5cf404c7.htm">Window<wbr />From<wbr />Physical<wbr />Point</a>
+      <a href="15c9a198-e9ce-a5af-77b8-777a66737894.htm">Validate<wbr />Rect</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="30c5383b-3f12-266b-dc4d-cccef2482a64" href="30c5383b-3f12-266b-dc4d-cccef2482a64.htm">Window<wbr />From<wbr />Physical<wbr />Point(<wbr />Native<wbr />Point)</a>
+      <a id="ae0d651d-33bd-870e-cf16-64343416f061" href="ae0d651d-33bd-870e-cf16-64343416f061.htm">Validate<wbr />Rect(<wbr />Int<wbr />Ptr, Native<wbr />Rectangle)</a>
     </li>
     <li>
-      <a id="5ceffa10-e86b-6c7f-448a-b1e40ca9b7c9" href="5ceffa10-e86b-6c7f-448a-b1e40ca9b7c9.htm">Window<wbr />From<wbr />Physical<wbr />Point(<wbr />Point)</a>
+      <a id="7a0301f7-f885-dc3a-c68a-1c53bb49dfbf" href="7a0301f7-f885-dc3a-c68a-1c53bb49dfbf.htm">Validate<wbr />Rect(<wbr />Int<wbr />Ptr, Rectangle)</a>
+    </li>
+    <li>
+      <a id="ae051444-dbf4-d63a-fc18-d994c47f39a3" href="ae051444-dbf4-d63a-fc18-d994c47f39a3.htm">Validate<wbr />Rect(<wbr />Safe<wbr />Handle, Native<wbr />Rectangle)</a>
+    </li>
+    <li>
+      <a id="27d6c2a0-86a6-5d21-be03-0cc63ec47c52" href="27d6c2a0-86a6-5d21-be03-0cc63ec47c52.htm">Validate<wbr />Rect(<wbr />Safe<wbr />Handle, Rectangle)</a>
     </li>
   </tocItems>
 </toc>

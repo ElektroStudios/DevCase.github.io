@@ -1,4 +1,4 @@
-# **DevCase Class Library 5.0**
+# **DevCase Class Library**
 
 #### Empowering Modern Rapid Application Development
 
@@ -8,9 +8,10 @@
 
 # [**📧 Contact for support**](mailto:csg1986@hotmail.com)
 
-# [**📙 Online Documentation**](https://elektrostudios.github.io/DevCase.github.io/)
+# [**📙 Online API Reference**](https://elektrostudios.github.io/DevCase.github.io/)
 
-# [**📕 Offline Documentation**](DevCase%20Class%20Library%205.chm)
+# [**📕 Offline API Reference for NET Framework 4.8+**](DevCase%20API%20Reference%20%for%20NET%20Framework.chm)
+# [**📕 Offline API Reference for NET Core 6.0+**](DevCase%20API%20Reference%20%for%20NET%20Core.chm)
 
 # [**📋 Version History / Changelog**](Changelog.md)
 

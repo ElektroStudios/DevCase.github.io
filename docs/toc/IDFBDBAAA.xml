@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -23,15 +23,15 @@
       <a href="cdff5c9e-9c25-7457-6edb-0d6d2e8c02ee.htm">Methods</a>
     </li>
     <li>
-      <a href="165a4974-fdea-7d4c-98ae-2a6cd164b681.htm">Read<wbr />Line</a>
+      <a href="a137b669-b334-0e8c-49e0-b7e339b6ffac.htm">Pause</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="cff16867-a5a2-ab6d-7db6-226c895c5328" href="cff16867-a5a2-ab6d-7db6-226c895c5328.htm">Read<wbr />Line(<wbr />Int<wbr />32)</a>
+      <a id="47031ee4-d2a0-1515-6ea6-a0d286c4f0f1" href="47031ee4-d2a0-1515-6ea6-a0d286c4f0f1.htm">Pause</a>
     </li>
     <li>
-      <a id="08f5555a-d746-fe1a-c028-405cec15b275" href="08f5555a-d746-fe1a-c028-405cec15b275.htm">Read<wbr />Line(<wbr />Encoding, Int<wbr />32)</a>
+      <a id="13051d9f-ada1-203d-40f2-9f870de2e94f" href="13051d9f-ada1-203d-40f2-9f870de2e94f.htm">Pause(<wbr />Console<wbr />Key)</a>
     </li>
   </tocItems>
 </toc>

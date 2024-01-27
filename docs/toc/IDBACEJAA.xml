@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="070f35c7-193d-7cfb-e647-32ca0ff8b5f3.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security Namespaces</a>
+    </li>
+    <li>
+      <a href="8ab07c8e-093e-f18c-7751-95870e4093d7.htm">Dev<wbr />Case.<wbr />Core.<wbr />Security.<wbr />Passwords</a>
+    </li>
+    <li>
+      <a href="9e8a5b3d-7e45-1eb4-8265-b63acd097fe8.htm">Util<wbr />Passwords</a>
+    </li>
+    <li>
+      <a href="de5f5a2d-05f8-d3f1-126e-f81860c3e0e1.htm">Methods</a>
+    </li>
+    <li>
+      <a href="64a860a9-07df-7da4-9367-e869f6f306db.htm">Mask<wbr />Secure<wbr />String</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6867af94-bb9c-b005-9ddc-65c4c8e5ea52" href="6867af94-bb9c-b005-9ddc-65c4c8e5ea52.htm">Mask<wbr />Secure<wbr />String(<wbr />Secure<wbr />String, Char)</a>
+    </li>
+    <li>
+      <a id="28c24453-d0b9-d450-189b-1a4131eb639e" href="28c24453-d0b9-d450-189b-1a4131eb639e.htm">Mask<wbr />Secure<wbr />String(<wbr />String, Char)</a>
+    </li>
+    <li>
+      <a id="d7ca75cd-b44b-e6c6-f7d7-5af68922362a" href="d7ca75cd-b44b-e6c6-f7d7-5af68922362a.htm">Mask<wbr />Secure<wbr />String(<wbr />Secure<wbr />String, Char[], Char)</a>
+    </li>
+    <li>
+      <a id="56aa6a4a-b843-19b6-2388-2b2858db3ccc" href="56aa6a4a-b843-19b6-2388-2b2858db3ccc.htm">Mask<wbr />Secure<wbr />String(<wbr />String, Char[], Char)</a>
+    </li>
+    <li>
+      <a id="39001060-14b5-219b-3237-949db8817fec" href="39001060-14b5-219b-3237-949db8817fec.htm">Mask<wbr />Secure<wbr />String(<wbr />Secure<wbr />String, Int<wbr />32, Boolean, Char)</a>
+    </li>
+    <li>
+      <a id="acc9714c-9bca-0d6e-453f-3ef2ca089019" href="acc9714c-9bca-0d6e-453f-3ef2ca089019.htm">Mask<wbr />Secure<wbr />String(<wbr />String, Int<wbr />32, Boolean, Char)</a>
+    </li>
+    <li>
+      <a id="fc3d8402-96d4-9beb-cc41-437448676a5a" href="fc3d8402-96d4-9beb-cc41-437448676a5a.htm">Mask<wbr />Secure<wbr />String(<wbr />Secure<wbr />String, Int<wbr />32, Boolean, Char[], Char)</a>
+    </li>
+    <li>
+      <a id="5c44a3c5-87b6-f5b3-8193-bbca14731329" href="5c44a3c5-87b6-f5b3-8193-bbca14731329.htm">Mask<wbr />Secure<wbr />String(<wbr />String, Int<wbr />32, Boolean, Char[], Char)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="69f87eab-167b-1813-636b-3493b628d94c.htm">Util<wbr />Text<wbr />Files</a>
+    </li>
+    <li>
+      <a href="a7f80ac3-f75d-8a99-b4a1-2cf7b2be8039.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1c89627c-2a25-327d-aeeb-58177430d11a.htm">Replace<wbr />Lines</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2a7bfad0-b337-2e73-956a-a488e4f4c858" href="2a7bfad0-b337-2e73-956a-a488e4f4c858.htm">Replace<wbr />Lines(<wbr />String, IEnumerable&lt;Int<wbr />32&gt;, IEnumerable&lt;String&gt;, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="26d55239-0929-1fc6-fe41-0a3098dbfeee" href="26d55239-0929-1fc6-fe41-0a3098dbfeee.htm">Replace<wbr />Lines(<wbr />String, IEnumerable&lt;Int<wbr />32&gt;, String, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="1e5e1e6d-c4db-f767-9607-615e07c98c9f" href="1e5e1e6d-c4db-f767-9607-615e07c98c9f.htm">Replace<wbr />Lines(<wbr />String, String, IEnumerable&lt;Int<wbr />32&gt;, IEnumerable&lt;String&gt;, Text<wbr />Direction, Encoding)</a>
+    </li>
+    <li>
+      <a id="084131f5-c5b8-3462-385f-b395a5b858ec" href="084131f5-c5b8-3462-385f-b395a5b858ec.htm">Replace<wbr />Lines(<wbr />String, String, IEnumerable&lt;Int<wbr />32&gt;, String, Text<wbr />Direction, Encoding)</a>
+    </li>
+  </tocItems>
+</toc>

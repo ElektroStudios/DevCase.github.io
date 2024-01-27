@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,18 +20,21 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="272b10bc-1b41-cd8f-e84f-072960f4e7fe.htm">Virtual<wbr />Free</a>
+      <a href="bcc938f7-8d56-463d-c0a9-a1a984d31b99.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="ca923fb7-df28-8f9b-2f18-156370d7cfa1" href="ca923fb7-df28-8f9b-2f18-156370d7cfa1.htm">Virtual<wbr />Free(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+      <a id="616eb1f2-4dd8-b8c6-5177-7566b35eeb3c" href="616eb1f2-4dd8-b8c6-5177-7566b35eeb3c.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
     </li>
     <li>
-      <a id="31614e56-4522-2ba8-b96d-d3f2452bb64b" href="31614e56-4522-2ba8-b96d-d3f2452bb64b.htm">Virtual<wbr />Free(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+      <a id="74556640-72ae-d22f-167a-b7796b841222" href="74556640-72ae-d22f-167a-b7796b841222.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />32, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
     </li>
     <li>
-      <a id="add0e6b0-ecbe-9bf3-8ab0-66e53f83af42" href="add0e6b0-ecbe-9bf3-8ab0-66e53f83af42.htm">Virtual<wbr />Free(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Free<wbr />Type)</a>
+      <a id="2b06f6b7-16ea-b967-7cc3-094ac98a1677" href="2b06f6b7-16ea-b967-7cc3-094ac98a1677.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, UInt<wbr />32, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
+    </li>
+    <li>
+      <a id="91e891ef-7a7c-e664-7957-f2053f70be6a" href="91e891ef-7a7c-e664-7957-f2053f70be6a.htm">Virtual<wbr />Alloc<wbr />Ex<wbr />Numa(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options, UInt<wbr />32)</a>
     </li>
   </tocItems>
 </toc>

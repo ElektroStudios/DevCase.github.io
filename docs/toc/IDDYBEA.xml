@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="56faae6f-5153-ae61-bb84-51960160b627.htm">Dev<wbr />Case.<wbr />UI Namespaces</a>
@@ -14,30 +14,33 @@
       <a href="9c8e6bc4-b60d-d72f-ee37-097b7a4bc656.htm">Dev<wbr />Case.<wbr />UI.<wbr />Controls</a>
     </li>
     <li>
-      <a href="1158647a-b550-1317-8fc0-367bb975b367.htm">Dev<wbr />Web<wbr />Browser</a>
+      <a href="2bb7df2f-cad7-be90-f755-ddcffaee4b4f.htm">Dev<wbr />Title<wbr />Bar</a>
     </li>
     <li>
-      <a href="8ef34a9f-4b58-8ee0-15bd-4dee0522e482.htm">Events</a>
+      <a href="428e727a-0007-5ee7-3263-6e76c5a25288.htm">Events</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="f4a3a736-ef26-a63d-8d3c-9f06e18c8ca0" href="f4a3a736-ef26-a63d-8d3c-9f06e18c8ca0.htm">Body<wbr />Click</a>
+      <a id="625b2a52-e160-eeca-84b6-cf0d9c2dd120" href="625b2a52-e160-eeca-84b6-cf0d9c2dd120.htm">Always<wbr />On<wbr />Top<wbr />Box<wbr />Clicked</a>
     </li>
     <li>
-      <a id="1d179b13-68d0-30e4-96df-2232956d7ab7" href="1d179b13-68d0-30e4-96df-2232956d7ab7.htm">Body<wbr />Mouse<wbr />Down</a>
+      <a id="4c776b9f-6f65-5629-e660-5fbee36761d6" href="4c776b9f-6f65-5629-e660-5fbee36761d6.htm">Close<wbr />Box<wbr />Clicked</a>
     </li>
     <li>
-      <a id="b3d0f938-38f1-e377-0a49-7209acde17e2" href="b3d0f938-38f1-e377-0a49-7209acde17e2.htm">Body<wbr />Mouse<wbr />Up</a>
+      <a id="c9e7f33d-3c8e-408b-e459-514e852d1294" href="c9e7f33d-3c8e-408b-e459-514e852d1294.htm">Collapse<wbr />Box<wbr />Clicked</a>
     </li>
     <li>
-      <a id="8374e232-d91e-1f4f-e02e-9077f9550de8" href="8374e232-d91e-1f4f-e02e-9077f9550de8.htm">Document<wbr />Click</a>
+      <a id="5869b64c-dc0c-b524-dd37-7b891207f2c9" href="5869b64c-dc0c-b524-dd37-7b891207f2c9.htm">Maximize<wbr />Box<wbr />Clicked</a>
     </li>
     <li>
-      <a id="1e07e097-b338-d8a6-f6bf-c05e2c89126b" href="1e07e097-b338-d8a6-f6bf-c05e2c89126b.htm">Document<wbr />Mouse<wbr />Down</a>
+      <a id="5f8eddd6-79e0-607b-a976-b7feb8cbe4fa" href="5f8eddd6-79e0-607b-a976-b7feb8cbe4fa.htm">Minimize<wbr />Box<wbr />Clicked</a>
     </li>
     <li>
-      <a id="aaa0b732-c2f5-a35e-3124-0d2ad4ac4676" href="aaa0b732-c2f5-a35e-3124-0d2ad4ac4676.htm">Document<wbr />Mouse<wbr />Up</a>
+      <a id="a7aacf22-436c-4ee0-c0f1-3be714cf40b4" href="a7aacf22-436c-4ee0-c0f1-3be714cf40b4.htm">Minimize<wbr />To<wbr />Sys<wbr />Tray<wbr />Box<wbr />Clicked</a>
+    </li>
+    <li>
+      <a id="77817748-602b-6fc8-7341-30dd3bfd4fa7" href="77817748-602b-6fc8-7341-30dd3bfd4fa7.htm">Mute<wbr />Box<wbr />Clicked</a>
     </li>
   </tocItems>
 </toc>

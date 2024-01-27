@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
+    </li>
+    <li>
+      <a href="06fd3319-52ac-ad2e-f13f-b2afabc7bfe8.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="e1edaf5e-f27d-56b2-bf00-01795a4caa23.htm">String<wbr />Extensions</a>
+    </li>
+    <li>
+      <a href="24e0941b-f158-cb9e-4cc9-5f9c6b8f7835.htm">Methods</a>
+    </li>
+    <li>
+      <a href="aeeeab4f-d6aa-c488-b28a-57d47d14279b.htm">Replace<wbr />All</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d286e737-a662-81a7-6b9a-5e66136dfbfb" href="d286e737-a662-81a7-6b9a-5e66136dfbfb.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;Char&gt;, Char)</a>
+    </li>
+    <li>
+      <a id="cb4fb2d8-4c6c-2c38-0d7d-ddcd6e87a003" href="cb4fb2d8-4c6c-2c38-0d7d-ddcd6e87a003.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;Char&gt;, String)</a>
+    </li>
+    <li>
+      <a id="c3ea1efb-e60e-1a3f-1e7b-d2d381a71932" href="c3ea1efb-e60e-1a3f-1e7b-d2d381a71932.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;String&gt;, Char)</a>
+    </li>
+    <li>
+      <a id="d3067a1b-4c16-b657-640d-07f1b4c5e91f" href="d3067a1b-4c16-b657-640d-07f1b4c5e91f.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;String&gt;, String)</a>
+    </li>
+    <li>
+      <a id="773c7b2a-dfe7-ae54-31d9-e0b90308431e" href="773c7b2a-dfe7-ae54-31d9-e0b90308431e.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;Char&gt;, Char, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="4afdaffb-117b-c202-0987-70e215006ac1" href="4afdaffb-117b-c202-0987-70e215006ac1.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;Char&gt;, String, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="1e1a3ae0-191e-2342-5882-929ff108820c" href="1e1a3ae0-191e-2342-5882-929ff108820c.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;String&gt;, Char, String<wbr />Comparison)</a>
+    </li>
+    <li>
+      <a id="20a0050b-2eac-9666-2461-18f35df985cd" href="20a0050b-2eac-9666-2461-18f35df985cd.htm">Replace<wbr />All(<wbr />String, IEnumerable&lt;String&gt;, String, String<wbr />Comparison)</a>
+    </li>
+  </tocItems>
+</toc>

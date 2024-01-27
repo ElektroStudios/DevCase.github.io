@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="6bd761b0-c41d-0181-3e6d-c3f4615f1f84.htm">Dev<wbr />Case.<wbr />Win<wbr />32 Namespaces</a>
@@ -20,18 +20,18 @@
       <a href="ef1a85f7-f1e1-f2fc-6045-ab931c1aac4b.htm">Methods</a>
     </li>
     <li>
-      <a href="6aeb49fe-3327-e3d9-5d4d-a984a1b15f39.htm">Virtual<wbr />Alloc<wbr />Ex</a>
+      <a href="f31566aa-110b-4278-5d87-f2c6a730e9e3.htm">Virtual<wbr />Alloc</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="c0f58d89-77bb-4d66-7410-d61da515da07" href="c0f58d89-77bb-4d66-7410-d61da515da07.htm">Virtual<wbr />Alloc<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+      <a id="cd33cb5a-b6b8-933c-ecb3-bbf9b09a0405" href="cd33cb5a-b6b8-933c-ecb3-bbf9b09a0405.htm">Virtual<wbr />Alloc(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
     </li>
     <li>
-      <a id="e96c987e-00cb-bb29-6713-63cf628fdabd" href="e96c987e-00cb-bb29-6713-63cf628fdabd.htm">Virtual<wbr />Alloc<wbr />Ex(<wbr />Int<wbr />Ptr, Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+      <a id="f43d5f3f-203f-f596-691c-3f7903efccf5" href="f43d5f3f-203f-f596-691c-3f7903efccf5.htm">Virtual<wbr />Alloc(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
     </li>
     <li>
-      <a id="68a73803-29a1-1db1-99cb-e65b2b14364f" href="68a73803-29a1-1db1-99cb-e65b2b14364f.htm">Virtual<wbr />Alloc<wbr />Ex(<wbr />Int<wbr />Ptr, UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
+      <a id="dabbdedf-219c-666b-03e7-0748e0e9f0af" href="dabbdedf-219c-666b-03e7-0748e0e9f0af.htm">Virtual<wbr />Alloc(<wbr />UInt<wbr />Ptr, UInt<wbr />Ptr, Memory<wbr />Allocation<wbr />Type, Memory<wbr />Protection<wbr />Options)</a>
     </li>
   </tocItems>
 </toc>

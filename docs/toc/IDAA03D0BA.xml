@@ -2,27 +2,36 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="3cb1c48b-cd37-353c-f640-534f593d0716.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />XNode<wbr />Extensions</a>
+      <a href="f082c5fb-0a15-9d8c-882b-906f2bab0d63.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />XDocument<wbr />Extensions</a>
     </li>
     <li>
-      <a href="9e27c543-0981-a2a0-16de-7d2eb3f8ced0.htm">XNode<wbr />Extensions</a>
+      <a href="95b4ba20-8c99-fb7d-30df-1a7c541e2593.htm">XDocument<wbr />Extensions</a>
     </li>
     <li>
-      <a href="c1ed4848-7a09-9a83-5095-6263028b6073.htm">Methods</a>
+      <a href="e4064d8e-6f55-5cad-2a2b-9ad848737147.htm">Methods</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="cf1bbe76-192d-3a99-080d-8aae799f3a8e" href="cf1bbe76-192d-3a99-080d-8aae799f3a8e.htm">To<wbr />Xml<wbr />Node</a>
+      <a id="664886cd-31fc-db58-154c-ebda49f752df" href="664886cd-31fc-db58-154c-ebda49f752df.htm">Distinct<wbr />By<wbr />Element</a>
+    </li>
+    <li>
+      <a id="488b68d8-47e1-14d2-3f85-79db86aad547" href="488b68d8-47e1-14d2-3f85-79db86aad547.htm">Get<wbr />XPaths</a>
+    </li>
+    <li>
+      <a id="83877560-1477-9c99-791c-ed499ced1212" href="83877560-1477-9c99-791c-ed499ced1212.htm">Sort<wbr />By<wbr />Element</a>
+    </li>
+    <li>
+      <a id="ea61400f-cceb-462a-6879-4e35d38b0b75" href="ea61400f-cceb-462a-6879-4e35d38b0b75.htm">To<wbr />Xml<wbr />Document</a>
     </li>
   </tocItems>
 </toc>

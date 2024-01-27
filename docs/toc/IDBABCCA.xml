@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="fa7dc0ad-7b80-b649-99eb-436c3054bee7.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Enums</a>
+    </li>
+    <li>
+      <a href="83a8f859-8dfd-a23a-6091-abada398d8bc.htm">Util<wbr />Enum</a>
+    </li>
+    <li>
+      <a href="a74f41af-4cc4-664b-65ad-de421709f8ab.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2efe4142-45a9-988d-9b80-7d2b7a9320da.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="03031366-2325-54e7-6850-c10a4828eaac" href="03031366-2325-54e7-6850-c10a4828eaac.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />T, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="4306aa9c-889d-00fb-fe55-198199e4e6d5" href="4306aa9c-889d-00fb-fe55-198199e4e6d5.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />Int<wbr />16, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="ed312ff3-0046-570b-6724-be1813799b00" href="ed312ff3-0046-570b-6724-be1813799b00.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />Int<wbr />32, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="ffefeaa9-8676-5c5f-fb3e-969a6c5ac4ab" href="ffefeaa9-8676-5c5f-fb3e-969a6c5ac4ab.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />Int<wbr />64, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="1672ba7d-f369-3374-f7a3-1046b76e5667" href="1672ba7d-f369-3374-f7a3-1046b76e5667.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />UInt<wbr />16, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="a7e3f8d8-c7cf-17c1-4e7b-f6b7e78a3609" href="a7e3f8d8-c7cf-17c1-4e7b-f6b7e78a3609.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />UInt<wbr />32, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+    <li>
+      <a id="593cfb4e-f02f-1321-9dbb-a903911cc344" href="593cfb4e-f02f-1321-9dbb-a903911cc344.htm">Find<wbr />Nearest<wbr />Enum<wbr />Value&lt;T&gt;(<wbr />UInt<wbr />64, Enum<wbr />Find<wbr />Direction)</a>
+    </li>
+  </tocItems>
+</toc>

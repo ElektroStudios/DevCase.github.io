@@ -2,36 +2,33 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="258e0a46-a07e-5949-f78f-0406526a7c25.htm">Dev<wbr />Case.<wbr />Extensions Namespaces</a>
     </li>
     <li>
-      <a href="7ba929b5-17d2-5521-dc03-4ba0bac9285f.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />Image<wbr />Extensions</a>
+      <a href="ababbf77-6362-9abb-0f54-8ac31e9b831e.htm">Dev<wbr />Case.<wbr />Extensions.<wbr />IDictionary<wbr />Extensions</a>
     </li>
     <li>
-      <a href="df335075-b408-a930-b257-2fa3f4f3d5a9.htm">Image<wbr />Extensions</a>
+      <a href="933e6a7c-67d8-a5c0-c9c3-22789174b52a.htm">IDictionary<wbr />Extensions</a>
     </li>
     <li>
-      <a href="a060e1e1-5434-87d9-caab-436666aab3d8.htm">Methods</a>
+      <a href="e7fb6e74-4606-5c1a-7ef6-a0b83a8d180f.htm">Methods</a>
     </li>
     <li>
-      <a href="d755c9f5-ddc8-1207-101b-2e67dcb1eeec.htm">Crop</a>
+      <a href="1191e338-72b8-6d5c-3d34-f3a0d60ec145.htm">To<wbr />Sorted<wbr />Dictionary</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="a23e8a0b-4b12-f3e6-7c58-db5ffe08b6a2" href="a23e8a0b-4b12-f3e6-7c58-db5ffe08b6a2.htm">Crop(<wbr />Image, Rectangle)</a>
+      <a id="88b2c026-77b0-1964-8544-71e5fafbdf72" href="88b2c026-77b0-1964-8544-71e5fafbdf72.htm">To<wbr />Sorted<wbr />Dictionary&lt;TKey, TValue&gt;(<wbr />IDictionary&lt;TKey, TValue&gt;)</a>
     </li>
     <li>
-      <a id="0d832da4-2846-c945-3c18-395d01eb824c" href="0d832da4-2846-c945-3c18-395d01eb824c.htm">Crop(<wbr />Image, Point, Size)</a>
-    </li>
-    <li>
-      <a id="fd8d8a62-ae16-2942-9f36-499e45cda6fa" href="fd8d8a62-ae16-2942-9f36-499e45cda6fa.htm">Crop(<wbr />Image, Int<wbr />32, Int<wbr />32, Int<wbr />32, Int<wbr />32)</a>
+      <a id="f6eba889-3151-a41f-ffc4-819f0ffbe18f" href="f6eba889-3151-a41f-ffc4-819f0ffbe18f.htm">To<wbr />Sorted<wbr />Dictionary&lt;TKey, TValue&gt;(<wbr />IDictionary&lt;TKey, TValue&gt;, IComparer&lt;TKey&gt;)</a>
     </li>
   </tocItems>
 </toc>

@@ -2,28 +2,22 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
     </li>
     <li>
-      <a href="a8c78df4-d815-d633-1480-0b5c6785f24d.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Sautin<wbr />Soft</a>
+      <a href="d5ceaf67-6e1d-5756-1145-41d369e042e5.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Sautin<wbr />Softs</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="198c3a2a-9c9e-a2d7-602b-97537e240bd2" href="198c3a2a-9c9e-a2d7-602b-97537e240bd2.htm">Page<wbr />Orientation</a>
-    </li>
-    <li>
-      <a id="9b45332a-c567-a6cb-29e7-3d0a81039b91" href="9b45332a-c567-a6cb-29e7-3d0a81039b91.htm">Page<wbr />Size</a>
-    </li>
-    <li>
-      <a id="35226364-eac1-da54-d45f-f81feea64a8d" class="has-submenu" href="35226364-eac1-da54-d45f-f81feea64a8d.htm">
-        <span data-tocFile="../toc/IDC0KB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+      <a id="03650b63-03fe-333b-8f9c-9e6046a1dbfc" class="has-submenu" href="03650b63-03fe-333b-8f9c-9e6046a1dbfc.htm">
+        <span data-tocFile="../toc/IDA0KB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
         </span>Util<wbr />Sautin<wbr />Soft</a>
       <ul class="toc-menu is-hidden"> </ul>

@@ -19,14 +19,14 @@
     <meta name="container" content="DevCase.Win32.NativeMethods" />
     <meta name="guid" content="1eb0b62a-5037-b93b-7618-e164f42d74a8" />
     <meta name="Description" content="Creates a new process and its primary thread. The new process runs in the security context of the calling process. If the calling process is impersonating another user, the new process uses the token for the calling process, not the impersonation token." />
-    <meta name="tocFile" content="../toc/ID0KB0AJFFA.xml" />
+    <meta name="tocFile" content="../toc/ID0LB0AJFFA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,6 +95,7 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Kernel<wbr />32<span id="LSTEA61DF30_0" data-languageSpecificText="cpp=::|nu=."></span>Create<wbr />Process(String, String<wbr />Builder, Security<wbr />Attributes<span id="LSTEA61DF30_1" data-languageSpecificText="cpp=%"></span>, Security<wbr />Attributes<span id="LSTEA61DF30_2" data-languageSpecificText="cpp=%"></span>, Boolean, Create<wbr />Process<wbr />Flags, Int<wbr />Ptr, String, Process<wbr />Startup<wbr />Info<span id="LSTEA61DF30_3" data-languageSpecificText="cpp=%"></span>, Process<wbr />Information<span id="LSTEA61DF30_4" data-languageSpecificText="cpp=%"></span>) Method</h1>
             <div class="summary">
@@ -111,78 +112,78 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.Win32 (in DevCase.Win32.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
+              <strong>Namespace:</strong> <a href="4b8ebc81-6ba2-6fac-af5b-8bb75ecef853.htm">DevCase.Win32.NativeMethods</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)]
-<span class="keyword">public</span> <span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">CreateProcess</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">applicationName</span>,
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a> <span class="parameter">commandLine</span>,
+<span class="keyword">public</span> <span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">CreateProcess</span>(
+	<span class="noLink">string</span> <span class="parameter">applicationName</span>,
+	[<span class="noLink">OptionalAttribute</span>] <span class="noLink">StringBuilder</span> <span class="parameter">commandLine</span>,
 	<span class="keyword">ref</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a> <span class="parameter">refProcessAttribs</span>,
 	<span class="keyword">ref</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a> <span class="parameter">refThreadAttribs</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">inheritHandles</span>,
+	<span class="noLink">bool</span> <span class="parameter">inheritHandles</span>,
 	<a href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">CreateProcessFlags</a> <span class="parameter">createFlags</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">environment</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> <span class="parameter">currentDir</span>,
+	<span class="noLink">IntPtr</span> <span class="parameter">environment</span>,
+	<span class="noLink">string</span> <span class="parameter">currentDir</span>,
 	<span class="keyword">in</span> <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a> <span class="parameter">refStartupInfo</span>,
 	<span class="keyword">out</span> <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a> <span class="parameter">refProcessInformation</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet := CharSet.Auto, BestFitMapping := false, 
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet := CharSet.Auto, BestFitMapping := false, 
 	ThrowOnUnmappableChar := true, SetLastError := true&gt;]
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">CreateProcess</span> ( 
-	<span class="parameter">applicationName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt; &lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="parameter">commandLine</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>,
+	<span class="parameter">applicationName</span> <span class="keyword">As</span> <span class="noLink">String</span>,
+	&lt;<span class="noLink">OptionalAttribute</span>&gt; &lt;<span class="noLink">OutAttribute</span>&gt; <span class="parameter">commandLine</span> <span class="keyword">As</span> <span class="noLink">StringBuilder</span>,
 	<span class="keyword">ByRef</span> <span class="parameter">refProcessAttribs</span> <span class="keyword">As</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>,
 	<span class="keyword">ByRef</span> <span class="parameter">refThreadAttribs</span> <span class="keyword">As</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>,
-	<span class="parameter">inheritHandles</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>,
+	<span class="parameter">inheritHandles</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>,
 	<span class="parameter">createFlags</span> <span class="keyword">As</span> <a href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">CreateProcessFlags</a>,
-	<span class="parameter">environment</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>,
-	<span class="parameter">currentDir</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>,
+	<span class="parameter">environment</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>,
+	<span class="parameter">currentDir</span> <span class="keyword">As</span> <span class="noLink">String</span>,
 	<span class="keyword">ByRef</span> <span class="parameter">refStartupInfo</span> <span class="keyword">As</span> <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a>,
-	&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>&gt; <span class="keyword">ByRef</span> <span class="parameter">refProcessInformation</span> <span class="keyword">As</span> <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a>
-) <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+	&lt;<span class="noLink">OutAttribute</span>&gt; <span class="keyword">ByRef</span> <span class="parameter">refProcessInformation</span> <span class="keyword">As</span> <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a>
+) <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
-<span class="keyword">Dim</span> <span class="parameter">applicationName</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
-<span class="keyword">Dim</span> <span class="parameter">commandLine</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>
+<span class="keyword">Dim</span> <span class="parameter">applicationName</span> <span class="keyword">As</span> <span class="noLink">String</span>
+<span class="keyword">Dim</span> <span class="parameter">commandLine</span> <span class="keyword">As</span> <span class="noLink">StringBuilder</span>
 <span class="keyword">Dim</span> <span class="parameter">refProcessAttribs</span> <span class="keyword">As</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>
 <span class="keyword">Dim</span> <span class="parameter">refThreadAttribs</span> <span class="keyword">As</span> <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>
-<span class="keyword">Dim</span> <span class="parameter">inheritHandles</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">inheritHandles</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 <span class="keyword">Dim</span> <span class="parameter">createFlags</span> <span class="keyword">As</span> <a href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">CreateProcessFlags</a>
-<span class="keyword">Dim</span> <span class="parameter">environment</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a>
-<span class="keyword">Dim</span> <span class="parameter">currentDir</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>
+<span class="keyword">Dim</span> <span class="parameter">environment</span> <span class="keyword">As</span> <span class="noLink">IntPtr</span>
+<span class="keyword">Dim</span> <span class="parameter">currentDir</span> <span class="keyword">As</span> <span class="noLink">String</span>
 <span class="keyword">Dim</span> <span class="parameter">refStartupInfo</span> <span class="keyword">As</span> <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a>
 <span class="keyword">Dim</span> <span class="parameter">refProcessInformation</span> <span class="keyword">As</span> <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a>
 
-<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
+<span class="keyword">Dim</span> <span class="parameter">returnValue</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
 
 <span class="parameter">returnValue</span> = <a href="094676a4-571b-ad1f-ef01-d8acf5ebed93.htm">Kernel32</a>.<span class="identifier">CreateProcess</span>(<span class="parameter">applicationName</span>, 
 	<span class="parameter">commandLine</span>, <span class="parameter">refProcessAttribs</span>, 
 	<span class="parameter">refThreadAttribs</span>, <span class="parameter">inheritHandles</span>, 
 	<span class="parameter">createFlags</span>, <span class="parameter">environment</span>, <span class="parameter">currentDir</span>, 
 	<span class="parameter">refStartupInfo</span>, <span class="parameter">refProcessInformation</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>(L"Kernel32.dll", CharSet = CharSet::Auto, BestFitMapping = false, 
+[<span class="noLink">DllImportAttribute</span>(L"Kernel32.dll", CharSet = CharSet::Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)]
-<span class="keyword">static</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="identifier">CreateProcess</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">applicationName</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] [<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>^ <span class="parameter">commandLine</span>, 
+<span class="keyword">static</span> <span class="noLink">bool</span> <span class="identifier">CreateProcess</span>(
+	<span class="noLink">String</span>^ <span class="parameter">applicationName</span>, 
+	[<span class="noLink">OptionalAttribute</span>] [<span class="noLink">InAttribute</span>] [<span class="noLink">OutAttribute</span>] <span class="noLink">StringBuilder</span>^ <span class="parameter">commandLine</span>, 
 	<a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>% <span class="parameter">refProcessAttribs</span>, 
 	<a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a>% <span class="parameter">refThreadAttribs</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">inheritHandles</span>, 
+	<span class="noLink">bool</span> <span class="parameter">inheritHandles</span>, 
 	<a href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">CreateProcessFlags</a> <span class="parameter">createFlags</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> <span class="parameter">environment</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a>^ <span class="parameter">currentDir</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.inattribute" target="_top" rel="noopener noreferrer">InAttribute</a>] <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a>% <span class="parameter">refStartupInfo</span>, 
-	[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.outattribute" target="_top" rel="noopener noreferrer">OutAttribute</a>] <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a>% <span class="parameter">refProcessInformation</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.dllimportattribute" target="_top" rel="noopener noreferrer">DllImportAttribute</a>("Kernel32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
+	<span class="noLink">IntPtr</span> <span class="parameter">environment</span>, 
+	<span class="noLink">String</span>^ <span class="parameter">currentDir</span>, 
+	[<span class="noLink">InAttribute</span>] <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a>% <span class="parameter">refStartupInfo</span>, 
+	[<span class="noLink">OutAttribute</span>] <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a>% <span class="parameter">refProcessInformation</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">DllImportAttribute</span>("Kernel32.dll", CharSet = CharSet.Auto, BestFitMapping = false, 
 	ThrowOnUnmappableChar = true, SetLastError = true)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">CreateProcess</span> : 
-        <span class="parameter">applicationName</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
-        [&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.optionalattribute" target="_top" rel="noopener noreferrer">OptionalAttribute</a>&gt;] <span class="parameter">commandLine</span> : <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a> <span class="keyword">byref</span> * 
+        <span class="parameter">applicationName</span> : <span class="noLink">string</span> * 
+        [&lt;<span class="noLink">OptionalAttribute</span>&gt;] <span class="parameter">commandLine</span> : <span class="noLink">StringBuilder</span> <span class="keyword">byref</span> * 
         <span class="parameter">refProcessAttribs</span> : <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a> <span class="keyword">byref</span> * 
         <span class="parameter">refThreadAttribs</span> : <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a> <span class="keyword">byref</span> * 
-        <span class="parameter">inheritHandles</span> : <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> * 
+        <span class="parameter">inheritHandles</span> : <span class="noLink">bool</span> * 
         <span class="parameter">createFlags</span> : <a href="3794cd9b-ecb2-4bab-b154-b065fb471c1a.htm">CreateProcessFlags</a> * 
-        <span class="parameter">environment</span> : <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a> * 
-        <span class="parameter">currentDir</span> : <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">string</a> * 
+        <span class="parameter">environment</span> : <span class="noLink">IntPtr</span> * 
+        <span class="parameter">currentDir</span> : <span class="noLink">string</span> * 
         <span class="parameter">refStartupInfo</span> : <a href="89701186-73b4-0a9c-21ed-cb6217bc11ae.htm">ProcessStartupInfo</a> <span class="keyword">byref</span> * 
-        <span class="parameter">refProcessInformation</span> : <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">applicationName</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+        <span class="parameter">refProcessInformation</span> : <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a> <span class="keyword">byref</span> <span class="keyword">-&gt;</span> <span class="noLink">bool</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">applicationName</span>  <span class="noLink">String</span></dt><dd>
  The name of the module to be executed. This module can be a Windows-based application.
  It can be some other type of module (for example, MS-DOS or OS/2)
  if the appropriate subsystem is available on the local computer.
@@ -207,10 +208,10 @@
  <p />
  To run a batch file, you must start the command interpreter;
  set <span class="parameter">applicationName</span> to cmd.exe and set <span class="parameter">commandLine</span> to the following arguments: "/c", plus the name of the batch file.
- </dd><dt class="has-text-weight-normal"><span class="parameter">commandLine</span>  <a href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder" target="_top" rel="noopener noreferrer">StringBuilder</a>  (Optional)</dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">commandLine</span>  <span class="noLink">StringBuilder</span>  (Optional)</dt><dd>
  The command line to be executed.
  <p />
- The maximum length of this string is <a href="https://learn.microsoft.com/dotnet/api/system.int16" target="_top" rel="noopener noreferrer">Int16</a> (32,768 characters),
+ The maximum length of this string is <span class="noLink">Int16</span> (32,768 characters),
  including the Unicode terminating null character.
  <p />
  If <span class="parameter">applicationName</span> is NULL,
@@ -229,7 +230,7 @@
  If <span class="parameter">refProcessAttribs</span> is NULL, the handle cannot be inherited.
  <p />
  The <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> member specifies a security descriptor for the new process.
- If <span class="parameter">refProcessAttribs</span> is NULL or <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>,
+ If <span class="parameter">refProcessAttribs</span> is NULL or <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> is <span class="noLink">Zero</span>,
  the process gets a default security descriptor.
  </dd><dt class="has-text-weight-normal"><span class="parameter">refThreadAttribs</span>  <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a><span id="LSTEA61DF30_12" data-languageSpecificText="cpp=%"></span></dt><dd>
  A pointer to a <a href="e5f6faf8-b9bc-c083-418f-cd1b97090285.htm">SecurityAttributes</a> structure that determines whether the
@@ -238,9 +239,9 @@
  If <span class="parameter">refThreadAttribs</span> is NULL, the handle cannot be inherited.
  <p />
  The <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> member specifies a security descriptor for the main thread.
- If <span class="parameter">refThreadAttribs</span> is NULL or <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>,
+ If <span class="parameter">refThreadAttribs</span> is NULL or <a href="2e24d265-d7cb-8e4b-6972-d4822dfd5f80.htm">SecurityDescriptor</a> is <span class="noLink">Zero</span>,
  the thread gets a default security descriptor.
- </dd><dt class="has-text-weight-normal"><span class="parameter">inheritHandles</span>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">inheritHandles</span>  <span class="noLink">Boolean</span></dt><dd>
  If this parameter is <span class="keyword"><span id="LSTEA61DF30_13" data-languageSpecificText="vb=True|nu=true"></span></span>,
  each inheritable handle in the calling process is inherited by the new process.
  <p />
@@ -252,10 +253,10 @@
  <p />
  This parameter also controls the new process's priority class,
  which is used to determine the scheduling priorities of the process's threads.
- </dd><dt class="has-text-weight-normal"><span class="parameter">environment</span>  <a href="https://learn.microsoft.com/dotnet/api/system.intptr" target="_top" rel="noopener noreferrer">IntPtr</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">environment</span>  <span class="noLink">IntPtr</span></dt><dd>
  A pointer to the environment block for the new process.
  <p />
- If this parameter is <a href="https://learn.microsoft.com/dotnet/api/system.intptr.zero#system-intptr-zero" target="_top" rel="noopener noreferrer">Zero</a>, the new process uses the environment of the calling process.
+ If this parameter is <span class="noLink">Zero</span>, the new process uses the environment of the calling process.
  <p />
  An environment block consists of a null-terminated block of null-terminated strings. Each string is in the following form:
  <p /><span class="code">name=value\0</span><p />
@@ -263,7 +264,7 @@
  <p />
  The ANSI version of this function, CreateProcessA,
  fails if the total size of the environment block for the process exceeds 32,767 characters.
- </dd><dt class="has-text-weight-normal"><span class="parameter">currentDir</span>  <a href="https://learn.microsoft.com/dotnet/api/system.string" target="_top" rel="noopener noreferrer">String</a></dt><dd>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">currentDir</span>  <span class="noLink">String</span></dt><dd>
  The full path to the current directory for the process. The string can also specify a UNC path.
  <p />
  If this parameter is NULL,
@@ -279,12 +280,12 @@
  in the <span class="parameter">createFlags</span> parameter.
  </dd><dt class="has-text-weight-normal"><span class="parameter">refProcessInformation</span>  <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a><span id="LSTEA61DF30_16" data-languageSpecificText="cpp=%"></span></dt><dd>
  A pointer to a <a href="5c66a672-d51d-f045-5bbe-01dc842ae9be.htm">ProcessInformation</a> structure that receives identification information about the new process.
- </dd></dl><h4 class="quickLinkHeader">Return Value</h4><a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a><br />
+ </dd></dl><h4 class="quickLinkHeader">Return Value</h4><span class="noLink">Boolean</span><br />
  If the function succeeds, the return value is <span class="keyword"><span id="LSTEA61DF30_17" data-languageSpecificText="vb=True|nu=true"></span></span>.
  <p />
  If the function fails, the return value is <span class="keyword"><span id="LSTEA61DF30_18" data-languageSpecificText="vb=False|nu=false"></span></span>.
  <p />
- To get extended error information, call <a href="https://learn.microsoft.com/dotnet/api/system.runtime.interopservices.marshal.getlastwin32error#system-runtime-interopservices-marshal-getlastwin32error" target="_top" rel="noopener noreferrer">GetLastWin32Error<span id="LSTEA61DF30_19" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>.
+ To get extended error information, call <span class="noLink">GetLastWin32Error<span id="LSTEA61DF30_19" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></span>.
  <p />
  Note that the function returns before the process has finished initialization.
  If a required DLL cannot be located or fails to initialize, the process is terminated.
@@ -353,9 +354,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -386,7 +387,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

@@ -19,14 +19,14 @@
     <meta name="container" content="DevCase.Extensions.ControlExtensions" />
     <meta name="guid" content="a1679572-f0be-c6e3-ff84-a8e97f5cc639" />
     <meta name="Description" content="Iterate through all the controls in the source and performs the specified action on each one." />
-    <meta name="tocFile" content="../toc/IDAAAOBA.xml" />
+    <meta name="tocFile" content="../toc/IDAAAPBA.xml" />
   </head>
   <body>
     <div class="fixedLayout">
       <div id="Header" class="fixedHeader">
         <div class="pageHeader level mb-0 py-2 px-4">
           <div id="TitleContainer" class="level-left">
-            <div id="DocumentationTitle" class="level-item">DevCase Class Library 5.0</div>
+            <div id="DocumentationTitle" class="level-item">DevCase 6.0 API Reference for NET Framework</div>
           </div>
           <div id="LangFilterSearchContainer" class="level-right">
             <div class="level-item">
@@ -86,7 +86,7 @@
         <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
           <ul id="TopicBreadcrumbs" />
         </nav>
-        <div class="columns pl-5 pr-5 fixedContent">
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
           <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
             <a id="ShowHideTOC">Show/Hide TOC</a>
           </div>
@@ -95,10 +95,11 @@
               <ul id="TableOfContents" class="toc-menu" />
             </nav>
           </div>
+          <div id="Resizer" class="is-hidden"></div>
           <div id="TopicContent" class="column content is-7">
             <h1>Control<wbr />Extensions<span id="LSTF523A2F0_0" data-languageSpecificText="cpp=::|nu=."></span>For<wbr />Each<wbr />Control(Control, Boolean, Action<span id="LSTF523A2F0_1" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span>Control<span id="LSTF523A2F0_2" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span>) Method</h1>
             <div class="summary">
- Iterate through all the controls in the source <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>
+ Iterate through all the controls in the source <span class="noLink">Control</span>
  and performs the specified action on each one.
  </div>
             <h2 class="quickLinkHeader">
@@ -106,43 +107,43 @@
                 <i class="fa fa-angle-down"></i>
               </span>Definition</h2>
             <div id="IDBSection">
-              <strong>Namespace:</strong> <a href="6c072a3f-4cf8-23db-2f9a-f9d0a753d5b0.htm">DevCase.Extensions.ControlExtensions</a><br /><strong>Assembly:</strong> DevCase.Extensions.System.Windows.Forms (in DevCase.Extensions.System.Windows.Forms.dll) Version: 5.0.0.0 (5.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsableattribute" target="_top" rel="noopener noreferrer">EditorBrowsableAttribute</a>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsablestate" target="_top" rel="noopener noreferrer">EditorBrowsableState</a>.Always)]
+              <strong>Namespace:</strong> <a href="6c072a3f-4cf8-23db-2f9a-f9d0a753d5b0.htm">DevCase.Extensions.ControlExtensions</a><br /><strong>Assembly:</strong> DevCase.net48 (in DevCase.net48.dll) Version: 6.0.0.0 (6.0)<br /><strong>XMLNS for XAML:</strong> Not mapped to an xmlns.<div class="codeSnippet" data-codeSnippetLanguage="cs"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs">[<span class="noLink">EditorBrowsableAttribute</span>(<span class="noLink">EditorBrowsableState</span>.Always)]
 <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="identifier">ForEachControl</span>(
-	<span class="keyword">this</span> <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a> <span class="parameter">parent</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">recursive</span>,
-	<a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>&gt; <span class="parameter">action</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.extensionattribute" target="_top" rel="noopener noreferrer">ExtensionAttribute</a>&gt;
-&lt;<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsableattribute" target="_top" rel="noopener noreferrer">EditorBrowsableAttribute</a>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsablestate" target="_top" rel="noopener noreferrer">EditorBrowsableState</a>.Always)&gt;
+	<span class="keyword">this</span> <span class="noLink">Control</span> <span class="parameter">parent</span>,
+	<span class="noLink">bool</span> <span class="parameter">recursive</span>,
+	<span class="noLink">Action</span>&lt;<span class="noLink">Control</span>&gt; <span class="parameter">action</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="vb"><div class="codeHeader"><span class="codeHeaderTitle">VB</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-vb">&lt;<span class="noLink">ExtensionAttribute</span>&gt;
+&lt;<span class="noLink">EditorBrowsableAttribute</span>(<span class="noLink">EditorBrowsableState</span>.Always)&gt;
 <span class="keyword">Public</span> <span class="keyword">Shared</span> <span class="keyword">Sub</span> <span class="identifier">ForEachControl</span> ( 
-	<span class="parameter">parent</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>,
-	<span class="parameter">recursive</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>,
-	<span class="parameter">action</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a>(<span class="keyword">Of</span> <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>)
+	<span class="parameter">parent</span> <span class="keyword">As</span> <span class="noLink">Control</span>,
+	<span class="parameter">recursive</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>,
+	<span class="parameter">action</span> <span class="keyword">As</span> <span class="noLink">Action</span>(<span class="keyword">Of</span> <span class="noLink">Control</span>)
 )
 
-<span class="keyword">Dim</span> <span class="parameter">parent</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>
-<span class="keyword">Dim</span> <span class="parameter">recursive</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a>
-<span class="keyword">Dim</span> <span class="parameter">action</span> <span class="keyword">As</span> <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a>(<span class="keyword">Of</span> <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>)
+<span class="keyword">Dim</span> <span class="parameter">parent</span> <span class="keyword">As</span> <span class="noLink">Control</span>
+<span class="keyword">Dim</span> <span class="parameter">recursive</span> <span class="keyword">As</span> <span class="noLink">Boolean</span>
+<span class="keyword">Dim</span> <span class="parameter">action</span> <span class="keyword">As</span> <span class="noLink">Action</span>(<span class="keyword">Of</span> <span class="noLink">Control</span>)
 
 <span class="parameter">parent</span>.<span class="identifier">ForEachControl</span>(<span class="parameter">recursive</span>, 
 	<span class="parameter">action</span>)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="cpp"><div class="codeHeader"><span class="codeHeaderTitle">C++</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cpp"><span class="keyword">public</span>:
-[<a href="https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.extensionattribute" target="_top" rel="noopener noreferrer">ExtensionAttribute</a>]
-[<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsableattribute" target="_top" rel="noopener noreferrer">EditorBrowsableAttribute</a>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsablestate" target="_top" rel="noopener noreferrer">EditorBrowsableState</a>::Always)]
+[<span class="noLink">ExtensionAttribute</span>]
+[<span class="noLink">EditorBrowsableAttribute</span>(<span class="noLink">EditorBrowsableState</span>::Always)]
 <span class="keyword">static</span> <span class="keyword">void</span> <span class="identifier">ForEachControl</span>(
-	<a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>^ <span class="parameter">parent</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> <span class="parameter">recursive</span>, 
-	<a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>^&gt;^ <span class="parameter">action</span>
-)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.runtime.compilerservices.extensionattribute" target="_top" rel="noopener noreferrer">ExtensionAttribute</a>&gt;]
-[&lt;<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsableattribute" target="_top" rel="noopener noreferrer">EditorBrowsableAttribute</a>(<a href="https://learn.microsoft.com/dotnet/api/system.componentmodel.editorbrowsablestate" target="_top" rel="noopener noreferrer">EditorBrowsableState</a>.Always)&gt;]
+	<span class="noLink">Control</span>^ <span class="parameter">parent</span>, 
+	<span class="noLink">bool</span> <span class="parameter">recursive</span>, 
+	<span class="noLink">Action</span>&lt;<span class="noLink">Control</span>^&gt;^ <span class="parameter">action</span>
+)</code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="fs"><div class="codeHeader"><span class="codeHeaderTitle">F#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-fs">[&lt;<span class="noLink">ExtensionAttribute</span>&gt;]
+[&lt;<span class="noLink">EditorBrowsableAttribute</span>(<span class="noLink">EditorBrowsableState</span>.Always)&gt;]
 <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">ForEachControl</span> : 
-        <span class="parameter">parent</span> : <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a> * 
-        <span class="parameter">recursive</span> : <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">bool</a> * 
-        <span class="parameter">action</span> : <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a>&lt;<a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>&gt; <span class="keyword">-&gt;</span> <span class="keyword">unit</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">parent</span>  <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a></dt><dd>
- The source <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>.
- </dd><dt class="has-text-weight-normal"><span class="parameter">recursive</span>  <a href="https://learn.microsoft.com/dotnet/api/system.boolean" target="_top" rel="noopener noreferrer">Boolean</a></dt><dd>
+        <span class="parameter">parent</span> : <span class="noLink">Control</span> * 
+        <span class="parameter">recursive</span> : <span class="noLink">bool</span> * 
+        <span class="parameter">action</span> : <span class="noLink">Action</span>&lt;<span class="noLink">Control</span>&gt; <span class="keyword">-&gt;</span> <span class="keyword">unit</span> </code></pre></div></div><div class="codeSnippet is-hidden" data-codeSnippetLanguage="asp"><div class="codeHeader"><span class="codeHeaderTitle">ASP.NET</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button><a href="mailto:CSG1986@Hotmail.com" target="_blank" rel="noopener noreferrer" class="button is-small is-light requestExampleLink" title="Request an example for this topic"><span class="icon is-small"><i class="fa fa-comment-dots"></i></span><span>Request Example</span></a></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-plaintext">No code example is currently available or this language may not be supported.</code></pre></div></div><h4 class="quickLinkHeader">Parameters</h4><dl><dt class="has-text-weight-normal"><span class="parameter">parent</span>  <span class="noLink">Control</span></dt><dd>
+ The source <span class="noLink">Control</span>.
+ </dd><dt class="has-text-weight-normal"><span class="parameter">recursive</span>  <span class="noLink">Boolean</span></dt><dd>
  If <span class="keyword"><span id="LSTF523A2F0_3" data-languageSpecificText="vb=True|nu=true"></span></span>, iterates through controls of child controls too.
- </dd><dt class="has-text-weight-normal"><span class="parameter">action</span>  <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action</a><span id="LSTF523A2F0_4" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a><span id="LSTF523A2F0_5" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dt><dd>
- An <a href="https://learn.microsoft.com/dotnet/api/system.action-1" target="_top" rel="noopener noreferrer">Action<span id="LSTF523A2F0_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTF523A2F0_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></a> to perform on each control.
- </dd></dl><h4 class="quickLinkHeader">Usage Note</h4>In Visual Basic and C#, you can call this method as an instance method on any object of type <a href="https://learn.microsoft.com/dotnet/api/system.windows.forms.control" target="_top" rel="noopener noreferrer">Control</a>. When you use instance method syntax to call this method, omit the first parameter. For more information, see <a href="https://docs.microsoft.com/dotnet/visual-basic/programming-guide/language-features/procedures/extension-methods" target="_blank" rel="noopener noreferrer">Extension Methods (Visual Basic)</a> or <a href="https://docs.microsoft.com/dotnet/csharp/programming-guide/classes-and-structs/extension-methods" target="_blank" rel="noopener noreferrer">Extension Methods (C# Programming Guide)</a>.</div>
+ </dd><dt class="has-text-weight-normal"><span class="parameter">action</span>  <span class="noLink">Action</span><span id="LSTF523A2F0_4" data-languageSpecificText="cpp=&lt;|cs=&lt;|fs=&lt;|vb=(Of |nu=("></span><span class="noLink">Control</span><span id="LSTF523A2F0_5" data-languageSpecificText="cpp=&gt;|cs=&gt;|fs=&gt;|vb=)|nu=)"></span></dt><dd>
+ An <span class="noLink">Action<span id="LSTF523A2F0_6" data-languageSpecificText="cs=&lt;|vb=(Of |cpp=&lt;|nu=(|fs=&lt;'"></span>T<span id="LSTF523A2F0_7" data-languageSpecificText="cs=&gt;|vb=)|cpp=&gt;|nu=)|fs=&gt;"></span></span> to perform on each control.
+ </dd></dl><h4 class="quickLinkHeader">Usage Note</h4>In Visual Basic and C#, you can call this method as an instance method on any object of type <span class="noLink">Control</span>. When you use instance method syntax to call this method, omit the first parameter. For more information, see <a href="https://docs.microsoft.com/dotnet/visual-basic/programming-guide/language-features/procedures/extension-methods" target="_blank" rel="noopener noreferrer">Extension Methods (Visual Basic)</a> or <a href="https://docs.microsoft.com/dotnet/csharp/programming-guide/classes-and-structs/extension-methods" target="_blank" rel="noopener noreferrer">Extension Methods (C# Programming Guide)</a>.</div>
             <h2 class="quickLinkHeader">
               <span class="icon toggleSection" tabindex="0">
                 <i class="fa fa-angle-down"></i>
@@ -195,9 +196,9 @@
   <span style="margin: 0 5px;">|</span>
   <a href="javascript:history.forward()">➡️ Forward</a>
 </div>
-            <p>ElektroStudios 2023</p>
+            <p>ElektroStudios 2024</p>
             <div class="feedbackLink">Send comments on this topic to
-        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%20Class%20Library%205.0">CSG1986@Hotmail.com</a></div>
+        <a id="HT_MailLink" href="mailto:CSG1986%40Hotmail.com?Subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework">CSG1986@Hotmail.com</a></div>
         <script type="text/javascript">
         var HT_mailLink = document.getElementById("HT_MailLink");
         HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
@@ -228,7 +229,7 @@ hljs.highlightAll();
 			if(this.href.substring(0, 4).toLowerCase() === "http")
 				this.href += "?title=";
 			else
-				this.href += "?subject=DevCase%20Class%20Library%205.0: ";
+				this.href += "?subject=DevCase%206.0%20API%20Reference%20for%20NET%20Framework: ";
 
 			this.href += "Add an Example for " + encodeURIComponent(document.title) + "&amp;body=" +
 				encodeURIComponent("Please add an example for " + document.title + ".%0D%0DTODO (optional): Describe a specific " +

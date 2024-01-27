@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,21 +14,27 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="308a8138-319d-e76e-2e57-a60cd5d69821.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Text<wbr />Files</a>
+      <a href="e0369eb4-e8c9-a51a-4e41-d32f59e3eff5.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Reg<wbr />Ex</a>
     </li>
     <li>
-      <a href="99480abc-3f7c-7227-cf5c-9ff975ed7df9.htm">Texfile<wbr />Lines</a>
+      <a href="2dfebbba-0a2b-5db8-1ae0-4454a0144450.htm">Match<wbr />Position<wbr />Info</a>
     </li>
     <li>
-      <a href="c7514be0-5360-7072-f0b4-59626b25a878.htm">Properties</a>
+      <a href="61bdc796-0ab1-d5e0-dc8c-c3e1ce81041f.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="038aee77-2c2d-eb6e-0f0c-6656b3aa2fbb" href="038aee77-2c2d-eb6e-0f0c-6656b3aa2fbb.htm">Count<wbr />Blank</a>
+      <a id="49eb957a-add6-dc69-602c-99adad5d0041" href="49eb957a-add6-dc69-602c-99adad5d0041.htm">End<wbr />Index</a>
     </li>
     <li>
-      <a id="50b3235b-9d04-208b-806f-dfebf7c6e338" href="50b3235b-9d04-208b-806f-dfebf7c6e338.htm">Count<wbr />Non<wbr />Blank</a>
+      <a id="66a053ac-e778-0c19-8699-bdcde071eca4" href="66a053ac-e778-0c19-8699-bdcde071eca4.htm">Length</a>
+    </li>
+    <li>
+      <a id="56b89feb-19cf-de17-722f-fbca55549f64" href="56b89feb-19cf-de17-722f-fbca55549f64.htm">Start<wbr />Index</a>
+    </li>
+    <li>
+      <a id="89e3206c-5d26-b782-028b-b7177491d150" href="89e3206c-5d26-b782-028b-b7177491d150.htm">Text</a>
     </li>
   </tocItems>
 </toc>

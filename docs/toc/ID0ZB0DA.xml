@@ -2,24 +2,31 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="e23d835d-44bf-4c62-3a4c-2409eab8204a.htm">Dev<wbr />Case.<wbr />Third<wbr />Party Namespaces</a>
     </li>
     <li>
-      <a href="d4196dbf-568a-cd9f-dd34-23a697b89b15.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />Xna<wbr />Fan</a>
+      <a href="e0238f2f-0237-d0c6-bb2a-2f6dd52e46c6.htm">Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client Namespaces</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="6bd76760-e636-88e7-0313-64b059753517" class="has-submenu" href="6bd76760-e636-88e7-0313-64b059753517.htm">
+      <a id="3c996b88-ef40-be7c-fcca-9beaba87ef18" class="has-submenu" href="3c996b88-ef40-be7c-fcca-9beaba87ef18.htm">
         <span data-tocFile="../toc/IDA0ZB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
           <i class="fa fa-angle-right"> </i>
-        </span>Xna<wbr />Fan<wbr />Util</a>
+        </span>Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="d1085215-ffca-db27-9b76-3cb0533e321d" class="has-submenu" href="d1085215-ffca-db27-9b76-3cb0533e321d.htm">
+        <span data-tocFile="../toc/IDB0ZB0DA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Dev<wbr />Case.<wbr />Third<wbr />Party.<wbr />WTelegram<wbr />Client.<wbr />Extensions</a>
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>

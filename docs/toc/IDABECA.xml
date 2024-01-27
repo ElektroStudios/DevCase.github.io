@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="fc867347-1405-041e-7094-5fefd1cc6a6d.htm">Dev<wbr />Case.<wbr />Runtime Namespaces</a>
+    </li>
+    <li>
+      <a href="a93464ef-9706-651f-97dd-6ac45fce2af0.htm">Dev<wbr />Case.<wbr />Runtime.<wbr />Services</a>
+    </li>
+    <li>
+      <a href="a1820ba6-79e6-ffdf-374f-f7e31302f26d.htm">Type<wbr />Descriptor<wbr />Context</a>
+    </li>
+    <li>
+      <a href="0bf3b5fd-6378-a96f-98b7-ee9822b8262b.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fe099f67-6297-b190-c4ba-9b8ab57f464f" href="fe099f67-6297-b190-c4ba-9b8ab57f464f.htm">Type<wbr />Descriptor<wbr />Context</a>
+    </li>
+    <li>
+      <a id="c05e38fd-5995-78ba-321d-b5f52917d4cc" href="c05e38fd-5995-78ba-321d-b5f52917d4cc.htm">Type<wbr />Descriptor<wbr />Context(<wbr />Component)</a>
+    </li>
+    <li>
+      <a id="4243b509-d836-ab6e-1d67-7f67a38f4382" href="4243b509-d836-ab6e-1d67-7f67a38f4382.htm">Type<wbr />Descriptor<wbr />Context(<wbr />Component, Property<wbr />Descriptor)</a>
+    </li>
+  </tocItems>
+</toc>

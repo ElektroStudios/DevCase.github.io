@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
+    </li>
+    <li>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
+    </li>
+    <li>
+      <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
+    </li>
+    <li>
+      <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
+    </li>
+    <li>
+      <a href="558a519d-eaac-8b9d-8ee5-a30705ad67b0.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Common</a>
+    </li>
+    <li>
+      <a href="5428e3c5-709f-ea99-714e-4372c7c34f09.htm">Util<wbr />String</a>
+    </li>
+    <li>
+      <a href="71e6963d-7490-cc67-0b4f-59108117158c.htm">Methods</a>
+    </li>
+    <li>
+      <a href="c6a9b37e-182e-1bc4-ffc9-c19cfc17854b.htm">Convert<wbr />To<wbr />Unicode<wbr />Letters</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a5356213-d57d-349b-258e-738558af01ae" href="a5356213-d57d-349b-258e-738558af01ae.htm">Convert<wbr />To<wbr />Unicode<wbr />Letters(<wbr />String, Unicode<wbr />Alphabetic<wbr />Character<wbr />Sets)</a>
+    </li>
+    <li>
+      <a id="c4263d3a-49a5-73c2-3961-40c83486250e" href="c4263d3a-49a5-73c2-3961-40c83486250e.htm">Convert<wbr />To<wbr />Unicode<wbr />Letters(<wbr />String, Unicode<wbr />Alphanumeric<wbr />Character<wbr />Sets)</a>
+    </li>
+  </tocItems>
+</toc>

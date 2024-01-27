@@ -2,10 +2,10 @@
 <toc>
   <breadcrumbs>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Docs</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Docs</a>
     </li>
     <li>
-      <a href="e151fcad-ed55-0ce8-6f87-896a2b1dbe0d.htm">Dev<wbr />Case Class Library 5.<wbr />0</a>
+      <a href="e0ff4e63-e7ab-c24b-34ca-f5728e090a9e.htm">Dev<wbr />Case API Reference</a>
     </li>
     <li>
       <a href="d2672d2d-9543-2566-7186-dca0b1d40726.htm">Dev<wbr />Case.<wbr />Core Namespaces</a>
@@ -14,27 +14,51 @@
       <a href="2b0b80ff-4e39-23ef-2f08-cd12a053c063.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing Namespaces</a>
     </li>
     <li>
-      <a href="436401db-dbbc-8a4c-b43f-95f54bb9b70d.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html.<wbr />BBCode</a>
+      <a href="4800357a-8a5e-e028-e4af-5af3192d88cd.htm">Dev<wbr />Case.<wbr />Core.<wbr />Data<wbr />Processing.<wbr />Html</a>
     </li>
     <li>
-      <a href="c38e6c8d-e462-e717-5fc3-a32c62c46a36.htm">BBCode<wbr />Html<wbr />Renderer</a>
+      <a href="fff8b580-38b4-99e6-1f7f-c5af3a1652e8.htm">Linkify<wbr />Format<wbr />Options</a>
     </li>
     <li>
-      <a href="e1160b56-b9a5-9655-6277-4a19521d87c6.htm">Methods</a>
+      <a href="46184bc1-9c4b-dfe8-baa8-e7c8311d89ed.htm">Properties</a>
     </li>
   </breadcrumbs>
   <tocItems>
     <li>
-      <a id="e97ec3f2-d0d9-a2b4-9f65-8506be10d454" href="e97ec3f2-d0d9-a2b4-9f65-8506be10d454.htm">Direct<wbr />Convert</a>
+      <a id="4350cfb4-0a7f-8a3b-6fe5-f982fb567fc2" href="4350cfb4-0a7f-8a3b-6fe5-f982fb567fc2.htm">Attributes</a>
     </li>
     <li>
-      <a id="c86c1600-d72a-7905-c721-14947b17ca45" href="c86c1600-d72a-7905-c721-14947b17ca45.htm">Render<wbr />Color</a>
+      <a id="ff80f03d-46d4-db56-8669-8ff5705a64c1" href="ff80f03d-46d4-db56-8669-8ff5705a64c1.htm">Class<wbr />Attribute</a>
     </li>
     <li>
-      <a id="1224772b-3e84-d18a-bca9-164b39690fe5" href="1224772b-3e84-d18a-bca9-164b39690fe5.htm">Render<wbr />Image</a>
+      <a id="af515493-1530-ce3f-8259-5b107090790f" href="af515493-1530-ce3f-8259-5b107090790f.htm">Format<wbr />Href</a>
     </li>
     <li>
-      <a id="fab676d0-8767-ed13-31fe-94625a0c43b0" href="fab676d0-8767-ed13-31fe-94625a0c43b0.htm">Render<wbr />Link</a>
+      <a id="aece0ff2-4fd2-736c-f4e8-f9b4b33b2303" href="aece0ff2-4fd2-736c-f4e8-f9b4b33b2303.htm">Format<wbr />Link</a>
+    </li>
+    <li>
+      <a id="2f72ed11-9a1e-2826-bf4f-a366028494bf" href="2f72ed11-9a1e-2826-bf4f-a366028494bf.htm">Ignore<wbr />Tags</a>
+    </li>
+    <li>
+      <a id="f22e0faf-5f0a-3cf1-33a7-bd8288305550" href="f22e0faf-5f0a-3cf1-33a7-bd8288305550.htm">Link<wbr />Validation<wbr />Selector</a>
+    </li>
+    <li>
+      <a id="c37f2344-48cf-2de5-c03b-df46eba5a998" href="c37f2344-48cf-2de5-c03b-df46eba5a998.htm">New<wbr />Line<wbr />To<wbr />Break<wbr />Line</a>
+    </li>
+    <li>
+      <a id="e0e68928-d90f-a8c3-1ec0-5b1bcda0d85a" href="e0e68928-d90f-a8c3-1ec0-5b1bcda0d85a.htm">Rel<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="c8a10bda-672b-7c78-9d09-0b15ff04497c" href="c8a10bda-672b-7c78-9d09-0b15ff04497c.htm">Tag<wbr />Name</a>
+    </li>
+    <li>
+      <a id="ff5de234-a0ca-4df8-0f1f-04a9148143c2" href="ff5de234-a0ca-4df8-0f1f-04a9148143c2.htm">Target<wbr />Attribute</a>
+    </li>
+    <li>
+      <a id="5b107d80-7396-1172-537d-ba9ff352111f" href="5b107d80-7396-1172-537d-ba9ff352111f.htm">Truncate<wbr />Length</a>
+    </li>
+    <li>
+      <a id="5a208864-db82-f571-55e1-fdcde2e1f715" href="5a208864-db82-f571-55e1-fdcde2e1f715.htm">Url<wbr />Protocol</a>
     </li>
   </tocItems>
 </toc>
