@@ -11,13 +11,15 @@ The DevCase Team
 
 # v6.0 🚀🆕
 
-After receiving a considerable amount of requests from our customers, we have delivered to restore the previous file distribution and organization structure. Consequently, we have consolidated most of the libraries into a single DLL file named "DevCase.net48.dll" and "DevCase.net60.dll" respectively.
+🚀 After receiving a considerable amount of requests from our customers, we have delivered to restore the previous file distribution and organization structure. Consequently, we have consolidated most of the libraries into a single DLL file named "DevCase.net48.dll" and "DevCase.net60.dll" respectively.
 
 As of this update, this restructuring is permanently established for future updates.
 
 It is important to emphasize that this change does not affect the general use of DevCase; We have simply unified all namespaces and their classes into a single DLL file. This way, instead of importing multiple DLL files into your project, you now only need to import a single DLL file.
 
-In addition, we have introduced a standalone installer designed to make the integration process of loading the DevCase user controls into the Windows Forms designer easier and faster, using guided installation of Nuget packages for both .NET Framework and .NET Core projects.
+🚀🚀 In addition, we have also introduced a standalone installer in this release, designed to make the integration process of using the DevCase user controls in the Windows Forms designer easier and faster, by using a guided installation of Nuget packages for both .NET Framework and .NET Core projects.
+
+🚀🚀🚀 And if that were not enough, in this release we also included a standalone installer to integrate a dozen project templates into Visual Studio, for both .NET Framework and .NET Core.
 
 # v5.2 🔄
 
