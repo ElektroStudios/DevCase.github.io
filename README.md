@@ -1,4 +1,4 @@
-# **DevCase Class Library**
+﻿# **DevCase Class Library**
 
 #### Empowering Modern Rapid Application Development
 

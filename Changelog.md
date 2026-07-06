@@ -1,4 +1,4 @@
-# DevCase Class Library Version History 📋
+﻿# DevCase Class Library Version History 📋
 
 We strive to provide you with the best possible experience by continuously improving our DevCase Class Library. While we release new versions periodically, typically every quarter, it is important to note that our development process involves numerous daily internal updates. These updates encompass additions, removals, optimizations, and fixes, all aimed at enhancing the functionality and performance of the library.
 
