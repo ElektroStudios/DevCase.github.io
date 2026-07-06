@@ -4,16 +4,14 @@
 
 ---
 
-# [**💲 Product purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
-
-# [**📧 Contact for support**](mailto:csg1986@hotmail.com)
-
-# [**📙 Online API Reference**](https://elektrostudios.github.io/DevCase.github.io/)
-
-# [**📕 Offline API Reference for NET Framework 4.8+**](DevCase%20API%20Reference%20for%20NET%20Framework.chm)
-# [**📕 Offline API Reference for NET Core 6.0+**](DevCase%20API%20Reference%20for%20NET%20Core.chm)
-
-# [**📋 Version History / Changelog**](Changelog.md)
+| Useful Links & Resources |
+| :--- |
+| 💲 [**Product Purchase**](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) |
+| 📧 [**Contact for Support**](mailto:csg1986@hotmail.com) |
+| 📙 [**Online API Reference**](https://elektrostudios.github.io/DevCase.github.io/) |
+| 📕 [**Offline API Reference (.NET Framework 4.8+)**](DevCase%20API%20Reference%20for%20NET%20Framework.chm) |
+| 📕 [**Offline API Reference (.NET Core 6.0+)**](DevCase%20API%20Reference%20for%20NET%20Core.chm) |
+| 📋 [**Version History / Changelog**](Changelog.md) |
 
 &nbsp;
 
